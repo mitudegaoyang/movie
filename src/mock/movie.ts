@@ -107,8 +107,7 @@ const MOVIELIST = [
     areas: "美国/希腊",
     language: "英语",
     caption: "中英双字",
-    release:
-      "2021-09-03(威尼斯电影节)/2021-12-17(美国)/2021-12-31(美国网络)",
+    release: "2021-09-03(威尼斯电影节)/2021-12-17(美国)/2021-12-31(美国网络)",
     time: "121",
     director: "玛吉·吉伦哈尔MaggieGyllenhaal",
     writers: "玛吉·吉伦哈尔MaggieGyllenhaal埃莱娜·费兰特ElenaFerrante",
@@ -925,8 +924,7 @@ const MOVIELIST = [
     areas: "英国/澳大利亚/美国/加拿大/新西兰",
     language: "英语",
     caption: "中英双字",
-    release:
-      "2021-09-02(威尼斯电影节)/2021-11-17(美国)/2021-12-01(美国网络)",
+    release: "2021-09-02(威尼斯电影节)/2021-11-17(美国)/2021-12-01(美国网络)",
     time: "127",
     director: "简·坎皮恩JaneCampion",
     writers: "简·坎皮恩JaneCampion",
@@ -1265,8 +1263,7 @@ const MOVIELIST = [
     release: "2021-09-04(威尼斯电影节)/2021-10-29(美国)",
     time: "116",
     director: "埃德加·赖特EdgarWright",
-    writers:
-      "埃德加·赖特EdgarWright克里斯蒂·威尔逊-凯恩斯KrystyWilson-Cairns",
+    writers: "埃德加·赖特EdgarWright克里斯蒂·威尔逊-凯恩斯KrystyWilson-Cairns",
     actor: "",
     starring:
       "托马辛·麦肯齐 Thomasin  McKenzie　安雅·泰勒-乔伊 Anya Taylor-Joy　马特·史密斯 Matt  Smith　黛安娜·里格 Diana Rigg　丽塔·塔欣厄姆 Rita  Tushingham　迈克尔·阿乔 Michael Ajao　特伦斯·斯坦普 Terence  Stamp　山姆·克拉弗林 Sam Claflin　科林·梅斯 Colin Mace　西诺薇·卡尔森  Synnove Karlsen　洁西·梅·李 Jessie Mei Li　卡西厄斯·纳尔逊 Kassius  Nelson　丽贝卡·哈罗德 Rebecca Harrod　艾米·卡塞塔利 Aimee  Cassettari　宝琳·麦克林 Pauline McLynn　乔什·扎雷 Josh  Zaré　伊丽莎白·贝林顿 Elizabeth Berrington　詹姆斯·菲尔浦斯 James  Phelps　奥利弗·费尔普斯 Oliver Phelps　保罗·布赖特威尔 Paul  Brightwell　威尔·罗杰斯 Will Rogers　安德鲁·比克内尔 Andrew  Bicknell　亚当·索普 Adam Sopp　迈克尔·米尔斯 Michael  Mears　玛格丽特·诺兰 Margaret Nolan　卢克·霍普 Luke  Hope　迈克尔·吉普森 Michael Jibson　莉莎·麦格里利斯 Lisa  McGrillis　艾尔·罗伯茨 Al Roberts　德里克·李 Derek  Lea　Jacqui-Lee Pryce Jacqui-Lee Pryce　尼克·欧文福特 Nick  Owenford　乔基姆·斯卡利 Joakim Skarli　格林·安格尔 Glyn  Angell　金·查普曼 Kim Chapman",
@@ -1434,8 +1431,7 @@ const MOVIELIST = [
     imdb: "6.4",
     douban: "5.8",
     category: "动作/动画/悬疑/冒险",
-    translation:
-      "名侦探柯南：绯色的子弹/名侦探柯南：绯色的弹丸/名侦探柯南24",
+    translation: "名侦探柯南：绯色的子弹/名侦探柯南：绯色的弹丸/名侦探柯南24",
     name: "名探偵コナン緋色の弾丸/DetectiveConan:TheScarletBullet",
     year: "2021",
     areas: "日本",
@@ -1770,8 +1766,7 @@ const MOVIELIST = [
     imdb: "6.3",
     douban: "6.5",
     category: "动作/犯罪",
-    translation:
-      "神偷军团/不羁贼军/活死人军团前传/神偷大军/窃贼军团/行盗之师",
+    translation: "神偷军团/不羁贼军/活死人军团前传/神偷大军/窃贼军团/行盗之师",
     name: "ArmyofThieves",
     year: "2021",
     areas: "德国,美国",
@@ -2233,8 +2228,7 @@ const MOVIELIST = [
     release: "2020-12-25(日本)/2021-09-10(中国大陆)",
     time: "98",
     director: "矢岛哲生TetsuoYajima",
-    writers:
-      "富冈淳广AtsuhiroTomioka矢岛哲生TetsuoYajima田尻智SatoshiTajiri",
+    writers: "富冈淳广AtsuhiroTomioka矢岛哲生TetsuoYajima田尻智SatoshiTajiri",
     actor: "",
     starring:
       "松本梨香  Rica Matsumoto　大谷育江 Ikue Ootani　林原惠美 Megumi  Hayashibara　三木真一郎 Shinichirô Miki　犬山犬子 Inuko  Inuyama　堀内贤雄 Ken'yû Horiuchi　上白石萌歌 Moka  Kamishiraishi　中村勘九郎 Kantarou Nakamura　中川翔子 Shôko  Nakagawa",
@@ -2294,8 +2288,7 @@ const MOVIELIST = [
     release: "2020-01-01(俄罗斯)",
     time: "129",
     director: "费奥多尔·邦达尔丘克FyodorBondarchuk",
-    writers:
-      "奥列格·马洛维奇克OlegMalovichko安德烈·佐洛塔廖夫AndreyZolotarev",
+    writers: "奥列格·马洛维奇克OlegMalovichko安德烈·佐洛塔廖夫AndreyZolotarev",
     actor: "",
     starring:
       "伊琳娜·斯达申鲍姆 Irina  Starshenbaum　林奈·穆罕默托夫 Rinal Mukhametov　亚历山大·佩特罗夫 Alexander  Petrov　尤里·鲍里索夫 Yuriy Borisov　谢尔盖·加尔马什 Sergey  Garmash　欧列格·缅希科夫 Oleg Menshikov",
@@ -2876,7 +2869,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210922/61870.html",
     date: "2021-09-2200:00:12",
     desc: "◎译名坠雪少女/堕雪少女/她的回转练习(台)/雪里迷途(港)◎片名Slalom◎年代2020◎产地法国,比利时◎类别剧情◎语言法语◎字幕中英双字◎上映日期2020-11-04(法国)◎IMDb评分6.7/10from1063users◎豆瓣评分7.1/10from418users◎片长92分钟",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.7",
@@ -3007,8 +3000,7 @@ const MOVIELIST = [
     areas: "美国/日本",
     language: "英语",
     caption: "中英双字",
-    release:
-      "2021-01-31(圣丹斯电影节)/2021-09-17(美国网络)/2021-10-08(日本)",
+    release: "2021-01-31(圣丹斯电影节)/2021-09-17(美国网络)/2021-10-08(日本)",
     time: "100",
     director: "园子温ShionSono",
     writers: "",
@@ -3346,8 +3338,7 @@ const MOVIELIST = [
     release: "2021-02-12(中国大陆)",
     time: "130",
     director: "路阳YangLu",
-    writers:
-      "陈舒ShuChen禹扬YangYu秦海燕HaiyanQin路阳YangLu双雪涛ShuangXueTao",
+    writers: "陈舒ShuChen禹扬YangYu秦海燕HaiyanQin路阳YangLu双雪涛ShuangXueTao",
     actor: "",
     starring:
       "雷佳音 Jiayin  Lei　杨幂 Mi Yang　董子健 Zijian Dong　于和伟 Hewei  Yu　郭京飞 Jingfei Guo　佟丽娅 Liya Tong　董洁 Jie  Dong　王圣迪 Shengdi Wang　杨轶 Yi Yang　刘天佐 Tianzuo  Liu　李柄辉 Binghui Li　萧子墨 Eric Hsiao　双雪涛 Shuang  XueTao　徐建 Eric Xu　高睿菲儿 Ruifeier Gao　康嘉泽 Jiaze  Kang　黄皓达 Haoda Huang　张戈 Ge Zhang　马一萍 Yiping  Ma　杨婉婷 Wanting Yang　谭天宇 Tianyu Tan　张优 You  Zhang　李泰延 Taiyan Li　任杰 Jie Ren　陈铁军 Tiejun  Chen",
@@ -3528,8 +3519,7 @@ const MOVIELIST = [
     release: "2021-06-11(美国)",
     time: "118",
     director: "泰·罗伯茨TyRoberts",
-    writers:
-      "莱恩·加里逊LaneGarrisonKevinMeyerKevinMeyer泰·罗伯茨TyRoberts",
+    writers: "莱恩·加里逊LaneGarrisonKevinMeyerKevinMeyer泰·罗伯茨TyRoberts",
     actor: "",
     starring:
       "罗伯特·杜瓦尔 Robert Duvall　凡妮莎·肖 Vinessa  Shaw　马丁·辛 Martin Sheen　卢克·威尔逊 Luke Wilson　韦恩·奈特  Wayne Knight　特里特·威廉斯 Treat Williams　卡尔森·扬 Carlson  Young　凯莉·弗莱 Kelly Frye　扎克·罗斯 Zach Rose　莱恩·加里逊 Lane  Garrison　露西·浮士德 Lucy Faust　雅库布·洛弗兰德 Jacob  Lofland　斯科特·黑兹 Scott Haze　娜塔莎·巴塞特 Natasha  Bassett　朗·怀特 Ron White　拉里·派恩 Larry Pine　Heath  Freeman Heath Freeman　杰克·奥斯汀·沃克 Jake Austin Walker　鲁斯特·麦康纳  Rooster McConaughey　加文·沃伦 Gavin Warren　萨普莱·巴里纳 Sampley  Barinaga　迈克尔·格霍尔克 Michael Gohlke　维多利亚·佩吉·沃特金斯 Victoria Paige  Watkins　Victoria Paige Meyerink Victoria Paige  Meyerink　David Duval David Duval",
@@ -4659,8 +4649,7 @@ const MOVIELIST = [
     release: "2021-07-30(美国)",
     time: "127",
     director: "佐米·希尔拉JaumeCollet-Serra",
-    writers:
-      "格伦·费卡拉GlennFicarra约翰·里夸JohnRequa迈克尔·格林MichaelGreen",
+    writers: "格伦·费卡拉GlennFicarra约翰·里夸JohnRequa迈克尔·格林MichaelGreen",
     actor: "",
     starring:
       "艾米莉·布朗特 Emily  Blunt　道恩·强森 Dwayne Johnson　杰西·普莱蒙 Jesse  Plemons　保罗·吉亚玛提 Paul Giamatti　埃德加·拉米雷兹 Édgar  Ramírez　维罗尼卡·法尔孔 Veronica Falcón　杰克·怀特霍尔 Jack  Whitehall　安迪·尼曼 Andy Nyman　大卫·伦格尔 David  Lengel　马克·阿什沃斯 Mark Ashworth　基姆·古铁雷斯 Quim  Gutiérrez　拉斐尔·亚历杭德罗 Raphael Alejandro　艾米丽·玛丽·帕尔默 Emily Marie  Palmer　伊拉娜·古拉尔尼克 Ilana Guralnik　丹尼·罗维拉 Dani  Rovira　基思·阿瑟·鲍顿 Keith Arthur Bolden　佩德罗·洛佩兹 Pedro  Lopez　费斯·费伊 Faith Fay　贾斯汀·兰德尔·布鲁克 Justin Randell  Brooke　约书亚·古铁雷斯 Josué Gutierrez　Madeline Brumby Madeline  Brumby　Danny Pardo Danny Pardo　罗穆阿尔多·卡斯蒂略 Romualdo  Castillo　詹姆斯·夸特罗奇 James Quattrochi　瑞安·博兹 Ryan  Boz　凯西·纳尔逊 Casey Nelson　詹姆斯·威廉·巴拉德 James William  Ballard　肖恩·麦克布莱德 Shawn McBride　Henardo Rodriguez Henardo  Rodriguez　詹姆斯·锡德里兹 James Siderits　杰伊·古铁雷斯 Jay  Gutierrez　罗伯特·廷斯利 Robert Tinsley",
@@ -4906,8 +4895,7 @@ const MOVIELIST = [
     release: "2021-06-03(中国大陆)",
     time: "94",
     director: "陈嘉上GordonChan朱雪菲XuefeiZhu",
-    writers:
-      "陈嘉上GordonChan吴晓洁XiaojieWu朱雪菲XuefeiZhu林静璇JingxuanLin",
+    writers: "陈嘉上GordonChan吴晓洁XiaojieWu朱雪菲XuefeiZhu林静璇JingxuanLin",
     actor: "",
     starring:
       "言承旭 Jerry Yan　任素汐 Suxi  Ren　柳岩 Yan Liu　戚薇 Stephy Qi　连凯 Andrew  Lin　汤加文 Carmen Tong　曹扬 Yang Cao　李欣烨 Xinye  Li　那威 Wei Na　李勤勤 Qinqin Li　王一宁 Yining  Wang　张琛 Chen Zhang",
@@ -5151,8 +5139,7 @@ const MOVIELIST = [
     release: "2021-07-16(美国)",
     time: "113",
     director: "丽恩·贾尼埃克LeighJaniak",
-    writers:
-      "丽恩·贾尼埃克LeighJaniak凯特·特雷弗里KateTrefryR·L·斯坦R.L.Stine",
+    writers: "丽恩·贾尼埃克LeighJaniak凯特·特雷弗里KateTrefryR·L·斯坦R.L.Stine",
     actor: "",
     starring:
       "基亚娜·马德拉 Kiana  Madeira　小本杰明·弗洛雷斯 Benjamin Flores Jr.　兰德尔·P·海文斯 Randall P.  Havens　马修·祖克 Matthew Zuk　弗莱德·赫钦格 Fred  Hechinger　迈克尔·钱德勒 Michael Chandler　萨迪·辛克 Sadie  Sink　埃米莉·拉德 Emily Rudd　奥利维亚·韦尔奇 Olivia Welch　莱西·坎普  Lacy Camp　阿什利·祖克曼 Ashley Zukerman　乔丹娜·斯皮罗 Jordana  Spiro　林恩·阿什 Lynne Ashe　夏洛林·阿莫亚 Charlene  Amoia　马克·阿什沃斯 Mark Ashworth　托德·艾伦·德金 Todd Allen  Durkin　芮安·辛普金斯 Ryan Simpkins　艾米丽·布罗斯特 Emily  Brobst　乔迪恩·迪纳塔莱 Jordyn DiNatale　Ted Sutherland Ted  Sutherland　吉莉安·雅各布斯 Gillian Jacobs　达里尔·布里特-吉布森 Darrell  Britt-Gibson　嘉娜·艾伦 Jana Allen",
@@ -5269,8 +5256,7 @@ const MOVIELIST = [
     areas: "美国",
     language: "英语",
     caption: "中英双字",
-    release:
-      "2021(中国大陆)/2021-07-07(中国香港)/2021-07-09(美国/美国网络)",
+    release: "2021(中国大陆)/2021-07-07(中国香港)/2021-07-09(美国/美国网络)",
     time: "133",
     director: "凯特·绍特兰CateShortland",
     writers:
@@ -5872,8 +5858,7 @@ const MOVIELIST = [
     areas: "美国",
     language: "英语",
     caption: "中英双字",
-    release:
-      "2020-01-25(圣丹斯电影节)/2021-04-30(美国)/2021-05-21(美国网络)",
+    release: "2020-01-25(圣丹斯电影节)/2021-04-30(美国)/2021-05-21(美国网络)",
     time: "100",
     director: "罗德里戈·加西亚RodrigoGarcía",
     writers: "罗德里戈·加西亚RodrigoGarcía伊莱·萨斯洛EliSaslow",
@@ -7085,8 +7070,7 @@ const MOVIELIST = [
     release: "2021-05-14(美国)/2021-05-21(美国网络)",
     time: "148",
     director: "扎克·施奈德ZackSnyder",
-    writers:
-      "扎克·施奈德ZackSnyder卓比·哈罗德JobyHarold谢伊·哈顿ShayHatten",
+    writers: "扎克·施奈德ZackSnyder卓比·哈罗德JobyHarold谢伊·哈顿ShayHatten",
     actor: "",
     starring:
       "戴夫·巴蒂斯塔  Dave Bautista　艾拉·珀内尔 Ella Purnell　安娜·德拉·雷古拉 Ana de la  Reguera　马提亚斯·施维赫夫 Matthias Schweighöfer　诺拉·阿娜泽德尔 Nora  Arnezeder　真田广之 Hiroyuki Sanada　劳尔·卡斯提洛 Raúl  Castillo　迈克尔·卡西迪 Michael Cassidy　加瑞特·迪拉胡特 Garret  Dillahunt　萨曼塔·若 Samantha Jo　西奥·罗西 Theo  Rossi　欧玛瑞·哈德威克 Omari Hardwick　泰格·诺塔洛 Tig  Notaro　洛拉·玛汀内斯-康宁安 Lora Martinez-Cunningham　里昂·贝克维思 Lyon  Beckwith　萨拉·明妮奇 Sarah Minnich　切尔西·埃德蒙森 Chelsea  Edmundson　迈克尔·雷德·麦基 Michael Reid MacKay　胡玛·库雷希 Huma  Qureshi　理查德·赛特伦 Richard Cetrone　丹尼埃尔·布鲁吉奥 Danielle  Burgio　瑞恩·沃森 Ryan Watson　韦恩·达格利什 Wayne  Dalglish　莎伊娜·瑞恩 Shayna Ryan　戴维·鲍尔斯 David  Bowles　乔恩·道格拉斯·雷尼 Jon Douglas Rainey　加里·A·赫克 Gary A.  Hecker　斯蒂芬妮·希尔 Stephanie Hill　罗比·德拉费勒 Robbie  DeRaffele　詹姆斯·凯迪 James Cady　雅各布·布朗 Jacob  Browne　大卫·冯·罗姆 David Von Roehm　费尔南多·劳拉 Fernando  Lara　蒂莫西·奥蒂斯 Timothy Otis　薇·妮可西 V Nixie",
@@ -7468,8 +7452,7 @@ const MOVIELIST = [
     imdb: "5.7",
     douban: "",
     category: "喜剧",
-    translation:
-      "大人的事情/おとなの事情スマホをのぞいたら/完美陌生人日本版",
+    translation: "大人的事情/おとなの事情スマホをのぞいたら/完美陌生人日本版",
     name: "おとなの事情",
     year: "2021",
     areas: "日本",
@@ -8293,8 +8276,7 @@ const MOVIELIST = [
     release: "2021-02-12(中国大陆)",
     time: "130",
     director: "路阳YangLu",
-    writers:
-      "陈舒ShuChen禹扬YangYu秦海燕HaiyanQin路阳YangLu双雪涛ShuangXueTao",
+    writers: "陈舒ShuChen禹扬YangYu秦海燕HaiyanQin路阳YangLu双雪涛ShuangXueTao",
     actor: "",
     starring:
       "雷佳音 Jiayin  Lei　杨幂 Mi Yang　董子健 Zijian Dong　于和伟 Hewei  Yu　郭京飞 Jingfei Guo　佟丽娅 Liya Tong　董洁 Jie  Dong　王圣迪 Shengdi Wang　杨轶 Yi Yang　刘天佐 Tianzuo  Liu　李柄辉 Binghui Li　萧子墨 Eric Hsiao　双雪涛 Shuang  XueTao　徐建 Eric Xu　高睿菲儿 Ruifeier Gao　张优 You  Zhang　黄皓达 Haoda Huang　康嘉泽 Jiaze Kang　李泰延 Taiyan  Li　陈铁军 Tiejun Chen　任杰 Jie Ren　张戈 Ge  Zhang",
@@ -8354,8 +8336,7 @@ const MOVIELIST = [
     release: "2020-09-16(多伦多电影节)/2020-10-23(日本)",
     time: "139",
     director: "河濑直美NaomiKawase",
-    writers:
-      "河濑直美NaomiKawase辻村深月MizukiTsujimura高桥泉IzumiTakahashi",
+    writers: "河濑直美NaomiKawase辻村深月MizukiTsujimura高桥泉IzumiTakahashi",
     actor: "",
     starring:
       "永作博美 Hiromi Nagasaku　井浦新 ARATA　莳田彩珠 Aju  Makita　中岛博子 Hiroko Nakajima　平原哲 Tetsu  Hirahara　田中伟登 Taketo Tanaka　山下莉绪 Rio Yamashita　森田想  Kokoro Morita　叶月瞳 Hazuki Hitomi　石桥菜津美 Natsumi  Ishibashi　利重刚 Gô Rijû　浅田美代子 Miyoko Asada",
@@ -8491,21 +8472,24 @@ const MOVIELIST = [
     summary: "",
     imdb: "8.3",
     douban: "8.8",
-    category: "",
-    translation: "",
-    name: "",
-    year: "",
-    areas: "",
-    language: "",
-    caption: "",
-    release: "",
-    time: "",
-    director: "",
-    writers: "",
-    actor: "",
+    category: "剧情",
+    translation: "困在时间里的父亲/父亲(台)/爸爸可否不要老(港)/老父",
+    name: "The Father",
+    year: "2020",
+    areas: "英国,法国",
+    language: "英语",
+    caption: "中英双字",
+    release: "2020-01-27(圣丹斯电影节)/2021-02-26(美国)/2021-03-26(美国网络)",
+    time: "97",
+    director: "佛罗莱恩·泽勒FlorianZeller",
+    writers:
+      "克里斯托弗·汉普顿 Christopher Hampton 佛罗莱恩·泽勒 Florian Zeller",
+    actor:
+      "安东尼·霍普金斯 Anthony Hopkins 奥利维娅·科尔曼 Olivia Colman 马克·加蒂斯 Mark Gatiss 奥莉维亚·威廉姆斯 Olivia Williams 伊莫琴·普茨 Imogen Poots 卢夫斯·塞维尔 Rufus Sewell 阿耶莎·达尔克 Ayesha Dharker 艾薇·维 Evie Wray",
     starring: "",
-    tag: "",
-    introduction: "",
+    tag: "安东尼·霍普金斯|剧情|英国|英国电影|2020|奥利维娅·科尔曼|改编|马克·加蒂斯",
+    introduction:
+      "安东尼·霍普金斯、奥利维娅·科尔曼将出演，根据法国小说家兼剧作家佛罗莱恩·泽勒的舞台剧《父亲》改编的新片。霍普金斯饰演的角色是一个淘气而又高度独立的男人，随着年龄的增长，他拒绝了女儿安妮(科尔曼饰)的一切帮助。然而，在安妮决定和她的伴侣搬去巴黎后，这种帮助变得至关重要。父亲面对不断变化的环境时，他开始怀疑他所爱的人，他自己的思想，甚至他的现实结构。泽勒将执导本片，并与奥斯卡获奖编剧克里斯托弗·汉普顿([危险方法])合写剧本。该片将于本月在英国开拍。影片的制片人有大卫·帕菲特([莎翁情史])、让-路易·利维([唇语惊魂])、菲利普·卡卡松([时尚先锋香奈儿])等。这部由泽勒编剧和执导的舞台剧于2012年首次在巴黎上映，赢得了莫里哀奖的最佳舞台剧奖。之后该剧在纽约百老汇和伦敦西区上演，又同时拿下了托尼奖和奥利维尔奖的最佳男演员奖。",
   },
   {
     id: "2021040261267",
@@ -8954,8 +8938,7 @@ const MOVIELIST = [
     release: "2020-10-16(日本)",
     time: "115",
     director: "黑泽清KiyoshiKurosawa",
-    writers:
-      "滨口龙介RyûsukeHamaguchi野原位TadashiNohara黑泽清KiyoshiKurosawa",
+    writers: "滨口龙介RyûsukeHamaguchi野原位TadashiNohara黑泽清KiyoshiKurosawa",
     actor: "",
     starring:
       "苍井优 Yu Aoi　高桥一生 Issey  Takahashi　坂东龙汰 Ryota Bando　恒松祐里 Yuri  Tsunematsu　美浓介 Minosuke　玄理 Hyunri　东出昌大 Masahiro  Higashide　笹野高史 Takashi Sasano",
@@ -9045,8 +9028,7 @@ const MOVIELIST = [
     director: "吉图·乔瑟夫JeethuJoseph",
     writers: "吉图·乔瑟夫JeethuJoseph",
     actor: "",
-    starring:
-      "莫哈恩拉 Mohanlal　安西芭  Ansiba　艾丝特·阿妮尔 Esther Anil",
+    starring: "莫哈恩拉 Mohanlal　安西芭  Ansiba　艾丝特·阿妮尔 Esther Anil",
     tag: "印度|悬疑|犯罪|剧情|人性|2021|惊悚|家庭",
     introduction:
       "在少年瓦伦失踪六年后，乔治库迪和他的家人目前过着更好的生活，他比以前更富有，除了有线电视平台，他还新开了一家电影院，并打算制作电影。他们的小女儿安努年满18岁，就读于一所寄宿学校，临近毕业。大女儿安珠正计划升学，而母亲拉妮则拼命替大女儿安排婚姻。虽然一家人和和睦睦，但乔治库迪禁止在屋檐下讨论失踪案。该家庭的富裕地位使街坊邻居倍感嫉妒，各种闲言碎语开始流传，而警方由于多次未能破案而颜面尽失，再加上瓦伦父母的苦苦相逼，在多方夹击之下，乔治库迪能否再次保护家人？",
@@ -9245,8 +9227,7 @@ const MOVIELIST = [
     imdb: "7.2",
     douban: "7.2",
     category: "惊悚/剧情/历史",
-    translation:
-      "毛里塔尼亚人/760号囚犯/760号犯人/失控的审判(台)/第760号囚犯",
+    translation: "毛里塔尼亚人/760号囚犯/760号犯人/失控的审判(台)/第760号囚犯",
     name: "TheMauritanian/GuantanamoDiary/Prisoner760",
     year: "2021",
     areas: "英国,美国",
@@ -9301,7 +9282,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210305/61163.html",
     date: "2021-03-0423:13:39",
     desc: "◎译名猫和老鼠/TomJerry大电影(港)/汤姆和杰瑞/汤姆猫与杰利鼠(台)/猫和老鼠真人电影◎片名TomandJerry◎年代2021◎产地英国,法国,德国,美国◎类别喜剧/动画/冒险◎语言英语◎字幕中英双字◎上映日期2021-02-26(美国/中国大陆)◎IMDb评分5.3/1",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5.3",
@@ -9328,7 +9309,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210305/61162.html",
     date: "2021-03-0423:10:21",
     desc: "◎译名打开心世界/将至的世界/新世界/未来世界/未来将至◎片名TheWorldtoCome◎年代2020◎产地美国◎类别剧情/爱情/同性◎语言英语◎字幕中英双字◎上映日期2020-09-06(威尼斯电影节)/2021-02-12(美国)◎IMDb评分6.0/10from1224users◎豆瓣评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.0",
@@ -9475,7 +9456,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210228/61137.html",
     date: "2021-02-2819:34:33",
     desc: "◎译名最初的梦想/万万没想到(台)◎片名Chhichhore◎年代2019◎产地印度◎类别剧情/喜剧/爱情◎语言印地语◎字幕中文◎上映日期2019-09-06(印度)◎IMDb评分8.2/10from34352users◎豆瓣评分7.9/10from10413users◎片长143分钟◎导演涅提",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2766852789.jpg",
     link: "",
     summary: "",
     imdb: "8.2",
@@ -9502,7 +9483,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210227/61134.html",
     date: "2021-02-2716:56:44",
     desc: "◎译名缉魂/TheSoul◎片名緝魂◎年代2021◎产地中国大陆,中国台湾◎类别科幻/悬疑/惊悚/犯罪◎语言汉语普通话,闽南语,英语◎字幕中英双字幕◎上映日期2021-01-08(大规模点映)/2021-01-15(中国大陆)/2021-01-29(中国台湾)◎IMDb评分7.2/10from20",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.2",
@@ -9529,7 +9510,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210227/61133.html",
     date: "2021-02-2716:28:57",
     desc: "◎译名TheReunions◎片名吉祥如意◎年代2020◎产地中国大陆◎类别剧情/家庭◎语言普通话◎字幕中英双字幕◎上映日期2020-07-26(上海电影节)/2021-01-29(中国大陆)◎IMDb评分7.5/10from74users◎豆瓣评分8.0/10from50774users◎片长80分钟",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.5",
@@ -9584,7 +9565,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210223/61125.html",
     date: "2021-02-2311:13:03",
     desc: "◎译名我的一生/今生今世◎片名AllMyLife◎年代2020◎产地美国◎类别剧情/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-10-23(英国)/2020-12-04(美国)◎IMDb评分6.2/10from1154users◎豆瓣评分6.1/10from149users◎片长93分钟◎导演",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.2",
@@ -9611,7 +9592,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210223/61124.html",
     date: "2021-02-2310:59:58",
     desc: "◎译名半血缘兄弟◎片名HalfBrothers◎年代2020◎产地墨西哥,美国◎类别喜剧◎语言西班牙语◎字幕中英双字◎上映日期2020-12-04(美国)◎IMDb评分5.9/10from759users◎豆瓣评分6.2/10from81users◎片长96分钟◎导演卢克格林菲德LukeGree",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5.9",
@@ -9638,7 +9619,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210221/61116.html",
     date: "2021-02-2118:55:27",
     desc: "◎译名ShockWave2◎片名拆弹专家2◎年代2020◎产地中国大陆,中国香港◎类别动作/犯罪◎语言汉语普通话,粤语,英语◎字幕中英双字幕◎上映日期2020-12-24(中国大陆)◎IMDb评分7.2/10from443users◎豆瓣评分7.8/10from336141users◎片长121分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.2",
@@ -9665,7 +9646,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210221/61115.html",
     date: "2021-02-2118:32:47",
     desc: "◎译名同学麦娜丝/ClassmatesMinus◎片名同學麥娜絲◎年代2020◎产地中国台湾◎类别剧情/喜剧◎语言汉语普通话◎字幕中文◎上映日期2020-11-05(台北金马影展)/2020-11-20(中国台湾)/2021-02-20(中国台湾网络)◎IMDb评分7.7/10from321users◎豆",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.7",
@@ -10123,7 +10104,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210207/61045.html",
     date: "2021-02-0700:18:42",
     desc: "◎译名胜利号◎片名SpaceSweepers◎年代2021◎产地韩国◎类别科幻◎语言韩语/国语◎字幕中文◎上映日期2021-02-05(韩国)◎豆瓣评分6.7/10from1157users◎文件格式x264+aac◎视频尺寸1920x1080◎片长136分钟◎导演赵圣熙Sung-HeeJo",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "",
@@ -10150,7 +10131,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210207/61044.html",
     date: "2021-02-0700:16:29",
     desc: "◎译名极乐◎片名Bliss◎年代2021◎产地美国◎类别剧情/科幻◎语言英语◎字幕中文◎上映日期2021-02-05(美国网络)◎IMDb评分5/10from164users◎文件格式x264+aac◎视频尺寸1920x1080◎导演迈克卡希尔MikeCahill◎编剧迈克卡希尔MikeC",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5",
@@ -10177,7 +10158,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210206/61043.html",
     date: "2021-02-0600:51:59",
     desc: "◎译名DreamofEternity◎片名晴雅集/阴阳师(上)◎年代2020◎产地中国大陆◎类别爱情/奇幻/动作◎语言普通话◎字幕中文◎上映日期2020-12-25(中国大陆)/2021-02-05(美国网络)◎IMDb评分6.3/10from86users◎豆瓣评分5.1/10from137593users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.3",
@@ -10258,7 +10239,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210204/61039.html",
     date: "2021-02-0423:49:40",
     desc: "◎译名TheSilentForest◎片名无声/無聲◎年代2020◎产地中国台湾◎类别剧情◎语言普通话◎字幕中文◎上映日期2020-06-25(台北电影节)/2020-10-15(中国台湾)◎IMDb评分7.6/10from287users◎豆瓣评分7.7/10from756users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名TheSilentForest◎片名无声/無聲◎年代2020◎产地中国台湾◎类别剧情◎语言普通话◎字幕中文◎上映日期2020-06-25(台北电影节)/2020-10-15(中国台湾)◎IMDb评分7.6/10from287users◎豆瓣评分7.7/10from756users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演柯贞年Zhen-NianKo◎编剧林品君PinChunLin柯贞年Zhen-NianKo◎主演陈姸霏BuffyChen刘子铨Tzu-ChuanLiu刘冠廷Kuan-tingLiu杨贵媚Kuei-MeiYang太保PoTai张本渝Pen-yuChang陈雪甄VeraChen金玄彬Hyun-binKim潘亲御Chin-YuPang汪建民TigerWang◎标签台湾|2020|性侵|青少年|台灣|剧情|聽障|青春◎简介失聪少年张诚准备转到启聪学校就读。聋人的世界，却不比听人的世界宁静。当他发现校车最后一排的「游戏」，融入新生活的欣喜之情，瞬间成为恐惧。眼见心仪的女孩贝贝在游戏中遍体鳞伤、学长小光气势狂妄不可质疑，一群同学们又天真无害，张诚忖度着是否该揭开游戏的残忍真相，或加入游戏的行列？当加害者与受害者的界线越趋模糊，盘根错节的苦痛、无可倾诉的怨怼，种种困惑与不安在无声的校园蔓延。新锐导演柯贞年的首部长片大胆将真实事件搬上银幕，在直面残酷的同时，不失温柔的眼光。犀利刻画人物之间复杂与纠结的情感，呈现声嘶力竭却仍仿若无声的残忍。贝贝一句「他们只是在玩」轻描淡写，却惊悚、沉痛，更是真实无比的哀叹。",
@@ -10725,7 +10706,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20210120/60992.html",
     date: "2021-01-2023:09:39",
     desc: "◎译名天际行者/太空漫步(台)/太空第一步◎片名Времяпервых/TheAgeofPioneers/TheSpacewalker/Vremyapervykh◎年代2017◎产地俄罗斯◎类别剧情/历史/冒险◎语言俄语◎字幕中文◎上映日期2017-04-06(俄罗斯)◎IMDb评分7.3/10f",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名天际行者/太空漫步(台)/太空第一步◎片名Времяпервых/TheAgeofPioneers/TheSpacewalker/Vremyapervykh◎年代2017◎产地俄罗斯◎类别剧情/历史/冒险◎语言俄语◎字幕中文◎上映日期2017-04-06(俄罗斯)◎IMDb评分7.3/10from6064users◎豆瓣评分7.9/10from9777users◎文件格式x264+aac◎视频尺寸1920x1080◎片长140分钟◎导演德米特里·基谢廖夫DmitriyKiselev◎编剧谢尔盖·卡鲁扎诺夫SergeyKaluzhanov尤里·科罗特科夫YuriyKorotkov奥列格·波戈金OlegPogodin◎主演叶甫盖尼·米罗诺夫YevgenyMironov康斯坦丁·哈宾斯基KonstantinKhabensky弗拉基米尔·伊利因VladimirIlin亚历山德拉·乌尔苏利亚科AleksandraUrsulyak叶莲娜·维克托罗夫娜·帕诺娃ElenaPanova尤里·伊茨科夫YuriyItskov艾戈·莫罗佐夫EgorMorozov亚历山大·伊林AleksandrIlin维塔丽雅·科尔尼扬科VitaliyaKornienko阿纳托利·科特尼欧夫AnatoliyKotenyov弗拉基米尔·贝格玛VladimirBegma◎标签太空|俄罗斯|真实事件改编|历史|科幻|苏俄|冒险|剧情◎简介1965年，正值美国和俄罗斯先后准备向太空发射载人飞船之际，指挥官谢尔盖·科罗廖夫决定选派飞行员阿列克谢·列昂诺夫和帕维尔·贝尔耶夫执行首飞任务，提前于原计划两年执行。于此过程中，无论是两名宇航员还是指挥官和无数参与者，都面临着极大的压力和风险。万众瞩目之下，媒体同步播出了发射过程，当阿列克谢打开舱门迈出太空第一步之际，整个苏联都为之沸腾。然而在阿列克谢准备返回的时候太空服失灵，紧接着飞船舱门无法自动关闭……让他险些命丧太空……",
@@ -11779,7 +11760,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201226/60884.html",
     date: "2020-12-2500:04:54",
     desc: "◎译名麦克斯克劳德的星际冒险◎片名TheIntergalacticAdventuresofMaxCloud/MaxCloud◎年代2020◎产地英国◎类别喜剧/动作/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-12-18(美国)◎IMDb评分5.8/10from1342users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名麦克斯·克劳德的星际冒险◎片名TheIntergalacticAdventuresofMaxCloud/MaxCloud◎年代2020◎产地英国◎类别喜剧/动作/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-12-18(美国)◎IMDb评分5.8/10from1342users◎文件格式x264+aac◎视频尺寸1920x1080◎片长88分钟◎导演马丁·欧文MartinOwen◎编剧马丁·欧文MartinOwen/萨莉·柯莱特SallyCollett◎主演斯科特·阿金斯ScottAdkins约翰·汉纳JohnHannah拉什纳·林奇LashanaLynch汤米·弗拉纳根TommyFlanagan艾略特·詹姆斯·朗格里奇ElliotJamesLangridge弗朗茨·德拉姆FranzDrameh山姆·哈兹尔丁SamHazeldine伊莎贝尔·艾伦IsabelleAllen杰森·马扎JasonMaza露丝·霍洛克斯RuthHorrocks安迪·奥修AndiOsho萨莉·柯莱特SallyCollett◎标签动作|斯科特阿金斯|美国|科幻|电影|暴力|家庭|喜剧◎简介一艘太空巡洋舰坠毁在了黑纳斯星球上，这是一个关押着整个银河系中最邪恶危险罪犯的星际监狱。大部分队员都在这场事故中遇难，全队只剩下飞船的驾驶员——星际英雄马克斯·克劳德，倒霉的厨师杰克和极不配合的指挥官雷克西。他们的任务很简单，那就是等待救援人员的到来，同时尽自己最大的努力阻止监狱中的囚犯登船，然而这可是马克斯·克劳德，他总有办法把事情复杂化。",
@@ -11926,7 +11907,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201223/60875.html",
     date: "2020-12-2323:29:14",
     desc: "◎译名Balloon/羊飼いと風船◎片名气球◎年代2019◎产地中国大陆◎类别剧情◎语言藏语◎字幕中英双字幕◎上映日期2019-08-30(威尼斯电影节)/2020-11-20(中国大陆)◎IMDb评分6.8/10from310users◎豆瓣评分7.9/10from36832users◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "",
@@ -12162,7 +12143,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201217/60853.html",
     date: "2020-12-1716:36:09",
     desc: "◎译名狼行者◎片名Wolfwalkers◎年代2020◎产地爱尔兰,卢森堡,法国,丹麦,美国,英国◎类别动画/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-09-12(多伦多电影节)/2020-12-11(美国)◎IMDb评分8.3/10from2427users◎豆瓣评分8",
-    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2622396801.jpg",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2654733189.jpg",
     link: "magnet:?xt=urn:btih:ad764ee429e71658063d1c451702f8b8db97fbec&amp;dn=%e9%98%b3%e5%85%89%e7%94%b5%e5%bd%b1www.ygdy8.com.%e7%8b%bc%e8%a1%8c%e8%80%85.BD.1080p.%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%e5%b9%95.mkv&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce",
     summary:
       "◎译名狼行者◎片名Wolfwalkers◎年代2020◎产地爱尔兰,卢森堡,法国,丹麦,美国,英国◎类别动画/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-09-12(多伦多电影节)/2020-12-11(美国)◎IMDb评分8.3/10from2427users◎豆瓣评分8.1/10from882users◎文件格式x264+aac◎视频尺寸1920x1080◎片长100分钟◎导演汤姆·摩尔TommMoore罗斯·斯图尔特RossStewart◎编剧威尔·柯林斯WillCollins汤姆·摩尔TommMoore罗斯·斯图尔特RossStewart◎主演肖恩·宾SeanBean霍纳·妮芙茜HonorKneafsey伊娃·惠塔克EvaWhittaker西蒙·迈克伯尼SimonMcBurney汤米·蒂尔南TommyTiernan玛丽亚·多耶·肯尼迪MariaDoyleKennedy乔·肯尼JonKenny约翰·莫顿JohnMorton诺拉·托梅NoraTwomey保罗·杨PaulYoung奥利弗·麦克格拉斯OliverMcGrath◎标签动画|爱尔兰|爱尔兰动画|动画电影|奇幻|汤姆·摩尔|魔幻|海洋之歌◎简介讲述了11岁女孩罗芬的神奇经历。罗芬作为一个年轻的学徒猎人，她和父亲一起来到爱尔兰，准备消灭最后一批在那里的狼，但是改变她的事情来了，她发现了狼行者，此后一连串的古怪故事就发生了……◎获奖情况第30届哥谭独立电影奖(2020)最佳国际影片(提名)第41届波士顿影评人协会奖(2020)最佳动画片(提名)",
@@ -12178,8 +12159,7 @@ const MOVIELIST = [
     release: "2020-09-12(多伦多电影节)/2020-12-11(美国)",
     time: "100",
     director: "汤姆·摩尔TommMoore罗斯·斯图尔特RossStewart",
-    writers:
-      "威尔·柯林斯WillCollins汤姆·摩尔TommMoore罗斯·斯图尔特RossStewart",
+    writers: "威尔·柯林斯WillCollins汤姆·摩尔TommMoore罗斯·斯图尔特RossStewart",
     actor: "",
     starring:
       "肖恩·宾 Sean Bean　霍纳·妮芙茜 Honor Kneafsey　伊娃·惠塔克 Eva Whittaker　西蒙·迈克伯尼 Simon McBurney　汤米·蒂尔南 Tommy Tiernan　玛丽亚·多耶·肯尼迪 Maria Doyle Kennedy　乔·肯尼 Jon Kenny　约翰·莫顿 John Morton　诺拉·托梅 Nora Twomey　保罗·杨 Paul Young　奥利弗·麦克格拉斯 Oliver McGrath",
@@ -12397,7 +12377,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201212/60831.html",
     date: "2020-12-1100:28:51",
     desc: "◎译名幻爱/BeyondtheDream◎片名幻愛◎年代2019◎产地中国香港◎类别爱情/悬疑◎语言粤语◎字幕中文◎上映日期2019-11-14(香港亚洲电影节)/2020-07-02(中国香港)◎IMDb评分7.6/10from267users◎豆瓣评分7.4/10from863users◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名幻爱/BeyondtheDream◎片名幻愛◎年代2019◎产地中国香港◎类别爱情/悬疑◎语言粤语◎字幕中文◎上映日期2019-11-14(香港亚洲电影节)/2020-07-02(中国香港)◎IMDb评分7.6/10from267users◎豆瓣评分7.4/10from863users◎文件格式x264+aac◎视频尺寸1920x1080◎片长120分钟◎编剧曾俊荣JunrongZeng◎主演蔡思韵CeciliaChoi刘俊谦TerranceLau潘灿良Chan-LeungPoon鲍起静HeeChingPaw张满源KennethCheung骆振伟ThorLok苏皓儿ChloeSo◎标签香港|香港电影|爱情|文艺|2019|剧情|悬疑|周冠威◎简介继《一个复杂故事》后执导的第二部爱情电影。善良憨直的小学教师阿乐，是精神分裂症康复者，虽然渴望爱情但从来不敢恋爱。偶然机遇下，他在街头偶遇了清丽脱俗的欣欣，一见钟情却挣扎应否透露病情。踌躇之下，不幸再次病发，被幻觉缠绕。他更发现她的真正身份，竟然是个功于心计的心理辅导员？二人发展出一段悬疑曲折的禁恋，疑幻似真。◎获奖情况第39届香港电影金像奖(2020)最佳导演(提名)周冠威最佳编剧(提名)曾俊荣最佳女主角(提名)蔡思韵最佳新演员(提名)刘俊谦最佳摄影(提名)司徒一雷最佳音响效果(提名)吴书瑶/杜笃之",
@@ -12427,7 +12407,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201211/60830.html",
     date: "2020-12-1000:15:24",
     desc: "◎译名和弗兰克叔叔上路/弗兰克叔叔◎片名UncleFrank◎年代2020◎产地美国◎类别剧情◎语言英语,阿拉伯语◎上映日期2020-01-25(圣丹斯电影节)/2020-11-25(美国)◎IMDb评分7.2/10from4929users◎豆瓣评分7.3/10from306users◎字幕中",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名和弗兰克叔叔上路/弗兰克叔叔◎片名UncleFrank◎年代2020◎产地美国◎类别剧情◎语言英语,阿拉伯语◎上映日期2020-01-25(圣丹斯电影节)/2020-11-25(美国)◎IMDb评分7.2/10from4929users◎豆瓣评分7.3/10from306users◎字幕中文◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长95分钟◎导演艾伦·鲍尔AlanBall◎编剧艾伦·鲍尔AlanBall◎主演保罗·贝坦尼PaulBettany索菲娅·莉莉丝SophiaLillis彼得·马克迪斯PeterMacdissi斯蒂夫·扎恩SteveZahn朱迪·格雷尔JudyGreer玛格·马丁戴尔MargoMartindale斯蒂芬·鲁特StephenRoot罗伊丝·史密斯LoisSmith简·麦克尼尔JaneMcNeill布鲁格斯·詹金斯BurgessJenkins科尔顿·瑞安ColtonRyan布瑞特·伦茨勒BrittRentschlerAlanCampbell科尔·杜曼ColeDomanDaveHager迈克尔·哈丁MichaelHarding大卫·布莱米DaveBlamy卡尔森·霍尔姆斯CarsonHolmes◎标签同性|美国|家庭|2020|公路|LGBT|剧情|美国电影◎简介讲述1973年，少女贝丝离开南方乡村老家，前往纽约大学读书，她亲爱的叔叔弗兰克是位受人尊敬的文学教授，贝丝很快发现弗兰克是同性恋，和长期伴侣沃利住在一起，而这个秘密他隐瞒了多年。在弗兰克父亲/贝丝的祖父突然去世后，弗兰克不得不回家参加葬礼，并最终面对一个埋藏已久、他的整个成年生活都在逃避的创伤。",
@@ -12457,7 +12437,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201211/60829.html",
     date: "2020-12-1000:05:03",
     desc: "◎译名BacktotheWharf◎片名风平浪静/重回西园码头/重返西园码头◎年代2020◎产地中国大陆◎类别剧情/爱情/悬疑◎语言汉语普通话◎上映日期2020-07-29(上海电影节)/2020-11-06(中国大陆)◎IMDb评分5.9/10from62users◎IMDb链接https",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名BacktotheWharf◎片名风平浪静/重回西园码头/重返西园码头◎年代2020◎产地中国大陆◎类别剧情/爱情/悬疑◎语言普通话◎字幕中文◎上映日期2020-07-29(上海电影节)/2020-11-06(中国大陆)◎IMDb评分5.9/10from62users◎豆瓣评分6.4/10from67654users◎文件格式x265+aac◎视频尺寸2160x1608◎片长119分钟◎导演李霄峰XiaofengLi◎编剧余欣XinYu/李霄峰XiaofengLi◎主演章宇YuZhang宋佳JiaSong王砚辉YanhuiWang李鸿其Hong-ChiLee邓恩熙EnxiDeng周政杰ZhengjieZhou陈瑾JinChen张建亚JianyaZhang叶青QingYe高宇航YuhangGao赵龙豪LonghaoZhao丁冠中GuanzhongDing林津锋JinfengLin◎标签犯罪|中国大陆|悬疑|剧情|2020|电影|人性|纪录片◎简介十五年前的一次意外，成绩优异高中生宋浩离开了家乡，也离开了原本的人生轨迹。十五年后，他回到家乡，一切仿佛都已风平浪静。与老同学潘晓霜的重逢，给了他人生久违的光亮。他决定揭开那个十五年来不敢触碰的伤疤，重新掌控人生，完成一场似乎不可能的自我救赎。◎获奖情况第23届上海国际电影节(2020)金爵奖最佳影片(提名)李霄峰第4届平遥国际电影展(2020)从山西出发单元最受欢迎影片(提名)",
@@ -12487,7 +12467,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201209/60826.html",
     date: "2020-12-0900:02:57",
     desc: "◎译名Sacrifice/TheSacrifice◎片名金刚川◎年代2020◎产地中国大陆◎类别剧情/战争◎语言汉语普通话,英语◎字幕中英双字幕◎上映日期2020-10-23(中国大陆)◎IMDb评分5.8/10from153users◎豆瓣评分6.5/10from165142users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名Sacrifice/TheSacrifice◎片名金刚川◎年代2020◎产地中国大陆◎类别剧情/战争◎语言汉语普通话,英语◎字幕中英双字幕◎上映日期2020-10-23(中国大陆)◎IMDb评分5.8/10from153users◎豆瓣评分6.5/10from165142users◎文件格式x264+aac◎视频尺寸1920x1080◎片长122分钟◎导演管虎HuGuan郭帆FrantGwo路阳YangLu田羽生YushengTian◎编剧管虎HuGuan赵宁宇NingyuZhao葛瑞RuiGe高临阳LinyangGao京榆张珂KeZhang◎主演张译YiZhang吴京JingWu李九霄JiuxiaoLi魏晨VisionWei邓超ChaoDeng欧豪OhoOu邱天TianQiu周思羽SiyuZhou刘显达XiandaziLiu石昊正HaozhengShi◎标签抗美援朝|战争|张译|历史|中国|主旋律|吴京|献礼◎简介1953年，抗美援朝战争进入最终阶段，志愿军在金城发动最后一场大型战役。为在指定时间到达，向金城前线投放更多战力，志愿军战士们在物资匮乏、武装悬殊的情况下，不断抵御敌机狂轰滥炸，以血肉之躯一次次修补战火中的木桥。一段鲜为人知的历史，在暗流涌动的金刚川上徐徐展开……",
@@ -12518,7 +12498,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201208/60825.html",
     date: "2020-12-0800:00:39",
     desc: "◎译名菊石/默爱(台)◎片名Ammonite◎年代2020◎产地英国,澳大利亚,美国◎类别剧情/爱情/同性◎语言英语◎字幕中英双字幕◎上映日期2020-09-11(多伦多电影节)/2020-10-17(英国)/2020-11-13(美国)◎IMDb评分6.4/10from1477users◎豆",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名菊石/默爱(台)◎片名Ammonite◎年代2020◎产地英国,澳大利亚,美国◎类别剧情/爱情/同性◎语言英语◎字幕中英双字幕◎上映日期2020-09-11(多伦多电影节)/2020-10-17(英国)/2020-11-13(美国)◎IMDb评分6.4/10from1477users◎豆瓣评分7.2/10from6718users◎文件格式x264+aac◎视频尺寸1920x1080◎片长117分钟◎导演弗朗西斯·李FrancisLee◎编剧弗朗西斯·李FrancisLee◎主演凯特·温丝莱特KateWinslet西尔莎·罗南SaoirseRonan费奥纳·肖FionaShaw杰玛·琼斯GemmaJones詹姆斯·麦卡德尔JamesMcArdle亚力克·塞克雷亚努AlecSecareanu克莱尔·拉什布鲁克ClaireRushbrook哈维·斯克林肖HarveyScrimshaw温迪·诺丁汉WendyNottingham利亚姆·托马斯LiamThomas莎拉·怀特SarahWhite比阿特丽斯·克纽BeatriceCurnew◎标签西尔莎·罗南|凯特·温斯莱特|英国|同性|女性|LGBT|爱情|LGBTQ◎简介在19世纪的英格兰，著名但不为人知的化石猎人玛丽·安宁(凯特·温斯莱特饰)独自在崎岖的南部海岸线工作。在她那些著名的化石发现之后，她现在寻找普通的化石卖给游客，以养活自己和她生病的母亲。当一个富有的客人（詹姆斯·麦卡德尔饰）委托玛丽照顾他的妻子夏洛特·默奇森(西尔莎·罗南饰)，她不能拒绝他的提议。玛丽对自己的工作充满了骄傲和热情，一开始她和不受欢迎的客人发生了冲突，尽管他们的社会阶层和个性之间有距离，但是一种强烈的联系开始发展，迫使两个女人决定他们关系的真正本质。◎获奖情况第73届戛纳电影节(2020)首次入围戛纳导演作品(提名)",
@@ -12548,7 +12528,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201207/60823.html",
     date: "2020-12-0823:55:42",
     desc: "◎译名魔法教母/仙女教母◎片名Godmothered◎年代2020◎产地美国◎类别喜剧/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-12-04(美国)◎IMDb评分6.2/10from1869users◎豆瓣评分6.8/10from163users◎文件格式x264+aac◎视频尺",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名魔法教母/仙女教母◎片名Godmothered◎年代2020◎产地美国◎类别喜剧/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-12-04(美国)◎IMDb评分6.2/10from1869users◎豆瓣评分6.8/10from163users◎文件格式x264+aac◎视频尺寸1920x1080◎片长110分钟◎导演莎伦·马奎尔SharonMaguire◎编剧梅丽莎·斯塔克MelissaStack◎主演艾拉·菲舍尔IslaFisher吉莉恩·贝尔JillianBell琼·斯奎布JuneSquibb桑地亚哥·卡布瑞拉SantiagoCabrera斯蒂夫妮·韦尔StephnieWeir玛丽·伊丽莎白·埃利斯MaryElizabethEllis简·库丁JaneCurtin乌特卡什·安邦德卡尔UtkarshAmbudkar亚提米丝·帕博达尼ArtemisPebdani珍妮尔·费格利JanelleFeigley欧嘉·梅雷迪斯OlgaMerediz内尔松·阿森西奥NelsonAscencio大卫·布肯德尔DavidBookbinder拉斐尔·席尔瓦RafaelSilva◎标签奇幻|现代童话|喜剧|2020|美国|童话|电影|美国电影◎简介一位年轻且缺乏经验的仙女教母埃莉诺（JillianBell饰）听说仙女教母这个职业面临消失的危险，她想用行动来证明人们仍然需要仙女教母，便找来了一封来自一个不开心的十岁小女孩的信，想要帮助她。但当她找到这位“小女孩”麦肯齐（IslaFisher饰），才发现她现在已经是一位40岁的单身母亲了，生活的遭遇让她不再相信“幸福的生活”这回事。埃莉诺决定无论麦肯齐喜欢不喜欢，也要帮她找到幸福。",
@@ -12578,7 +12558,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201207/60822.html",
     date: "2020-12-0702:07:57",
     desc: "◎译名夺金营救/倒数反击(台)/末路狂盗(港)/诚实的小偷◎片名HonestThief/TheHonestThief◎年代2020◎产地美国◎类别动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-09-03(丹麦)/2020-10-16(美国)◎IMDb评分6.1/10from602",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名夺金营救/倒数反击(台)/末路狂盗(港)/诚实的小偷◎片名HonestThief/TheHonestThief◎年代2020◎产地美国◎类别动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-09-03(丹麦)/2020-10-16(美国)◎IMDb评分6.1/10from6026users◎豆瓣评分5.8/10from608users◎文件格式x264+aac◎视频尺寸1920x1080◎片长99分钟◎导演马克·威廉姆斯MarkWilliams◎编剧史蒂夫·奥尔里奇SteveAllrich马克·威廉姆斯MarkWilliams◎主演连姆·尼森LiamNeeson凯特·沃什KateWalsh杰·科特尼JaiCourtney杰弗里·多诺万JeffreyDonovan安东尼·拉莫斯AnthonyRamos罗伯特·帕特里克RobertPatrick塔兹Tazzie何塞·冈斯·阿尔维斯JoseGunsAlves珍妮尔·费格利JanelleFeigley德文·迪普DevonDiep杰米·加扎里安JamieGhazarian帕蒂·奥尼尔PattyO'Neil阿德里安·M·蒙波因特AdrianM.Mompoint安东尼·拉莫斯AnthonyRamos雅斯曼·塞斯·琼斯JasmineCephasJones玛塞拉·贾拉米洛MarcelaJaramillo◎标签动作|美国|犯罪|2020|剧情|悬疑|惊悚|人性◎简介连姆·尼森、凯特·沃什将主演新片[诚实的小偷](TheHonestThief，暂译)。本片由马克·威廉姆斯执导，故事讲述职业银行劫匪汤姆·卡特(尼森饰)遇到了他一生的挚爱安妮(沃尔什饰)。他之前在安妮工作的前台藏了700万美元的赃物，现决定自首。当案件被交给一个奸诈的联邦调查局特工时，一切都变得更加危险和困难。",
@@ -12608,7 +12588,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201207/60816.html",
     date: "2020-12-0601:59:48",
     desc: "◎译名即便明天世界终结/即使明天世界将迎来终结/就算明天世界毁灭/相对世界。明日终结？◎片名あした世界が終わるとしても/TheRelativeWorlds◎年代2019◎产地日本◎类别剧情/科幻/动画◎语言日语◎字幕中文◎上映日期2019-01-25(日本)",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名即便明天世界终结/即使明天世界将迎来终结/就算明天世界毁灭/相对世界。明日终结？◎片名あした世界が終わるとしても/TheRelativeWorlds◎年代2019◎产地日本◎类别剧情/科幻/动画◎语言日语◎字幕中文◎上映日期2019-01-25(日本)◎IMDb评分5.7/10from150users◎豆瓣评分6.0/10from625users◎文件格式x264+aac◎视频尺寸1920x1080◎片长93分钟◎导演樱木优平◎编剧樱木优平◎主演梶裕贵YûkiKaji中岛良树YoshikiNakajima内田真礼MaayaUchida千本木彩花SayakaSenbongi悠木碧AoiYuki水濑祈InoriMinase津田健次郎KenjirôTsuda森川智之ToshiyukiMorikawa水树奈奈NanaMizuki◎标签日本动画|日本|动画电影|动画|动漫|剧场版|科幻|2019◎简介自从小时候母亲去世以来，就封锁了心灵的真。一直守护在他身旁的，青梅竹马琴莉。高中三年级的现在，就在终于准备跨出一步的两人面前，来自另一个日本的，另一个“我”突然出现——。◎获奖情况第29届安锡国际动画节(2019)长篇动画单元长片水晶奖(提名)樱木优平",
@@ -12639,7 +12619,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201206/60804.html",
     date: "2020-12-0501:47:59",
     desc: "◎译名信条/TENET天能(港/台)/时空追捕◎片名Tenet/Tempus◎年代2020◎产地美国,英国◎类别剧情/动作/科幻◎语言英语/国语◎字幕中英双字幕◎上映日期2020-08-26(英国)/2020-09-03(美国)/2020-09-04(中国大陆)◎IMDb评分7.7/10from16",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名信条/TENET天能(港/台)/时空追捕◎片名Tenet/Tempus◎年代2020◎产地美国,英国◎类别剧情/动作/科幻◎语言英语/国语◎字幕中英双字幕◎上映日期2020-08-26(英国)/2020-09-03(美国)/2020-09-04(中国大陆)◎IMDb评分7.7/10from165524users◎豆瓣评分7.7/10from420378users◎文件格式x264+aac◎视频尺寸1920x1080◎片长150分钟◎导演克里斯托弗·诺兰ChristopherNolan◎编剧克里斯托弗·诺兰ChristopherNolan◎主演约翰·大卫·华盛顿JohnDavidWashington罗伯特·帕丁森RobertPattinson伊丽莎白·德比茨基ElizabethDebicki肯尼思·布拉纳KennethBranagh亚伦·泰勒-约翰逊AaronTaylor-Johnson迪宝·卡帕蒂娅DimpleKapadia克蕾曼丝·波西ClémencePoésy希米什·帕特尔HimeshPatel安德鲁·霍华德AndrewHoward尤里·科洛科利尼科夫YuriKolokolnikov迈克尔·凯恩MichaelCaine马丁·唐文MartinDonovan卡里娜·韦尔瓦CarinaVelva乔纳森·坎普JonathanCamp凯蒂·麦克凯布KatieMcCabe贝恩·科拉科BernCollaço安东尼·莫利纳利AnthonyMolinari特伦特·布克斯顿TrentBuxton英格丽·玛格斯IngridMargus瑞奇·切劳洛RichCeraulo劳里·谢泼德LaurieShepherd马克·克雷尼克MarkKrenik亚历克斯·威克索AlexWexo丹兹尔·史密斯DenzilSmith马塞尔·萨巴特MarcelSabat杰里米·西奥伯德JeremyTheobald菲奥娜·道里夫FionaDourif韦斯·查特姆WesChatham杰克·卡特莫尔-斯科特JackCutmore-Scott杰佛逊·豪尔JeffersonHall凯莱布·斯比尔亚兹CalebSpillyards肖恩·艾弗里SeanAvery吉米·斯达JimmyStar◎标签烧脑|科幻|悬疑|2020|动作|美国|剧情|犯罪◎简介世界存亡危在旦夕，“信条”一词是唯一的线索与武器。主人公穿梭于全球各地，开展特工活动，力求揭示“信条”之谜，并完成一项超越了真实时间的神秘任务。这项任务并非时间之旅，而是【时空逆转】。◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的外语电影(提名)",
@@ -12669,7 +12649,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201206/60803.html",
     date: "2020-12-0500:01:39",
     desc: "◎译名L.O.R.D/LegendofRavagingDynasties◎片名冷血狂宴/爵迹2/爵迹2：冷血狂宴/爵迹Ⅱ◎年代2020◎产地中国大陆◎类别动画/奇幻◎语言普通话◎字幕中英双字幕◎上映日期2020-12-04(中国大陆)◎豆瓣评分4.0/10from15596users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名L.O.R.D/LegendofRavagingDynasties◎片名冷血狂宴/爵迹2/爵迹2：冷血狂宴/爵迹Ⅱ◎年代2020◎产地中国大陆◎类别动画/奇幻◎语言普通话◎字幕中英双字幕◎上映日期2020-12-04(中国大陆)◎豆瓣评分4.0/10from15596users◎文件格式x264+aac◎视频尺寸1920x1080◎片长129分钟◎导演郭敬明JingmingGuo◎编剧郭敬明JingmingGuo◎主演吴亦凡KrisWu陈学冬XuedongChen陈伟霆WilliamChan范冰冰BingbingFan郭采洁AmberKuo林允YunLin王源RoyWang王俊凯KarryWang易烊千玺JacksonYee汪铎DuoWang◎标签爵迹|郭敬明|奇幻|真人动画|大烂片|吴亦凡|小说改编|3D◎简介为了完成前六度王爵西流尔的遗愿，银尘、麒零、天束幽花等人决定一起前往，解救被白银祭司封印的前一度王爵吉尔伽美什。当克服重重阻碍赶到囚禁之地，却不幸遇上白银祭司派出的最强杀手阵容：幽冥、特蕾娅、漆拉，一场正面交锋在所难免，整个亚斯蓝帝国最阴暗的秘密也将逐渐浮出水面。",
@@ -12699,7 +12679,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201202/60792.html",
     date: "2020-12-0223:56:24",
     desc: "◎译名新干线变形机器人剧场版来自未来的神速ALFA-X/劇場版新幹線戰士來自未來的神速ALFA-X(港)◎片名新幹線変形ロボシンカリオン未来からきた神速のALFA-X◎年代2019◎产地日本◎类别动画◎语言日语/国语◎字幕中文◎上映日期2019-12-2",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名新干线变形机器人剧场版来自未来的神速ALFA-X/劇場版新幹線戰士來自未來的神速ALFA-X(港)◎片名新幹線変形ロボシンカリオン未来からきた神速のALFA-X◎年代2019◎产地日本◎类别动画◎语言日语/国语◎字幕中文◎上映日期2019-12-27(日本)◎文件格式x264+aac◎视频尺寸1920x1080◎片长79分钟◎导演池添隆博TakahiroIkezoe◎编剧下山健人KentoShimoyama◎主演佐仓绫音AyaneSakura沼仓爱美ManamiNumakura村川梨衣RieMurakawa真堂圭KeiShindou钉宫理惠RieKugimiya伊藤健太郎KentaroIto吉田钢太郎KôtarôYoshida◎标签剧场版|日本动画|2019|佐倉綾音|釘宮理恵|ROBO|池添隆博|下山健人◎简介为了抢夺地球，新的敌人以及谜之巨大怪物体从宇宙出现。超进化研究所秘密开发的`新干线战士ALFA-X`是掌握着一切的关键！由于突然出现的敌人强大攻击导致父亲北斗失踪了，隼人变得坐立不安。此时，出现在他面前，竟是穿越时空而来的`9岁北斗`。隼人为了守护地球，少年北斗想返回自己原本的世界，两人找上最新技术`新干线战士ALFA-X`的驾驶员，并集合北海道支部、山形支部、大宫支部、名古屋支部、京都支部、门司支部的“新干线战队”对抗宇宙最强的敌人！新干线战队能否维护日本的和平安全？隼人和父亲北斗能否再会？少年北斗是否能平安回到原本的世界？",
@@ -12730,7 +12710,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201202/60791.html",
     date: "2020-12-0216:29:37",
     desc: "◎译名末日逃生/天劫倒数(台)/末世绿洲(港)/格陵兰/格陵兰陷落◎片名Greenland◎年代2020◎产地美国,英国◎类别剧情/科幻/灾难◎语言英语◎字幕中英双字幕◎上映日期2020-07-29(比利时)/2020-11-20(中国大陆)/2020-12-18(美国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名末日逃生/天劫倒数(台)/末世绿洲(港)/格陵兰/格陵兰陷落◎片名Greenland◎年代2020◎产地美国,英国◎类别剧情/科幻/灾难◎语言英语◎字幕中英双字幕◎上映日期2020-07-29(比利时)/2020-11-20(中国大陆)/2020-12-18(美国)◎IMDb评分6.4/10from10856users◎豆瓣评分5.9/10from2350users◎文件格式x264+aac◎视频尺寸1920x1080◎片长119分钟◎导演里克·罗曼·沃夫RicRomanWaugh◎编剧克里斯·斯帕林ChrisSparling◎主演杰拉德·巴特勒GerardButler莫蕾娜·巴卡琳MorenaBaccarin大卫·丹曼DavidDenman霍普·戴维斯HopeDavis罗杰·戴尔·弗洛伊德RogerDaleFloyd安德鲁·巴切勒AndrewBachelor梅琳·当吉MerrinDungey霍特·麦克卡兰尼HoltMcCallany斯科特·格伦ScottGlenn里克·帕斯夸隆RickPasqualone阿兰·皮特鲁塞泽维斯基AlanPietruszewski斯科特·波伊思雷斯ScottPoythress加里·维克斯GaryWeeks特雷西·邦纳TraceyBonner海耶斯·梅居尔HayesMercure库尔特·岳KurtYue克米特·罗里森KermitRolison布兰登奎因BrandonQuinn约书亚·米克尔JoshuaMikel詹姆斯·罗根JamesLogan兰达尔·阿切尔RandallArcher凯特·琼斯CateJones肯德里克·克罗斯KendrickCrossLeeannTweeden阿·米切尔AlMitchellAdamCronan艾琳·法萨诺ErinFasano迈克·加萨威MikeGassaway帕蒂·舍尔哈斯PattiSchellhaas◎标签灾难|科幻|2020|美国|杰拉德·巴特勒|美国电影|家庭|剧情◎简介两颗彗星正在朝地球运动，人类即将在24小时内面临毁灭性撞击，然而政府封锁了内部消息，在格陵兰建造了堡垒，只允许部分人类进入。建筑工程师John获得了进入堡垒的机会，带着一家三口踏上了去往格陵兰的末日逃生路。然而，在逃亡的过程中，军队得知自己已经被政府抛弃，开始失去控制，劫持了去往格陵兰的飞机，John的妻子与儿子也因此失散。John只能去约定好的地方等待妻子与儿子，期望会合后一并开车前往目的地格陵兰。这一路惊心动魄，历经重重困难，他们一家人最终是否可以会合，安全抵达格陵兰……",
@@ -12760,7 +12740,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201202/60782.html",
     date: "2020-12-0216:25:50",
     desc: "◎译名让他走◎片名LetHimGo◎年代2020◎产地美国◎类别剧情/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-11-06(美国)◎IMDb评分6.8/10from3775users◎豆瓣评分6.8/10from191users◎文件格式x264+aac◎视频尺寸1920x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名让他走◎片名LetHimGo◎年代2020◎产地美国◎类别剧情/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-11-06(美国)◎IMDb评分6.8/10from3775users◎豆瓣评分6.8/10from191users◎文件格式x264+aac◎视频尺寸1920x1080◎片长114分钟◎导演托马斯·伯祖查ThomasBezucha◎编剧托马斯·伯祖查ThomasBezucha◎主演凯文·科斯特纳KevinCostner戴安·琳恩DianeLane莱丝利·曼维尔LesleyManville凯莉·卡特KayliCarter波波·斯图尔特BooBooStewart杰弗里·多诺万JeffreyDonovan威尔·布里顿WillBrittain亚当·斯塔福德AdamStafford布拉德利·斯泰克尔BradleyStryker格雷格·劳森GregLawson瑞恩·诺斯柯特RyanNorthcott◎标签美国|凯文·科斯特纳|剧情|2020|惊悚|美国电影|犯罪|戴安·琳恩◎简介基于LarryWatson所著同名小说，讲述退休警长乔治·布莱克利奇和妻子玛格丽特在失去儿子后，离开蒙大拿州的牧场，去达科他州寻找与外界隔离的危险一家人，解救他们年幼的孙子。而当他们到达目的地，发现那家人并没有意愿放人。",
@@ -12790,7 +12770,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201201/60781.html",
     date: "2020-12-0123:10:01",
     desc: "◎译名梦乡◎片名Dreamland◎年代2019◎产地美国◎类别剧情/惊悚◎语言英语◎字幕中英双字幕◎上映日期2019-04-28(翠贝卡电影节)/2020-11-13(美国)◎IMDb评分5.7/10from1250users◎豆瓣评分6.4/10from78users◎文件格式x264+aa",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名梦乡◎片名Dreamland◎年代2019◎产地美国◎类别剧情/惊悚◎语言英语◎字幕中英双字幕◎上映日期2019-04-28(翠贝卡电影节)/2020-11-13(美国)◎IMDb评分5.7/10from1250users◎豆瓣评分6.4/10from78users◎文件格式x264+aac◎视频尺寸1920x1080◎片长98分钟◎导演迈尔斯·乔里斯-皮拉菲特MilesJoris-Peyrafitte◎主演玛格特·罗比MargotRobbie崔维斯·费米尔TravisFimmel加内特·赫德兰GarrettHedlund凯瑞·康顿KerryCondon芬恩·科尔FinnCole罗拉·科克LolaKirke达比·坎普DarbyCamp格雷森·贝里GraysonBerry布鲁斯·麦金托什BruceMcIntosh保罗·布特PaulBlott◎标签美国|剧情|2020|玛格特·罗比|惊悚|美国电影|MargotRobbie|2018◎简介这部新片名为《梦乡》（Dreamland），由曾在圣丹斯电影节摘得评审团特别奖的导演MilesJoris-Peyrafitte执导。故事背景设定在20世纪30年代的美国，经济萧条和沙尘暴肆虐着美国的普通百姓，一个15岁的男孩为了高额的赏金开始漫漫追捕路，他的目标正是玛歌特·罗比饰演的女劫匪。",
@@ -12820,7 +12800,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201201/60780.html",
     date: "2020-12-0123:07:58",
     desc: "◎译名乡下人的悲歌/乡巴佬的哀歌/山乡挽歌/绝望者之歌(台)◎片名HillbillyElegy◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-11-11(韩国)/2020-11-24(美国)◎IMDb评分6.6/10from8647users◎豆瓣评分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名乡下人的悲歌/乡巴佬的哀歌/山乡挽歌/绝望者之歌(台)◎片名HillbillyElegy◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-11-11(韩国)/2020-11-24(美国)◎IMDb评分6.6/10from8647users◎豆瓣评分7.1/10from81users◎文件格式x264+aac◎视频尺寸1920x1080◎片长116分钟◎导演朗·霍华德RonHoward◎编剧瓦内莎·泰勒VanessaTaylorJ.D.万斯J.D.Vance◎主演海莉·贝内特HaleyBennett艾米·亚当斯AmyAdams格伦·克洛斯GlennClose芙蕾达·平托FreidaPinto桑妮·马布雷SunnyMabrey博·霍普金斯BoHopkins加布里埃尔·巴索GabrielBasso马塞拉·伦茨·波普MarcellaLentz-Pope史蒂芬·坤肯StephenKunken威廉·麦克·麦库洛WilliamMarkMcCullough杰森·戴维斯JasonDavis杰西·C·博伊德JesseC.Boyd大卫·詹森DavidJensen申庚KeongSim玛丽·克拉夫特MaryKraft杰西卡·米塞尔JessicaMiesel丹尼尔·R·希尔DanielR.Hill欧文·艾斯特罗斯OwenAsztalos科里·查普曼CoryChapmanHollyA.Morris西德尼·格蕾丝·卡维尔SidneyGraceCulwell泰丝·马里斯·金凯德TessMalisKincaid斯凯拉·丹尼SkylarDenney布兰登·赫希BrandonHirsch大卫·德弗里斯DaviddeVries盖·韦尔曼GuyWellmanChaseLedgerwood理查德·杜恩RichardDoone◎标签美国|剧情|传记|艾米·亚当斯|朗·霍华德|美国电影|2020|改编◎简介来自南俄亥俄州的杰德·凡斯（盖布瑞尔·贝索饰）是耶鲁大学法学院学生，之前还担任过海军陆战队队员。他眼看就要得到梦寐以求的工作，阿帕拉契山区的老家却在此时出事，使他不得不返回他拼命想逃离的那个家。在家中等著杰德的是複杂难解的亲情，尤其是为毒瘾所苦、喜怒无常的母亲贝芙（艾美·亚当斯饰）。他所面对的一切也让他想起祖母（葛伦·克萝丝饰），也就是他口中的姥姥，她坚韧聪敏，一肩担起养育他的责任。在现实的衝击与过往的回忆间，杰德也终于瞭解他的家庭为他的生命所留下的不可磨灭的印记。《绝望者之歌》改编自杰德·凡斯的《纽约时报》冠军畅销书，由奥斯卡得主朗·霍华德执导。剧中描绘三个分属不同世代的角色各自面临的课题，以及一路走来的悲欢与苦乐。这是一部充满力量的个人回忆录，也是一个家庭生存与胜利的故事。",
@@ -12850,7 +12830,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201201/60779.html",
     date: "2020-12-0123:03:08",
     desc: "◎译名之后2◎片名AfterWeCollided/After2◎年代2020◎产地美国◎类别剧情/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-10-23(美国)◎IMDb评分5.1/10from11331users◎豆瓣评分5.7/10from2397users◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名之后2◎片名AfterWeCollided/After2◎年代2020◎产地美国◎类别剧情/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-10-23(美国)◎IMDb评分5.1/10from11331users◎豆瓣评分5.7/10from2397users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演罗杰·昆宝RogerKumble◎编剧安娜·托德AnnaTodd/马里奥·塞拉亚MarioCelaya◎主演约瑟芬·兰福德JosephineLangford赫洛·费因斯-提芬HeroFiennesTiffin迪伦·斯普罗斯DylanSprouse塞尔玛·布莱尔SelmaBlair查理·韦伯CharlieWeber坎迪丝·阿科拉CandiceAccola路易丝·隆巴德LouiseLombard沙恩·保罗·麦吉ShanePaulMcGhie塞缪尔·拉森SamuelLarsen罗伯·艾斯特斯RobEstes迪伦·阿诺德DylanArnold伊南娜·萨尔基斯InannaSarkis皮亚·米尔PiaMia克里麦·威斯特博克KarimahWestbrook哈迪扎·里德·桑德尔KhadijhaRedThunder本杰明·韦弗BenjaminWeaver玛丽索尔·科雷亚MarisolCorrea◎标签爱情|青春|帅哥|校园|美国|电影|剧情|2020◎简介故事围绕泰莎和哈丁这对情侣展开。迪伦饰演特雷弗，他是泰莎在万斯出版社的同事之一，并爱上了泰莎，这让哈丁感到非常沮丧。",
@@ -12880,7 +12860,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201129/60773.html",
     date: "2020-11-2918:56:09",
     desc: "◎译名电话/TheCall：超时空通话(港)/声命线索(台)◎片名Call◎年代2020◎产地韩国◎类别剧情/悬疑/惊悚◎语言韩语◎字幕中文◎上映日期2020-11-27(韩国)◎IMDb评分7.2/10from1150users◎豆瓣评分7.9/10from6475users◎文件格式x264",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名电话/TheCall：超时空通话(港)/声命线索(台)◎片名Call◎年代2020◎产地韩国◎类别剧情/悬疑/惊悚◎语言韩语◎字幕中文◎上映日期2020-11-27(韩国)◎IMDb评分7.2/10from1150users◎豆瓣评分7.9/10from6475users◎文件格式x264+aac◎视频尺寸1920x1080◎片长112分钟◎导演李聪贤ChoongHyunLee◎编剧朴智恩Ji-eunPark李聪贤ChoongHyunLee◎主演全钟瑞Jong-seoJeon朴信惠Shin-hyePark金成铃Sung-ryeongKim李艾ElleLee李东辉Dong-HwiLee朴浩山Ho-sanPark吴世贞Se-JungOh严彩英Chae-youngUhm◎标签悬疑|惊悚|韩国|朴信惠|韩国电影|恐怖|剧情|电影◎简介一通电话让来自过去和现在的两个女人产生了奇妙的联系，并引发了一场改变未来的危险游戏……她们将渐渐难以自拔。",
@@ -12910,7 +12890,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201129/60772.html",
     date: "2020-11-2900:42:52",
     desc: "◎译名信条/TENET天能(港/台)/时空追捕◎片名Tenet/Tempus◎年代2020◎产地美国,英国◎类别剧情/动作/科幻◎字幕中英双字幕◎语言英语,俄语,乌克兰语,爱沙尼亚语,印地语,挪威语◎上映日期2020-08-26(英国)/2020-09-03(美国)/2020-09-04(中国",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名信条/TENET天能(港/台)/时空追捕◎片名Tenet/Tempus◎年代2020◎产地美国,英国◎类别剧情/动作/科幻◎字幕中英双字幕◎语言英语,俄语,乌克兰语,爱沙尼亚语,印地语,挪威语◎上映日期2020-08-26(英国)/2020-09-03(美国)/2020-09-04(中国大陆)◎IMDb评分7.8/10from150144users◎豆瓣评分7.8/10from401931users◎文件格式x264+aac◎视频尺寸1920x1080◎片长150分钟◎导演克里斯托弗·诺兰ChristopherNolan◎编剧克里斯托弗·诺兰ChristopherNolan◎主演约翰·大卫·华盛顿JohnDavidWashington罗伯特·帕丁森RobertPattinson伊丽莎白·德比茨基ElizabethDebicki肯尼思·布拉纳KennethBranagh亚伦·泰勒-约翰逊AaronTaylor-Johnson迪宝·卡帕蒂娅DimpleKapadia克蕾曼丝·波西ClémencePoésy希米什·帕特尔HimeshPatel安德鲁·霍华德AndrewHoward尤里·科洛科利尼科夫YuriKolokolnikov迈克尔·凯恩MichaelCaine马丁·唐文MartinDonovan卡里娜·韦尔瓦CarinaVelva乔纳森·坎普JonathanCamp凯蒂·麦克凯布KatieMcCabe贝恩·科拉科BernColla?o安东尼·莫利纳利AnthonyMolinari特伦特·布克斯顿TrentBuxton英格丽·玛格斯IngridMargus瑞奇·切劳洛RichCeraulo劳里·谢泼德LaurieShepherd马克·克雷尼克MarkKrenik亚历克斯·威克索AlexWexo丹兹尔·史密斯DenzilSmith马塞尔·萨巴特MarcelSabat杰里米·西奥伯德JeremyTheobald菲奥娜·道里夫FionaDourif韦斯·查特姆WesChatham杰克·卡特莫尔-斯科特JackCutmore-Scott杰佛逊·豪尔JeffersonHall凯莱布·斯比尔亚兹CalebSpillyards肖恩·艾弗里SeanAvery吉米·斯达JimmyStar◎标签烧脑|科幻|悬疑|2020|动作|美国|剧情|犯罪◎简介世界存亡危在旦夕，“信条”一词是唯一的线索与武器。主人公穿梭于全球各地，开展特工活动，力求揭示“信条”之谜，并完成一项超越了真实时间的神秘任务。这项任务并非时间之旅，而是【时空逆转】。◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的外语电影(提名)",
@@ -12940,7 +12920,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201127/60769.html",
     date: "2020-11-2700:46:51",
     desc: "夺冠,中国女排1080p◎译名Leap◎片名夺冠/中国女排◎年代2020◎产地中国大陆/中国香港◎类别剧情/运动◎语言普通话/英语/日语/葡萄牙语◎字幕中文◎上映日期2020-09-25(中国大陆)◎IMDb评分6.8/10from304users◎豆瓣评分7.4/10from205",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.8",
@@ -12967,7 +12947,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201127/60767.html",
     date: "2020-11-2623:54:15",
     desc: "◎译名英勇废柴◎片名Laodiseadelosgiles/HeroicLosers◎年代2019◎产地阿根廷,西班牙◎类别剧情/喜剧/冒险◎语言西班牙语◎字幕中英双字幕◎上映日期2019-08-15(阿根廷)◎IMDb评分7.3/10from6978users◎豆瓣评分6.7/10from250",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名英勇废柴◎片名Laodiseadelosgiles/HeroicLosers◎年代2019◎产地阿根廷,西班牙◎类别剧情/喜剧/冒险◎语言西班牙语◎字幕中英双字幕◎上映日期2019-08-15(阿根廷)◎IMDb评分7.3/10from6978users◎豆瓣评分6.7/10from250users◎文件格式x264+aac◎视频尺寸1920x1080◎片长117分钟◎导演塞巴斯帝安·波连斯坦SebastiánBorensztein◎编剧塞巴斯帝安·波连斯坦SebastiánBorensztein爱德华多·萨切里EduardoSacheri◎主演里卡多·达林RicardoDarín路易斯·布兰多尼LuisBrandoni奇诺·达林ChinoDarín维罗妮卡·利纳斯VerónicaLlinás丽塔·科尔泰塞RitaCortese安德烈斯·帕拉AndrésParraCarlosBellosoFedericoBerón◎标签阿根廷|喜剧|剧情|阿根廷电影|2019|社会|西班牙|经济◎简介影片改编自[谜一样的双眼]原著作者爱德华多·萨切里撰写的小说《植物之夜》，讲述一群小镇邻居在前足球运动员费尔明(里卡多饰)的领导下，向阴暗的律师和腐败的银行高管追讨他们被骗走的钱财。◎获奖情况第34届西班牙戈雅奖(2020)最佳西班牙语外国片第67届圣塞巴斯蒂安国际电影节(2019)金贝壳奖(提名)塞巴斯帝安·波连斯坦",
@@ -12998,7 +12978,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201125/60766.html",
     date: "2020-11-2522:45:20",
     desc: "◎译名秘密窝点/金窝骇浪(台)/危险之家/破碎归巢◎片名TheNest◎年代2020◎产地英国/加拿大◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-01-26(圣丹斯电影节)/2020-09-18(美国)◎IMDb评分6.4/10from2095users◎豆瓣评分6.0/10",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名秘密窝点/金窝骇浪(台)/危险之家/破碎归巢◎片名TheNest◎年代2020◎产地英国/加拿大◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-01-26(圣丹斯电影节)/2020-09-18(美国)◎IMDb评分6.4/10from2095users◎豆瓣评分6.0/10from212users◎文件格式x264+aac◎视频尺寸1920x1080◎片长107分钟◎导演肖恩·德金SeanDurkin◎编剧肖恩·德金SeanDurkin◎主演裘德·洛JudeLaw凯莉·库恩CarrieCoon安妮·雷德AnneReid查理·肖特韦尔CharlieShotwell阿迪勒·阿赫塔尔AdeelAkhtar塔蒂娜·琼斯TattiawnaJones乌娜·罗奇OonaRoche迈克尔·卡尔金MichaelCulkin伯纳多·桑托斯BernardoSantos凯萨·哈姆隆德KaisaHammarlund朱利安·费罗JulianFerro奥利弗·加茨OliverGatz◎简介雄心勃勃的企业家Rory带着他的美国妻子和孩子回到家乡英国，探索新的商机。而在放弃了安全的美国郊区生活后，他们居住在80年代古英式庄园里，新环境将对家庭造成巨大威胁，这栋怪异的独立楼房让家人之间隔阂越来越深，每个人都进入了一个自我毁灭的循环，不知道自己能否生存下来。◎获奖情况第30届哥谭独立电影奖(2020)最佳男演员(提名)裘德·洛最佳女演员(提名)凯莉·库恩",
@@ -13028,7 +13008,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201125/60765.html",
     date: "2020-11-2522:37:21",
     desc: "◎译名谎言/天地之间◎片名TheLie/BetweenEarthandSky/WelcometotheBlumhouse:TheLie◎年代2020◎产地美国◎类别惊悚/悬疑/剧情◎语言英语◎字幕中英双字幕◎上映日期2018-09-08(多伦多电影节)/2020-10-06(美国)◎IMDb评分5.8/10fr",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名谎言/天地之间◎片名TheLie/BetweenEarthandSky/WelcometotheBlumhouse:TheLie◎年代2020◎产地美国◎类别惊悚/悬疑/剧情◎语言英语◎字幕中英双字幕◎上映日期2018-09-08(多伦多电影节)/2020-10-06(美国)◎IMDb评分5.8/10from7463users◎豆瓣评分5.2/10from294users◎文件格式x264+aac◎视频尺寸1920x1080◎片长97分钟◎导演魏娜·莎德VeenaSud◎编剧塞巴斯蒂安·科SebastianKo马库斯·塞伯特MarcusSeibert魏娜·莎德VeenaSud◎主演乔伊·金JoeyKing彼得·萨斯加德PeterSarsgaard卡斯·安瓦尔CasAnvar米瑞·伊诺丝MireilleEnos丹尼·坎德DaniKind德芙丽·雅各布斯DeveryJacobs帕蒂·基姆PattiKim尼古拉斯·李NicholasLea◎标签悬疑|美国|剧情|惊悚|电影|2020|恐怖|Amazon◎简介讲述一个少女向父母承认自己冲动之下杀死了好友，当爸妈的拼命想要掩盖女儿的罪行，为此卷进了一系列复杂的谎言的欺骗。",
@@ -13059,7 +13039,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201124/60763.html",
     date: "2020-11-2421:43:50",
     desc: "◎译名浴室墙上的字◎片名WordsonBathroomWalls◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分6.8/10from1016users◎豆瓣评分7.1/10from72users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名浴室墙上的字◎片名WordsonBathroomWalls◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分6.8/10from1016users◎豆瓣评分7.1/10from72users◎文件格式x264+aac◎视频尺寸1920x1080◎片长111分钟◎导演托尔·弗罗伊登塔尔ThorFreudenthal◎主演查理·普拉默CharliePlummer莫莉·帕克MollyParker泰勒·拉塞尔TaylorRussell沃尔顿·戈金斯WaltonGoggins安娜索菲亚·罗伯AnnaSophiaRobb安迪·加西亚AndyGarcia戴文·博斯蒂克DevonBostick贝丝·格兰特BethGrant洛博·塞巴斯蒂安LoboSebastian德鲁·谢伊德DrewScheid杰拉德·班肯斯JaredBankens◎标签烟鬼组合|美国|剧情|2020|美国电影|电影|改编|安娜索菲亚罗伯◎简介讲述男孩亚当被诊断患有精神分裂症，他去到一所新学校就读，开始服用新药，一开始效果看起来很不错，不过很快真相大白，他被迫做出一些艰难的决定。罗素饰演亚当的梦中情人玛雅，罗伯饰演丽贝卡，是亚当幻觉中的主要角色，作为他不能表达的情绪的管道。NickNaveda编写剧本，基于JuliaWalton所著同名小说，MickeyLiddell＆PeteShilaimon(《第一夫人》《类人猿行动》)制片。",
@@ -13089,7 +13069,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201123/60761.html",
     date: "2020-11-2310:26:23",
     desc: "◎译名逃跑/疑妈(港)/跑/逃(台)◎片名Run◎年代2020◎产地美国◎类别悬疑/惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-11-20(美国网络)◎IMDb评分6.7/10from3754users◎豆瓣评分6.8/10from487users◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名逃跑/疑·妈(港)/跑/逃(台)◎片名Run◎年代2020◎产地美国◎类别悬疑/惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-11-20(美国网络)◎IMDb评分6.7/10from3754users◎豆瓣评分6.8/10from487users◎文件格式x264+aac◎视频尺寸1920x1080◎片长90分钟◎导演阿尼什·查甘蒂AneeshChaganty◎编剧阿尼什·查甘蒂AneeshChaganty赛弗·奥哈尼安SevOhanian◎主演莎拉·保罗森SarahPaulson基拉·艾伦KieraAllen帕特·希利PatHealy埃里克·阿塔瓦尔ErikAthavale布拉德利·索茨基BradleySawatzky奥娜莉·艾姆斯OnaleeAmes德里克·詹姆斯·特拉普DerekJamesTrapp◎标签惊悚|悬疑|恐怖|美国|2020|犯罪|莎拉·保罗森|美国电影◎简介《网络谜踪》导演阿尼什·查甘蒂自编自导，讲述“香蕉姐”莎拉·保罗森饰演的母亲独自抚养着女儿（基拉·艾伦饰），当女儿得知了母亲罪恶的秘密，她们的生活开始瓦解。",
@@ -13119,7 +13099,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201122/60759.html",
     date: "2020-11-2223:09:31",
     desc: "◎译名追杀胖老爹/肉身轰炸/肥佬/肥胖侠/胖子◎片名Fatman◎年代2020◎产地英国,加拿大,美国◎类别喜剧/动作/惊悚/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-10-17(FilmFest919)◎IMDb评分6.1/10from1353users◎豆瓣评分6.1/",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名追杀胖老爹/肉身轰炸/肥佬/肥胖侠/胖子◎片名Fatman◎年代2020◎产地英国,加拿大,美国◎类别喜剧/动作/惊悚/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-10-17(FilmFest919)◎IMDb评分6.1/10from1353users◎豆瓣评分6.1/10from86users◎文件格式x264+aac◎视频尺寸1920x1080◎片长100分钟◎导演艾什姆·内尔姆斯EshomNelms伊恩·内尔姆斯IanNelms◎编剧艾什姆·内尔姆斯EshomNelms伊恩·内尔姆斯IanNelms◎主演梅尔·吉布森MelGibson钱斯·赫斯菲尔德ChanceHurstfield沃尔顿·戈金斯WaltonGoggins玛丽安娜·琼-巴普蒂斯特MarianneJean-Baptiste肖恩·本森ShaunBenson保利诺·努内斯PaulinoNunes马克·戴MarkDay黛博拉·格罗弗DeborahGrover米雪儿·朗MichelleLang罗伯特·博克斯塔尔RobertBockstael迈克尔·迪克森MichaelDickson米克尔·康德MikaelConde肖恩·塔克SeanTucker沙维尔·索特洛XavierSotelo肖恩迪瓦恩SeanDevine迈克尔·戴森MichaelDyson迪伦·罗伯茨DylanRobertsBillLake◎标签喜剧|动作|美国|奇幻|犯罪|搞笑|2020|英国◎简介圣诞老人克里斯（梅尔·吉布森饰）随着年纪增长，事业也跟着逐年下滑。为了拯救圣诞工厂，并养活他的小精灵员工，他被迫与美军合作，转行开始制造军武。不过一次失误，竟让他惹来杀身之祸？！就在圣诞节早晨，一位富豪家庭男孩（钱斯·赫斯菲尔德饰），满心期待地打开圣诞礼物，却发现礼物只是一块煤炭。恼羞成怒的他，决定雇用职业杀手，猎杀这位让他火冒三丈的圣诞老人……屁孩PK圣诞老人，最后究竟谁输谁赢？",
@@ -13149,7 +13129,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201122/60758.html",
     date: "2020-11-2201:21:51",
     desc: "◎译名驯鹰者的崛起/上升的鹰◎片名TheRisingHawk/ZaharBerkut/ЗахарБеркут◎年代2019◎产地乌克兰,美国◎类别剧情/动作/历史◎语言乌克兰语◎字幕中英双字幕◎上映日期2019-10-10(乌克兰)◎IMDb评分5.9/10from2274users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名驯鹰者的崛起/上升的鹰◎片名TheRisingHawk/ZaharBerkut/ЗахарБеркут◎年代2019◎产地乌克兰,美国◎类别剧情/动作/历史◎语言乌克兰语◎字幕中英双字幕◎上映日期2019-10-10(乌克兰)◎IMDb评分5.9/10from2274users◎豆瓣评分6.2/10from140users◎文件格式x264+aac◎视频尺寸1920x1080◎片长135分钟◎导演阿希姆特·塞塔布拉耶夫AkhtemSeitablaev约翰·韦恩JohnWynn◎编剧里奇·罗纳特RichRonat奥列格·马拉姆兹YaroslavVoytseshek◎主演罗伯特·帕特里克RobertPatrick帕皮·德雷顿PoppyDrayton汤米·弗拉纳根TommyFlanagan艾莉森·杜迪AlisonDoody亚历克斯·马克尼科尔AlexMacNicoll洛奇.迈尔斯RockyMyers奥利弗·特雷韦纳OliverTrevena阿琳娜·科瓦连科AlinaKovalenko◎标签蒙古|战争|乌克兰|历史|中世纪|2019|美国|青春◎简介1241年，成吉思汗的儿子们率领的蒙古大军西征，所到之处生灵涂炭。当他们抵达到达喀尔巴阡山脉时，当地猎人贝尔库特兄弟秘密进入营地蒙古并释放了被挟持人质。愤怒的蒙古将军决定采取报复措施，摧毁喀尔巴阡当地的居民定居点。当地人中的一个叛徒告诉蒙古人山里的秘密通道，但贝尔库特兄弟领导的一小群山地猎人有自己的计划来阻止蒙古人的袭击。根据伊凡·法兰科的中篇小说《扎克哈尔·伯库特》改编",
@@ -13179,7 +13159,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201122/60757.html",
     date: "2020-11-2101:09:44",
     desc: "◎译名MyPrinceEdward◎片名金都◎年代2019◎产地中国香港◎类别剧情◎语言粤语◎字幕中文◎上映日期2019-11-17(香港亚洲电影节)/2020-06-11(中国香港)◎IMDb评分6.8/10from290users◎豆瓣评分7.6/10from5937users◎文件格式x264",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名MyPrinceEdward◎片名金都◎年代2019◎产地中国香港◎类别剧情◎语言粤语◎字幕中文◎上映日期2019-11-17(香港亚洲电影节)/2020-06-11(中国香港)◎IMDb评分6.8/10from290users◎豆瓣评分7.6/10from5937users◎文件格式x264+aac◎视频尺寸1920x1080◎片长91分钟◎导演黄绮琳NorrisWong◎编剧黄绮琳NorrisWong◎主演邓丽欣StephyTang朱柏康TommyChu鲍起静HeeChingPaw金楷杰KaijieJin林二汶EmanLam许素莹So-yingHui岑珈其KakiSham卢镇业Chun-YipLo易健儿CreamyYick袁绮雯Yee-ManYuen陈健朗KinlongChan陈俞希HaileyChan麦子乐BryantJi-LokMak◎标签香港|香港电影|爱情|邓丽欣|剧情|2019|金马奖|黄绮琳◎简介《金都》以坐落于太子的金都商场为背景，商场以售卖廉价婚礼商品闻名，电影的主角莉芳在商场的婚纱租赁店工作，与另一婚礼摄影店的年轻东主Edward拍拖七年，Edward被视为莉芳的白马王子，结婚似是迟早的事，但原来莉芳有个不能结婚的秘密。「婚姻」一直被描绘为爱情的大团圆结局，三十开外的女性除了结婚生子，似乎没有出路。电影以太子的平民化婚庆圣地金都商场为背景，三十多岁的婚纱店员为了应付男友催婚，逼于处理早年为钱假结婚的烂摊子。每天都离不开婚嫁话题的她，如何选择自己的人生路向？◎获奖情况第39届香港电影金像奖(2020)最佳编剧(提名)黄绮琳最佳男主角(提名)朱柏康最佳女主角(提名)邓丽欣最佳女配角(提名)鲍起静最佳剪接(提名)张叔平/钟家骏最佳原创电影音乐林二汶最佳原创电影歌曲(提名)新晋导演黄绮琳第14届亚洲电影大奖(2020)最佳新导演(提名)黄绮琳",
@@ -13209,7 +13189,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201120/60752.html",
     date: "2020-11-1910:19:01",
     desc: "◎译名柔道煞星/柔术◎片名JiuJitsu◎年代2020◎产地美国◎类别动作/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-11-20(美国)/2020-12-04(荷兰)◎IMDb评分0/10from0users◎豆瓣评分0/10from0users◎字幕中英双字幕◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名柔道煞星/柔术◎片名JiuJitsu◎年代2020◎产地美国◎类别动作/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-11-20(美国)/2020-12-04(荷兰)◎IMDb评分0/10from0users◎豆瓣评分0/10from0users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长102分钟◎导演迪米特里·洛戈塞蒂斯DimitriLogothetis◎编剧迪米特里·洛戈塞蒂斯DimitriLogothetis吉姆·麦格拉思JimMcGrath◎主演尼古拉斯·凯奇NicolasCage玛莉·艾格洛蒲露丝MarieAvgeropoulos弗兰克·格里罗FrankGrillo托尼·贾TonyJaa尹成植RickYune陈钰芸JujuChan阿兰·莫西AlainMoussi汤姆·沃克TomWalker杰姆斯·班尼特JamesP.Bennett马雷塞·克伦普MarreseCrump约翰·D·希克曼JohnD.Hickman兰迪·库卓RandyCouture◎标签尼古拉斯·凯奇|奇幻|动作|漫改|美国|柔术|美国电影|改编◎简介尼古拉斯·凯奇、阿兰·莫西(《泰坦》《搏击之王》系列)将主演动作片《柔道煞星》(JiuJitsu)，迪米特里·洛戈塞蒂斯(《搏击之王》系列)自编自导。基于同名漫画，讲述一群古代的柔术高手每隔六年就要在一场争夺地球的战斗中面对可怕的外星入侵者。凯奇的角色和他的柔术团队与莫西的角色联手获得胜利。",
@@ -13239,7 +13219,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201120/60751.html",
     date: "2020-11-1910:17:42",
     desc: "◎译名来日方长/前路有你/前面的生活/来日同行(台)◎片名Lavitadavantias/TheLifeAhead◎年代2020◎产地意大利◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-11-13(意大利)◎IMDb评分7/10from1873users◎豆瓣评分6.9/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名来日方长/前路有你/前面的生活/来日同行(台)◎片名Lavitadavantiasé/TheLifeAhead◎年代2020◎产地意大利◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-11-13(意大利)◎IMDb评分7/10from1873users◎豆瓣评分6.9/10from132users◎文件格式x264+aac◎视频尺寸1920x1080◎片长94分钟◎导演爱德华多·庞蒂EdoardoPonti◎编剧爱德华多·庞蒂EdoardoPonti乌戈·奇蒂UgoChiti罗曼·加里RomainGary◎主演索菲娅·罗兰SophiaLoren伊布拉辛马·盖伊IbrahimaGueye雷纳托·卡朋特理RenatoCarpentieri马西米利亚诺·罗西MassimilianoRossi阿布里尔·萨莫拉AbrilZamora巴巴克·卡里米BabakKarimi弗朗西斯科·卡萨诺FrancescoCassano◎标签意大利|剧情|2020|意大利电影|Netflix|感人|二战|欧洲◎简介在意大利的一个海滨城市，大屠杀幸存者罗莎夫人（罗兰饰）经营着一家托儿所，她收留了最近抢劫过她的12岁街头流浪儿莫莫。这两个孤独的人成了彼此的保护者，组成了一个非传统的家庭。",
@@ -13255,8 +13235,7 @@ const MOVIELIST = [
     release: "2020-11-13(意大利)",
     time: "94",
     director: "爱德华多·庞蒂EdoardoPonti",
-    writers:
-      "爱德华多·庞蒂EdoardoPonti乌戈·奇蒂UgoChiti罗曼·加里RomainGary",
+    writers: "爱德华多·庞蒂EdoardoPonti乌戈·奇蒂UgoChiti罗曼·加里RomainGary",
     actor: "",
     starring:
       "索菲娅·罗兰 Sophia Loren　伊布拉辛马·盖伊 Ibrahima Gueye　雷纳托·卡朋特理 Renato Carpentieri　马西米利亚诺·罗西 Massimiliano Rossi　阿布里尔·萨莫拉 Abril Zamora　巴巴克·卡里米 Babak Karimi　弗朗西斯科·卡萨诺 Francesco Cassano",
@@ -13270,7 +13249,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201117/60745.html",
     date: "2020-11-1723:34:26",
     desc: "◎译名绝密档案/档案◎片名Archive◎年代2020◎产地英国,匈牙利,美国◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分6.3/10from8406users◎豆瓣评分6.7/10from2339users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名绝密档案/档案◎片名Archive◎年代2020◎产地英国,匈牙利,美国◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分6.3/10from8406users◎豆瓣评分6.7/10from2339users◎文件格式x264+aac◎视频尺寸1920x1080◎片长109分钟◎导演加文·罗瑟里GavinRothery◎编剧加文·罗瑟里GavinRothery◎主演西奥·詹姆斯TheoJames斯塔西·马汀StacyMartin罗娜·迈特拉RhonaMitra彼得·费迪南多PeterFerdinando莉娅·威廉姆斯LiaWilliams托比·琼斯TobyJones杰瑞米·惠勒JeremyWheelerHansPeterson◎标签科幻|英国|2020|英国电影|史黛西·马汀|提奥·詹姆斯|欧洲|watchlist◎简介提奥·詹姆斯加盟[绝密档案](Archive，暂译)。该片是[月球]的概念设计者加文·罗瑟里的导演处女作。故事设置在近未来，提奥饰演的科学家，创造出一款与人类十分接近的机器人，他的科研成果背后，却隐藏着不可告人的目的。[摩天大楼]摄影师劳里·罗斯将为本片掌镜。",
@@ -13300,7 +13279,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201117/60742.html",
     date: "2020-11-1701:35:02",
     desc: "◎译名LegendofDeification◎片名姜子牙◎年代2020◎产地中国大陆◎类别剧情/动画/奇幻◎语言普通话◎字幕中文◎上映日期2020-10-01(中国大陆)◎IMDb评分6.5/10from265users◎豆瓣评分7.0/10from317970users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名LegendofDeification◎片名姜子牙◎年代2020◎产地中国大陆◎类别剧情/动画/奇幻◎语言普通话◎字幕中文◎上映日期2020-10-01(中国大陆)◎IMDb评分6.5/10from265users◎豆瓣评分7.0/10from317970users◎文件格式x264+aac◎视频尺寸1920x1080◎片长110分钟◎导演程腾TengCheng李炜LiWei李夏XiaLi王昕XinWang◎编剧谢茜颖QianyingXie◎主演郑希XiZheng杨凝NingYang图特哈蒙ShengFeng阎么么MemeYan季冠霖GuanlinJi姜广涛GuangtaoJiang◎标签国漫|国产动画|中国动画|奇幻|动画电影|国产|动画|动漫◎简介故事发生于封神大战后。姜子牙率领众神伐纣，赢得封神大战胜利，以为可以唤回世间安宁。然而，一切并未结束。一个偶然，姜子牙发现了原来“封神大战”之下酝酿着更大的阴谋。姜子牙开始踏上探寻真相的旅途……◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的华语电影(提名)",
@@ -13330,7 +13309,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201117/60741.html",
     date: "2020-11-1621:30:06",
     desc: "◎译名末日逃生/天劫倒数(台)/末世绿洲(港)/格陵兰/格陵兰陷落◎片名Greenland◎年代2020◎产地美国,英国◎类别剧情/科幻/灾难◎语言英语◎字幕中英双字幕◎上映日期2020-07-29(比利时)/2020-11-20(中国大陆)/2020-12-18(美国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名末日逃生/天劫倒数(台)/末世绿洲(港)/格陵兰/格陵兰陷落◎片名Greenland◎年代2020◎产地美国,英国◎类别剧情/科幻/灾难◎语言英语◎字幕中英双字幕◎上映日期2020-07-29(比利时)/2020-11-20(中国大陆)/2020-12-18(美国)◎IMDb评分6.4/10from10856users◎豆瓣评分5.9/10from2350users◎文件格式x264+aac◎视频尺寸1920x1080◎片长119分钟◎导演里克·罗曼·沃夫RicRomanWaugh◎编剧克里斯·斯帕林ChrisSparling◎主演杰拉德·巴特勒GerardButler莫蕾娜·巴卡琳MorenaBaccarin大卫·丹曼DavidDenman霍普·戴维斯HopeDavis罗杰·戴尔·弗洛伊德RogerDaleFloyd安德鲁·巴切勒AndrewBachelor梅琳·当吉MerrinDungey霍特·麦克卡兰尼HoltMcCallany斯科特·格伦ScottGlenn里克·帕斯夸隆RickPasqualone阿兰·皮特鲁塞泽维斯基AlanPietruszewski斯科特·波伊思雷斯ScottPoythress加里·维克斯GaryWeeks特雷西·邦纳TraceyBonner海耶斯·梅居尔HayesMercure库尔特·岳KurtYue克米特·罗里森KermitRolison布兰登奎因BrandonQuinn约书亚·米克尔JoshuaMikel詹姆斯·罗根JamesLogan兰达尔·阿切尔RandallArcher凯特·琼斯CateJones肯德里克·克罗斯KendrickCrossLeeannTweeden阿·米切尔AlMitchellAdamCronan艾琳·法萨诺ErinFasano迈克·加萨威MikeGassaway帕蒂·舍尔哈斯PattiSchellhaas◎标签灾难|科幻|2020|美国|杰拉德·巴特勒|美国电影|家庭|剧情◎简介两颗彗星正在朝地球运动，人类即将在24小时内面临毁灭性撞击，然而政府封锁了内部消息，在格陵兰建造了堡垒，只允许部分人类进入。建筑工程师John获得了进入堡垒的机会，带着一家三口踏上了去往格陵兰的末日逃生路。然而，在逃亡的过程中，军队得知自己已经被政府抛弃，开始失去控制，劫持了去往格陵兰的飞机，John的妻子与儿子也因此失散。John只能去约定好的地方等待妻子与儿子，期望会合后一并开车前往目的地格陵兰。这一路惊心动魄，历经重重困难，他们一家人最终是否可以会合，安全抵达格陵兰……",
@@ -13360,7 +13339,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201117/60740.html",
     date: "2020-11-1701:25:23",
     desc: "◎译名塞加拉陵墓揭秘◎片名SecretsoftheSaqqaraTomb◎年代2020◎产地美国◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-10-28(美国)◎IMDb评分7.3/10from2945users◎豆瓣评分7.3/10from449users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名塞加拉陵墓揭秘◎片名SecretsoftheSaqqaraTomb◎年代2020◎产地美国◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-10-28(美国)◎IMDb评分7.3/10from2945users◎豆瓣评分7.3/10from449users◎文件格式x264+aac◎视频尺寸1920x1080◎片长113分钟◎标签纪录片|考古|Netflix|古埃及|埃及|2020|美国|Documentary◎简介该纪录片将为观众呈现埃及考古学家在挖掘出一个未曾接触过4,400年的坟墓之后，试图破译这一惊人发现的历史。",
@@ -13389,7 +13368,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201117/60739.html",
     date: "2020-11-1601:14:18",
     desc: "◎译名釜山行2：半岛/半岛/尸杀半岛(港)/尸速列车：感染半岛(台)/釜山行2◎片名Peninsula/TraintoBusan2◎年代2020◎产地韩国◎类别动作/惊悚/恐怖◎语言韩语,英语,粤语◎字幕中文◎上映日期2020-07-15(韩国)◎IMDb评分5.4/10from14950us",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名釜山行2：半岛/半岛/尸杀半岛(港)/尸速列车：感染半岛(台)/釜山行2◎片名Peninsula/TraintoBusan2◎年代2020◎产地韩国◎类别动作/惊悚/恐怖◎语言韩语,英语,粤语◎字幕中文◎上映日期2020-07-15(韩国)◎IMDb评分5.4/10from14950users◎豆瓣评分5.1/10from85146users◎文件格式x264+aac◎视频尺寸1920x1080◎片长115分钟◎导演延尚昊Sang-hoYeon◎编剧延尚昊Sang-hoYeon◎主演姜栋元Dong-wonKang李贞贤Jung-hyunLee权海骁Hae-hyoKwon李来ReLee金敏载KimMin-jae具教焕GuKyohwan金度允Do-yoonKim李艺媛Ye-wonLee文宇振Woo-jinMoon金丹菲Dan-biKim◎标签丧尸|灾难|韩国|韩国电影|恐怖|人性|2020|电影◎简介上集列车驶往釜山后，丧尸病毒瞬间全国爆发，4年后的韩国尸毒遍野，被全球孤立，沦为死城。所馀无几的生还者踏上最后一艘难民船，离开被世人遗弃的朝鲜半岛。退伍军人正锡(姜栋元饰)和家人有幸登上难民船，但一上船便发现丧尸潜伏，幸得香港收容，这批韩国人才得以上岸，以「半岛难民」身分在香港重新生活。但正锡受不住金钱诱惑，加入了一个回国窃取巨额美金的行动。他和队友重返韩国，竟然发现仍有一班未受尸毒感染的人在挣扎求存，正锡决定带这班倖存者逃生，他们最后能否成功逃出尸杀半岛？◎获奖情况第73届戛纳电影节(2020)入选过戛纳导演作品(提名)第41届韩国电影青龙奖(2020)最佳导演(提名)延尚昊最佳女配角(提名)李来最佳美术(提名)最佳照明(提名)技术奖(提名)",
@@ -13420,7 +13399,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201116/60738.html",
     date: "2020-11-1501:01:56",
     desc: "◎译名来自深渊：深魂的黎明/剧场版来自深渊深邃的魂之黎明◎片名劇場版メイドインアビス深き魂の黎明/MadeinAbyss:DawnoftheDeepSoul◎年代2020◎产地日本◎类别动画◎语言日语◎字幕中文◎上映日期2020-01-17(日本)◎IMDb评分8.2/1",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2610705080.jpg",
     link: "",
     summary:
       "◎译名来自深渊：深魂的黎明/剧场版来自深渊深邃的魂之黎明◎片名劇場版メイドインアビス深き魂の黎明/MadeinAbyss:DawnoftheDeepSoul◎年代2020◎产地日本◎类别动画◎语言日语◎字幕中文◎上映日期2020-01-17(日本)◎IMDb评分8.2/10from823users◎豆瓣评分8.8/10from5549users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演小岛正幸MasayukiKojima◎编剧仓田英之HideyukiKurata◎主演富田美忧MiyuTomita伊濑茉莉也MariyaIse井泽诗织ShioriIzawa水濑祈InoriMinase大原沙耶香SayakaOhara稻田彻TetsuInada喜多村英梨EriKitamura原奈津子NatsukoHara川田绅司ShinjiKawada下山吉光YoshimitsuShimoyama后藤弘树HirokiGotô武藏真之介ShinnosukeMusashi田岛章宽TajimaAkihiro中务贵幸TakayukiNakatsukasa中村源太NakamuraGenta新祐树ShinYuuki坂本真绫MaayaSakamoto森川智之ToshiyukiMorikawa◎标签来自深渊|日本|动画|剧场版|日本动画|奇幻|冒险|动漫◎简介在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“阿比斯”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“阿比斯”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。住在建造于阿比斯边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开阿比斯的谜团。某天，以母亲莱萨的白笛被发现为契机，莉可决定潜入阿比斯深处。被莉可捡到的丧失记忆的机器人雷格，也为了寻找自己的记忆而决定同行。莉可在深界四层中了穿弹兽的毒。救了莉可的，是“生骸”娜娜奇。娜娜奇也成为两人的同伴，三人的冒险向着波多尔多所在的深界五层进发。在那里，他们遇到了一位自称为普鲁修卡的女孩子……",
@@ -13450,7 +13429,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201116/60737.html",
     date: "2020-11-1500:57:27",
     desc: "◎译名担保/无价之保(台)◎片名Pawn◎年代2020◎产地韩国◎类别剧情◎语言韩语◎字幕中文◎上映日期2020-09-29(韩国)◎豆瓣评分7.8/10from3385users◎文件格式x264+aac◎视频尺寸1920x1080◎片长113分钟(韩国)◎导演康大奎D",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名担保/无价之保(台)◎片名Pawn◎年代2020◎产地韩国◎类别剧情◎语言韩语◎字幕中文◎上映日期2020-09-29(韩国)◎豆瓣评分7.8/10from3385users◎文件格式x264+aac◎视频尺寸1920x1080◎片长113分钟(韩国)◎导演康大奎Dae-gyuKang◎编剧尹济均JKYoun/康大奎Dae-gyuKang◎主演成东日Dong-ilSung河智苑Ji-wonHa朴昭怡So-iPark金熙元Hae-wonKim金允珍YunjinKim洪承熙HongSeungHee罗文姬Mun-heeNa◎标签温情|韩国|韩国电影|成东日|剧情|2020|河智苑|电影◎简介1993年，仁川，高利贷追讨者头石（成东日饰）和宗培（金熙元饰）想从明子（金允珍饰）处拿回欠款，却因为明子的窘迫只得将她的女儿承利（朴昭怡饰）带走作为担保。因为被人举报，作为非法滞留者的明子遭到驱逐，临行前拜托头石将承利送至其大伯处。本以为承利会被有钱人家收养的头石却发现承利被送到了不该她待的地方，他毅然决定把承利夺回…此去经年，正在中国作为中韩外交事务翻译的承利接到宗培的电话，得知了失踪已久的头石的讯息…",
@@ -13480,7 +13459,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201114/60734.html",
     date: "2020-11-1400:56:59",
     desc: "◎译名Vanguard/急先锋电影版◎片名急先锋◎年代2020◎产地中国大陆◎类别动作◎语言普通话◎字幕中文◎上映日期2020-09-30(中国)◎IMDb评分4.6/10from500users◎豆瓣评分5.1/10from36034users◎文件格式x264+aac◎视频尺寸3840",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名Vanguard/急先锋电影版◎片名急先锋◎年代2020◎产地中国大陆◎类别动作◎语言普通话◎字幕中文◎上映日期2020-09-30(中国)◎IMDb评分4.6/10from500users◎豆瓣评分5.1/10from36034users◎文件格式x264+aac◎视频尺寸3840x1616◎片长108分钟◎导演唐季礼StanleyTong◎编剧唐季礼StanleyTong◎主演成龙JackieChan杨洋YangYang艾伦Allen徐若晗RuohanXu母其弥雅MiyaMuqi朱正廷ZhengtingZhu楼学贤JacksonLauHok-Yin郭芷妍Nikita埃亚德·胡拉尼EyadHourani杨建平JianpingYang周斌BinZhou王延龙YanlongWang王驹唐季礼StanleyTong杰古DiegoDati◎标签动作|喜剧|2020|冒险|中国大陆|军事|3D|成长◎简介中国商人秦国立在英国惨遭雇佣兵组织“北极狼”绑架，秦的女儿Fareeda（徐若晗饰）也卷入其中，遭到追杀。千钧一发之际，急先锋国际安保团队成为他们唯一的希望，由总指挥唐焕庭（成龙饰）带领雷震宇（杨洋饰）、张凯旋（艾伦饰）、弥雅（母其弥雅饰）、神雕（朱正廷饰）等组成的急先锋行动小组，上天入地，辗转全球各地施展惊险营救。解救人质的过程中，竟发现“北极狼”背后的犯罪集团还策划了一场惊天密谋……",
@@ -13510,7 +13489,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201114/60733.html",
     date: "2020-11-1300:52:55",
     desc: "◎译名Vanguard/急先锋电影版◎片名急先锋◎年代2020◎产地中国大陆◎类别动作◎语言粤语◎字幕中文◎上映日期2020-09-30(中国)◎IMDb评分4.6/10from500users◎豆瓣评分5.1/10from36034users◎文件格式x264+aac◎视频尺寸1920x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名Vanguard/急先锋电影版◎片名急先锋◎年代2020◎产地中国大陆◎类别动作◎语言粤语◎字幕中文◎上映日期2020-09-30(中国)◎IMDb评分4.6/10from500users◎豆瓣评分5.1/10from36034users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演唐季礼StanleyTong◎编剧唐季礼StanleyTong◎主演成龙JackieChan杨洋YangYang艾伦Allen徐若晗RuohanXu母其弥雅MiyaMuqi朱正廷ZhengtingZhu楼学贤JacksonLauHok-Yin郭芷妍Nikita埃亚德·胡拉尼EyadHourani杨建平JianpingYang周斌BinZhou王延龙YanlongWang王驹唐季礼StanleyTong杰古DiegoDati◎标签动作|喜剧|2020|冒险|中国大陆|军事|3D|成长◎简介中国商人秦国立在英国惨遭雇佣兵组织“北极狼”绑架，秦的女儿Fareeda（徐若晗饰）也卷入其中，遭到追杀。千钧一发之际，急先锋国际安保团队成为他们唯一的希望，由总指挥唐焕庭（成龙饰）带领雷震宇（杨洋饰）、张凯旋（艾伦饰）、弥雅（母其弥雅饰）、神雕（朱正廷饰）等组成的急先锋行动小组，上天入地，辗转全球各地施展惊险营救。解救人质的过程中，竟发现“北极狼”背后的犯罪集团还策划了一场惊天密谋……",
@@ -13540,7 +13519,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201114/60732.html",
     date: "2020-11-1300:28:52",
     desc: "◎译名CoffeeorTea?◎片名一点就到家◎年代2020◎产地中国大陆◎类别剧情/喜剧◎语言普通话◎字幕中文◎上映日期2020-10-04(中国大陆)◎IMDb评分6.4/10from55users◎豆瓣评分7.0/10from102126users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名CoffeeorTea?◎片名一点就到家◎年代2020◎产地中国大陆◎类别剧情/喜剧◎语言普通话◎字幕中文◎上映日期2020-10-04(中国大陆)◎IMDb评分6.4/10from55users◎豆瓣评分7.0/10from102126users◎文件格式x264+aac◎视频尺寸1920x808◎片长97分钟◎导演许宏宇DerekHui◎编剧张冀JiZhang周运海YunhaiZhou◎主演刘昊然HaoranLiu彭昱畅YuchangPeng尹昉FangYin谭卓ZhuoTan张琪QiZhang李佳琦JiaqiLi◎标签喜剧|刘昊然|彭昱畅|国产电影|2020|中国大陆|尹昉|电影◎简介魏晋北（刘昊然饰）、彭秀兵（彭昱畅饰）、李绍群（尹昉饰）三个性格迥异的年轻人从大城市回到云南千年古寨，机缘巧合下共同创业，与古寨“格格不入”的他们用真诚改变了所有人，开启了一段非常疯狂、纯真的梦想之旅。",
@@ -13570,7 +13549,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201113/60729.html",
     date: "2020-11-1200:17:15",
     desc: "◎译名比尔和泰德寻歌记/阿比阿弟寻歌大冒险(台)◎片名BillTedFacetheMusic◎年代2020◎产地美国◎类别喜剧/科幻/音乐◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分6.1/10from22446users◎豆瓣评分6.0/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名比尔和泰德寻歌记/阿比阿弟寻歌大冒险(台)◎片名Bill&TedFacetheMusic◎年代2020◎产地美国◎类别喜剧/科幻/音乐◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分6.1/10from22446users◎豆瓣评分6.0/10from547users◎文件格式x264+aac◎视频尺寸1920x1080◎片长91分钟◎导演迪恩·帕里索DeanParisot◎编剧克里斯·马瑟森ChrisMatheson艾德·索罗门EdSolomon◎主演基努·里维斯KeanuReeves萨玛拉·维文SamaraWeaving安东尼·卡里根AnthonyCarrigan亚历克斯·温特AlexWinter威廉姆·赛德勒WilliamSadler杰玛·梅斯JaymaMays埃瑞恩·海耶斯ErinnHayes吉莉恩·贝尔JillianBell布里盖特·伦迪·佩恩BrigetteLundy-Paine贝克·班尼特BeckBennett卡迪小子KidCudi小哈尔·兰登HalLandonJr.艾米·斯托克-波因顿AmyStock-Poynton◎标签喜剧|科幻|基努里维斯|美国|2020|KeanuReeves|美国电影|电影◎简介此前基努·里维斯、亚历克斯·温特已确认联手回归喜剧[比尔和泰德]系列第三部[比尔和泰德寻歌记]，导演迪恩·帕里索特，该系列原编剧克里斯·马瑟森、艾德·索罗门操刀剧本。但近日里维斯却对该片能否如期而至表示不太确定。里维斯是在接受“雅虎娱乐”采访时透露的这一消息，他称由于一些幕后问题，该片能否照原计划进行现在并不确定。里维斯表示：“我们为这部片子已经等了很长时间，但现在还是存在一些‘挑战’。我很喜欢这个系列的这些角色，新片剧本已经就绪，故事很棒，但在‘资金、版权、合同’上还存在一些问题。”[比尔和泰德]系列前两部[比尔和泰德历险记]、[比尔和泰德畅游鬼门关]分别于1989年、1991年上映，讲述了两个高中生穿越时空经历冒险的故事。新片则围绕两个已人到中年的好友再次开启时空探险、寻找“救命歌曲”展开。米高梅负责北美发行。",
@@ -13600,7 +13579,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201112/60726.html",
     date: "2020-11-1102:09:10",
     desc: "◎译名史泰登岛国王/史丹顿岛之王◎片名TheKingofStatenIsland/StatenIsland◎年代2020◎产地美国◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分7.1/10from27240users◎豆瓣评分7.2/10from1072",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名史泰登岛国王/史丹顿岛之王◎片名TheKingofStatenIsland/StatenIsland◎年代2020◎产地美国◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分7.1/10from27240users◎豆瓣评分7.2/10from1072users◎文件格式x264+aac◎视频尺寸1920x1080◎片长137分钟◎导演贾德·阿帕图JuddApatow◎编剧贾德·阿帕图JuddApatow皮特·戴维森PeteDavidson戴夫·西鲁斯DaveSirus◎主演皮特·戴维森PeteDavidson蓓尔·波利BelPowley里奇·韦莱兹RickyVelez卢·威尔逊LouWilson莫伊塞斯·阿里亚斯MoisesArias卡莉·阿奎利诺CarlyAquilino玛丽莎·托梅MarisaTomei茉德·阿帕图MaudeApatow罗伯特·维达尔三世RobertVidalIII安格斯·科斯特洛AngusCostello宝琳·查拉梅PaulineChalamet琳恩·科普利兹LynneKoplitz约瑟夫·保罗·肯尼迪JosephPaulKennedy妮娜·赫尔曼NinaHellman杰克·汉布林JackHamblin凯文·考利甘KevinCorrigan卢克·大卫·布鲁姆LukeDavidBlumm比尔·伯尔BillBurr德里克·盖恩斯DerekGainesRichVos史蒂夫·布西密SteveBuscemi吉米·塔特罗JimmyTatro亚历克西斯·蕾·佛伦哲AlexisRaeForlenza多米尼克·隆巴多兹DomenickLombardozzi拉斐尔·普里埃RafaelPoueriet帕梅拉·阿德龙PamelaAdlonNanaMensah机关枪凯利MachineGunKelly安东尼·李·梅迪纳AnthonyLeeMedina罗伯特·斯密戈尔RobertSmigelMarilynTorres亚历山德拉·艾布拉姆斯AlexandraAbrams瑞娜·郑RainaCheng列尼斯·德洛桑托斯LeonysDelossantos吉米·斯达JimmyStar◎标签美国|喜剧|2020|黑色幽默|剧情|成长|人生|社会◎简介剧情灵感来自戴维森的真实生活，包括他那在911事件中去世的消防员父亲。主角为二十多岁的男子Scott，他跟妈妈住一起，梦想是当纹身师，但每天除了吸麻和朋友鬼混、暗暗勾搭青梅竹马之外无所事事。而妈妈找的新男友却引发了一系列事件，迫使开始Scott正视自己的人生。",
@@ -13616,8 +13595,7 @@ const MOVIELIST = [
     release: "2020-06-12(美国)",
     time: "137",
     director: "贾德·阿帕图JuddApatow",
-    writers:
-      "贾德·阿帕图JuddApatow皮特·戴维森PeteDavidson戴夫·西鲁斯DaveSirus",
+    writers: "贾德·阿帕图JuddApatow皮特·戴维森PeteDavidson戴夫·西鲁斯DaveSirus",
     actor: "",
     starring:
       "皮特·戴维森 Pete Davidson　蓓尔·波利 Bel Powley　里奇·韦莱兹 Ricky Velez　卢·威尔逊 Lou Wilson　莫伊塞斯·阿里亚斯 Moises Arias　卡莉·阿奎利诺 Carly Aquilino　玛丽莎·托梅 Marisa Tomei　茉德·阿帕图 Maude Apatow　罗伯特·维达尔三世 Robert Vidal III　安格斯·科斯特洛 Angus Costello　宝琳·查拉梅 Pauline Chalamet　琳恩·科普利兹 Lynne Koplitz　约瑟夫·保罗·肯尼迪 Joseph Paul Kennedy　妮娜·赫尔曼 Nina Hellman　杰克·汉布林 Jack Hamblin　凯文·考利甘 Kevin Corrigan　卢克·大卫·布鲁姆 Luke David Blumm　比尔·伯尔 Bill Burr　德里克·盖恩斯 Derek Gaines　Rich Vos　史蒂夫·布西密 Steve Buscemi　吉米·塔特罗 Jimmy Tatro　亚历克西斯·蕾·佛伦哲 Alexis Rae Forlenza　多米尼克·隆巴多兹 Domenick Lombardozzi　拉斐尔·普里埃 Rafael Poueriet　帕梅拉·阿德龙 Pamela Adlon　Nana Mensah　机关枪凯利 Machine Gun Kelly　安东尼·李·梅迪纳 Anthony Lee Medina　罗伯特·斯密戈尔 Robert Smigel　Marilyn Torres　亚历山德拉·艾布拉姆斯 Alexandra Abrams　瑞娜·郑 Raina Cheng　列尼斯·德洛桑托斯 Leonys Delossantos　吉米·斯达 Jimmy Star",
@@ -13631,7 +13609,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201111/60724.html",
     date: "2020-11-1001:21:55",
     desc: "◎译名记忆屋：我永远不会忘记你◎片名記憶屋あなたを忘れない/TheMemoryEraser◎年代2020◎产地日本◎类别剧情/科幻◎语言日语◎字幕中文◎上映日期2020-01-17(日本)◎IMDb评分4.4/10from9users◎豆瓣评分5.8/10from197users◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名记忆屋：我永远不会忘记你◎片名記憶屋あなたを忘れない/TheMemoryEraser◎年代2020◎产地日本◎类别剧情/科幻◎语言日语◎字幕中文◎上映日期2020-01-17(日本)◎IMDb评分4.4/10from9users◎豆瓣评分5.8/10from197users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演平川雄一朗YuichiroHirakawa曾利文彦FumihikoSori◎编剧鹿目庆子KeikoKanome平川雄一朗YuichiroHirakawa◎主演山田凉介RyôsukeYamada芳根京子KyôkoYoshine莲佛美沙子MisakoRenbutsu佐佐木藏之介KuranosukeSasaki◎标签山田凉介|日本电影|日本|日影|山田涼介|芳根京子|电影|漫改◎简介大学生辽一（山田凉介饰）与学姊杏子（莲佛美沙子饰）是一对幸福的恋人，就在辽一求婚成功的隔天，杏子却突然断绝一切联络，直至多日后相见，辽一才发现杏子丧失了所有与他有关的记忆。似曾相识的事情也曾发生在青梅竹马真希（芳根京子饰）的身上，而这一切似乎与都市传说中，可以将人的记忆消除的「记忆使者」有关。在前辈律师高原（佐佐木藏之介饰）以及真希两人的帮助之下，辽一逐步追查恋人失去记忆的真相。他发现「记忆使者」的存在拯救了许多人，消除记忆不一定是坏事，因为人们心中有许多残酷、痛苦、令人「想忘记的记忆」。那么，杏子又为何仅仅忘记关于自己的事呢？真相逐步逼近，他身边的人也一而再地出现不可思议的空白断层……",
@@ -13661,7 +13639,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201111/60723.html",
     date: "2020-11-1001:20:34",
     desc: "◎译名海绵宝宝：营救大冒险/海绵宝宝3/海绵宝宝：奔跑吧(台)/海绵宝宝：急急脚走佬(港)◎片名TheSpongeBobMovie:SpongeontheRun/It'saWonderfulSponge/SpongeBobSquarepants3/SpongebobMovie3◎年代2020◎产地美国/韩国◎类别喜剧/动画/冒",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名海绵宝宝：营救大冒险/海绵宝宝3/海绵宝宝：奔跑吧(台)/海绵宝宝：急急脚走佬(港)◎片名TheSpongeBobMovie:SpongeontheRun/It'saWonderfulSponge/SpongeBobSquarepants3/SpongebobMovie3◎年代2020◎产地美国/韩国◎类别喜剧/动画/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-08-14(加拿大)/2020-11-06(中国大陆)◎IMDb评分6.2/10from3637users◎文件格式x264+aac◎视频尺寸1920x1080◎片长91分钟◎导演蒂姆·希尔TimHill◎编剧蒂姆·希尔TimHill乔纳森·阿贝尔JonathanAibel格伦·伯杰GlennBerger史蒂芬·海伦伯格StephenHillenburg保罗·提比特PaulTibbitt◎主演基努·里维斯KeanuReeves奥卡菲娜Awkwafina克兰西·布朗ClancyBrown汤姆·肯尼TomKenny比尔·法格巴克BillFagerbakke罗里·艾伦LoriAlan劳伦斯先生Mr.Lawrence玛丽·乔·卡特利特MaryJoCatlett罗德格尔·邦帕斯RodgerBumpass吉尔·塔利JillTalley卡罗琳·劳伦斯CarolynLawrence维罗妮卡·阿利奇诺VeronicaAlicino◎标签海绵宝宝|动画|喜剧|2020|美国|3D|派拉蒙|Nickelodeon◎简介《海绵宝宝：营救大冒险》讲述了海绵宝宝心爱的宠物小蜗被绑架后，海绵宝宝和派大星前往失落的大西洋城展开营救冒险的故事。在这场充满危险又妙趣横生的营救行动中，海绵宝宝和他的朋友们用实际行动证明了友谊的力量无限大！",
@@ -13694,7 +13672,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201109/60719.html",
     date: "2020-11-0901:13:41",
     desc: "◎译名占有者◎片名Possessor/PossessorUncut◎年代2020◎产地加拿大,英国◎类别科幻/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-02(美国)◎IMDb评分6.5/10from4685users◎豆瓣评分6.1/10from1036u",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名占有者◎片名Possessor/PossessorUncut◎年代2020◎产地加拿大,英国◎类别科幻/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-02(美国)◎IMDb评分6.5/10from4685users◎豆瓣评分6.1/10from1036users◎文件格式x264+aac◎视频尺寸1920x1080◎片长103分钟◎导演布兰登·柯南伯格BrandonCronenberg◎编剧布兰登·柯南伯格BrandonCronenberg◎主演肖恩·宾SeanBean汉娜克·塔波特HannekeTalbot詹妮弗·杰森·李JenniferJasonLeigh安德丽娅·赖斯伯勒AndreaRiseborough瑞秋·克劳福德RachaelCrawford塔彭丝·米德尔顿TuppenceMiddleton罗西弗·萨瑟兰RossifSutherland盖奇·格雷厄姆·阿布斯诺特GageGraham-Arbuthnot丹尼·沃DannyWaugh克里斯托弗·阿波特ChristopherAbbott雷欧·巴奈扎RaoulBhaneja克里斯托弗·贾科特ChristopherJacot卡内赫迪奥·霍恩KaniehtiioHorn黛拉格·坎贝尔DeraghCampbell道格·麦克劳德DougMacLeod◎标签科幻|惊悚|2020|犯罪|加拿大|英国|电影|詹妮弗·杰森·李◎简介讲述一个秘密组织的特工TasyaVos利用大脑植入技术来“栖息”在他人的身体里，驱使他们为某些高薪客户执行暗杀任务。然而一次例行工作出了差错，她很快发现自己陷入了一个不知情的嫌疑犯的思想中，其对暴力的欲望导致她要和自己作斗争。◎获奖情况第33届东京国际电影节(2020)东京首映2020(提名)布兰登·柯南伯格",
@@ -13724,7 +13702,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201109/60718.html",
     date: "2020-11-0901:08:33",
     desc: "◎译名新变种人/变种人(台)/新变档人(豆友译名)/新异变人(港)◎片名TheNewMutants/X-Men:TheNewMutants◎年代2020◎产地美国◎类别动作/科幻/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分5.5/10from14777u",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名新变种人/变种人(台)/新变档人(豆友译名)/新异变人(港)◎片名TheNewMutants/X-Men:TheNewMutants◎年代2020◎产地美国◎类别动作/科幻/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分5.5/10from14777users◎豆瓣评分4.6/10from3462users◎文件格式x264+aac◎视频尺寸1920x1080◎片长98分钟◎导演约什·布恩JoshBoone◎编剧约什·布恩JoshBoone内特·李KnateLee克里斯·克雷蒙ChrisClaremont莱恩·韦恩LenWein戴夫·科克勒姆DaveCockrum◎主演麦茜·威廉姆斯MaisieWilliams安雅·泰勒-乔伊AnyaTaylor-Joy艾莉丝·布拉加AliceBraga安东尼奥·班德拉斯AntonioBanderas查理·希顿CharlieHeaton海皮·安德森HappyAnderson亨利·扎格HenryZaga布鲁·亨特BluHunt莎拉·贝纳尼SarahBennani◎标签X战警|漫威|科幻|X-Men|Marvel|美国|超级英雄|漫画改编◎简介当五位拥有特殊能力的青少年被关入秘密机构，有一股超自然恶势力正蠢蠢欲动，他们必须面对过去的罪恶，但内心的恐惧即将成真。神秘的背后似乎有巨大的阴谋正在成形，他们是否能勇敢对抗自身的力量，逃脱这一切枷锁……◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的外语电影(提名)",
@@ -13755,7 +13733,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201105/60694.html",
     date: "2020-11-0402:00:16",
     desc: "◎译名圣何塞谋杀案/圣荷西谋杀案◎片名FatalVisit◎年代2020◎产地中国香港◎类别爱情/悬疑/犯罪◎语言粤语/普通话◎字幕中英双字幕◎上映日期2020-09-25(中国香港)/2020-10-04(中国大陆网络)◎IMDb评分5.4/10from67users◎豆瓣评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名圣何塞谋杀案/圣荷西谋杀案◎片名FatalVisit◎年代2020◎产地中国香港◎类别爱情/悬疑/犯罪◎语言粤语/普通话◎字幕中英双字幕◎上映日期2020-09-25(中国香港)/2020-10-04(中国大陆网络)◎IMDb评分5.4/10from67users◎豆瓣评分4.9/10from3225users◎文件格式x264+aac◎视频尺寸3840x1632◎片长88分钟◎导演潘源良Yuen-LeungPoon◎编剧翁子光PhilipYung庄梅岩CandaceChong潘源良Yuen-LeungPoon◎主演郑秀文SammiCheng佟大为DaweiTong蔡卓妍CharleneChoi林嘉华DominicLam谭耀文PatrickTam黎拨佳B.C.Lee◎标签郑秀文|悬疑|香港|犯罪|香港电影|蔡卓妍|佟大为|剧情◎简介故事由女子Yanny（蔡卓妍饰）为了逃避自己在香港的失败恋情，前往美国探望多年不见的女友Ling（郑秀文饰）展开。Ling与丈夫Tang（佟大为饰）在圣荷西过着仿佛宁静无忧的理想生活。但就在短短五天的探访中，Yanny竟揭发了这对夫妇背后隐藏的身份真相。三个人各自有着不可告人的历史，更重演着一场凶案的轨迹，冲向你死我亡的结局。异乡人的美国梦，孤寂与怀疑累积成沉重的代价。◎获奖情况第39届香港电影金像奖(2020)最佳女主角(提名)郑秀文最佳女配角(提名)蔡卓妍",
@@ -13785,7 +13763,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201105/60693.html",
     date: "2020-11-0411:58:17",
     desc: "◎译名花木兰/木兰传说/花木兰真人版/迪士尼真人版花木兰◎片名Mulan◎年代2020◎产地美国,中国大陆◎类别剧情/动作/冒险/古装◎语言英语/普通话◎字幕中英双字幕◎上映日期2020-09-04(美国)/2020-09-11(中国大陆)◎IMDb评分5.4/10fro",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名花木兰/木兰传说/花木兰真人版/迪士尼真人版花木兰◎片名Mulan◎年代2020◎产地美国,中国大陆◎类别剧情/动作/冒险/古装◎语言英语/普通话◎字幕中英双字幕◎上映日期2020-09-04(美国)/2020-09-11(中国大陆)◎IMDb评分5.4/10from66371users◎豆瓣评分5.0/10from222684users◎文件格式x264+aac◎视频尺寸1920x1080◎片长115分钟◎导演妮琪·卡罗NikiCaro◎编剧劳伦·希内克LaurenHynek里克·杰法RickJaffa伊丽莎白·马丁ElizabethMartin阿曼达·斯尔沃AmandaSilver◎主演刘亦菲YifeiLiu甄子丹DonnieYen巩俐LiGong李连杰JetLi李截JasonScottLee安柚鑫YosonAn马泰TziMa赵家玲RosalindChao郑佩佩Pei-peiCheng温明娜Ming-NaWen曾晓童XanaTang袁文忠RonYuan唐辰瀛ChenTang道阿·茂阿DouaMoua黄谷悦JimmyWong尼尔森·李NelsonLee李勋HoonLee饶雪晶CrystalRao袁之正RogerYuan仁成外桥JenSungOuterbridge加里·扬GaryYoung欧文·邝OwenKwong乌特卡什·安邦德卡尔UtkarshAmbudkar钱姆·艾希勒珀拉ChumEhelepola大卫·T·林DavidT·LimJensonCheng◎标签刘亦菲|花木兰|迪士尼|真人版|Disney|电影|古装|美国◎简介在古代中国，一位年轻的女子为了救她的父亲假扮成男装代父从军。在穿越中国广袤土地的壮丽征程中，她从紧张的训练和战争中存活下来，发现自己内心的战士，并且最终从外族侵略者手中救回了皇帝和她的祖国。。刘亦菲饰演花木兰，YosonAn饰演花木兰恋人，李连杰饰演皇帝，巩俐饰演反派女巫，越南华裔女XanaTang饰演花木兰的姐妹，甄子丹饰演花木兰的导师tung。◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的外语电影(提名)",
@@ -13816,7 +13794,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201105/60692.html",
     date: "2020-11-0401:18:57",
     desc: "◎译名母亲/母子情劫(台)/母子逆缘(港)◎片名マザー/Mother◎年代2020◎产地日本◎类别惊悚◎语言日语◎上映日期2020-07-03(日本)/2020-11-03(Netflix)◎IMDb评分7.9/10from92users◎IMDb链接https://www.imdb.com/title/tt11656548/◎豆",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2599858573.jpg",
     link: "",
     summary:
       "◎译名母亲/母子情劫(台)/母子逆缘(港)◎片名マザー/Mother◎年代2020◎产地日本◎类别惊悚◎语言日语◎上映日期2020-07-03(日本)/2020-11-03(Netflix)◎IMDb评分7.9/10from92users◎IMDb链接https://www.imdb.com/title/tt11656548/◎豆瓣评分6.3/10from288users◎字幕中文◎文件格式x264+aac◎视频尺寸1920x1080◎片长126分钟◎导演大森立嗣TatsushiOhmori◎编剧大森立嗣TatsushiOhmori港岳彦TakehikoMinato◎主演长泽雅美MasamiNagasawa阿部隆史SadaoAbe夏帆Kaho皆川猿时SarutokiMinagawa仲野太贺TaigaNagano土村芳KahoTsuchimura大西信满SHIMAOHNISHI木野花HanaKino郡司翔ShoGunji奥平大兼OkudairaDaiken◎标签长泽雅美|日本|日本电影|長澤まさみ|犯罪|2020|日影|大森立嗣◎简介本片是根据实际发生的「少年杀害了祖父母事件」的构思而改编成电影的崭新故事。长泽扮演懒散奔放的母亲·秋子，挑战堕入了社会黑暗面的女人，而阿部サダヲ则饰演与秋子没有结婚登记而同居的丈夫·遼，影片将重点刻画秋子和她年幼的儿子·周平（郡司翔）之间所展开的关系。",
@@ -13846,7 +13824,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201104/60691.html",
     date: "2020-11-0301:12:49",
     desc: "◎译名精神错乱/爆怒时速(港)/精神失常/超危险驾驶(台)◎片名Unhinged◎年代2020◎产地美国◎类别惊悚/悬疑◎语言英语◎上映日期2020-07-31(澳大利亚)/2020-08-21(美国)◎IMDb评分6/10from16300users◎IMDb链接https://www.imdb.com/title/",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名精神错乱/爆怒时速(港)/精神失常/超危险驾驶(台)◎片名Unhinged◎年代2020◎产地美国◎类别惊悚/悬疑◎语言英语◎上映日期2020-07-31(澳大利亚)/2020-08-21(美国)◎IMDb评分6/10from16300users◎豆瓣评分6.2/10from1792users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长90分钟◎导演德瑞克·伯特DerrickBorte◎编剧卡尔·埃尔斯沃斯CarlEllsworth◎主演罗素·克劳RussellCrowe凯伦·皮斯托里斯CarenPistorius加布里埃尔·贝特曼GabrielBateman吉米·辛普森JimmiSimpson奥斯汀·麦肯齐AustinP.McKenzie朱丽叶·乔伊纳JulieneJoyner斯蒂芬·路易斯·格拉什StephenLouisGrush安妮·雷登AnneLeighton德文·泰勒DevynA.Tyler西尔维娅·格雷丝·克里姆SylviaGraceCrim维维安·弗莱明·阿尔瓦雷斯VivianFleming-Alvarez萨曼莎·博利厄SamanthaBeaulieu露西·浮士德LucyFaust谢丽尔·布朗ScherylWBrown迈克尔·帕帕约翰MichaelPapajohn格蕾琴·科尔纳GretchenKoerner唐娜·杜普兰提尔DonnaDuplantier布雷特·斯姆兹BrettSmrz安德鲁·莫尔加多AndrewMorgado戈登·德克海默GordonDexheimer蒂莫西·辛里奇斯TimothyHinrichs◎标签惊悚|犯罪|美国|2020|罗素·克劳|美国电影|悬疑|罗素克劳◎简介瑞秋（凯伦·皮斯托里斯CarenPistorius饰）和丈夫正在分居之中，目前由她独自抚养着年幼的儿子凯伊（加布里埃尔·贝特曼GabrielBateman饰）。离婚事宜的商讨令瑞秋心力交瘁，睡过头的她眼看着就要迟到，却不巧碰上了高速公路大堵车。明明是绿灯，瑞秋却被停在她前面的一辆大卡车拦住了去路，失去耐心的瑞秋狂按喇叭，哪知道却惹恼了卡车司机（罗素·克劳RussellCrowe饰）。卡车司机命令瑞秋为她的不礼貌而道歉，瑞秋拒绝了，此时的瑞秋还并没有意识到，自己已经引火烧身。卡车司机是一名精神病患者，刚刚放火烧死了要同自己离婚的前妻一家子。他掉包了瑞秋的手机，开始对她进行人肉搜索和疯狂报复。",
@@ -13876,7 +13854,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201104/60690.html",
     date: "2020-11-0301:08:51",
     desc: "◎译名云上情歌◎片名Clouds◎年代2020◎产地美国◎类别剧情/音乐◎语言英语◎字幕中英双字幕◎上映日期2020-10-16(美国)◎IMDb评分7.5/10from1973users◎豆瓣评分8.0/10from478users◎字幕中英双字幕◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名云上情歌◎片名Clouds◎年代2020◎产地美国◎类别剧情/音乐◎语言英语◎字幕中英双字幕◎上映日期2020-10-16(美国)◎IMDb评分7.5/10from1973users◎豆瓣评分8.0/10from478users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长122分钟◎导演贾斯汀·贝尔杜尼JustinBaldoni◎编剧卡拉·霍顿KaraHolden/RudyLaScala◎主演芬·奥尔格斯FinArgus内芙·坎贝尔NeveCampbell塞布丽娜·卡彭特SabrinaCarpenter麦迪森·伊瑟曼MadisonIseman汤姆·艾弗瑞特·斯科特TomEverettScott里尔·莱尔·哈瓦瑞LilRelHowerySummerH.Howell薇薇安·安迪克特·道格拉斯VivienEndicottDouglas迪兰·埃弗雷特DylanEverett杰森·玛耶兹JasonMraz蒂龙·本斯金TyroneBenskin路易斯·奥利瓦LuisOliva艾米丽·芭尔多尼EmilyBaldoni亚尼·金YaaniKing玛丽莲·迪恩-罗比齐MylèneDinh-Robic◎标签音乐|青春|美国|剧情|2020|美国电影|改编|OneRepublic◎简介基于真实故事，美国男孩扎克·索比赫14岁被诊断患有骨肉瘤(18岁去世)，多次手术和化疗并未遏制癌症发展，在得知自己只剩几个月寿命后，他创作了《云》这首歌，感谢自己身边的人和所经历的一切，乐观面对。",
@@ -13906,7 +13884,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201104/60689.html",
     date: "2020-11-0401:05:05",
     desc: "◎译名伤心画廊◎片名TheBrokenHeartGallery◎年代2020◎产地美国,加拿大◎类别爱情◎语言英语◎字幕中英双字幕◎上映日期2020-09-11(美国)◎IMDb评分6.1/10from1690users◎豆瓣评分5.8/10from100users◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名伤心画廊◎片名TheBrokenHeartGallery◎年代2020◎产地美国,加拿大◎类别爱情◎语言英语◎字幕中英双字幕◎上映日期2020-09-11(美国)◎IMDb评分6.1/10from1690users◎豆瓣评分5.8/10from100users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演纳塔利·克林斯基NatalieKrinsky◎编剧纳塔利·克林斯基NatalieKrinsky◎主演莫莉·戈登MollyGordon戴克·蒙哥马利DacreMontgomery菲莉帕·苏PhillipaSoo苏琪·沃特豪斯SukiWaterhouse伯纳黛特·彼得斯BernadettePeters杰拉尔丁·维斯瓦纳坦GeraldineViswanathan乌特卡什·安邦德卡尔UtkarshAmbudkar梅根·弗格森MeganFerguson阿图罗·卡斯特罗ArturoCastro泰勒·希尔TaylorHill尼古拉斯·卡雷拉NicholasCarella斯蒂芬妮·吴StephanieNgWanChrisSandiford◎标签美国|爱情|喜剧|加拿大|2020|2020s|13reasonswhy|莫莉·戈登◎简介故事讲述露西天生就是一名收藏家，她与男友分手，而男友是惠特尼博物馆的老板。露西不知道该把恋爱时的物品放在哪里，于是她在一家陌生酒店的大厅中策划了心碎画廊，在那里她找到了自己的声音，并学会了放手去爱。",
@@ -13936,7 +13914,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201103/60682.html",
     date: "2020-11-0202:10:38",
     desc: "◎译名恶棍之城◎片名RogueCity◎年代2021◎产地法国◎类别犯罪/剧情◎语言英语◎字幕中英双字幕◎上映日期2020-10-30(法国)◎IMDb评分6.1/10from1106users◎豆瓣评分6.5/10from116users◎文件格式x264+aac◎视频尺寸1920x108",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名恶棍之城◎片名RogueCity◎年代2021◎产地法国◎类别犯罪/剧情◎语言英语◎字幕中英双字幕◎上映日期2020-10-30(法国)◎IMDb评分6.1/10from1106users◎豆瓣评分6.5/10from116users◎文件格式x264+aac◎视频尺寸1920x1080◎片长116分钟◎导演奥利维埃·马夏尔OlivierMarchal◎编剧奥利维埃·马夏尔OlivierMarchal◎主演让·雷诺JeanReno兰尼克·加特里LannickGautry斯坦尼斯拉斯·莫哈StanislasMerhar大卫·贝利DavidBelle◎标签法国|2020|Netflix|警匪黑帮|黑帮|让雷诺|黑吃黑|黑手党◎简介让·雷诺、兰尼克·加特里、斯坦尼斯拉斯·莫哈、大卫·贝利将主演奥利维埃·马夏尔([里昂黑帮])执导的惊悚片[恶棍之城](RogueCity，暂译)。故事将围绕一个打击帮派的警察(雷诺饰)展开，他将用非正规的方法调查一起发生当地夜总会他长期竞争对手身上的枪击事件。",
@@ -13966,7 +13944,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201101/60673.html",
     date: "2020-11-0102:12:04",
     desc: "◎译名TheEightHundred◎片名八佰/八百启示录/战争启示录之八百壮士◎年代2020◎产地中国大陆◎类别剧情/历史/战争◎语言汉语普通话,日语,英语◎字幕中英双字幕◎上映日期2020-08-14(大规模点映)/2020-08-21(中国大陆)◎IMDb评分7.3/10",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.3",
@@ -13993,7 +13971,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201031/60665.html",
     date: "2020-10-3011:52:38",
     desc: "◎译名科林尼案/罪人的控诉(台)◎片名DerFallCollini/TheColliniCase◎年代2019◎产地德国◎类别剧情/惊悚/犯罪◎语言德语,意大利语,拉丁语◎上映日期2019-04-18(德国)◎IMDb评分7.2/10from5061users◎豆瓣评分7.6/10from2777user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名科林尼案/罪人的控诉(台)◎片名DerFallCollini/TheColliniCase◎年代2019◎产地德国◎类别剧情/惊悚/犯罪◎语言德语,意大利语,拉丁语◎上映日期2019-04-18(德国)◎IMDb评分7.2/10from5061users◎豆瓣评分7.6/10from2777users◎字幕中文◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长123分钟◎导演马可·克罗伊茨派因特纳MarcoKreuzpaintner◎编剧克里斯蒂安·曲贝特ChristianZübert詹斯-弗雷德里克·奥托Jens-FrederikOtto◎主演埃利亚斯·穆巴里克ElyasM'Barek亚历山德拉·玛丽亚·拉娜AlexandraMariaLara海纳·劳特尔巴赫HeinerLauterbach曼弗莱德·扎帕卡ManfredZapatka杰尼斯·纽沃纳JannisNiewöhner赖纳·博克RainerBock卡特琳·施特里贝克CatrinStriebeck彼得·普拉格PeterPrager弗兰科·内罗FrancoNero汉勒斯·魏格纳HannesWegener莎宾·蒂莫提欧SabineTimoteo斯特凡诺·卡塞蒂StefanoCassettiIlknurBoyraz托马斯·林平泽尔ThomasLimpinsel玛格丽特·提塞尔MargareteTieselTomJahnBettinaLohmeyer亚历山大·巴奇尼AlessandroBaccini◎标签德国|二战|历史|犯罪|人性|德国电影|剧情|庭审◎简介法律，在保护谁？见证世界脱罪悬案！揭开动摇国本的秘密真相！德国律师作家费迪南冯席拉赫最畅销小说改编犯罪悬疑电影《罪人的控诉》改编自德国律师作家费迪南冯席拉赫最畅销的小说《谁无罪》，从一起谋杀案，发现其中还隐含着另一个更让人背脊发凉的惊厥事件，票房名导马可克鲁兹沛纳成功改编这个司法杀人案件的故事，看似犯罪电影，更是法学推理杰作。电影除盯着德国上下，更逼真出貌似沉着冷静的德国人，一度不愿面对的真相，连续七周称霸德国电影票房冠军，并获美媒大推“力道震撼，值得一看！”《罪人的控诉》◎柏林超越影展观众票选最佳影片奖◎德国柏林国际影展最佳影片提名◎奥地利RomyGala最佳男主角提名◎以色列海法国际影展最佳影片提名◎美国迈阿密犹太影展观摩影片◎美国博卡拉顿犹太影展观摩影片",
@@ -14024,7 +14002,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201031/60664.html",
     date: "2020-10-3010:44:56",
     desc: "◎译名波拉特2/波拉特2：为建设伟大祖国哈萨克斯坦而贿赂美国政权◎片名BoratSubsequentMoviefilm:◎年代2020◎产地英国,美国◎类别喜剧◎语言英语,保加利亚语,希伯来语◎字幕中文◎上映日期2020-10-23(美国网络)◎IMDb评分6.9/10from53740",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名波拉特2/波拉特2：为建设伟大祖国哈萨克斯坦而贿赂美国政权◎片名BoratSubsequentMoviefilm:◎年代2020◎产地英国,美国◎类别喜剧◎语言英语,保加利亚语,希伯来语◎字幕中文◎上映日期2020-10-23(美国网络)◎IMDb评分6.9/10from53740users◎豆瓣评分7.4/10from4466users◎文件格式x264+aac◎视频尺寸1920x1080◎片长95分钟◎导演杰森·威奈勒JasonWoliner◎编剧萨莎·拜伦·科恩SachaBaronCohen安东尼·海恩斯AnthonyHinesDanSwimer彼得·贝恩汉姆PeterBaynham埃丽卡·里维诺亚EricaRivinoja丹·马泽DanMazerJenaFriedman李·克恩LeeKernNinaPedradNickCorirossi◎主演萨莎·拜伦·科恩SachaBaronCohen肯·戴维蒂安KenDavitian迈克·彭斯MikePence玛丽亚·巴卡洛娃MariaBakalova鲁迪·朱利安尼RudolphW.Giuliani汤姆·汉克斯TomHanks约翰尼·扬·博施JohnnyYongBoschMacyChanel◎标签喜剧|美国|黑色幽默|恶搞|政治|2020|美国电影|电影◎简介讲述波拉特从哈萨克斯坦再度来到美国的故事。",
@@ -14054,7 +14032,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201029/60661.html",
     date: "2020-10-2800:25:26",
     desc: "虽然只是弄丢了手机1080pBD-mkv日语中字2018年悬疑惊悚◎译名虽然只是弄丢了手机/原本以为只是手机掉了/只是丢了手机而已/只是丢了智能手机而已◎片名スマホを落としただけなのに/StolenIdentity◎年代2018◎产地日本◎类别剧情/悬疑/惊悚◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "虽然只是弄丢了手机1080pBD-mkv日语中字2018年悬疑惊悚◎译名虽然只是弄丢了手机/原本以为只是手机掉了/只是丢了手机而已/只是丢了智能手机而已◎片名スマホを落としただけなのに/StolenIdentity◎年代2018◎产地日本◎类别剧情/悬疑/惊悚◎语言日语◎字幕中文◎上映日期2018-11-02(日本)◎IMDb评分5.4/10from317users◎豆瓣评分5.8/10from4374users◎文件格式x264+aac◎视频尺寸1920x1040◎片长116分钟◎导演中田秀夫HideoNakata◎编剧大石哲也TetsuyaOishi◎主演北川景子KeikoKitagawa千叶雄大YudaiChiba田中圭KeiTanaka成田凌RyoNarita笨蛋节奏Bakarhythm要润JunKaname高桥玛莉润MaryjunTakahashi笕美和子MiwakoKakei原田泰造TaizoHarada樱井由纪YukiSakurai松山爱里AiriMatsuyama山本启之HiroyukiYamamoto◎标签日本|悬疑|2018|犯罪|惊悚|剧情|映画|2019◎简介北川景子将主演同名小说改编的电影《虽然只是弄丢了手机》，由中田秀夫(《午夜凶铃》)执导，大石哲也(《去年冬天与你分手》)编剧。故事围绕主人公稻叶麻美展开——因男友弄丢了手机，麻美开始收到不明信用卡的支付信息，社交媒体上的信息也随之流出，而自己也被卷入意料之外的骚动中。同时，在偏远的深山里开始陆续出现年轻女性的尸体，连续杀人事件的搜查也即将开始…◎获奖情况第42届日本电影学院奖(2019)最佳新人成田凌",
@@ -14085,7 +14063,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201029/60660.html",
     date: "2020-10-2800:16:32",
     desc: "◎译名虽然只是弄丢了手机2/スマホを落としただけなのに2/原本以为只是手机掉了2/明明只是丢了手机被囚禁的杀人鬼◎片名スマホを落としただけなのに囚われの殺人鬼◎年代2020◎产地日本◎类别剧情/悬疑/惊悚◎语言日语◎字幕中文◎上映日期",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名虽然只是弄丢了手机2/スマホを落としただけなのに2/原本以为只是手机掉了2/明明只是丢了手机被囚禁的杀人鬼◎片名スマホを落としただけなのに囚われの殺人鬼◎年代2020◎产地日本◎类别剧情/悬疑/惊悚◎语言日语◎字幕中文◎上映日期2020-02-21(日本)◎IMDb评分4.1/10from32users◎IMDb链接https://www.imdb.com/title/tt10127410/◎豆瓣评分5.6/10from456users◎文件格式x264+aac◎视频尺寸1920x1040◎片长118分钟◎导演中田秀夫HideoNakata◎编剧大石哲也TetsuyaOishi◎主演千叶雄大YudaiChiba成田凌RyoNarita田中圭KeiTanakaRisakoTanigawa井浦新ARATA高桥优YuTakahashi饭尾和树KazukiIio音尾琢真TakumaOtoo铃木拡树HirokiSuzuki奈绪Nao.江口德子NorikoEguchi田中哲司TetsushiTanaka今田美樱MioImada白石麻衣MaiShiraishi北川景子KeikoKitagawa◎标签日本|白石麻衣|日本电影|悬疑|犯罪|2020|千叶雄大|日影◎简介去年票房出色，官方宣布拍摄续集，千葉雄大主演，成田凌继续出演。在那起以黑长发女性为对象的连续杀人事件破案的几个月后，竟然在案发现场再度发现身分不明的尸体，刑警加贺谷（千叶雄大饰）因此前去询问入狱服刑的连续杀人犯．浦野（成田凌饰）。加贺谷从浦野口中得知，一名存在于暗网中的神秘人物「M」。而此时，竟有一名神秘男子，正在接近加贺谷的女友美乃里（白石麻衣饰）……",
@@ -14116,7 +14094,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201028/60657.html",
     date: "2020-10-2809:55:31",
     desc: "◎译名LetLifeBeBeautiful◎片名再见吧！少年◎年代2020◎产地中国大陆◎类别剧情◎语言普通话◎字幕中英双字幕◎上映日期2020-10-05(中国大陆)◎豆瓣评分7.2/10from6204users◎文件格式x264+aac◎视频尺寸1920x792◎片长120",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名LetLifeBeBeautiful◎片名再见吧！少年◎年代2020◎产地中国大陆◎类别剧情◎语言普通话◎字幕中英双字幕◎上映日期2020-10-05(中国大陆)◎豆瓣评分7.2/10from6204users◎文件格式x264+aac◎视频尺寸1920x792◎片长120分钟◎导演林子平Tzu-PingLin◎编剧禹岚馨LanxinYu王安齐AnqiWang樊菁JingFan蒋丽华LihuaJiang◎主演刘敏涛MintaoLiu荣梓杉ZishanRong谭凯KaiTan顾语涵YuhanGu斯外戈ZhiLiu徐可珑KelongXu陈楚生ChushengChen郑颖娴YingxianZheng刘人赫RenheLiu◎标签温情|青春|家庭|校园|2020|剧情|电影|中国◎简介影片根据真人真事改编，讲述了少年王新阳的生活因突患白血病而彻底改变，面对未知的明天，新阳依然乐观坚强，努力实现青春梦想的故事。",
@@ -14146,7 +14124,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201027/60653.html",
     date: "2020-10-2717:50:24",
     desc: "◎译名女巫/女巫再现/怪诞黑巫后(港)◎片名TheWitches◎年代2020◎产地墨西哥,美国◎类别喜剧/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-10-22(美国)◎IMDb评分5.4/10from4646users◎豆瓣评分5.8/10from2411users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名女巫/女巫再现/怪诞黑巫后(港)◎片名TheWitches◎年代2020◎产地墨西哥,美国◎类别喜剧/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-10-22(美国)◎IMDb评分5.4/10from4646users◎豆瓣评分5.8/10from2411users◎文件格式x264+aac◎视频尺寸1920x1080◎片长106分钟◎导演罗伯特·泽米吉斯RobertZemeckis◎编剧罗伯特·泽米吉斯RobertZemeckis肯尼亚·巴里斯KenyaBarris吉尔莫·德尔·托罗GuillermodelToro罗尔德·达尔RoaldDahl◎主演安妮·海瑟薇AnneHathaway奥克塔维亚·斯宾瑟OctaviaSpencer斯坦利·图齐StanleyTucci克里斯汀·肯诺恩斯KristinChenoweth克里斯·洛克ChrisRock查尔斯·爱德华兹CharlesEdwards尤吉尼亚·克鲁索EugeniaCaruso西蒙·曼永达SimonManyonda菲利普·斯波PhilippeSpall安格斯·瑞特AngusWright奥尔拉·欧鲁尔克OrlaO'Rourke吉米·斯达JimmyStar◎标签安妮·海瑟薇|奇幻|美国|2020|美国电影|惊悚|改编|AnneHathaway◎简介该片基于罗尔德·达尔（《查理和巧克力工厂》原著作者）所著同名儿童小说，部分设定在挪威，部分设定在英国，讲述一个7岁小男孩和祖母住在一起，这个世界中存在着邪恶女巫，某次他偶遇女巫，被变成了老鼠，他必须尽力阻止她们破坏世界。",
@@ -14177,7 +14155,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201027/60652.html",
     date: "2020-01-2910:47:10",
     desc: "◎译名割喉市◎片名CutThroatCity◎年代2020◎产地美国◎类别剧情/动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分4.4/10from543users◎豆瓣评分5.7/10from75users◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名割喉市◎片名CutThroatCity◎年代2020◎产地美国◎类别剧情/动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分4.4/10from543users◎豆瓣评分5.7/10from75users◎文件格式x264+aac◎视频尺寸1920x1080◎片长123分钟◎导演罗伯特·菲茨杰拉德·迪格斯RZA◎主演艾莎·冈萨雷斯EizaGonzález伊桑·霍克EthanHawke沙梅克·摩尔ShameikMoore卡特琳娜·格兰厄姆KaterinaGraham韦斯利·斯奈普斯WesleySnipes基恩·约翰逊KeeanJohnson泰伦斯·霍华德TerrenceHoward乔·大卫·摩尔JoelDavidMoore艾赛亚·华盛顿IsaiahWashington丹泽尔·惠特克DenzelWhitaker萨姆·戴利SamDaly德米特里厄斯·西普DemetriusShippJr.罗布·摩根RobMorgan托马斯·弗兰西斯·墨菲ThomasFrancisMurphy泰伦·伍德利TyronWoodley多米尼克·杜维尔DominiqueDuVernay托尼·查普曼·斯蒂尔ToneyChapmanSteele◎标签美国|犯罪|美国电影|动作|剧情|2020|惊悚|RZA◎简介本片讲述卡特里娜飓风期间，在美国新奥尔良州的第九区低地发生的一宗抢劫案。",
@@ -14207,7 +14185,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201026/60650.html",
     date: "2020-10-2619:56:33",
     desc: "◎译名敢梦有爱/敢爱有梦/秘密：敢于梦想/秘密：梦想的力量(台)◎片名TheSecret:DaretoDream◎年代2020◎产地美国◎类别剧情/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-04-17(美国)◎IMDb评分6.4/10from2661users◎文件格式x26",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名敢梦有爱/敢爱有梦/秘密：敢于梦想/秘密：梦想的力量(台)◎片名TheSecret:DaretoDream◎年代2020◎产地美国◎类别剧情/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-04-17(美国)◎IMDb评分6.4/10from2661users◎文件格式x264+aac◎视频尺寸1920x1080◎导演安迪·坦纳特AndyTennant◎编剧丽贝卡·布鲁斯特RebeccaBrunstetter/安迪·坦纳特AndyTennant◎主演凯蒂·霍尔姆斯KatieHolmes乔什·卢卡斯JoshLucas杰瑞·奥康奈尔JerryO'Connell西利亚·维斯顿CeliaWestonAidanPierceBrennanKatrinaBegin萨曼莎·博利厄SamanthaBeaulieu约翰斯·迈尔斯YohanceMylesRosembergSalgadoJessieTerrebonne瓦妮塔·沃姆斯利WanetahWalmsley科里·斯科特·艾伦CoryScottAllen杰西卡·哈特科克JessicaHarthcock蒂莫西·辛里奇斯TimothyHinrichs◎标签鸡汤|美国|家庭/成长/人生|心理|2020|爱情|佛印与苏轼|[歐美]◎简介改编自全球畅销励志作品《秘密》。故事描述独自扶养三个孩子的寡妇米兰达（凯蒂荷姆丝饰）在一场风暴过后，雇用了一名水电工布雷（乔许卢卡斯饰）修缮受损的住家。在闲暇之余，布雷会与米兰达分享他的人生哲学“吸引力法则”，布雷相信只要打从心底渴望某件事物，宇宙自然会有力量助你心想事成、梦想成真……",
@@ -14237,7 +14215,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201025/60647.html",
     date: "2020-10-2512:34:44",
     desc: "◎译名北极狗/北极正义：雷霆战队◎片名ArcticDogs/ArcticJustice:ThunderSquad◎年代2019◎产地印度,英国,中国大陆,加拿大,日本,韩国,美国◎类别动画/冒险◎语言英语,韩语◎字幕中文◎上映日期2019-11-01(美国/韩国)/2019-11-08(英国)",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名北极狗/北极正义：雷霆战队◎片名ArcticDogs/ArcticJustice:ThunderSquad◎年代2019◎产地印度,英国,中国大陆,加拿大,日本,韩国,美国◎类别动画/冒险◎语言英语,韩语◎字幕中文◎上映日期2019-11-01(美国/韩国)/2019-11-08(英国)◎IMDb评分4.6/10from1272users◎文件格式x264+aac◎视频尺寸1920x1080◎片长92分钟◎导演亚伦·伍德利AaronWoodley◎编剧鲍勃·巴伦BobBarlen卡尔·布伦克尔CalBrunker亚伦·伍德利AaronWoodley◎主演詹姆斯·弗兰科JamesFranco杰瑞米·雷纳JeremyRenner亚历克·鲍德温AlecBaldwin奥玛·希OmarSy海蒂·克鲁姆HeidiKlum安杰丽卡·休斯顿AnjelicaHuston劳瑞·侯登LaurieHolden迈克尔·马德森MichaelMadsen约翰·克立斯JohnCleese妮娜·塞尼卡NinaSenicar杰森·德里恩JasonDeline基娅拉·巴瑟尔曼ChiaraBassermann唐尼·法尔塞蒂DonnyFalsetti亚伦·伍德利AaronWoodley茱丽叶戈列蒂GiuliaGorietti◎标签动画|加拿大|电影|冒险|美国|成长故事|韩国|英国◎简介北极狐Swifty在北极“爆裂”运输公司的收发室工作，却梦想着加入由哈士奇组成的TopDog——该公司的明星邮递员队伍。某天他为了证明自己的能力，挪用了雪橇把一个神秘的邮件送到一处秘密堡垒，与本片反派——胖乎乎的海象博士狭路相逢，这个博士有着人造四肢，手下是一群礼貌得很诡异的角嘴海雀。北极狐很快发现博士的邪恶计划：要融化北极冰盖来淹没世界，统治全球。于是北极狐组织了他的朋友们：内向的北极熊PB、老是开小差的信天翁Lemmy、阴谋论者水獭Sal和Weez、坚韧的机械师狐狸Jade。这支杂牌军要对抗邪恶，拯救世界。",
@@ -14253,8 +14231,7 @@ const MOVIELIST = [
     release: "2019-11-01(美国/韩国)/2019-11-08(英国)",
     time: "92",
     director: "亚伦·伍德利AaronWoodley",
-    writers:
-      "鲍勃·巴伦BobBarlen卡尔·布伦克尔CalBrunker亚伦·伍德利AaronWoodley",
+    writers: "鲍勃·巴伦BobBarlen卡尔·布伦克尔CalBrunker亚伦·伍德利AaronWoodley",
     actor: "",
     starring:
       "詹姆斯·弗兰科 James Franco　杰瑞米·雷纳 Jeremy Renner　亚历克·鲍德温 Alec Baldwin　奥玛·希 Omar Sy　海蒂·克鲁姆 Heidi Klum　安杰丽卡·休斯顿 Anjelica Huston　劳瑞·侯登 Laurie Holden　迈克尔·马德森 Michael Madsen　约翰·克立斯 John Cleese　妮娜·塞尼卡 Nina Senicar　杰森·德里恩 Jason Deline　基娅拉·巴瑟尔曼 Chiara Bassermann　唐尼·法尔塞蒂 Donny Falsetti　亚伦·伍德利 Aaron Woodley　茱丽叶戈列蒂 Giulia Gorietti",
@@ -14268,7 +14245,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201024/60643.html",
     date: "2020-10-2400:02:44",
     desc: "◎译名爱与怪物/怪物问题◎片名LoveandMonsters/MonsterProblems◎年代2020◎产地美国◎类别科幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-10-16(美国)◎IMDb评分7.1/10from6955users◎豆瓣评分7.3/10from3098users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名爱与怪物/怪物问题◎片名LoveandMonsters/MonsterProblems◎年代2020◎产地美国◎类别科幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-10-16(美国)◎IMDb评分7.1/10from6955users◎豆瓣评分7.3/10from3098users◎文件格式x264+aac◎视频尺寸1920x1080◎片长109分钟◎导演迈克尔·马修斯MichaelMatthews◎编剧布莱恩·达菲尔德BrianDuffield马修·罗宾逊MatthewRobinson◎主演迪伦·奥布莱恩DylanO'Brien杰西卡·亨维克JessicaHenwick迈克尔·鲁克MichaelRooker丹尼尔·尤因DanielEwing阿丽亚娜·格林布拉特ArianaGreenblatt艾伦·霍尔曼EllenHollman特雷·黑尔TreHale帕卡罗·姆泽贝PacharoMzembe西尼·普里蒂SeniePriti阿玛莉·沃德AmaliWard特克赫·图哈卡TeKoheTuhaka塔斯尼姆·罗克TasneemRoc托马斯·坎贝尔ThomasCampbell乔尔·皮尔斯JoelPierce梅拉妮·萨内蒂MelanieZanetti布鲁斯·斯宾斯BruceSpence米莉亚玛·史密斯MiriamaSmith安德鲁·布坎南AndrewBuchanan坦蒂·莱特TandiWright达米安·加维DamienGarvey西罗Hero道奇Dodge拉里·塞达尔LarryCedar◎标签怪物|科幻|奇幻|冒险|美国|2020|电影|喜剧◎简介影片据称风格结合《僵尸之地》和约翰·修斯的青少年电影，讲述一场“怪物末日”迫使所有人类转到地下殖民地居住，此事件7年后，男主JoelDawson(奥布莱恩)目睹身边的幸存者们都成双成对了，他也想和自己的梦中女孩Aimee(亨维克)在一起。为此，Dawson勇敢地去到地表，并和一只英勇的狗狗及两个人(鲁克和Greenblatt)成了队友，在他们的帮助下，Dawson要努力穿越怪兽横行的后末世，寻找真爱。",
@@ -14298,7 +14275,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201024/60642.html",
     date: "2020-10-2310:00:18",
     desc: "◎译名蝴蝶梦/丽贝卡/新版蝴蝶梦◎片名Rebecca◎年代2020◎产地英国◎类别剧情/爱情/悬疑/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-10-21(美国网络)◎IMDb评分6.0/10from3504users◎豆瓣评分5.7/10from881users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名蝴蝶梦/丽贝卡/新版蝴蝶梦◎片名Rebecca◎年代2020◎产地英国◎类别剧情/爱情/悬疑/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-10-21(美国网络)◎IMDb评分6.0/10from3504users◎豆瓣评分5.7/10from881users◎文件格式x264+aac◎视频尺寸1920x1080◎片长121分钟◎导演本·维特利BenWheatley◎编剧简·古德曼JaneGoldman乔·施雷普内尔JoeShrapnel安娜·沃特豪斯AnnaWaterhouse达芙妮·杜穆里埃DaphneDuMaurier斯蒂文·奈特StevenKnight◎主演莉莉·詹姆斯LilyJames艾米·汉莫ArmieHammer凯莉·霍威KeeleyHawes克里斯汀·斯科特·托马斯KristinScottThomas简·拉波特泰尔JaneLapotaire安·唐德AnnDowd马克·路易斯·琼斯MarkLewisJones萨姆·赖利SamRiley比尔·帕特森BillPaterson汤姆·古德曼-希尔TomGoodman-Hill本·克朗普顿BenCrompton约翰·霍林沃思JohnHollingworth露西·拉塞尔LucyRussell朱利安·费罗JulianFerro布赖尼·米勒BryonyMiller◎标签悬疑|英国|2020|爱情|改编|艾米·汉莫|剧情|英国电影◎简介本·维特利(《摩天大楼》《走火交易》)有望执导新版《蝴蝶梦》(Rebecca)，他正和梦工厂和WorkingTitle商谈中。原版由阿尔弗雷德·希区柯克执导，劳伦斯·奥利弗、琼·芳登主演，基于达夫妮·杜穆里埃所著同名小说，讲述一名年轻女子嫁给了一位贵族富豪，富豪庄园的管家却态度厌恶，她感到富豪前妻丽贝卡的影子无处不在，丽贝卡死亡的真相逐渐浮出水面。该片获1941年奥斯卡最佳影片和最佳摄影。斯蒂文·奈特(《浴血黑帮》《禁忌》)和简·古德曼(《王牌特工》《海扁王》)此前分别编写了新版剧本，维特利也可能自己进行润色，不过他手上也有不少项目，这片能否成型还是未知数。",
@@ -14329,7 +14306,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201023/60641.html",
     date: "2020-10-2301:55:02",
     desc: "◎译名大卫伯恩的美国乌托邦/美国乌托邦◎片名DavidByrne'sAmericanUtopia/AmericanUtopia◎年代2020◎产地美国◎类别纪录片/音乐/歌舞◎语言英语◎字幕中英双字幕◎上映日期2020-09-10(多伦多电影节)/2020-10-17(美国)◎IMDb评分8.4",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2636861429.jpg",
     link: "",
     summary:
       "◎译名大卫·伯恩的美国乌托邦/美国乌托邦◎片名DavidByrne'sAmericanUtopia/AmericanUtopia◎年代2020◎产地美国◎类别纪录片/音乐/歌舞◎语言英语◎字幕中英双字幕◎上映日期2020-09-10(多伦多电影节)/2020-10-17(美国)◎IMDb评分8.4/10from524users◎豆瓣评分8.0/10from67users◎文件格式x264+aac◎视频尺寸1920x1080◎片长135分钟◎导演斯派克·李SpikeLee◎编剧大卫·伯恩DavidByrne◎主演大卫·伯恩DavidByrne◎标签2020|纪录片|美国|SpikeLee|音乐剧|音乐|HBO|Documentary◎简介斯派克·李将为百老汇舞台剧《大卫·伯恩的美国乌托邦》执导电影版。该剧目已在去年10月开演，持续到今年2月16日。电影版计划于今年上映。",
@@ -14358,7 +14335,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201023/60639.html",
     date: "2020-10-2201:50:47",
     desc: "◎译名LoveYouForever◎片名我在时间尽头等你/穿越时空的爱◎年代2020◎产地中国大陆◎类别爱情/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-25(中国大陆)◎IMDb评分7.1/10from42users◎豆瓣评分5.4/10from39482users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名LoveYouForever◎片名我在时间尽头等你/穿越时空的爱◎年代2020◎产地中国大陆◎类别爱情/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-25(中国大陆)◎IMDb评分7.1/10from42users◎豆瓣评分5.4/10from39482users◎文件格式x264+aac◎视频尺寸1920x1040◎片长115分钟◎导演姚婷婷TingtingYao◎编剧郑执ZhiZheng刘迟ChiLiu浦贤杨同坤TK姚婷婷TingtingYao◎主演李鸿其Hong-ChiLee李一桐YitongLi范伟WeiFan张超JuckZhang罗辑JiLuo郭欣禹XinyuGuo◎标签爱情|李一桐|李鸿其|奇幻|电影|中国大陆|中国电影|华语电影◎简介林格（李鸿其饰）人生所有美好的记忆，都与邱倩（李一桐饰）有关。一场意外、一块神奇的表彻底改变了两人的人生......时空不断被重置，唯一不变的，是爱你如初的心。",
@@ -14388,7 +14365,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201023/60638.html",
     date: "2020-10-2201:46:49",
     desc: "◎译名然后我们跳了舞/以你的舞步撩动我(港)◎片名AndThenWeDanced◎年代2019◎产地瑞典,格鲁吉亚,法国◎类别剧情/同性◎语言格鲁吉亚语◎字幕中文◎上映日期2019-05-16(戛纳电影节)/2019-08-18(中国香港夏日国际电影节)/2019-09-13(瑞",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名然后我们跳了舞/以你的舞步撩动我(港)◎片名AndThenWeDanced◎年代2019◎产地瑞典,格鲁吉亚,法国◎类别剧情/同性◎语言格鲁吉亚语◎字幕中文◎上映日期2019-05-16(戛纳电影节)/2019-08-18(中国香港夏日国际电影节)/2019-09-13(瑞典)◎IMDb评分7.8/10from7986users◎豆瓣评分7.9/10from7245users◎文件格式x264+aac◎视频尺寸1920x1080◎片长113分钟◎导演列万·阿金LevanAkin◎编剧列万·阿金LevanAkin◎主演列文·格尔巴赫亚尼巴奇·瓦利什维利安娜·贾瓦基什维利AnaJavakishvili格奥尔基·采列捷利GiorgiTsereteli塔马尔·布赫尼卡什维利TamarBukhnikashvili玛丽卡·戈吉查什维利MarikaGogichaishvili卡卡·戈吉泽KakhaGogidze莱万·加布拉瓦LevanGabrava安娜·马克哈泽AnaMakharadze尼诺·加比索尼亚NinoGabisonia马特·基沙德利MateKhidasheli阿莱科·贝加里什维利AlekoBegalishvili沙巴·阿巴希泽SabaAbashidze索索·阿布拉米什维利SosoAbramishvili戴维特·阿布拉泽DavitAbuladze◎标签同性|格鲁吉亚|舞蹈|爱情|瑞典|2019|剧情|戛纳电影节◎简介梅拉布从小就在格鲁吉亚国家舞团与他的舞伴玛丽一起训练。当富有魅力、无忧无虑的伊拉克利到来后，他不仅遇到了最强大的对手，也触发了内心的欲望，世界就这样突然颠倒。可在这种保守的环境中，梅拉布发现自己必须挣脱束缚寻求冒险。◎获奖情况第72届戛纳电影节(2019)导演双周单元(提名)列万·阿金同志金棕榈奖(提名)列万·阿金第32届欧洲电影奖(2019)最佳男主角(提名)列文·格尔巴赫亚尼",
@@ -14419,7 +14396,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201021/60634.html",
     date: "2020-10-2123:46:33",
     desc: "◎译名我们保守的秘密/地下弒的秘密(台)◎片名TheSecretsWeKeep◎年代2020◎产地美国◎类别剧情/悬疑/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-09-16(美国)◎IMDb评分5.4/10from572users◎豆瓣评分6.1/10from94use",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名我们保守的秘密/地下弒的秘密(台)◎片名TheSecretsWeKeep◎年代2020◎产地美国◎类别剧情/悬疑/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-09-16(美国)◎IMDb评分5.4/10from572users◎豆瓣评分6.1/10from94users◎文件格式x264+aac◎视频尺寸1920x1080◎片长97分钟◎导演尤瓦尔·阿德勒YuvalAdler◎编剧尤瓦尔·阿德勒YuvalAdler瑞安·科文顿RyanCovington◎主演乔尔·金纳曼JoelKinnaman劳米·拉佩斯NoomiRapace克里斯·梅西纳ChrisMessina艾米·西米茨AmySeimetz维多利亚·希尔VictoriaHill露西·浮士德LucyFaust大卫·马尔登那多DavidMaldonado杰夫·波普JeffPope托马斯·弗兰西斯·墨菲ThomasFrancisMurphy◎标签美国|悬疑|剧情|2020|惊悚|犯罪|乔尔·金纳曼|美国电影◎简介影片讲述二战后，玛雅(劳米饰)与丈夫(克里斯饰)在纽约重新开始生活。他们遇到了一个熟悉的男人(乔尔饰)，他们的生活开始瓦解。这对夫妇想知道，他是不是那个在奥斯威辛集中营的军官。",
@@ -14449,7 +14426,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201021/60633.html",
     date: "2020-10-2100:40:33",
     desc: "◎译名美味的校餐剧场版/美味午餐大作戰(台)◎片名劇場版おいしい給食FinalBattle/SchoolMealsTimeFinalBattle◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-03-06(日本)◎IMDb评分5.6/10from5users◎豆瓣评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名美味的校餐剧场版/美味午餐大作戰(台)◎片名劇場版おいしい給食FinalBattle/SchoolMealsTimeFinalBattle◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-03-06(日本)◎IMDb评分5.6/10from5users◎豆瓣评分6.3/10from246users◎文件格式x264+aac◎视频尺寸1920x1080◎导演绫部真弥MayaAyabe◎编剧绫部真弥MayaAyabe◎主演市原隼人HayatoIchihara水野胜MasaruMizuno酒向芳YoshiSakou伊藤麻衣子MaikoItô丰岛花HanaToyoshima辻本达规TatsunoriTsujimoto佐藤大志HiroyukiSato武田玲奈RenaTakeda◎标签日本|喜剧|日本电影|2020|电影|日剧sp|武田玲奈|市原隼人◎简介以80年代日本某中学为舞台，主角是痴迷于学校营养午餐的老师幸男，影片讲述了他和学生们与营养午餐之间的故事。",
@@ -14479,7 +14456,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201021/60632.html",
     date: "2020-10-2000:34:39",
     desc: "◎译名女人四十玩说唱/四十岁版本◎片名The40-Year-OldVersion/40冲一波/TheForty-Year-OldVersion◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-09(美国)◎IMDb评分7.0/10fro",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名女人四十玩说唱/四十岁版本◎片名The40-Year-OldVersion/40冲一波/TheForty-Year-OldVersion◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-09(美国)◎IMDb评分7.0/10from875users◎豆瓣评分7.5/10from203users◎文件格式x264+aac◎视频尺寸1920x1080◎片长124分钟◎导演拉妲·布兰克RadhaBlank◎编剧拉妲·布兰克RadhaBlank◎主演雅各布·明-特伦特JacobMing-Trent里德·伯尼ReedBirney彼得·Y·金PeterY.Kim艾曼尼·刘易斯ImaniLewis威廉·沃特金斯WilliamWatkinsSamanthaBrowne-Walters◎标签美国|喜剧|2020|剧情|电影|圣丹斯电影节|成长/励志|Sundance◎简介描述一位陷入谷底的纽约剧作家，认定挽救自己艺术才华的办法，就是在人生转40的时候开始唱饶舌。",
@@ -14509,7 +14486,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201021/60631.html",
     date: "2020-10-2100:34:18",
     desc: "◎译名热情花招/HotGimmick:GirlMeetsBoy/女孩遇见男孩◎片名ホットギミックガールミーツボーイ◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-06-20(上海电影节)/2019-06-28(日本)◎IMDb评分4.5/10from250users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名热情花招/HotGimmick:GirlMeetsBoy/女孩遇见男孩◎片名ホットギミックガールミーツボーイ◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-06-20(上海电影节)/2019-06-28(日本)◎IMDb评分4.5/10from250users◎豆瓣评分6.5/10from1609users◎文件格式x264+aac◎视频尺寸1920x1080◎片长119分钟◎导演山户结希YûkiYamato◎编剧相原实贵MikiAihara山户结希YûkiYamato◎主演堀未央奈MionaHori清水寻也HiroyaShimizu板垣瑞生MizukiItagaki间宫祥太朗ShotaroMamiya樱田日和HiyoriSakurada上村海成KaiseiKamimura吉川爱AiYoshikawa志磨辽平RyôheiShima黑泽明日香AsukaKurosawa高桥和也KazuyaTakahashi反町隆史TakashiSorimachi吉冈里帆RihoYoshioka◎标签日本|2019|爱情|青春|少女漫改|剧情|漫画小说真人版|漫画改编◎简介这是一个关于初恋的故事。女主角成田初（堀未央奈饰）跟很多女高中生一样，没有自信也不太懂得拒绝，平凡得不能再平凡。住在父亲工作的公司提供的员工宿舍里，因为之前搬走的青梅竹马小田切梓（板垣瑞生饰）重新搬回来，开始了她看似甜蜜的初恋。这段时间，身边有常常欺负她公司老板的高富帅儿子橘亮辉（清水寻也饰），还有一直温柔守护着自己的没有血缘关系的哥哥（间宫祥太朗饰）。一个是一直以来的憧憬，一个是看似坏心但其实内心柔软，一个是像太阳般的温暖，在三个个性截然不同的男生之间摇摆不定，到底谁才是心底里的初恋？女子高生初（堀）和哥哥凌（間宮）以及妹妹茜和父母住在一起。某日被住在同一间公寓的橘亮辉（清水）抓住了把柄，被亮辉无理的命令来回折腾。在这时，数年前搬走的竹马小田切梓（板垣）回来了。初被梓一如以往守护着自己的样子自然地吸引，即使被亮辉不断从中阻碍，初还是同梓交往了，但其实梓怀有着不为人知的目的。此时，初也知道了凌的秘密……◎获奖情况第22届上海国际电影节(2019)亚洲新人奖最佳女主角(提名)堀未央奈",
@@ -14539,7 +14516,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201021/60630.html",
     date: "2020-10-2000:31:39",
     desc: "◎译名试着死了一次/靠北少女(台)/老豆死开一阵先(港)◎片名一度死んでみた/NotQuiteDeadYet◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-03-20(日本)◎IMDb评分4.6/10from90users◎豆瓣评分6.2/10from292use",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名试着死了一次/靠北少女(台)/老豆死开一阵先(港)◎片名一度死んでみた/NotQuiteDeadYet◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-03-20(日本)◎IMDb评分4.6/10from90users◎豆瓣评分6.2/10from292users◎文件格式x264+aac◎视频尺寸1920x1080◎片长93分钟◎编剧泽本嘉光YoshimitsuSawamoto◎主演广濑铃SuzuHirose堤真一Shin'ichiTsutsumi吉泽亮YoshizawaRyo松田翔太ShotaMatsuda西野七濑NanaseNishino木村多江TaeKimura城田优YuuShirota佐藤健TakeruSatoh池田依来沙ElaizaIkeda妻夫木聪SatoshiTsumabuki志尊淳JunShison古田新太ArataFuruta竹中直人NaotoTakenaka中川雅也LilyFranky小泽征悦YukiyoshiOzawa岛田久作KyûsakuShimada加藤谅RyôKatô绪方义博Denden柄本时生TokioEmoto前野朋哉TomoyaMaeno清水伸ShinShimizu原日出子HidekoHara大友康平KoheiOtomo安藤ニコNicoAndo真壁伸也TogiMakabe◎标签日本|日本电影|2020|广濑铃|广濑丝丝|吉泽亮|吉沢亮|西野七瀬◎简介一位叛逆少女(广濑铃饰)的父亲(堤真一饰)因为公司内部的盗窃问题而伤透脑筋，因此决定要试用一款会让自己暂时处于死亡状态的药物，却没想到意外竟然发生了，父亲就快要死亡了！每天希望爸爸消失的叛逆少女，这次被逼迫着要接下爸爸的事业，感受到庞大压力的女孩，最苦恼的就是要如何才能让爸爸再次回到他身边呢？女大学生七濑(广濑铃饰)在没啥搞头且面临解散的死亡金属乐团「死魂」担任主唱，正值叛逆期的她非常讨厌父亲野畑计(堤真一饰)，常在表演中一边甩头一边大喊「给我去死吧！」来发泄对父亲的不满。某天，她的愿望成真了，计真的死了？！原来计经营的制药公司偶然发明了可让人「假死2天」的药，为了抓出偷取公司商业机密的内奸，计试着让自己死一次。可没想到敌对公司谋划让他的遗体提早火化！本该讨厌父亲的七濑，如何在短短两天的期限内，与毫无存在感的鬼魂社员松冈卓(吉泽亮饰)、变成鬼魂现身的计，连手阻止这项阴谋并让计起死回生呢？",
@@ -14569,7 +14546,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201019/60628.html",
     date: "2020-10-1923:25:12",
     desc: "◎译名SukSuk◎片名叔叔◎年代2019◎产地中国香港◎类别剧情/同性◎语言粤语◎字幕中文◎上映日期2019-10-04(釜山国际电影节)/2020-05-28(中国香港)◎IMDb评分7.1/10from371users◎豆瓣评分7.7/10from7677users◎文件格式x264+a",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名SukSuk◎片名叔·叔◎年代2019◎产地中国香港◎类别剧情/同性◎语言粤语◎字幕中文◎上映日期2019-10-04(釜山国际电影节)/2020-05-28(中国香港)◎IMDb评分7.1/10from371users◎豆瓣评分7.7/10from7677users◎文件格式x264+aac◎视频尺寸1920x1080◎片长92分钟◎导演杨曜恺RayYeung◎编剧杨曜恺RayYeung◎主演太保PoTai袁富华Fu-wahYuen区嘉雯PatraAu卢镇业Chun-YipLo胡轶心YixinHu林耀声Yiu-SingLam江图KongTo王晓怡HiuYeeWong刘亭君LauTingKwan施魅力Wai-KeungChu黄国辉GordonWongKwokFai翟紫筠TseKwanChak刘日东Yat-TungLau刘仲轩ChungHinLau蒋轩奇KonKiChiang樊石秋ShekChowFan江观KunSingKong江涛KongTo黄靖瑜ChingYuWong郭百宁JamesKokPakNing林国梁PatrickLam江涛ToKong◎标签香港|同性|LGBT|同志|香港电影|2019|剧情|金马电影展◎简介计程车司机柏（太保饰演），以及退休单亲爸爸海（袁富华饰演），即使大半生受尽传统社会的规范与约束，两人仍对多年来努力建立的家庭为荣。不过，两人没料到能在人生的最后这段路上，与彼此邂逅…。柏与清（区嘉雯饰演）结婚45年，育有一子一女，可谓上一代传统香港人眼中「幸福家庭」的典范。海的太太早年离他而去，与儿子永（卢镇业饰演）相依为命。虽然海与儿子一家同居，却无法感受到家的温暖。而柏与海迟来的相遇，也翻搅起两人尘封心底的爱慾。面对「爱情诱惑」与「社会道德价值」的拉扯，以及内心「原始慾望」跟社会传统「幸福家庭」的抉择，两人究竟要回归最原始的自己？还是重返风平浪静的生活，继续守护社会价值观所认可的「美好家庭」呢？◎获奖情况第70届柏林国际电影节(2020)泰迪熊奖(提名)杨曜恺第39届香港电影金像奖(2020)最佳电影(提名)最佳导演(提名)杨曜恺最佳编剧(提名)杨曜恺最佳男主角太保最佳男配角(提名)卢镇业最佳女配角区嘉雯最佳新演员(提名)区嘉雯最佳剪接(提名)张叔平/陈序庆最佳服装造型设计(提名)潘燚森第14届亚洲电影大奖(2020)最佳男主角(提名)太保最佳男配角(提名)袁富华最佳女配角(提名)区嘉雯",
@@ -14599,7 +14576,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201019/60627.html",
     date: "2020-10-1900:51:36",
     desc: "◎译名芝加哥七君子审判/芝加哥七人案：惊世审判◎片名TheTrialoftheChicago7◎年代2020◎产地美国,英国,印度◎类别剧情/惊悚/历史◎语言英语◎字幕中英双字幕◎上映日期2020-09-25(美国)/2020-10-16(美国)◎IMDb评分8/10from1665",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2620161520.jpg",
     link: "",
     summary:
       "◎译名芝加哥七君子审判/芝加哥七人案：惊世审判◎片名TheTrialoftheChicago7◎年代2020◎产地美国,英国,印度◎类别剧情/惊悚/历史◎语言英语◎字幕中英双字幕◎上映日期2020-09-25(美国)/2020-10-16(美国)◎IMDb评分8/10from16658users◎豆瓣评分8.4/10from2222users◎文件格式x264+aac◎视频尺寸1920x1080◎片长129分钟◎导演艾伦·索金AaronSorkin◎编剧艾伦·索金AaronSorkin◎主演埃迪·雷德梅恩EddieRedmayne艾利克斯·夏普AlexSharp萨莎·拜伦·科恩SachaBaronCohen杰瑞米·斯特朗JeremyStrong约翰·卡洛·林奇JohnCarrollLynch叶海亚·阿卜杜勒-迈丁YahyaAbdul-MateenII马克·里朗斯MarkRylance约瑟夫·高登-莱维特JosephGordon-Levitt本·申克曼BenShenkmanJ.C.麦肯泽J.C.MacKenzie弗兰克·兰格拉FrankLangella丹尼尔·弗莱厄蒂DanielFlaherty诺亚·罗宾斯NoahRobbins约翰·道曼JohnDoman迈克尔·基顿MichaelKeaton小凯文·哈里森KelvinHarrisonJr.凯特琳·菲茨杰拉德CaitlinFitzgerald茱丽叶·安吉洛JulietteAngelo布伦丹·伯克BrendanBurke凯文·奥多奈尔KevinO'Donnell爱丽丝·克雷梅尔堡AliceKremelberg拉里·米切尔LarryMitchell韦恩·杜瓦尔WayneDuvallMichaelBrunlieb达米安·杨DamianYoung米歇尔赫斯特MichelleHurstMatthewLeFevourChristianLitke马克斯·阿德勒MaxAdler肖恩·帕森ShawnParsons爱德华德·弗莱彻EdwardFletcherC·J·威尔逊C.J.WilsonStevenGaswirth大卫·菲耶罗DavidFierroIanBonds莱克斯·艾尔LexElle威廉·赫特WilliamHurt特里斯坦·莱恩·塔普斯科特TristanLayneTapscott◎标签美国|历史|剧情|2020|艾伦·索金|美国电影|电影|AaronSorkin◎简介影片改编自真实事件，1969年七名民权运动分子因在前一年芝加哥民主党代表大会召开时举行抗议活动而被控阴谋罪，这也成为60年代民权运动重要事件之一。",
@@ -14629,7 +14606,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201018/60616.html",
     date: "2020-10-1701:49:10",
     desc: "◎译名自由主义者：间谍的时代/二战女谍◎片名ACalltoSpy/Libert:ATimetoSpy◎年代2019◎产地美国◎类别悬疑/剧情◎语言英语◎字幕中英双字幕◎上映日期2019-06-21(爱丁堡国际电影节)/2020-10-02(美国)◎IMDb评分5.7/10from469user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名自由主义者：间谍的时代/二战女谍◎片名ACalltoSpy/Liberté:ATimetoSpy◎年代2019◎产地美国◎类别悬疑/剧情◎语言英语◎字幕中英双字幕◎上映日期2019-06-21(爱丁堡国际电影节)/2020-10-02(美国)◎IMDb评分5.7/10from469users◎文件格式x264+aac◎视频尺寸1920x1080◎导演莉迪亚·迪恩·皮尔彻LydiaDeanPilcher◎编剧莎拉·梅甘·托马斯SarahMeganThomas◎主演斯坦娜·卡蒂克StanaKatic拉迪卡·艾普特RadhikaApte萨缪尔·劳金SamuelRoukin马蒂尔德·奥利维耶MathildeOllivier◎标签二战|美国|间谍|剧情|2019|真人真事改编|悬疑|电影◎简介故事讲述一个狡猾的间谍招募者维拉·阿特金斯和她为丘吉尔的“秘密军队”挑选的两个女人的故事：勇敢的美国人弗吉尼亚霍尔和和平主义者努尔·伊纳亚特·汗。",
@@ -14659,7 +14636,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201018/60615.html",
     date: "2021-01-0302:25:34",
     desc: "◎译名雪谷之狼◎片名TheWolfofSnowHollow/TheWerewolf◎年代2020◎产地美国◎类别喜剧/惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-10-09(美国)◎IMDb评分6.2/10from2086users◎豆瓣评分5.7/10from130users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名雪谷之狼◎片名TheWolfofSnowHollow/TheWerewolf◎年代2020◎产地美国◎类别喜剧/惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-10-09(美国)◎IMDb评分6.2/10from2086users◎豆瓣评分5.7/10from130users◎文件格式x264+aac◎视频尺寸1920x1080◎片长83分钟◎导演吉姆·卡明斯JimCummings◎编剧吉姆·卡明斯JimCummings◎主演瑞琪·琳德赫姆RikiLindhome吉米·塔特罗JimmyTatro罗伯特·福斯特RobertForster马歇尔·奥尔曼MarshallAllman吉姆·卡明斯JimCummings克洛伊·伊斯特ChloeEast劳拉·库弗LauraCoover凯尔西·爱德华兹KelseyEdwards斯凯勒·拜布尔SkylerBible黛安·D·比姆DianeD.Beam达斯廷·哈恩DustinHahn◎标签惊悚|美国|恐怖|2020|黑色幽默|喜剧|狼人|美国电影◎简介吉姆·卡明斯自编自导并参与演出的惊悚黑色喜剧[雪谷之狼](TheWolfofSnowHollow，暂译)发布第一批剧照，吉姆扮演正在戒酒的混混警官，他坚信小镇来了连环杀手，但小镇居民却认为那是一个狼人。瑞琪·琳德赫姆扮演他理智的搭档，去年十月过世的罗伯特·福斯特则扮演他的父亲、也是小镇警长，这是福斯特最后一次大银幕演出。",
@@ -14689,7 +14666,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201017/60614.html",
     date: "2020-10-1600:01:07",
     desc: "◎译名本人之死/我之死/我的死法◎片名TheDeathofMe/DeathofMe◎年代2020◎产地美国◎类别恐怖/惊悚/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-10-02(美国)◎IMDb评分4.3/10from954users◎豆瓣评分3.9/10from393users◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名本人之死/我之死/我的死法◎片名TheDeathofMe/DeathofMe◎年代2020◎产地美国◎类别恐怖/惊悚/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-10-02(美国)◎IMDb评分4.3/10from954users◎豆瓣评分3.9/10from393users◎文件格式x264+aac◎视频尺寸1920x1080◎片长94分钟◎导演达伦·林恩·鲍斯曼DarrenLynnBousman◎主演李美琪MaggieQ....Christine卢克·海姆斯沃斯LukeHemsworth....Neil艾丽克斯·埃索AlexEssoe....SamanthaKatIngkarat....Madee(asIngkaratKatJaraswongkosol)KellyB.Jones....Kanda(asKellyBronwenJones)CaledoniaBurr....NathidaChatchawaiKamonsakpitak....Dr.Anuman(asChatchawanKamonsakpitak)SahapoomTotrungsup....CabbieTanapathSingamrath....Capt.KriangKrai(asTanapathSi-ngamrath)OlivierPaulVarry....Chef(asOliverPaulVarry)SaengkhamChanthawong....Ram(asSaengkhamChantawong)IradaRitsira....FacelessWoman1TannapatSirimat....FacelessWoman2(asThanyapatSirimat)KatriaLouiseReed....FacelessWoman3SomjaiHmanbut....FishermanPiyanitAmbavat....TravelClerk(asPiyanitNokAmbawat)PanapatChankasemmima....TattooMan(asPanapatTingLiChankasemmima)JidapaSuwat-Ekkul....Nurse◎标签恐怖|惊悚|悬疑|MaggieQ|美国|2020|美国电影|李美琪◎简介故事讲述一对夫妻到泰国的某个海岛上渡假，宿醉醒来完全想不起来前一晚发生的事情。两人回朔相机里的照片，惊然发现前一晚老公将老婆杀害的画面。恐惧又困惑，台风逼近小岛，但下一班船要24小时之后才会抵达小岛，两人试图重建前一晚发生的事情——却被卷入神秘、黑魔法以及谋杀案之中。",
@@ -14719,7 +14696,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201015/60611.html",
     date: "2020-10-1523:55:22",
     desc: "◎译名数码宝贝：最后的进化/数码宝贝大冒险：最后的进化羁绊/数码宝贝大冒险剧场版◎片名デジモンアドベンチャーLASTEVOLUTION絆/DigimonAdventure:LastEvolutionKizuna◎年代2020◎产地日本◎类别动画/冒险◎语言日语◎字幕中文◎上",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名数码宝贝：最后的进化/数码宝贝大冒险：最后的进化·羁绊/数码宝贝大冒险剧场版◎片名デジモンアドベンチャーLASTEVOLUTION絆/DigimonAdventure:LastEvolutionKizuna◎年代2020◎产地日本◎类别动画/冒险◎语言日语◎字幕中文◎上映日期2020-02-21(日本)◎IMDb评分7.4/10from313users◎豆瓣评分7.8/10from5803users◎文件格式x264+aac◎视频尺寸1920x1080◎片长94分钟◎导演田口智久TomohisaTaguchi◎编剧大和屋晓AkatsukiYamatoya◎主演花江夏树NatsukiHanae细谷佳正YoshimasaHosoya三森铃子SuzukoMimori田村睦心MutsumiTamura吉田仁美HitomiYoshida池田纯矢JunIkeda樐敬久�JunyaEnoki市道真央MaoIchimichi坂本千夏ChikaSakamoto山口真弓MayumiYamaguchi重松花鸟AtoriShigematsu山田蘑菇ShihomiMizowaki竹内顺子JunkoTakeuchi樱井孝宏TakahiroSakurai松本美和MiwaMatsumoto德光由禾YukaTokumitsu松冈茉优MayuMatsuoka小野大辅DaisukeOno◎标签数码宝贝|怀旧|期待也能中国大陆上映消息|剧场版|2020|动漫|日本|日本动画◎简介2010年，曾经的小学生们已经步入大学，太一、阿和等人步上不同的人生道路（八神太一和石田大和将会成长为22岁），而就在此时，数码宝贝的研究者メノア(松冈茉优配音)却告诉他们：“被选召的孩子们”长大成人后，数码宝贝也将随之消失……",
@@ -14750,7 +14727,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201015/60610.html",
     date: "2020-10-1500:59:13",
     desc: "◎译名LoveYouForever/穿越时空的爱◎片名我在时间尽头等你◎年代2020◎产地中国大陆◎类别爱情/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-25(中国大陆)◎IMDb评分7/10from29users◎豆瓣评分5.3/10from37262users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名LoveYouForever/穿越时空的爱◎片名我在时间尽头等你◎年代2020◎产地中国大陆◎类别爱情/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-25(中国大陆)◎IMDb评分7/10from29users◎豆瓣评分5.3/10from37262users◎文件格式x264+aac◎视频尺寸1920x1080◎片长115分钟◎导演姚婷婷TingtingYao◎编剧郑执ZhiZheng刘迟ChiLiu浦贤杨同坤姚婷婷TingtingYao◎主演李鸿其Hong-ChiLee李一桐YitongLi范伟WeiFan张超JuckZhang罗辑JiLuo郭欣禹XinyuGuo◎标签爱情|李一桐|李鸿其|奇幻|电影|中国电影|中国大陆|华语电影◎简介林格（李鸿其饰）人生所有美好的记忆，都与邱倩（李一桐饰）有关。一场意外、一块神奇的表彻底改变了两人的人生......时空不断被重置，唯一不变的，是爱你如初的心。",
@@ -14780,7 +14757,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201014/60606.html",
     date: "2020-10-1320:57:43",
     desc: "◎译名I'mLivin'It/ImLivingIt◎片名麦路人/麦难民/麥路人◎年代2019◎产地中国香港◎类别剧情◎语言粤语/国语◎字幕中文◎上映日期2019-10-29(东京电影节)/2020-09-17(中国大陆)◎IMDb评分6.6/10from97users◎豆瓣评分6.6/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名I'mLivin'It/I’mLivingIt◎片名麦路人/麦难民/麥路人◎年代2019◎产地中国香港◎类别剧情◎语言粤语/国语◎字幕中文◎上映日期2019-10-29(东京电影节)/2020-09-17(中国大陆)◎IMDb评分6.6/10from97users◎豆瓣评分6.6/10from9031users◎文件格式x264+aac◎视频尺寸1920x1080◎片长114分钟◎导演黄庆勋DannyWong◎编剧潘幸枝JaPoon◎主演郭富城AaronKwok杨千嬅MiriamYeung万梓良AlexMan张达明Tat-MingCheung鲍起静HeeChingPaw顾定轩ZenoKoo刘雅瑟YaseLiu岑日珈AngieShum劳浩羽JefferyLou黄悦珈苏浩才SammySo苗可秀NoraMiao吴嘉星KathyWu李漫芬FannyLee卢海鹰LeoHoi-YingLo◎标签香港|社会|剧情|『郭富城』|『楊千嬅』|『香港』|2019|『金像獎』◎简介曾是一位金融才俊的阿博（Bowen），终日在24小时快餐店借宿，店内有不少同路人与阿博为伍，相互改写了各自的人生。分别有一直为奶奶还债而债台高筑的妈妈带着囡囡、不敢回家的等伯、刚离家出走的少年深仔，还有暂居庇护宿舍的歌女阿珍都以阿博为首，各人互相扶持，希望能尽力帮助彼此走过人生低谷……◎获奖情况第39届香港电影金像奖(2020)最佳电影(提名)最佳男主角(提名)郭富城最佳男配角张达明最佳男配角(提名)万梓良最佳女配角(提名)刘雅瑟最佳美术指导(提名)利国林/文念中最佳服装造型设计(提名)文念中/陈宝欣最佳原创电影音乐(提名)金培达最佳原创电影歌曲(提名)新晋导演(提名)黄庆勋第32届东京国际电影节(2019)亚洲未来单元最佳影片(提名)黄庆勋",
@@ -14810,7 +14787,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201014/60605.html",
     date: "2020-10-1302:03:27",
     desc: "◎译名纳尔齐斯与歌尔德蒙◎片名NarzissundGoldmund◎年代2020◎产地德国◎类别剧情◎语言德语◎字幕中英双字幕◎上映日期2020-01-02(德国)◎IMDb评分6.2/10from218users◎豆瓣评分7.4/10from930users◎文件格式x264+aac◎视频",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名纳尔齐斯与歌尔德蒙◎片名NarzissundGoldmund◎年代2020◎产地德国◎类别剧情◎语言德语◎字幕中英双字幕◎上映日期2020-01-02(德国)◎IMDb评分6.2/10from218users◎豆瓣评分7.4/10from930users◎文件格式x264+aac◎视频尺寸1920x1080◎片长110分钟◎导演斯戴芬·卢佐维茨基StefanRuzowitzky◎编剧斯戴芬·卢佐维茨基StefanRuzowitzky罗伯特·戈尔德RobertGold赫尔曼·黑塞HermannHesse◎主演杰尼斯·纽沃纳JannisNiewöhner萨宾·塔布瑞亚SabinTambrea亨丽埃特·肯夫里乌斯HenrietteConfurius卢卡斯·贝奇LukásBech罗珊妮·杜兰RoxaneDuran格奥尔格·弗里德里希GeorgFriedrich迈克尔·格兰特斯琴MichaelGlantschnig马蒂亚斯·哈比希MatthiasHabich安德烈·赫尼克AndréHennicke伊丽莎白·卡内蒂斯ElisabethKanettis罗曼·约翰尼斯·科恩菲尔德RomanJohannesKornfeld约翰内斯·克里施JohannesKrisch松妮·梅勒斯SunnyiMelles杰里米·米里克JeremyMiliker乌韦·奥克森克内希特UweOchsenknecht基达·拉马丹KidaKhodrRamadan布兰科·萨马罗夫斯基BrankoSamarovski艾丽莎·施洛特ElisaSchlott杰西卡·施瓦茨JessicaSchwarz艾米利亚·舒勒EmiliaSchüle马里乌斯·西奥伯德MariusTheobald◎标签德国|原著改编|剧情|2020|宗教|人性|人生|文艺◎简介年轻的戈德蒙德（詹尼斯·尼沃纳）由他的父亲派去马里亚布龙修道院学习，并会见了虔诚的n修道院学生纳西苏斯（萨宾·坦布雷亚）。水仙致力于修道院的禁欲和严格的生活规则与心脏和灵魂，起初戈德蒙德试图跟随他。两人之间的亲密友谊很快发展起来，但浮躁和爱好乐趣的金嘴很快意识到，修道院给他的生活视角与他的自由思想不一致，在水仙子的鼓励下，踏上了充满冒险的旅程，在此期间，他终于遇到了他伟大的爱勒尼（亨利特·康布里乌斯）。但多年后，水仙和戈德蒙德在戏剧性的环境中再次相遇...",
@@ -14841,7 +14818,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201013/60603.html",
     date: "2020-10-1201:53:03",
     desc: "◎译名乐队男孩◎片名TheBoysintheBand◎年代2020◎产地美国◎类别剧情/同性◎语言英语◎字幕中英双字幕◎上映日期2020-09-30(美国)◎IMDb评分6.8/10from5627users◎豆瓣评分7.2/10from1782users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名乐队男孩◎片名TheBoysintheBand◎年代2020◎产地美国◎类别剧情/同性◎语言英语◎字幕中英双字幕◎上映日期2020-09-30(美国)◎IMDb评分6.8/10from5627users◎豆瓣评分7.2/10from1782users◎文件格式x264+aac◎视频尺寸1920x1080◎片长121分钟◎导演乔·曼特罗JoeMantello◎编剧马尔特·克劳利MartCrowley奈德·马特尔NedMartel◎主演吉姆·帕森斯JimParsons扎克瑞·昆图ZacharyQuinto马特·波莫MattBomer安德鲁·兰内斯AndrewRannells查尔斯·卡维尔CharlesCarver罗宾·德·齐泽斯RobindeJesus布莱恩·胡奇森BrianHutchison迈克尔·本杰明·华盛顿MichaelBenjaminWashington塔克·霍金斯TucWatkins布莱恩·多尔BrianDole蒂娜·法布里克TinaFabrique泰勒·迈尔斯TylerMiles约翰·德卢卡JohnDeLuca杰克·阿姆斯特朗JackArmstrongJuliaParkerPeterEpstein◎标签同性|美国|LGBTQ|2020|剧情|Netflix|电影|同志◎简介百老汇舞台剧《乐队男孩》(TheBoysintheBand)将被翻拍为电影，舞台剧全员卡司吉姆·帕森斯、扎克瑞·昆图、安德鲁·兰内斯、马特·波莫、查理·卡维尔、罗宾·德·齐泽斯、塔克·霍金斯、迈克尔·本杰明·华盛顿、布莱恩·胡奇森回归出演，乔·曼特罗执导，瑞恩·墨菲将担任制片人，Netflix出资打造。该舞台剧讲述石墙运动前，纽约同志们的生活。",
@@ -14871,7 +14848,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201012/60599.html",
     date: "2020-10-1101:56:17",
     desc: "◎译名剧场版架空OL日记/FictitiousGirl'sDiary◎片名劇場版架空OL日記◎年代2020◎产地日本◎类别剧情/喜剧◎语言日语◎字幕中文◎上映日期2020-02-28(日本)◎IMDb评分5.7/10from20users◎豆瓣评分7.9/10from1125users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名剧场版架空OL日记/FictitiousGirl'sDiary◎片名劇場版架空OL日記◎年代2020◎产地日本◎类别剧情/喜剧◎语言日语◎字幕中文◎上映日期2020-02-28(日本)◎IMDb评分5.7/10from20users◎豆瓣评分7.9/10from1125users◎文件格式x264+aac◎视频尺寸1920x960◎片长100分钟◎导演住田崇TakashiSumita◎编剧笨蛋节奏Bakarhythm◎主演笨蛋节奏Bakarhythm夏帆Kaho佐藤玲RyoSato山田真步MahoYamada三浦透子ToukoMiura沈恩京Eun-kyungShim坂井真纪MakiSakai志田未来MiraiShida石桥菜津美NatsumiIshibashi臼田麻美AsamiUsuda◎标签日本|2020|喜剧|日常|电影|女性|佐藤玲|三浦透子◎简介忧郁的星期一早上，身为银行职员OL的“我”开始了这一周。忍受着困倦、认真地化好妆出门，挤着满满都是人的地铁，在距离公司最近的地铁站和关系最好的同事真纪会合了。她和“我”价值观相近，聊天的时候经常会聊得很投入。在公司更衣室和后辈纱英、已经进入公司8年的小峰、和进入公司10年的酒木一起，我们进行着上班前五花八门的漫谈。",
@@ -14901,7 +14878,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201012/60598.html",
     date: "2020-10-1101:54:47",
     desc: "◎译名托米莉斯女王/托米利斯女王◎片名Tomyris/TheLegendofTomiris/Томирис◎年代2019◎产地哈萨克斯坦◎类别剧情/历史◎语言哈萨克语,斯基泰语,东伊朗语◎字幕中文◎上映日期2019-10-01(哈萨克斯坦)◎IMDb评分6.7/10from421us",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名托米莉斯女王/托米利斯女王◎片名Tomyris/TheLegendofTomiris/Томирис◎年代2019◎产地哈萨克斯坦◎类别剧情/历史◎语言哈萨克语,斯基泰语,东伊朗语◎字幕中文◎上映日期2019-10-01(哈萨克斯坦)◎IMDb评分6.7/10from421users◎文件格式x264+aac◎视频尺寸1920x1080◎片长156分钟◎导演阿坎·萨塔耶夫AkanSatayev◎编剧帖木儿·扎克斯里科夫TimurZhaksylykov◎主演别里克·艾特占诺夫BerikAitzhanov加桑·马苏德GhassanMassoudAlmiraTursyn埃克布兰·戴洛夫ErkebulanDairov◎标签哈萨克斯坦|历史|中亚电影|史诗|斯基泰|传记|居鲁士二世|2019◎简介Thisisthestoryofthelifeofthegreatqueenofofthesteppe-legendaryTomyris.Sheisdestinedtobecomeaskillfulwarrior,survivethelossofclosepeopleandunitetheSakatribesunderherauthority.影片还原了斯基泰马萨格泰草原女王托米利斯击杀波斯阿契美尼德王朝国王居鲁士二世的历史传奇。",
@@ -14931,7 +14908,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201010/60594.html",
     date: "2020-10-0901:20:12",
     desc: "◎译名神啊来救救我吧/神来救救我吧◎片名SaveYourselves!◎年代2020◎产地美国◎类别喜剧/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-02(美国)◎IMDb评分5.3/10from787users◎豆瓣评分5.8/10from86",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名神啊来救救我吧/神来救救我吧◎片名SaveYourselves!◎年代2020◎产地美国◎类别喜剧/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-10-02(美国)◎IMDb评分5.3/10from787users◎豆瓣评分5.8/10from86users◎文件格式x264+aac◎视频尺寸1920x1080◎片长93分钟◎导演亚历克斯·休斯顿·费希尔AlexHustonFischer埃莉诺·威尔逊EleanorWilson◎编剧亚历克斯·休斯顿·费希尔AlexHustonFischer埃莉诺·威尔逊EleanorWilson◎主演苏妮特·玛尼SunitaMani约翰·雷诺兹JohnReynolds本·辛克莱尔BenSinclair约翰·厄尔利JohnEarly乔·费尔斯通JoFirestone加里·理查德森GaryRichardson乔安娜·戴JohannaDay泽诺比娅·谢罗夫ZenobiaShroff艾米·塞德丽丝AmySedaris◎标签科幻|美国|2020|喜剧|PA-SundanceA剧情片竞赛/美国剧情片|荒诞|旧金山◎简介一对年轻的布鲁克林夫妇前往北部，他们断开了手机，与自己重新建立联系。由于切断了电子设备，他们错过了地球正遭受攻击的消息。",
@@ -14963,7 +14940,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201010/60593.html",
     date: "2020-10-0901:17:38",
     desc: "◎译名Chronical/Subject14◎片名2067◎年代2020◎产地澳大利亚◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2020-10-02(澳大利亚)◎IMDb评分4.6/10from953users◎豆瓣评分6.3/10from192users◎文件格式x264+aac◎视频尺寸19",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名Chronical/Subject14◎片名2067◎年代2020◎产地澳大利亚◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2020-10-02(澳大利亚)◎IMDb评分4.6/10from953users◎豆瓣评分6.3/10from192users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演SethLarney◎编剧SethLarney◎主演柯蒂·斯密特-麦菲KodiSmit-McPhee瑞恩·柯万腾RyanKwanten德波拉·梅尔曼DeborahMailman利安娜·瓦尔斯曼LeeannaWalsman安迪·麦克菲AndyMcPhee达米安·瓦尔谢·霍林DamianWalshe-HowlingFinnLittle亚伦·格伦尼AaronGlenane◎标签科幻|美国电影|青春|美国|犯罪|人性|2012◎简介Threehighschoolfriendsgainsuperpowersaftermakinganincrediblediscovery.Soon,though,theyfindtheirlivesspinningoutofcontrolandtheirbondtestedastheyembracetheirdarkersides.一个人前去未来拯救垂死的世界……",
@@ -14993,7 +14970,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201009/60590.html",
     date: "2020-10-0810:34:30",
     desc: "◎译名休比的万圣节/万圣节救星修比/湖比万圣节◎片名HubieHalloween◎年代2020◎产地美国◎类别喜剧/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-10-07(美国)◎IMDb评分5.3/10from1977users◎豆瓣评分4.8/10from85users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名休比的万圣节/万圣节救星修比/湖比万圣节◎片名HubieHalloween◎年代2020◎产地美国◎类别喜剧/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-10-07(美国)◎IMDb评分5.3/10from1977users◎豆瓣评分4.8/10from85users◎文件格式x264+aac◎视频尺寸1920x1080◎导演史蒂文·布里尔StevenBrill◎编剧提姆·赫利希TimHerlihy亚当·桑德勒AdamSandler◎主演亚当·桑德勒AdamSandler凯莉·伯格伦德KelliBerglund玛娅·鲁道夫MayaRudolph史蒂夫·布西密SteveBuscemi朱丽·鲍温JulieBowen佩顿·李斯特PeytonR.List雷·利奥塔RayLiotta凯文·詹姆斯KevinJames琪娜·安妮·麦克兰ChinaAnneMcClain帕里斯·贝尔克ParisBerelc罗伯·施奈德RobSchneider迈克尔·切克利斯MichaelChiklis诺亚·施纳普NoahSchnapp基南·汤普森KenanThompson梅丽莎·维亚西诺尔MelissaVillaseñor琼·斯奎布JuneSquibb布莱克·克拉克BlakeClark沙奎尔·奥尼尔ShaquilleO'Neal蒂姆·麦道斯TimMeadows卡兰·布拉尔KaranBrar拉韦尔·克劳福德LavellCrawford金·惠特利KymWhitley贝琪·索达罗BetsySodaro布拉德利·史蒂文·派瑞BradleyStevenPerry麦基·戴MikeyDay凯文·奎恩KevinQuinn柯林·奎恩ColinQuinn莉莉玛Lilimar乔治·华莱士GeorgeWallace兰斯·利姆LanceLim朱利安·斯通JulianStone杰玛·特雷尔·加德纳GermarTerrellGardner◎标签喜剧|2020|美国|亚当·桑德勒|美国电影|恐怖|朱丽·鲍温|雷·利奥塔◎简介亚当·桑德勒扮演的休比·杜波依斯住在波士顿附近的塞勒姆小镇，他平时热心公益乐于助人，而且热爱万圣节，只是说话怪怪的，所有人都认为他是笨蛋。万圣节当晚，休比发现有真正的鬼怪在杀人并带来了混乱。警察和镇上的居民都不相信他，但休比拯救这个小镇的决心不会变。",
@@ -15023,7 +15000,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201007/60583.html",
     date: "2020-10-0700:55:47",
     desc: "◎译名看门人/夺命守门人(台)◎片名Doorman◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-10-09(美国)◎文件格式x264+aac◎视频尺寸1920x1080◎导演北村龙平RyheiKitamura◎主演鲁比罗丝Rub",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名看门人/夺命守门人(台)◎片名Doorman◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-10-09(美国)◎文件格式x264+aac◎视频尺寸1920x1080◎导演北村龙平RyûheiKitamura◎主演鲁比·罗丝RubyRose让·雷诺JeanReno阿卡塞尔·亨涅AkselHennie鲁珀特·伊文斯RupertEvans朱利安·费德JulianFeder大卫·樱井DavidSakurai路易·曼迪勒LouisMandylor伊藤英明HideakiItoPhilipWhitchurch安德烈娅·瓦西里AndreeaVasileRaynorvandeWater丹·凯德DanCade◎标签动作|2020|让·雷诺|美国|犯罪|美国电影|惊悚|伊藤英明◎简介故事讲述一名海军陆战队军官在服役期间受到心理创伤，她回国寻找机会治疗。她在纽约的一座历史悠久、迷宫一样的公寓大楼当看门人，发现雇佣兵们有意摧毁一切，以便寻找公寓中的珍宝。",
@@ -15053,7 +15030,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201007/60580.html",
     date: "2020-10-0620:46:37",
     desc: "◎译名西游之再见悟空(港)/西行纪剧场版/西行纪电影版◎片名西行纪之再见悟空◎年代2020◎产地中国大陆◎类别动作/动画/奇幻◎语言普通话/粤语◎字幕中文◎上映日期2020-05-04(中国大陆)◎豆瓣评分6.4/10from4021users◎文件格式x264",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名西游之再见悟空(港)/西行纪剧场版/西行纪电影版◎片名西行纪之再见悟空◎年代2020◎产地中国大陆◎类别动作/动画/奇幻◎语言普通话/粤语◎字幕中文◎上映日期2020-05-04(中国大陆)◎豆瓣评分6.4/10from4021users◎文件格式x264+aac◎视频尺寸1920x1080◎片长65分钟◎主演樊俊航JunhangFan刘北辰BeichenLiu张杰JieZhang孟祥龙XianglongMeng孙晔YeSun◎标签西行纪|国漫|国产动画|良心制作|国漫3D|动漫|电影|正能量◎简介改编自动漫IP《西行纪》，天界公主素衣在凡间与孙悟空结识，情投意合。但悟空却被其他天神当成凡间妖物暴力对待，镇压在了五指山下。三百年来，如来大神用行动感化悟空，教会悟空如何坚守心中正义。孙悟空保护唐三藏前往彼岸世界取回创世之火以造福世间，历经波折后终于归来，却发现巨大的阴谋浮出水面，师徒几人的命运也就此被改写。",
@@ -15083,7 +15060,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201007/60579.html",
     date: "2020-10-0619:27:57",
     desc: "◎译名灵异妙探2：莱斯归来/灵异妙探大电影2/灵异妙探大电影2：Lassie快回家◎片名Psych2:LassieComeHome/Psych:TheMovie2◎年代2020◎产地美国◎类别喜剧/悬疑/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-07-15(美国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名灵异妙探2：莱斯归来/灵异妙探大电影2/灵异妙探大电影2：Lassie快回家◎片名Psych2:LassieComeHome/Psych:TheMovie2◎年代2020◎产地美国◎类别喜剧/悬疑/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-07-15(美国)◎IMDb评分7.5/10from2573users◎文件格式x264+aac◎视频尺寸1920x1080◎导演史蒂夫·弗兰克斯SteveFranks◎编剧安迪·贝尔曼AndyBerman史蒂夫·弗兰克斯SteveFranks詹姆斯·罗德JamesRoday◎主演詹姆斯·罗德JamesRoday杜勒·希尔DuléHill玛吉·劳森MaggieLawson柯宾·伯恩森CorbinBernsen蒂莫西·奥门德森TimothyOmundson吉米·辛普森JimmiSimpson克里斯托弗·赫耶达尔ChristopherHeyerdahl乔尔·麦克哈尔JoelMcHale克丽斯汀·尼尔森KirstenNelson萨奇·布洛克勒班克SageBrocklebank克莱尔·菲利保ClareFilipow尼尔斯·霍涅斯卡德NilsHognestad格雷姆·达菲GraemeDuffy◎标签喜剧|犯罪|悬疑|美国|灵异妙探|2020|美国电影|喜剧片◎简介剧版主创SteveFranks执导，讲述警察局的头头Lassiter的噩梦组合(误)回来了：Lassiter遭到袭击，治疗时他却出现幻觉，看到了一堆疯狂的东西。逗比侦探Shawn和Gus应邀回来解决问题，他们本已在旧金山找到了新生活，如今再次合作，麻烦不少。而过程中的发现，将永远改变两人的关系。",
@@ -15115,7 +15092,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201005/60563.html",
     date: "2020-10-0401:21:08",
     desc: "◎译名福岛50死士/Fukushima50/フクシマ50/福岛50/福岛50英雄(台)◎片名フクシマフィフティ◎年代2020◎产地日本◎类别剧情/灾难◎语言日语◎字幕中文◎上映日期2020-03-06(日本)◎IMDb评分6.3/10from212users◎豆瓣评分6.2/10from427",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名福岛50死士/Fukushima50/フクシマ50/福岛50/福岛50英雄(台)◎片名フクシマフィフティ◎年代2020◎产地日本◎类别剧情/灾难◎语言日语◎字幕中文◎上映日期2020-03-06(日本)◎IMDb评分6.3/10from212users◎豆瓣评分6.2/10from427users◎文件格式x264+aac◎视频尺寸1920x1080◎片长122分钟(日本)◎导演若松节朗SetsurôWakamatsu◎编剧前川洋一YoichiMaekawa◎主演佐藤浩市KôichiSatô渡边谦KenWatanabe吉冈秀隆HidetakaYoshioka绪形直人NaotoOgata吉冈里帆RihoYoshioka斋藤工TakumiSaitô火野正平ShôheiHino平田满MitsuruHirata萩原圣人MasatoHagiwara富田靖子YasukoTomita佐野史郎ShirôSano安田成美NarumiYasuda◎标签灾难|日本|2020|日本电影|灾害|剧情|电影|能源◎简介《深夜食堂2》的佐藤浩市和《犬之岛》的渡边谦确定加盟福岛核电站灾难主题新片《福岛50死士》。据悉，本片将围绕冒着生命危险留在核电站的最前线工作人员展开，他们中包括值班主管Isaki和工地主任Yoshida。媒体后来以“福岛50死士”来称呼这批勇士。2011年3月11日下午2时46分，日本福岛发生史上最强烈9级地震，超过一万九千人丧生。地震引发了灾难性海啸，无情地吞噬福岛核电厂，导致厂内的核电堆无法正常运作，全日本正面临核爆危机！若辐射大规模洩漏，全日本以至太平洋地区将就此荒废百年！在生死存亡的关头，核电厂内50名留守的员工，抱着不成功便成仁的决心，誓要阻止这场世纪核爆发生，他们就是–福岛50死士。",
@@ -15145,7 +15122,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201005/60562.html",
     date: "2020-10-0401:15:09",
     desc: "◎译名十八个礼物/18个礼物◎片名18Regali/18Presents◎年代2020◎产地意大利◎类别剧情◎语言意大利语◎字幕中文◎上映日期2020-01-02(意大利)◎IMDb评分6.7/10from2434users◎豆瓣评分7.6/10from253users◎文件格式x264+aa",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名十八个礼物/18个礼物◎片名18Regali/18Presents◎年代2020◎产地意大利◎类别剧情◎语言意大利语◎字幕中文◎上映日期2020-01-02(意大利)◎IMDb评分6.7/10from2434users◎豆瓣评分7.6/10from253users◎文件格式x264+aac◎视频尺寸1920x1080◎片长115分钟◎导演FrancescoAmato◎编剧FrancescoAmato马西莫·高迪奥索MassimoGaudioso达维德·兰蒂耶里DavideLantieri◎主演维多利亚·普契尼VittoriaPuccini贝内黛塔·波尔卡罗利BenedettaPorcaroli爱德华多·莱奥EdoardoLeo莎拉·拉扎罗SaraLazzaro马可·梅塞里MarcoMesseriGiacomoRosselli亚历山德拉·卡里略AlessandraCarrillo◎标签家庭|意大利|温情|剧情|意大利电影|母女|2020|母亲◎简介四十岁的艾丽莎意识到自己身患绝症，即将与自己的丈夫和女儿阴阳两隔。但在她死前，艾丽莎想了一个办法始终陪伴在孩子身边：她给女儿准备了18份生日礼物，直到后者成年为止。而这18份礼物给成长中的少女既带来的不仅是慰藉，还有对于家庭与生命的烦恼。",
@@ -15176,7 +15153,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201003/60549.html",
     date: "2020-10-0322:52:10",
     desc: "◎译名翻译疑云/叛译同谋(港)◎片名LesTraducteurs/TheTranslators◎年代2019◎产地法国,比利时◎类别悬疑/惊悚◎语言意大利语,葡萄牙语,丹麦语,俄语,法语,英语,希腊语,汉语普通话,西班牙语◎字幕中文◎上映日期2019-11-23(佛朗哥乌兹克电影",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名翻译疑云/叛译同谋(港)◎片名LesTraducteurs/TheTranslators◎年代2019◎产地法国,比利时◎类别悬疑/惊悚◎语言意大利语,葡萄牙语,丹麦语,俄语,法语,英语,希腊语,汉语普通话,西班牙语◎字幕中文◎上映日期2019-11-23(佛朗哥乌兹克电影节)/2020-01-29(法国)◎IMDb评分6.5/10from2959users◎豆瓣评分7.2/10from21260users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演雷吉斯·罗因萨尔RégisRoinsard◎编剧罗曼·康宁RomainCompingt丹尼尔·普雷斯利DanielPresley雷吉斯·罗因萨尔RégisRoinsard◎主演朗贝尔·维尔森LambertWilson欧嘉·柯瑞兰寇OlgaKurylenko里卡多·斯卡马乔RiccardoScamarcio西瑟·巴比特·科努德森SidseBabettKnudsen爱德华多·诺列加EduardoNoriega埃里克斯·劳瑟AlexLawther安娜·玛丽亚·斯图姆AnnaMariaSturm弗雷德里克·周FrédéricChau玛丽亚·莱特MariaLeite马诺利斯·马诺里斯ManolisMavromatakis萨拉·吉罗多SaraGiraudeau帕特里克·波查PatrickBauchau塞尔盖·内斯特连科SergueïNesterenko米格伦·米切夫MiglenMirtchev伊琳娜·穆雷勒IrinaMuluile凯斯特·洛夫莱斯KesterLovelace雅各布·乌尔里克·罗曼JakobUlrikLohmannMichelBompoil丹尼尔·普雷斯利DanielPresley◎标签悬疑|法国|剧情|惊悚|翻译|2019|推理|犯罪◎简介知名畅销小说作家的遗作——他生前畅销小说的三部曲最后一集，即将发布。为了能在世界主要地区同时出版这本小说，出版商聘用了9名来自世界各地的翻译员，同时在现场翻译小说。他们被关进了一间豪华但守卫森严的套房，时刻在监视之下。然而，绝密手稿的前十页突然在网上流出，出版商也被勒索巨额赎金。如果不支付五百万欧元，还会继续泄漏内容。除了出版商和这9名翻译，没有人接触过这份手稿。出版商确信，泄密者就在他们9人当中。究竟谁是这一切的幕后操纵者？",
@@ -15208,7 +15185,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201002/60540.html",
     date: "2020-10-0212:19:47",
     desc: "◎译名非常真相/双面追缉(台)/流逝的时间/消失的时间◎片名MeandMe◎年代2020◎产地韩国◎类别悬疑◎语言韩语◎上映日期2020-06-18(韩国)◎IMDb评分6.3/10from31users◎豆瓣评分5.2/10from584users◎字幕中文◎字幕中英双字幕◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名非常真相/双面追缉(台)/流逝的时间/消失的时间◎片名MeandMe◎年代2020◎产地韩国◎类别悬疑◎语言韩语◎上映日期2020-06-18(韩国)◎IMDb评分6.3/10from31users◎豆瓣评分5.2/10from584users◎字幕中文◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演郑镇荣Jin-yeongJeong◎编剧郑镇荣Jin-yeongJeong◎主演赵震雄ChoJin-woong裴秀彬BaeSooBin车秀妍Su-yeonCha郑海钧Hae-kyunJung卢康民NoKang-min金胤成KimYoon-seong朴斗植Doo-sikPark李善彬Sun-binLee申东美Dong-MiShin张元英Won-yeongJang◎标签韩国|悬疑|2020|犯罪|剧情|电影|人性|社会◎简介秀赫是一个乡村小学的老师。他有一个秘密：每天晚上，他的妻子易英都会变成另一个人。有一天，他的一个学生的父亲知道了他们的秘密，并告知村民易英的身体每晚被一种恶灵所占据。村民一致认为易英非常危险，他们要求易英每晚进入上锁的笼子。结果这对夫妻很快在不明原因的大火中丧生。一名警探被派来调查，他一个接一个地审问村民，村子上的气氛逐渐变得诡异。一天晚上，村民们邀请警探到市政厅喝一杯。喝酒后，警探失去了意识。第二天，警探在之前那个笼子里醒来，但是每个人都称他为“老师”。他意识到自己已经变成了秀赫……",
@@ -15238,7 +15215,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20201001/60537.html",
     date: "2020-10-0109:07:56",
     desc: "◎译名知晓天空之蓝的人啊/知道天空有多蓝的人啊(台)◎片名空の青さを知る人よ/HerBlueSky◎年代2019◎产地日本◎类别动画◎语言日语◎字幕中英双字幕◎上映日期2019-10-11(日本)◎IMDb评分6.7/10from315users◎豆瓣评分7.6/10from549",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名知晓天空之蓝的人啊/知道天空有多蓝的人啊(台)◎片名空の青さを知る人よ/HerBlueSky◎年代2019◎产地日本◎类别动画◎语言日语◎字幕中英双字幕◎上映日期2019-10-11(日本)◎IMDb评分6.7/10from315users◎豆瓣评分7.6/10from5492users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演长井龙雪TatsuyukiNagai◎编剧冈田麿里MariOkada◎主演吉泽亮YoshizawaRyo吉冈里帆RihoYoshioka若山诗音ShionWakayama松平健KenMatsudaira落合福嗣FukushiOchiai大地叶YouTaichi种崎敦美AtsumiTanezaki◎标签日本|日本动画电影|动画|日本动画|动漫|剧场版|冈田磨里|2019◎简介故事讲述了被群山环绕的小城中，以音乐家为梦想的高二生“相生蓝”与姐姐“相生茜”以及茜的前男友不出名的吉他演奏家“金室慎之介”和从13年前穿越时空来到现在的18岁时的慎之介“しんの”之间不可思议的四角关系。13年前由于父母因事故丧生，姐姐茜放弃了与慎之介一同去东京，亲自抚养妹妹，而蓝一直因为这件事对姐姐抱有愧疚。在小城的音乐节上，被邀请参与的著名歌手的伴奏音乐家竟然就是多年来没有音信的慎之介。而同时在蓝的面前出现的“しんの”又吸引了她的爱慕……◎获奖情况第43届日本电影学院奖(2020)最佳动画片(提名)",
@@ -15268,7 +15245,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200930/60533.html",
     date: "2020-09-3011:23:49",
     desc: "◎译名真相/真实芳言(港)/凯瑟琳的真相/母女/真实/真実◎片名Lavrit/MotherandDaughter/TheTruth/TheTruthAboutCatherine◎年代2019◎产地法国,日本◎类别剧情◎语言法语,英语◎字幕中文◎上映日期2019-08-28(威尼斯电影节)/2019-10-11",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名真相/真实芳言(港)/凯瑟琳的真相/母女/真实/真実◎片名Lavérité/MotherandDaughter/TheTruth/TheTruthAboutCatherine◎年代2019◎产地法国,日本◎类别剧情◎语言法语,英语◎字幕中文◎上映日期2019-08-28(威尼斯电影节)/2019-10-11(日本)/2020-01-22(法国)◎IMDb评分6.5/10from3920users◎豆瓣评分7.1/10from7796users◎文件格式x264+aac◎视频尺寸1920x1080◎片长106分钟◎导演是枝裕和HirokazuKoreeda◎编剧是枝裕和HirokazuKoreeda/刘宇昆KenLiu◎主演凯瑟琳·德纳芙CatherineDeneuve朱丽叶·比诺什JulietteBinoche伊桑·霍克EthanHawke露德温·塞尼耶LudivineSagnier阿兰·利博AlainLibolt罗杰·范·胡尔RogerVanHool洛朗特·卡普洛托LaurentCapelluto玛雅·珊萨MayaSansa杰基·贝约尔JackieBerroyer赫尔米·德里迪HelmiDridi维吉尔弗路易VirgileFouilou斯特凡纳拉埃柯昂StéphaneLy-Cuong亚历珊德拉·耶尔马克AleksandraYermak玛侬·克拉维尔ManonClavel◎标签是枝裕和|法国|日本|2019|朱丽叶·比诺什|法国电影|剧情|伊桑霍克◎简介Fabienne是一个女星——是法国影坛巨星。在拥护爱戴她的男人面前她是高高在上的女神。她的女儿因她出版回忆录而带着丈夫和年幼的孩子从纽约回到巴黎。母女二人的重聚很快便变成互相指责：真相将被揭露、算清所有前帐，向对方坦然承认自己的爱和怨恨。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)是枝裕和",
@@ -15298,7 +15275,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200930/60532.html",
     date: "2020-09-3011:21:23",
     desc: "◎译名深夜食堂/深夜食堂电影版◎片名MidnightDiner◎年代2019◎产地中国大陆◎类别剧情◎语言普通话/粤语◎字幕中文◎上映日期2019-08-30(中国大陆)◎IMDb评分5.5/10from95users◎豆瓣评分5.1/10from28051users◎文件格式x264+aa",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名深夜食堂/深夜食堂电影版◎片名MidnightDiner◎年代2019◎产地中国大陆◎类别剧情◎语言普通话/粤语◎字幕中文◎上映日期2019-08-30(中国大陆)◎IMDb评分5.5/10from95users◎豆瓣评分5.1/10from28051users◎文件格式x264+aac◎视频尺寸1920x1080◎片长90分钟◎导演梁家辉TonyLeung◎编剧周隼ChrisChow朱滢心YingxinZhu陈隽璟SimonChen◎主演梁家辉TonyLeung魏晨VisionWei焦俊艳JunyanJiao郑欣宜JoyceCheng张艺上YishangZhang金世佳ShijiaJin金燕玲ElaineJin冯淬帆StanleyFung张立LiZhang梁靖康JingkangLiang杜雨宸BellaDu王靖雯JingwenWang邓超ChaoDeng杨祐宁YoYang彭于晏EddiePeng刘涛TaoLiu张一白YibaiZhang陈建州Charles'Blackie'Chen郝平PingHao蒋雯丽WenliJiang吴廷烨BergNg◎标签文艺|美食|温情|2019|治愈|翻拍|中国大陆|剧情◎简介在上海一条不起眼的小弄堂里，有一家只在深夜营业的小餐馆，老板是一位50岁左右的大叔，他会为每一个到访的食客做一份只属于他（她）的食物，一碗饭一个故事，一碟菜一段人生，暖心抚慰都市夜归人。大叔随着食堂的夜晚一起经历人来人往，满足食客们的味蕾，也见证了各式人生。而无论夜多深、路多远，大叔还会在食堂里继续倾听大家的故事。",
@@ -15328,7 +15305,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200929/60531.html",
     date: "2020-09-2800:42:47",
     desc: "◎译名维塔利娜瓦雷拉/梦回里斯本(台)/火焰的女儿◎片名VitalinaVarela/AsfilhasdoFogo/TheDaughtersofFire◎年代2019◎产地葡萄牙◎类别剧情◎语言葡萄牙语◎字幕中英双字幕◎上映日期2019-08-14(洛迦诺电影节)/2019-10-31(葡萄牙)◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名维塔利娜·瓦雷拉/梦回里斯本(台)/火焰的女儿◎片名VitalinaVarela/AsfilhasdoFogo/TheDaughtersofFire◎年代2019◎产地葡萄牙◎类别剧情◎语言葡萄牙语◎字幕中英双字幕◎上映日期2019-08-14(洛迦诺电影节)/2019-10-31(葡萄牙)◎IMDb评分7.0/10from976users◎豆瓣评分7.3/10from987users◎文件格式x264+aac◎视频尺寸1440x1080◎片长124分钟◎导演佩德罗·科斯塔PedroCosta◎编剧佩德罗·科斯塔PedroCosta维塔利娜·瓦雷拉VitalinaVarela◎主演维塔利娜·瓦雷拉VitalinaVarela文图拉Ventura曼努埃尔·塔瓦雷斯·阿尔梅达ManuelTavaresAlmeida弗朗西斯科·布里托FranciscoBrito玛丽娜·阿尔维斯·多明格斯MarinaAlvesDomingues蒙泰罗·伊米迪奥ImídioMonteiro◎标签葡萄牙|2019|剧情|社会|文艺|女性|移民|D佩德罗·科斯塔◎简介薇塔莉娜经过漫长的等待，总算盼到一张从非洲维德角到里斯本的机票，然而迎接她的并非丈夫允诺的美好未来，而是天人永隔的哀伤，以及迷雾般的身后事。两人上次见面已经是多年前，期间渺无音讯，谣言说丈夫卷入了肮脏阴暗的利益纠纷，却没人知道他究竟发生了什么事。伤心的薇塔莉娜寡居在丈夫生前的幽窄小屋中，独自在暗夜的巷弄间徘徊，循着渺茫的线索踽踽前行，在梦回时分熬过那一个个痛苦孤绝的夜晚，探向晦暗未明阴影后的救赎。◎获奖情况第72届洛迦诺国际电影节(2019)金豹奖佩德罗·科斯塔最佳女演员维塔利娜·瓦雷拉",
@@ -15358,7 +15335,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200929/60530.html",
     date: "2020-09-2800:40:33",
     desc: "◎译名我的章鱼老师◎片名MyOctopusTeacher◎年代2020◎产地南非◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-09-07(美国)◎IMDb评分8.6/10from3802users◎豆瓣评分9.3/10from567users◎文件格式x264+aac◎视频尺寸1",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2619541259.jpg",
     link: "",
     summary:
       "◎译名我的章鱼老师◎片名MyOctopusTeacher◎年代2020◎产地南非◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-09-07(美国)◎IMDb评分8.6/10from3802users◎豆瓣评分9.3/10from567users◎文件格式x264+aac◎视频尺寸1920x1080◎片长85分钟◎标签纪录片|自然|章鱼|动物|南非|生命~|2020|紀錄片◎简介一名电影制作人与一只生活在南非海藻林中的章鱼建立了不寻常的友谊。这只动物带他一窥自己的神秘世界，而他则获益良多。",
@@ -15387,7 +15364,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200927/60527.html",
     date: "2020-09-2723:37:46",
     desc: "◎译名品行不端/逆权选美(港)/爱美奖行动(台)/环球小姐逆行路◎片名Misbehaviour◎年代2020◎产地英国,法国◎类别剧情/历史◎语言英语◎字幕中英双字幕◎上映日期2020-03-09(伦敦首映)/2020-03-13(英国)◎IMDb评分6.1/10from2834users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名品行不端/逆权选美(港)/爱美奖行动(台)/环球小姐逆行路◎片名Misbehaviour◎年代2020◎产地英国,法国◎类别剧情/历史◎语言英语◎字幕中英双字幕◎上映日期2020-03-09(伦敦首映)/2020-03-13(英国)◎IMDb评分6.1/10from2834users◎豆瓣评分6.9/10from1286users◎文件格式x264+aac◎视频尺寸1920x1080◎片长106分钟◎导演菲莉帕·洛索普PhilippaLowthorpe◎编剧盖比·奇亚普GabyChiappe◎主演凯拉·奈特莉KeiraKnightley杰西·巴克利JessieBuckley古古·姆巴塔-劳GuguMbatha-Raw莱丝利·曼维尔LesleyManville凯莉·霍威KeeleyHawes瑞斯·伊凡斯RhysIfans苏琪·沃特豪斯SukiWaterhouse夏洛特·斯宾塞CharlotteSpencer格雷戈·金尼尔GregKinnear亚历克萨·戴维斯AlexaDavies菲利斯·洛根PhyllisLogan艾玛·科林EmmaCorrin莉莉·纽马克LilyNewmark约翰·赫夫南JohnHeffernan凯蒂·卡迈克尔KatyCarmichael鲁比·本特尔RubyBentall艾西斯·海恩斯沃斯IsisHainsworth莉莉·崔佛斯LilyTravers波丽·坎普PollyKemp蕾娅·斯密特洛维兹RiaZmitrowicz克拉拉·罗萨杰ClaraRosager爱琳·奥伊金斯EileenO'Higgins查理·安森CharlieAnson斯蒂芬·鲍克思StephenBoxer塞缪尔·布伦金SamuelBlenkin罗丽斯·哈里森LoreeceHarrison艾玛·达西EmmaD'Arcy卡加莎·莫翰玛KajsaMohammar马汀·麦格MartynMayger尼克拉斯·纳恩NicholasNunn丹尼尔·高斯林DanielGosling乔纳森·罗德斯JonathanRhodesEdwardE.White尼克·欧文福特NickOwenford史蒂芬·萨姆森StephenSamson迪诺·布加迪DeanoBugatti玛丽·希金斯MaryHiggins◎标签女性|英国|种族|英国电影|剧情|2020|KeiraKnightly|电影◎简介讲述1970年世界小姐选美比赛是全球亿万观众瞩目的国际盛事，一个新组成的女权组织认为选美是贬低女性，因此极力反对，更于比赛期间在众目睽睽下冲上舞台，扰乱和阻碍比赛进行。虽然她们立即就被逐离场，而比赛亦继续进行，但更触动观众神经的一幕却随即上演：当晚夺冠的佳丽竟然不是大热的瑞典小姐，而是来自西印度群岛岛国格林纳达的JenniferHosten，以黑马之姿成为史上首位获胜的黑人女性。就在短短一小时内，全球观众亲眼目睹父权主义被公然挑战，西方审美观亦被全然颠覆，一场选美翻起千重浪，亦为女权运动打下漂亮的一仗。",
@@ -15417,7 +15394,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200927/60526.html",
     date: "2020-09-2723:30:55",
     desc: "◎译名词典/义笔容辞(港)/机密行动：我们的辞典(台)/辞典◎片名Mal-Mo-E:TheSecretMission◎年代2019◎产地韩国◎类别剧情/历史◎语言韩语◎字幕中文◎上映日期2019-01-09(韩国)◎IMDb评分6.2/10from227users◎豆瓣评分7.7/10from511",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名词典/义笔容辞(港)/机密行动：我们的辞典(台)/辞典◎片名Mal-Mo-E:TheSecretMission◎年代2019◎产地韩国◎类别剧情/历史◎语言韩语◎字幕中文◎上映日期2019-01-09(韩国)◎IMDb评分6.2/10from227users◎豆瓣评分7.7/10from5113users◎文件格式x264+aac◎视频尺寸1920x1080◎片长135分钟◎导演严宥娜Yoo-naEom◎编剧严宥娜Yoo-naEom◎主演柳海真Hae-jinYu尹启相Kye-sangYoon金弘波Hong-FaKim禹贤HyeonWoo金太勋Tae-hoonKim艺秀晶YeSoo-jung赵贤哲Hyun-ChulCho刘在明Jae-myungYoo宋永彰Young-changSong金善映Seon-yeongKim崔奎华Gwi-hwaChoi许成泰Seong-taeHeo尹敬浩Kyung-hoYoon闵镇雄Jin-woongMin郑基燮Gi-seopJeong李姃垠Jung-eunLee吴熙俊Hee-joonOh金泰律Tae-yoolKim刘尚宰Sang-jaeYoo金东英Dong-yeongKim赵贤道Hyeon-doJo权爀HyukKwon全镇基Jin-giJeon李东勇LeeDong-yong蔡东炫Dong-hyunChae李成旭Seong-wookLee朴艺娜Ye-naPark◎标签韩国|历史|真实事件改编|文化|剧情|语言|2019|爱国◎简介日本殖民统治时期为了编制朝鲜语词典走遍全国，秘密搜集朝鲜语的两个男人的故事……◎获奖情况第56届韩国电影大钟奖(2020)最佳企划(提名)",
@@ -15447,7 +15424,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200926/60525.html",
     date: "2020-09-2612:18:05",
     desc: "◎译名WildGrass◎片名荞麦疯长◎年代2020◎产地中国大陆◎类别剧情/爱情◎语言普通话◎字幕中英双字幕◎上映日期2020-07-27(上海电影节)/2020-08-25(中国大陆)◎IMDb评分4.9/10from15users◎豆瓣评分4.5/10from22008users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名WildGrass◎片名荞麦疯长◎年代2020◎产地中国大陆◎类别剧情/爱情◎语言普通话◎字幕中英双字幕◎上映日期2020-07-27(上海电影节)/2020-08-25(中国大陆)◎IMDb评分4.9/10from15users◎豆瓣评分4.5/10from22008users◎文件格式x264+aac◎视频尺寸1920x816◎片长112分钟◎导演徐展雄ZhanxiongXu◎编剧徐展雄ZhanxiongXu◎主演马思纯SichunMa钟楚曦ElaneZhong黄景瑜JohnnyHuang王砚辉YanhuiWang王阳明SunnyWang辛鹏PengXin高叶YeGao李解JieLi杨一威YiweiYang木幡龙RyuKohata张建亚JianyaZhang吴超ChaoWu牛银红YinhongNiu王梓尘ZichenWang李玮珽WeitingLi任洛敏LuominRen张劲JinZhang邵胜杰ShengjieShao王家强JiaqiangWang胡允柘YunzheHu薇薇安VivienneTien蒋靓栖LiangqiJiang卓煜茜YuxiZhuo何磊LeiHe张晶晶JingjingZhang严丰FengYan克洛伊Chloe◎标签爱情|中国大陆|文艺|青春|成长|2020|剧情|上海◎简介故事发生在90年代的小城市。云荞（马思纯饰）想要“活成一部电影”；李麦（钟楚曦饰）有看得见希望的未来；吴风（黄景瑜）也要在平凡的日子里背水一战。每个人都有着对未来的憧憬，带着憧憬开始了异乡漂泊之路，可是未来真的会如他们所愿吗？◎获奖情况第23届上海国际电影节(2020)亚洲新人奖最佳影片(提名)徐展雄",
@@ -15477,7 +15454,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200926/60524.html",
     date: "2020-09-2612:16:04",
     desc: "◎译名铁雨2：首脑峰会/钢铁雨：深潜行动(台)/钢铁雨2/钢铁雨2：核战危机(港)/铁雨2/铁雨2：顶上会谈/铁雨2：首脑会谈◎片名SteelRain2◎年代2020◎产地韩国◎类别惊悚◎语言韩语,汉语普通话,日语,英语,俄语◎字幕中英双字幕◎上映日期2020-07",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名铁雨2：首脑峰会/钢铁雨：深潜行动(台)/钢铁雨2/钢铁雨2：核战危机(港)/铁雨2/铁雨2：顶上会谈/铁雨2：首脑会谈◎片名SteelRain2◎年代2020◎产地韩国◎类别惊悚◎语言韩语,汉语普通话,日语,英语,俄语◎字幕中英双字幕◎上映日期2020-07-29(韩国)◎IMDb评分6.2/10from457users◎豆瓣评分5.8/10from11339users◎文件格式x264+aac◎视频尺寸1920x1080◎片长132分钟◎导演杨宇硕Woo-seokYang◎编剧杨宇硕Woo-seokYang◎主演郑雨盛Woo-sungJung郭度沅Do-WonKwak柳演锡Yeon-SeokYoo安古斯·麦克菲登AngusMacfadyen徐东甲Dong-gabSeo李南希NamheeLee金重熙Joong-heeKim柳秀荣Soo-yeongRyoo李泰亨Tae-hyungLee申正根Jeong-geunSin廉晶雅Jung-ahYum金容琳Yong-rimKim金明坤Myung-gonKim张光GwangJang李在勇LeeJaeYong安内相Nae-sangAhn孙钟学Jong-HakSon白龙Hakuryu寇比·法兰奇ColbyFrench斯科特·洛威尔ScottLowell克里斯汀·达尔顿KristenDalton金胜泰SeungtaeKim郑镇珏JingakJung俞成柱Sung-jooYoo金重基Jung-kiKim申秀妍Soo-yunShin沈熙燮Hee-seopSim◎标签韩国|政治|战争|朝鲜半岛|2020|剧情|军事|喜剧◎简介郑雨盛、郭度沅商谈出演杨宇硕执导的[铁雨]续作[铁雨2-首脑会谈]。续作将延续[铁雨]的世界观，讲述韩国总统、美国总统和朝鲜最高层的故事。郑雨盛将饰演韩国总统，郭度沅饰演朝鲜最高层负责人。",
@@ -15508,7 +15485,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200925/60521.html",
     date: "2020-09-2501:10:03",
     desc: "◎译名目标一/头号目标◎片名TargetNumberOne/GutInstinct/MostWanted◎年代2020◎产地加拿大◎类别惊悚/传记/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(加拿大)◎IMDb评分6.1/10from1414users◎文件格式x264+aac◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名目标一/头号目标◎片名TargetNumberOne/GutInstinct/MostWanted◎年代2020◎产地加拿大◎类别惊悚/传记/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(加拿大)◎IMDb评分6.1/10from1414users◎文件格式x264+aac◎视频尺寸1920x1080◎片长135分钟◎导演丹尼尔·罗比DanielRoby◎编剧丹尼尔·罗比DanielRoby◎主演J.C.麦肯泽J.C.MacKenzie乔什·哈奈特JoshHartnett吉姆·加菲根JimGaffigan安托万-奥利弗·波尼安Antoine-OlivierPilon唐·麦凯勒DonMcKellar马克·卡马乔MarkCamachoDomenicDiRosa弗兰克·萧宾FrankSchorpion罗伯特·克鲁克斯RobertCrooks萨哈贾克·波斯安吉特SahajakBoonthanakit拉斐尔·格罗斯-哈维RaphaelGrosz-Harvey◎标签加拿大|2020|美国|犯罪|真实事件改编|惊悚|剧情|乔什哈内特◎简介故事讲述前海洛因瘾君子丹尼尔·莱格参与了一项毒品交易，以错误的理由为错误的人提供帮助。当交易失败时，丹尼尔被扔进泰国监狱，并被判处100年徒刑。当他试图在曼谷被监禁时幸存下来时，他被定罪的消息引起了环球邮报记者维克托·马拉雷克的注意，他决定追捕负责对丹尼尔进行错误指控的阴暗卧底警察。",
@@ -15538,7 +15515,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200925/60520.html",
     date: "2020-09-2501:04:42",
     desc: "◎译名鲁邦三世TheFirst/LupinIII:TheFirst◎片名ルパン三世THEFIRST◎年代2019◎产地日本◎类别喜剧/动作/动画◎语言日语◎字幕中文◎上映日期2019-12-06(日本)◎IMDb评分7/10from600users◎豆瓣评分7.6/10from3715users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名鲁邦三世TheFirst/LupinIII:TheFirst◎片名ルパン三世THEFIRST◎年代2019◎产地日本◎类别喜剧/动作/动画◎语言日语◎字幕中文◎上映日期2019-12-06(日本)◎IMDb评分7/10from600users◎豆瓣评分7.6/10from3715users◎文件格式x264+aac◎视频尺寸1920x1080◎片长93分钟◎导演山崎贵TakashiYamazaki◎编剧山崎贵TakashiYamazaki加藤一彦MonkeyPunch◎主演栗田贯一KanichiKurita小林清志KiyoshiKobayashi浪川大辅DaisukeNamikawa泽城美雪MiyukiSawashiro山寺宏一KôichiYamadera广濑铃SuzuHirose吉田钢太郎KôtarôYoshida藤原龙也TatsuyaFujiwara◎标签日本|动画|漫画改编|动作|2019|冒险|喜剧|犯罪◎简介《鲁邦三世》首度以3DCG制成的电影版作品，那个大名鼎鼎的亚森·鲁邦唯一失手的秘宝「布列松日志」，传说若能解开日志之谜，就会获得庞大的财宝。瞄准了这个目标的鲁邦，邂逅热爱考古学的少女蕾蒂西亚，两人决定合力解开谜团。然而，企图得到布列松日志的秘密组织研究人员兰贝尔，以及操控组织的神秘男子杰洛特却阻挡住两人的去路……。隐藏在布列松日志里令人震惊的真相究竟是！？巴黎、墨西哥、巴西——前所未有的大规模夺宝战即将开幕！◎获奖情况第43届日本电影学院奖(2020)最佳动画片(提名)",
@@ -15568,7 +15545,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200924/60519.html",
     date: "2020-09-2419:27:02",
     desc: "◎译名福尔摩斯小姐/天才少女福爾摩斯(台)/女福尔摩斯/福尔摩斯小妹/福尔摩斯小妹探案/福尔摩斯小姐：失踪的侯爵/福尔摩斯小姐：消失的侯爵◎片名EnolaHolmes/TheEnolaHolmesMysteries◎年代2020◎产地美国,英国◎类别剧情/悬疑◎语言英语◎字",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2621030555.jpg",
     link: "",
     summary:
       "◎译名福尔摩斯小姐/天才少女福爾摩斯(台)/女福尔摩斯/福尔摩斯小妹/福尔摩斯小妹探案/福尔摩斯小姐：失踪的侯爵/福尔摩斯小姐：消失的侯爵◎片名EnolaHolmes/TheEnolaHolmesMysteries◎年代2020◎产地美国,英国◎类别剧情/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-09-23(美国)◎IMDb评分8.3/10from16users◎豆瓣评分6.4/10from933users◎文件格式x264+aac◎视频尺寸1920x1080◎导演哈利·布拉德比尔HarryBradbeer◎编剧杰克·索恩JackThorne南茜·斯普林格NancySpringer◎主演米莉·波比·布朗MillieBobbyBrown路易斯·帕特里奇LouisPartridge山姆·克拉弗林SamClaflin亨利·卡维尔HenryCavill海伦娜·伯翰·卡特HelenaBonhamCarter阿迪勒·阿赫塔尔AdeelAkhtar费奥纳·肖FionaShaw弗朗西斯·德·拉·图瓦FrancesdelaTour苏珊·沃卡曼SusanWokoma伯恩·戈曼BurnGorman杰伊·辛普森JaySimpson乔基姆·斯卡利JoakimSkarli欧文·阿特拉斯OwenAtlas哈蒂·莫拉汉HattieMorahan克莱尔·拉什布鲁克ClaireRushbrook埃莉·哈丁顿EllieHaddington丽贝卡·汉森RebeccaHanssenAlexKelly奎因·科普兰QuinnCopeland戴维·鲍姆伯DavidBamber◎标签福尔摩斯|悬疑|米莉·波比·布朗|2020|美国|SherlockHolmes|美国电影|HenryCavill◎简介当母亲在自己十六岁生日那天神秘失踪后，伊诺拉·福尔摩斯向她的哥哥麦考夫和大名鼎鼎的神探夏洛克寻求帮助。但伊诺拉很快意识到，相较于侦破案件，这两人更愿意将她送到寄宿学校。于是伊诺拉做了一个聪明伶俐、足智多谋、无所畏惧的，19世纪80年代年轻女性唯一能做的举动——她逃到了伦敦。在那里，她开始了自己非凡的破案生涯，且总是能比神探夏洛克领先一步。",
@@ -15599,7 +15576,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200923/60508.html",
     date: "2020-09-2311:32:22",
     desc: "◎译名从邪恶中拯救我/但求远离罪恶/请救我于邪恶/请解救我于恶/魔鬼对决(台)◎片名DeliverUsFromEvil◎年代2020◎产地韩国◎类别动作/悬疑/犯罪◎语言韩语,日语,泰语,英语,汉语普通话◎字幕中文◎上映日期2020-08-05(韩国)◎IMDb评分6.",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名从邪恶中拯救我/但求远离罪恶/请救我于邪恶/请解救我于恶/魔鬼对决(台)◎片名DeliverUsFromEvil◎年代2020◎产地韩国◎类别动作/悬疑/犯罪◎语言韩语,日语,泰语,英语,汉语普通话◎字幕中文◎上映日期2020-08-05(韩国)◎IMDb评分6.7/10from267users◎豆瓣评分7.2/10from19482users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演洪元灿Won-ChanHong◎编剧洪元灿Won-ChanHong◎主演黄政民Jeong-minHwang李政宰Jung-jaeLee朴正民Jeong-minPark朴昭怡So-iPark崔嬉序MoonChoi沈英恩SimYeung-eun朴明勋Myeong-hoonPark吴代焕OhDae-hwan宋永彰Young-changSong李书焕Seo-hwanLee李泰剑TaegeomLee池炫俊Hyun-JunJi朴宰弘JaehongPark文正秀Jung-sooMoon金敏植MinsikKim宋宥弦YooHyunSong林成宰SungjaeIm丰原功补KosukeToyohara白龙Hakuryu水野智则TomonoriMizuno藏原健KenKurahara◎标签韩国|犯罪|暴力|动作|2020|悬疑|人性|剧情◎简介泰国发生震惊人心的绑架事件，完成最后杀人任务的杀手仁南（黄政民饰演），在得知这事件与自己有关之后，随即前往泰国，并与助手开始追查这起事件。另一方面，得知自己兄弟被仁南杀害的雷（李政宰饰演），为了复仇，也前往了泰国。惨烈的暗杀者与无情的追击者，展开了一场没有底线的猛烈追击。",
@@ -15630,7 +15607,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200923/60506.html",
     date: "2020-09-2210:13:25",
     desc: "◎译名WetSeason◎片名热带雨◎年代2019◎产地新加坡,中国台湾◎类别剧情◎语言英语,汉语普通话,闽南语◎字幕中文◎上映日期2019-09-08(多伦多电影节)/2019-11-28(新加坡)◎IMDb评分6.8/10from517users◎豆瓣评分7.6/10from27342use",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名WetSeason◎片名热带雨◎年代2019◎产地新加坡,中国台湾◎类别剧情◎语言英语,汉语普通话,闽南语◎字幕中文◎上映日期2019-09-08(多伦多电影节)/2019-11-28(新加坡)◎IMDb评分6.8/10from517users◎豆瓣评分7.6/10from27342users◎文件格式x264+aac◎视频尺寸1920x1080◎片长103分钟◎导演陈哲艺AnthonyChen◎编剧陈哲艺AnthonyChen◎主演杨雁雁YannYannYeo许家乐JiaLerKoh李铭顺ChristopherLeeMingShun杨世彬ShiBinYang◎标签女性|新加坡|陈哲艺|新加坡电影|独立电影|2019|剧情|华语◎简介从马来西亚移居新加坡的阿玲在一间高中担任中文老师。她的家庭生活让她倍感沮丧：公公因为瘫痪无法说话，丈夫对她也日趋冷淡。夫妻二人多年来一直尝试怀孕，但情况一直没有得到好转，丈夫的不闻不问更让她感到孤独。伟伦是阿玲的一位学生，他通过中文课对老师产生了某种不可名状的情愫，两人的关系随着阿玲给伟伦的课外辅导产生了变化……◎获奖情况第44届多伦多国际电影节(2019)站台奖(提名)陈哲艺第14届亚洲电影大奖(2020)最佳女主角(提名)杨雁雁第3届平遥国际电影展(2019)费穆荣誉最佳影片费穆荣誉·最佳女演员杨雁雁迷影选择荣誉卧虎单元最受欢迎影片(提名)陈哲艺",
@@ -15660,7 +15637,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200922/60505.html",
     date: "2020-09-2200:38:53",
     desc: "◎译名内战前/颤役轮回(台)/颤役前(港)◎片名Antebellum◎年代2020◎产地美国◎类别剧情/惊悚/恐怖/历史◎语言英语◎字幕中英双字幕◎上映日期2020-09-18(美国)◎IMDb评分5.5/10from3569users◎豆瓣评分6.7/10from165users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名内战前/颤役轮回(台)/颤·役·前(港)◎片名Antebellum◎年代2020◎产地美国◎类别剧情/惊悚/恐怖/历史◎语言英语◎字幕中英双字幕◎上映日期2020-09-18(美国)◎IMDb评分5.5/10from3569users◎豆瓣评分6.7/10from165users◎文件格式x264+aac◎视频尺寸1920x1080◎片长105分钟◎导演杰拉德·布什GerardBush克里斯托弗·伦兹ChristopherRenz◎编剧杰拉德·布什GerardBush克里斯托弗·伦兹ChristopherRenz◎主演加奈儿·梦奈JanelleMonáe吉娜·马隆JenaMalone科雷西·克莱门斯KierseyClemons罗伯特·阿拉马约RobertAramayo杰克·休斯顿JackHuston加布蕾·丝迪贝GaboureySidibe埃里克·兰格EricLange马克·理查德森二世MarqueRichardsonII莉莉·考尔斯LilyCowles汤加伊·基里萨TongayiChirisa◎标签惊悚|恐怖|美国|2020|剧情|历史|美国电影|电影◎简介电影的主角是备受推崇的知名女作家法朗妮卡（珍奈儿梦妮饰），她原本过著成功人士的美好生活，然而一场精心设计的布局，却令她陷入极度可怖的境况……为求保命，她必须与时间竞赛，把握时机，拆解眼前满布谜雾的心寒诡秘！",
@@ -15690,7 +15667,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200922/60504.html",
     date: "2020-09-2100:35:04",
     desc: "◎译名营救老爸老妈/到朋友家玩/夜半救援/夜妈妈行动◎片名TheSleepover◎年代2020◎产地美国◎类别喜剧/动作/冒险◎语言英语◎字幕中文◎上映日期2020-08-21(美国)◎IMDb评分5.5/10from5415users◎豆瓣评分5.7/10from419users◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名营救老爸老妈/到朋友家玩/夜半救援/夜妈妈行动◎片名TheSleepover◎年代2020◎产地美国◎类别喜剧/动作/冒险◎语言英语◎字幕中文◎上映日期2020-08-21(美国)◎IMDb评分5.5/10from5415users◎豆瓣评分5.7/10from419users◎文件格式x264+aac◎视频尺寸1920x1080◎片长100分钟◎导演翠西·西埃TrishSie◎编剧莎拉·罗斯柴尔德SarahRothschild◎主演玛琳·阿克曼MalinAkerman乔·曼根尼罗JoeManganiello肯·马里诺KenMarino卡拉·索萨KarlaSouza赛迪·斯坦利SadieStanley恩卡·奥库玛EnukaOkuma埃里克·格里芬ErikGriffin马克斯韦尔·锡姆金斯MaxwellSimkins阿德里安·M·蒙波因特AdrianM.MompointTonyMoreiraJazzMann◎标签喜剧|Netflix|2020|美国|动作|家庭|电影|親子◎简介准备好来一场最意想不到的外宿之夜了吗？一对姊弟和最要好的朋友在欢乐的周末一同过夜，却发现姐弟的煮妇妈妈玛戈（玛琳·艾珂曼饰）其实过去是神级大盗，而现在正接受证人保护计画。这夜，爸妈（肯·马里诺饰爸爸）遭人绑架，并被迫与玛戈的旧爱（乔·曼根尼罗饰）一起再干最后一票。姊弟俩必须合作拯救爸妈，这一夜也绝对会让他们终身难忘。《夜半救援》将于8月21日在Netflix上线。",
@@ -15720,7 +15697,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200921/60502.html",
     date: "2020-09-2001:12:07",
     desc: "◎译名证人/5时恭候的证人(港)◎片名InnocentWitness◎年代2019◎产地韩国◎类别悬疑/剧情/犯罪◎语言韩语◎字幕中文◎上映日期2019-02-13(韩国)◎IMDb评分7.4/10from1227users◎豆瓣评分7.8/10from19407users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名证人/5时恭候的证人(港)◎片名InnocentWitness◎年代2019◎产地韩国◎类别悬疑/剧情/犯罪◎语言韩语◎字幕中文◎上映日期2019-02-13(韩国)◎IMDb评分7.4/10from1227users◎豆瓣评分7.8/10from19407users◎文件格式x264+aac◎视频尺寸1920x1080◎片长129分钟◎导演李翰HanLee◎编剧文智媛Ji-wonMoon◎主演郑雨盛Woo-sungJung金香起Hyang-kiKim李奎炯Kyu-hyungLee廉惠兰YumHye-ran张荣男Young-namJang郑元中Won-jungJeong金钟秀Jong-sooKim金学善Hak-seonKim宋允儿Yun-ahSong吴在世Jae-seOh姜智贤Ji-hyunKang郑道元Do-wonJung金炯默Hyeong-mookKim李瑞准Seo-joonLee◎标签韩国|人性|温情|犯罪|法律|剧情|悬疑|2019◎简介讲述负责杀人案件的辩护律师顺浩和看到事件的证人智友之间的故事，智友是个自闭症患者。◎获奖情况第40届韩国电影青龙奖(2019)最佳男主角郑雨盛第55届百想艺术大赏(2019)电影类大赏郑雨盛电影类最佳男主角(提名)郑雨盛电影类最佳女主角(提名)金香起电影类最佳女配角(提名)廉惠兰电影类最佳编剧(提名)文智媛第56届韩国电影大钟奖(2020)最佳影片(提名)最佳男主角(提名)郑雨盛最佳女主角(提名)金香起最佳女配角(提名)廉惠兰最佳剧本(提名)文智媛最佳摄影(提名)第6届豆瓣电影年度榜单(2019)评分最高的韩国电影(提名)",
@@ -15750,7 +15727,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200919/60500.html",
     date: "2020-09-1922:47:35",
     desc: "◎译名黑豹◎片名BlackPanther◎年代2018◎产地美国,南非,韩国,澳大利亚◎类别动作/科幻/冒险◎语言英语/国语◎字幕中英双字幕◎上映日期2018-02-16(美国)/2018-03-09(中国大陆)◎IMDb评分7.3/10from603888users◎豆瓣评分6.5/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.3",
@@ -15777,7 +15754,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200919/60499.html",
     date: "2020-09-1922:44:14",
     desc: "◎译名祖孙大战/与爷爷开战/祖父大战/阿公当家(台)◎片名TheWarwithGrandpa/Roomies/WarwithGrandpa◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中文◎上映日期2020-08-27(乌克兰)/2020-10-09(美国)◎IMDb评分5.3/10from2603user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名祖孙大战/与爷爷开战/祖父大战/阿公当家(台)◎片名TheWarwithGrandpa/Roomies/WarwithGrandpa◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中文◎上映日期2020-08-27(乌克兰)/2020-10-09(美国)◎IMDb评分5.3/10from2603users◎豆瓣评分5.9/10from103users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1040◎片长94分钟◎导演蒂姆·希尔TimHill◎编剧汤姆·J·阿瑟尔TomJ.Astle马特·恩贝尔MattEmber莉萨·达达里奥LisaAddario◎主演罗伯特·德尼罗RobertDeNiro乌玛·瑟曼UmaThurman劳拉·马兰洛LauraMarano简·西摩JaneSeymour克里斯托弗·沃肯ChristopherWalken科林·福特ColinFord罗伯·里格尔RobRiggle切奇·马林CheechMarin奥克斯·费格雷OakesFegley德鲁·谢伊德DrewScheid维罗妮卡·阿利奇诺VeronicaAlicinoT·J·麦吉本T.J.McGibbon肯德里克·克罗斯KendrickCross胡利奥塞萨尔·查韦斯JuliocesarChavez詹姆斯·马丁·凯利JamesMartinKelly盖奇·劳森GageLawson康纳·默多克ConnorMurdock◎标签喜剧|美国|罗伯特·德尼罗|家庭|2020|美国电影|ChristopherWalken|沃肯◎简介影片改编自罗伯特·金梅尔·史密斯1984年出版的同名童书，故事围绕一个小男孩的“卧室保卫战”展开。",
@@ -15808,7 +15785,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200918/60494.html",
     date: "2020-09-1700:23:17",
     desc: "◎译名神弃之地/恶魔每时每刻◎片名TheDevilAlltheTime◎年代2020◎产地美国◎类别剧情/惊悚/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-09-16(美国)◎IMDb评分7.3/10from3,803users◎豆瓣评分6.8/10from691users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名神弃之地/恶魔每时每刻◎片名TheDevilAlltheTime◎年代2020◎产地美国◎类别剧情/惊悚/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-09-16(美国)◎IMDb评分7.3/10from3,803users◎豆瓣评分6.8/10from691users◎文件格式x264+aac◎视频尺寸1920x1080◎片长138分钟◎导演安东尼奥·坎波斯AntonioCampos◎编剧安东尼奥·坎波斯AntonioCampos保罗·坎波斯PauloCampos唐纳德·雷·波洛克DonaldRayPollock◎主演汤姆·赫兰德TomHolland罗伯特·帕丁森RobertPattinson比尔·斯卡斯加德BillSkarsgård海莉·贝内特HaleyBennett丽莉·吉欧RileyKeough哈利·米尔林HarryMelling塞巴斯蒂安·斯坦SebastianStan米娅·华希科沃斯卡MiaWasikowska伊莱扎·斯坎伦ElizaScanlen杰森·克拉克JasonClarke道格拉斯·霍奇斯DouglasHodges德鲁·斯塔基DrewStarkey吉文·夏普GivenSharp露西·浮士德LucyFaust艾比·格洛弗AbbyGlover克里斯汀格里菲斯KristinGriffith亚当·弗里斯托AdamFristoe大卫·马尔登那多DavidMaldonado莫甘娜·布里吉尔斯MorgannaBridgers马克·杰弗里·米勒MarkJeffreyMiller迈克尔·哈丁MichaelHarding唐纳德·雷·波洛克DonaldRayPollock格雷戈瑞·凯利GregoryKelly科里·斯科特·艾伦CoryScottAllen凯莱布·J·塔格德CalebJ.ThaggardPhillipDeVona◎标签美国|犯罪|惊悚|2020|剧情|改编|悬疑|Netflix◎简介该片是一部中西部哥特风电影，安东尼奥·坎帕斯(《克里斯汀》)执导，讲述俄亥俄州偏远之地Knockemstiff，男主角WillardRussell绝望地想拯救濒死的妻子，不惜屈服于牺牲，而他的儿子(霍兰德)正从一个在学校被虐待的孩子成长为知道何时出手的男人，角色包括一对连环杀手夫妇、一个考验人的信仰的传教士、一个腐败的当地警长(斯坦)。时间从二战末期到1960年代，地点从南俄亥俄州乡村到西维吉尼亚。",
@@ -15839,7 +15816,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200917/60492.html",
     date: "2020-09-1600:51:51",
     desc: "◎译名搜索◎片名SearchOut◎年代2020◎产地韩国◎类别惊悚◎语言韩语◎字幕中文◎上映日期2020-04-15(韩国)◎IMDb评分5.3/10from33users◎豆瓣评分4.6/10from249users◎文件格式x264+aac◎视频尺寸1920x1080◎片长92分钟",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "改编2013年俄罗斯社群网路流传的「蓝鲸游戏」。电影描述同住考试院的晟敏与俊赫，某天获知考试院里和他们关系良好的妹妹自杀了，当晚晟敏却收到了那个女孩SNS传来的讯息。两人开始质疑这场自杀背后是否有阴谋，他们找上骇客Nuri，欲从女孩的SNS寻找蛛丝马迹。电影想传达的议题正是：SNS对我们来说到底是什么存在？日常传送讯息的SNS曾几何时成为了犯罪管道？",
@@ -15867,7 +15844,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200916/60488.html",
     date: "2020-09-1500:35:15",
     desc: "◎译名未怀孕/堕胎◎片名Unpregnant◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-09-10(美国)◎IMDb评分6.0/10from968users◎豆瓣评分6.9/10from102users◎文件格式x264+aac◎视频尺寸1920x1080",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "女孩Veronica(理查森)发现自己怀孕了，她只能和有车的“前”好友Bailey(Ferreira)一起上路，寻求合法堕胎：Veronica的男友很窝囊，她自己也不想这么年轻就当妈妈，不然会影响她的常春藤大学梦。而她所在的美国密苏里州规定未成年人必须有父母同意才能堕胎，她的父母并不同意。Veronica决定旅行900英里，去新墨西哥州堕胎后回家。Veronica是个沉迷于ins、成绩优秀、雄心勃勃的好学生，而Bailey是个孤独、毒舌的酷儿，对Veronica的新朋友们忍耐度为零。这样两个人怀着这样的目标一起上路，途中行差踏错，既有动情之处，又有幽默。",
@@ -15895,7 +15872,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200916/60487.html",
     date: "2020-09-1500:10:49",
     desc: "◎译名欧洲歌唱大赛：火焰传说◎片名EurovisionSongContest:TheStoryofFireSaga◎年代2020◎产地美国◎类别喜剧/音乐◎语言英语◎字幕中文◎上映日期2020-06-26(美国)◎IMDb评分6.5/10from73771users◎豆瓣评分6.6/10from1979u",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "大卫·道金([婚礼傲客])将执导威尔·法瑞尔主演Netflix喜剧新片[欧洲歌唱大赛](Eurovision，暂译)。故事将以欧洲歌唱大赛为背景。该比赛是举办历史最长的年度国际电视歌曲比赛，它诞生了许多明星，比如1974年为瑞典赢得冠军的ABBA，1988年为瑞士赢得冠军的席琳·迪翁。",
@@ -15923,7 +15900,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200913/60484.html",
     date: "2020-09-1323:50:32",
     desc: "◎译名SpringTide◎片名春潮◎年代2019◎产地中国大陆◎类别剧情/家庭◎语言普通话◎字幕中文◎上映日期2019-06-18(上海电影节)/2020-05-17(中国)◎IMDb评分6.9/10from84users◎豆瓣评分7.2/10from46839users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名SpringTide◎片名春潮◎年代2019◎产地中国大陆◎类别剧情/家庭◎语言普通话◎字幕中文◎上映日期2019-06-18(上海电影节)/2020-05-17(中国)◎IMDb评分6.9/10from84users◎豆瓣评分7.2/10from46839users◎文件格式x264+aac◎视频尺寸1920x1080◎片长124分钟◎导演杨荔钠LinaYang◎编剧杨荔钠LinaYang◎主演郝蕾LeiHao金燕玲ElaineJin曲隽希JunxiQu李文波WenboLi张紫淇ZiqiZhang赵阳YangZhao李至强ZhiqiangLi黄尚禾Shang-HoHuang杨均柏JunbaiYang王亚楠YananWang◎标签女性|家庭|文艺|亲情|中国大陆|社会|剧情|2020◎简介报社记者郭建波、母亲纪明岚与女儿郭婉婷同住在一个屋檐下，祖孙三代因亲情关系捆绑在一起的生活，看似平静实则暗潮涌动。记者郭建波在报导社会负面事件的同时，也在揭开自己身上的伤疤；母亲纪明岚在外为人热情，受人爱戴，但是回到家却判若两人；女儿郭婉婷小小年纪就学会了成人世界里的种种生存法则。一次次的叛逆与反抗都在隐忍中归于平静，一场悄无声息的战争在三代人之间暗自滋生，终将爆发……◎获奖情况第22届上海国际电影节(2019)金爵奖最佳影片(提名)杨荔钠金爵奖最佳摄影包轩鸣第15届中国长春电影节(2020)金鹿奖最佳导演杨荔钠评委会特别奖第13届FIRST青年电影展(2019)竞赛最佳剧情长片(提名)杨荔钠",
@@ -15953,7 +15930,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200913/60482.html",
     date: "2020-09-1200:28:11",
     desc: "◎译名冰雪奇缘/冰冻公主/冰雪大冒险/冰雪女王/冰雪皇后/白雪皇后/魔雪奇缘(港)◎片名Frozen◎年代2013◎产地美国◎类别喜剧/动画/歌舞/奇幻◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2013-11-27(美国)/2014-02-05(中国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.4",
@@ -15980,7 +15957,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200913/60481.html",
     date: "2020-09-1200:23:15",
     desc: "◎译名冰雪奇缘2/魔雪奇缘2(港)◎片名FrozenII/Frozen2◎年代2019◎产地美国◎类别喜剧/动画/歌舞/冒险◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2019-11-22(美国/中国大陆)◎IMDb评分7.2/10from65696users◎豆瓣评分7.2/10",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.2",
@@ -16007,7 +15984,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200912/60478.html",
     date: "2020-09-1102:12:08",
     desc: "◎译名辣手保姆2：女王蜂/撒旦保姆：血腥女王◎片名TheBabysitter:KillerQueen/TheBabysitter2◎年代2020◎产地美国◎类别喜剧/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-09-10(美国)◎豆瓣评分6.2/10from123users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名辣手保姆2：女王蜂/撒旦保姆：血腥女王◎片名TheBabysitter:KillerQueen/TheBabysitter2◎年代2020◎产地美国◎类别喜剧/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-09-10(美国)◎豆瓣评分6.2/10from123users◎文件格式x264+aac◎视频尺寸1920x1080◎片长101分钟◎导演约瑟夫·麦克金提·尼彻McG◎主演贝拉·索恩BellaThorne罗比·阿美尔RobbieAmell莱丝莉·比伯LeslieBibb艾米丽·阿琳·林德EmilyAlynLind珍娜·奥尔特加JennaOrtega肯·马里诺KenMarino汉娜·梅·李HanaMaeLee犹大·刘易斯JudahLewis安德鲁·巴切勒AndrewBachelor阿曼达·瑟妮AmandaCerny克里斯·维尔德ChrisWylde卡尔·麦克道维尔CarlMcDowell杰森·罗格尔JasonRogel胡利奥塞萨尔·查韦斯JuliocesarChavez马克西·伊格莱西亚斯MaxiIglesias◎标签喜剧|惊悚|恐怖|美国|2020|Netflix|美国电影|电影◎简介在击败临时保姆带领的邪教两年后，科尔试图忘记过去，专注在高中学业上。但当昔日的仇敌意外归来时，科尔不得不再次智取邪恶势力。",
@@ -16037,7 +16014,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200912/60477.html",
     date: "2020-09-1100:59:21",
     desc: "◎译名清白/洁白/翻供(台)◎片名Innocence◎年代2020◎产地韩国◎类别悬疑/犯罪/剧情◎语言韩语◎字幕中文◎上映日期2020-06-10(韩国)◎IMDb评分6.4/10from106users◎豆瓣评分6.8/10from6392users◎文件格式x264+aac◎视频尺寸19",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名清白/洁白/翻供(台)◎片名Innocence◎年代2020◎产地韩国◎类别悬疑/犯罪/剧情◎语言韩语◎字幕中文◎上映日期2020-06-10(韩国)◎IMDb评分6.4/10from106users◎豆瓣评分6.8/10from6392users◎文件格式x264+aac◎视频尺寸1920x1080◎片长110分钟◎导演朴相铉TerryPark◎编剧朴相铉TerryPark◎主演申惠善Hye-sunShin裴宗玉Chong-okBae许峻豪Jun-hoHeo洪京KyungHong太恒浩TaeHang-ho高昌锡Chang-SeokKo朴哲民Cheol-minPark车顺裴ChaSoon-bae郑仁谦In-gyeomJeong韩利进Yi-jinHan崔宏一Hong-ilChoi金重熙Joong-heeKim夏成光Seong-gwangHa韩哲宇HanChul-woo郭子亨Ja-hyeongKwak郑爱华Ae-hwaJung李智友Ji-wooLee申文成Mun-sungShin金英在Yeong-jaeKim金锡勋Seok-hunKim朴成根ParkSung-geun裴海善Hae-sunBae朴振英Jin-youngPark◎标签韩国|犯罪|悬疑|人性|剧情|法律|2020|现实◎简介从小因父亲重男轻女，贞仁（申惠善饰演）在中学时就逃家自力更生，与家人断了联系。贞仁后来凭一己之力成为顶级辩护律师，在一次偶然中，她得知罹患老年痴呆症的母亲花子（裴宗玉饰演）涉嫌杀害父亲，同时还对不少无辜民众下毒手。怀疑事有蹊翘的贞仁决定亲自出马，在层层阻挠下，她该如何为母亲翻供，揭开这个桩谋杀案背后不可告人的真相？",
@@ -16067,7 +16044,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200910/60473.html",
     date: "2020-09-0920:47:53",
     desc: "◎译名我想结束这一切◎片名I'mThinkingofEndingThings◎年代2020◎产地美国◎类别剧情/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国点映)/2020-09-04(美国)◎IMDb评分7.1/10from9021users◎豆瓣评分7.4/10from1699",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名我想结束这一切◎片名I'mThinkingofEndingThings◎年代2020◎产地美国◎类别剧情/悬疑◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国点映)/2020-09-04(美国)◎IMDb评分7.1/10from9021users◎豆瓣评分7.4/10from1699users◎文件格式x264+aac◎视频尺寸1920x1080◎片长134分钟◎导演查理·考夫曼CharlieKaufman◎编剧查理·考夫曼CharlieKaufman伊恩·里德IainReid◎主演杰西·普莱蒙JessePlemons杰西·巴克利JessieBuckley托妮·科莱特ToniCollette大卫·休里斯DavidThewlis盖伊·博伊德GuyBoyd哈德莉·罗宾逊HadleyRobinson格斯·伯尼GusBirney艾比·奎因AbbyQuinn蔻碧·米纳菲ColbyMinifie安东尼·格拉索AnthonyGrasso泰迪·库卢卡TeddyColuca杰森·拉尔夫JasonRalph奥利弗·普莱特OliverPlatt弗雷德里克·沃丁FrederickWodin瑞恩·斯蒂尔RyanSteele◎标签美国|2020|剧情|小说改编|惊悚|Netflix|悬疑|心理◎简介剧本改编自伊恩·里德同名小说，小说审视了心灵的脆弱和孤独的极限。杰克原本带女友回家见父母，女友一路却在想着“结束这一切”，在杰克改变原定路线后，一切都朝着失控方向发展。",
@@ -16097,7 +16074,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200910/60472.html",
     date: "2020-09-0810:30:45",
     desc: "◎译名恶劣天气◎片名Intemperie/OutintheOpen◎年代2019◎产地西班牙,葡萄牙◎类别西部/惊悚◎语言西班牙语◎字幕中英双字幕◎上映日期2019-11-22(西班牙)◎IMDb评分6.8/10from619users◎豆瓣评分7.3/10from745users◎文件格式x2",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名恶劣天气◎片名Intemperie/OutintheOpen◎年代2019◎产地西班牙,葡萄牙◎类别西部/惊悚◎语言西班牙语◎字幕中英双字幕◎上映日期2019-11-22(西班牙)◎IMDb评分6.8/10from619users◎豆瓣评分7.3/10from745users◎文件格式x264+aac◎视频尺寸1920x1080◎片长104分钟◎导演本尼托·萨姆布拉诺BenitoZambrano◎编剧本尼托·萨姆布拉诺BenitoZambrano杰斯·卡拉斯科JesúsCarrasco丹尼尔·雷蒙DanielRemón帕布洛·雷蒙PabloRemón◎主演路易斯·托萨尔LuisTosar路易斯·卡叶赫LuisCallejo杰米·洛佩斯JaimeLópez文森特·罗米洛VicenteRomero坎迪多·乌兰加KandidoUranga胡安霍·佩雷斯·尤斯特JuanjoPérezYuste阿德里亚诺·卡瓦略AdrianoCarvalho约伊玛·巴尔德斯YoimaValdés莫娜·马丁内斯MonaMartínez玛利亚·阿尔方萨·罗索MaríaAlfonsaRosso马诺罗·卡罗ManoloCaroFernandodelaFlorJaimeLópezSimenonaMartinez◎标签西班牙|人性|西部|2019|剧情|儿童|惊悚|历史◎简介故事发生在1946年。内战过后，西班牙中心地带的某个地方只剩下绝望，贫穷和流犯。有一个男孩不断逃亡，并在沟渠中找到了藏身之处。搜查队离开后，他面对的是一个充满危险和干旱的平原。万幸的是，他在穿越平原的路上遇到了一个牧羊人，两人最终选择同行。一路上，他们必须应对饥饿和缺水，并逃避由工头派来寻找男孩的人。牧羊人成为男孩的导师：他解释了他的职业和他对生活的理解。随着时间的流逝，牧羊人也知晓了男孩想要逃避的究竟是怎样的恐惧。◎获奖情况第34届西班牙戈雅奖(2020)最佳影片(提名)最佳男配角(提名)路易斯·卡叶赫最佳改编剧本帕布洛·雷蒙/本尼托·萨姆布拉诺/丹尼尔·雷蒙最佳制作人(提名)最佳原创歌曲",
@@ -16128,7 +16105,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200908/60465.html",
     date: "2020-09-0810:28:46",
     desc: "◎译名马茹娜的非凡旅程/汪星人的奇幻漂流(台)◎片名L'extraordinairevoyagedeMarona/Marona/Marona'sFantasticTale/TheExtraordinaryVoyageofMarona/TheFantasticVoyageofMarona◎年代2019◎产地法国,罗马尼亚,比利时◎类别动画◎语言",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名马茹娜的非凡旅程/汪星人的奇幻漂流(台)◎片名L'extraordinairevoyagedeMarona/Marona/Marona'sFantasticTale/TheExtraordinaryVoyageofMarona/TheFantasticVoyageofMarona◎年代2019◎产地法国,罗马尼亚,比利时◎类别动画◎语言法语◎字幕中英双字幕◎上映日期2019-06-10(法国)◎IMDb评分7.6/10from346users◎豆瓣评分8.4/10from2147users◎文件格式x264+aac◎视频尺寸1920x1080◎片长92分钟◎导演安卡·达米安AncaDamian◎编剧安卡·达米安AncaDamian◎主演丽兹·布罗谢LizzieBrocheré布鲁诺·萨拉曼BrunoSalomone蒂埃里·汉西斯ThierryHancisse娜塔莉·布伏NathalieBoutefeu奥林匹娅·梅林特OlimpiaMelinte◎标签动画|狗|法国|文艺|法国电影|电影|法语|2019◎简介毛毛、莎哈、安娜，这只黑白相间的米克斯小狗在不同的屋檐下，有过不同的名字，不变的是它对主人无邪的忠实，热切的盼望，以及无私的体贴。陪伴怀才不遇的特技演员筑梦踏实，替家计沈重的苦力工人卸除辛劳，伴随纯真可爱的单亲女孩共同成长；它享受过溺爱的甜蜜，也体会过现实的苦涩。在小小生命的终点，它将如何回望这一切？罗马尼亚导演安卡达米安，以自在驾驭多种动画技法和作画媒材闻名，这次携手时尚品牌LV力邀合作的比利时新锐漫画家布雷希特艾文斯，从小狗的主观视角出发，运用鲜活的对比色彩及灵动的抽象线条，在二维基础上挥洒出令人惊艳的三度空间视觉效果，绚丽而深情地演绎，狗儿世界中朴实无华的乐天与思愁。「我崇信情绪的复杂，笑中带泪绝对是比哭泣更强烈的情绪。」─安卡·达米安◎获奖情况第32届欧洲电影奖(2019)最佳动画片(提名)第29届安锡国际动画节(2019)长篇动画单元长片水晶奖(提名)安卡·达米安",
@@ -16158,7 +16135,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200908/60463.html",
     date: "2020-09-0700:49:51",
     desc: "◎译名1/2的魔法/的魔法/二分之一的魔法/勇往直前/向前/觅法奇程/魔法环游记◎片名Onward◎年代2020◎产地美国◎类别喜剧/动画/奇幻/冒险◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2020-02-21(柏林电影节)/2020-03-06(美国)/202",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名1/2的魔法/½的魔法/二分之一的魔法/勇往直前/向前/觅法奇程/魔法环游记◎片名Onward◎年代2020◎产地美国◎类别喜剧/动画/奇幻/冒险◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2020-02-21(柏林电影节)/2020-03-06(美国)/2020-08-19(中国大陆)◎IMDb评分7.4/10from77404users◎豆瓣评分7.7/10from47246users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎片长102分钟◎导演丹·斯坎隆DanScanlon◎编剧丹·斯坎隆DanScanlon基思·布宁KeithBuninC·S·安德森C.S.Anderson杰森·赫德利JasonHeadley◎主演汤姆·赫兰德TomHolland克里斯·帕拉特ChrisPratt茱莉亚·路易斯-德瑞弗斯JuliaLouis-Dreyfus奥克塔维亚·斯宾瑟OctaviaSpencer梅尔·罗德里格斯MelRodriguez凯尔·柏海莫KyleBornheimer丽娜·维特LenaWaithe黄阿丽AliWong格蕾·德丽斯勒GreyDeLisle崔茜·尤玛TraceyUllman维尔摩·瓦尔德拉玛WilmerValderrama乔治·普萨拉GeorgePsarras约翰·拉岑贝格JohnRatzenberger张若昀RuoyunZhang郭麒麟KevinGuo◎标签动画|皮克斯|迪士尼|亲情|魔法|成长|美国|奇幻◎简介影片设定在一个由精灵、巨魔和灵魂等组成的郊外幻想世界，在那里独角兽在垃圾桶中穿行，像是有着糖果条纹的负鼠。影片提供了一个前提，即魔法是真实的，但它早已被现代技术所遗忘和取代。一对十几岁的兄弟，在他们尚不更事时父亲便已离世，他们决定进入这个幻想世界，与父亲共度最后一个神奇的日子……",
@@ -16190,7 +16167,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200907/60447.html",
     date: "2020-09-0623:33:51",
     desc: "◎译名DwellingintheFuchunMountains◎片名春江水暖◎年代2019◎产地中国大陆◎类别剧情/家庭◎语言汉语普通话,杭州话3◎字幕中文◎上映日期2019-05-22(戛纳电影节)/2020-08-21(中国大陆)◎IMDb评分7.1/10from315users◎豆瓣评分7",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名DwellingintheFuchunMountains◎片名春江水暖◎年代2019◎产地中国大陆◎类别剧情/家庭◎语言汉语普通话,杭州话3◎字幕中文◎上映日期2019-05-22(戛纳电影节)/2020-08-21(中国大陆)◎IMDb评分7.1/10from315users◎豆瓣评分7.4/10from5943users◎文件格式x264+aac◎视频尺寸1920x1080◎片长150分钟◎导演顾晓刚XiaogangGu◎编剧顾晓刚XiaogangGu◎主演杜红军HongjunDu钱有法YoufaQian汪凤娟FengjuanWang孙章建ZhangjianSun彭璐琦LuqiPeng◎标签独立电影|家庭|中国大陆|顾晓刚|中国|2019|剧情|戛纳◎简介六百年前元朝画家黄公望先生以富春江两岸风貌画下《富春山居图》，为迎接2022年亚运会，富阳正在热火朝天地进行新城建设。在此背景下，《春江水暖》讲述杭州富春江畔，四兄弟分四季轮流照顾中风后失智的母亲，四个家庭面临亲情与生活的考验，借由一年四季的冷暖变化如画卷般徐徐展开。◎获奖情况第23届上海国际电影节(2020)电影频道传媒大奖最受传媒关注影片电影频道传媒大奖最受传媒关注新人导演顾晓刚电影频道传媒大奖(提名)顾晓刚第32届中国电影金鸡奖(2019)最佳中小成本故事片(提名)最佳音乐(提名)窦唯第13届FIRST青年电影展(2019)竞赛最佳剧情长片顾晓刚竞赛最佳导演顾晓刚",
@@ -16220,7 +16197,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200905/60440.html",
     date: "2020-09-0523:15:48",
     desc: "◎译名花木兰/木兰传说/花木兰真人版/迪士尼真人版花木兰◎片名Mulan◎年代2020◎产地美国,中国大陆◎类别剧情/动作/冒险/古装◎语言英语,汉语普通话◎字幕中英双字幕◎上映日期2020-09-04(美国网络)/2020-09-11(中国大陆)◎IMDb评分5.",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名花木兰/木兰传说/花木兰真人版/迪士尼真人版花木兰◎片名Mulan◎年代2020◎产地美国,中国大陆◎类别剧情/动作/冒险/古装◎语言英语,汉语普通话◎字幕中英双字幕◎上映日期2020-09-04(美国网络)/2020-09-11(中国大陆)◎IMDb评分5.2/10from5984users◎豆瓣评分5.9/10from19484users◎文件格式x264+aac◎视频尺寸1920x1080◎片长115分钟◎导演妮琪·卡罗NikiCaro◎编剧劳伦·希内克LaurenHynek里克·杰法RickJaffa伊丽莎白·马丁ElizabethMartin阿曼达·斯尔沃AmandaSilver◎主演刘亦菲YifeiLiu甄子丹DonnieYen巩俐LiGong李连杰JetLi李截JasonScottLee安柚鑫YosonAn马泰TziMa赵家玲RosalindChao郑佩佩Pei-peiCheng温明娜Ming-NaWen曾晓童XanaTang袁文忠RonYuan唐辰瀛ChenTang道阿·茂阿DouaMoua黄谷悦JimmyWong尼尔森·李NelsonLee李勋HoonLee饶雪晶CrystalRao袁之正RogerYuan仁成外桥JenSungOuterbridge加里·扬GaryYoung欧文·邝OwenKwong乌特卡什·安邦德卡尔UtkarshAmbudkar钱姆·艾希勒珀拉ChumEhelepola大卫·T·林DavidT·LimJensonCheng◎标签刘亦菲|花木兰|迪士尼|真人版|Disney|电影|古装|美国◎简介在古代中国，一位年轻的女子为了救她的父亲假扮成男装代父从军。在穿越中国广袤土地的壮丽征程中，她从紧张的训练和战争中存活下来，发现自己内心的战士，并且最终从外族侵略者手中救回了皇帝和她的祖国。。刘亦菲饰演花木兰，YosonAn饰演花木兰恋人，李连杰饰演皇帝，巩俐饰演反派女巫，越南华裔女XanaTang饰演花木兰的姐妹，甄子丹饰演花木兰的导师tung。◎获奖情况第6届豆瓣电影年度榜单(2019)最值得期待的外语电影(提名)",
@@ -16251,7 +16228,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200905/60439.html",
     date: "2020-09-0510:33:33",
     desc: "◎译名台风家族/TyphoonFamily/分家風暴(台)◎片名台風家族◎年代2019◎产地日本◎类别犯罪◎语言日语◎字幕中文◎上映日期2019-09-06(日本)◎IMDb评分5.2/10from18users◎豆瓣评分6.5/10from1029users◎文件格式x264+aac◎视频",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名台风家族/TyphoonFamily/分家風暴(台)◎片名台風家族◎年代2019◎产地日本◎类别犯罪◎语言日语◎字幕中文◎上映日期2019-09-06(日本)◎IMDb评分5.2/10from18users◎豆瓣评分6.5/10from1029users◎文件格式x264+aac◎视频尺寸1920x1080◎片长108分钟◎导演市井昌秀MasahideIchii◎编剧市井昌秀MasahideIchii◎主演草彅刚TsuyoshiKusanagi新井浩文HirofumiAraiMegumi中村伦也TomoyaNakamura尾野真千子MachikoOno绀野真昼MahiruKonno若叶龙也RyuyaWakaba长内映里香ErikaOsanai榊原留美RumiSakakibara藤龙也TatsuyaFuji神乐坂惠MegumiKagurazaka近藤笑菜EminaKondô◎标签日本|日本电影|家庭|尾野真千子|2019|中村伦也|新井浩文|草剪刚◎简介贪财又颓废的“废柴”家族中，四个不相往来的兄弟姐妹时隔十年，为了给抢银行后“失踪”的父母办葬礼回到了老家。虽说是葬礼，但其实连放遗体的灵柩都没有。而举行这场走形式的葬礼的目的，正是为了瓜分遗产。在四人的勾心斗角中，他们却逐渐发现了当年父母抢劫银行的真相。在台风将近的夏日里，这家人又在发生着什么样的风暴？年迈的铃木夫妇在乡下的银行犯下抢案后随即消失，10年后他们的4名子女准备两份空的棺材，举办一场象征性的葬礼，并讨论遗产分配等问题。4人中的大哥带着妻小前来，而其他人也陆续现身，但即便仪式已开始，小弟却并未出现。葬礼结束后门铃响了，但出现在众人眼前的不是小弟，而是一名态度轻浮、长相陌生的年轻人。究竟铃木夫妇当年为何要抢劫？眼看窗外台风即将登陆，室内的铃木一家也陷入一场家庭风暴之中。",
@@ -16281,7 +16258,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200905/60437.html",
     date: "2020-09-0423:51:47",
     desc: "◎译名21座桥/17座桥/暴走曼哈顿(台)/曼克顿封暴(港)/追击17桥◎片名21Bridges/17Bridges◎年代2019◎产地美国◎类别剧情/惊悚/犯罪/动作◎语言英语◎字幕中英双字幕◎上映日期2019-09-25(印度尼西亚)/2019-11-22(美国)◎IMDb评分6.6/10fr",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名21座桥/17座桥/暴走曼哈顿(台)/曼克顿封暴(港)/追击17桥◎片名21Bridges/17Bridges◎年代2019◎产地美国◎类别剧情/惊悚/犯罪/动作◎语言英语◎字幕中英双字幕◎上映日期2019-09-25(印度尼西亚)/2019-11-22(美国)◎IMDb评分6.6/10from37728users◎豆瓣评分6.7/10from7541users◎文件格式x264+aac◎视频尺寸1920x1080◎片长99分钟◎导演布莱恩·柯克BrianKirk◎编剧亚当·梅维斯AdamMervis马修·迈克尔·卡纳汉MatthewMichaelCarnahan◎主演查德维克·博斯曼ChadwickBoseman西耶娜·米勒SiennaMiller泰勒·克奇TaylorKitschJ·K·西蒙斯J.K.Simmons凯斯·大卫KeithDavid史蒂芬·詹姆士StephanJames凯蒂·麦克莱伦KatieMcClellan莎伊娜·瑞恩ShaynaRyan加里·卡尔GaryCarr维多利亚·卡塔赫纳VictoriaCartagena戴尔·帕文斯基DalePavinski托比·海明威TobyHemingway克里斯蒂安·艾赛亚KristianIsaiah路易斯·坎瑟米LouisCancelmi乔恩·道格拉斯·雷尼JonDouglasRainey杰拉德·瓦德JaredWard莫洛克·奥马里MoroccoOmari苏泽特·古恩SuzetteGunn迈克尔·J·克雷西克MichaelJ.Kraycik迈克尔·J·莱昂斯MichaelJ.Lyons布鲁克·斯泰茜·米尔斯BrookeStacyMills罗伯特·珀提克RobertPoletick乔·多林斯基JoeDolinskyChrisGhaffari◎标签犯罪|警匪|美国|动作|2019|纽约|悬疑|剧情◎简介影片风格据称类似《局内人》和《亡命天涯》，博斯曼饰一个蒙羞的纽约警局警探，因为被卷入一场全城范围的追捕某警察杀手的行动，获得了赎罪机会——他发现了一起巨大的阴谋：自己的警察同事可能跟一个犯罪帝国有关联。他必须决定到底要追捕谁，而谁其实又在追捕他。在这起行动中，曼哈顿在历史上第一次全境封锁，岛上与外界联系的17座桥全部禁止进出。",
@@ -16297,8 +16274,7 @@ const MOVIELIST = [
     release: "2019-09-25(印度尼西亚)/2019-11-22(美国)",
     time: "99",
     director: "布莱恩·柯克BrianKirk",
-    writers:
-      "亚当·梅维斯AdamMervis马修·迈克尔·卡纳汉MatthewMichaelCarnahan",
+    writers: "亚当·梅维斯AdamMervis马修·迈克尔·卡纳汉MatthewMichaelCarnahan",
     actor: "",
     starring:
       "查德维克·博斯曼 Chadwick Boseman　西耶娜·米勒 Sienna Miller　泰勒·克奇 Taylor Kitsch　J·K·西蒙斯 J.K. Simmons　凯斯·大卫 Keith David　史蒂芬·詹姆士 Stephan James　凯蒂·麦克莱伦 Katie McClellan　莎伊娜·瑞恩 Shayna Ryan　加里·卡尔 Gary Carr　维多利亚·卡塔赫纳 Victoria Cartagena　戴尔·帕文斯基 Dale Pavinski　托比·海明威 Toby Hemingway　克里斯蒂安·艾赛亚 Kristian Isaiah　路易斯·坎瑟米 Louis Cancelmi　乔恩·道格拉斯·雷尼 Jon Douglas Rainey　杰拉德·瓦德 Jared Ward　莫洛克·奥马里 Morocco Omari　苏泽特·古恩 Suzette Gunn　迈克尔·J·克雷西克 Michael J. Kraycik　迈克尔·J·莱昂斯 Michael J. Lyons　布鲁克·斯泰茜·米尔斯 Brooke Stacy Mills　罗伯特·珀提克 Robert Poletick　乔·多林斯基 Joe Dolinsky　Chris Ghaffari",
@@ -16312,7 +16288,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200903/60429.html",
     date: "2020-09-0201:54:20",
     desc: "◎译名生前约死后/TillWeMeetAgain◎片名生前約死後◎年代2019◎产地中国香港◎类别剧情◎语言粤语◎字幕中文◎上映日期2019-12-05(中国香港)◎文件格式x264+aac◎视频尺寸1920x1080◎文件大��GB◎导演马浚伟StevenMa◎编",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名生前约死后/TillWeMeetAgain◎片名生前約死後◎年代2019◎产地中国香港◎类别剧情◎语言粤语◎字幕中文◎上映日期2019-12-05(中国香港)◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小GB◎导演马浚伟StevenMa◎编剧马浚伟StevenMa/林少枝SiuChiLam◎主演马浚伟StevenMa顾美华JosephineKoo余香凝JenniferYu黄定谦HimmyWong李英涛Ying-toLi汤沛宜TotoTong罗伟霖WeilinLuo◎标签马浚伟|香港电影|香港|抑郁症|导演亲身经历|治愈|2019|[華語]◎简介吴家伟（马浚伟饰）多年犯怨自责，终于有一日，他下了一个重大的决定，去做一件他期待已久的事.....家伟的母亲阿梅（顾美华饰）在她26岁时确诊患上鼻烟癌，家伟当年只有6岁。家伟和父亲陪伴阿梅一起抗癌，他虽然年纪轻轻，但十分懂事。家伟因为母亲的离去，变得更沉默，将所有责任包揽在自己身上，此罪恶感，令他一直被抑郁，惊恐所吞噬。家伟的主治医生美思（余香凝饰），自小被父亲抛弃成为孤儿，家伟对母亲的思念之情在她眼中，只是微不足道的事，她的冷漠与家伟对家人的爱形成强烈对比。但在家伟的帮助下，美思最终能弥补了多年来的亲情缺憾。",
@@ -16342,7 +16318,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200901/60417.html",
     date: "2020-09-0109:55:10",
     desc: "◎译名魔发精灵2/丑娃2/巨魔2/巨魔娃娃2/魔发精灵：世界之旅/魔发精灵：唱游大世界(港)/魔发精灵2：世界巡演/魔发精灵唱游世界(台)◎片名TrollsWorldTour/Trolls2◎年代2020◎产地美国◎类别动画/歌舞/奇幻/冒险◎语言英语/国语/粤语◎字幕中英",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名魔发精灵2/丑娃2/巨魔2/巨魔娃娃2/魔发精灵：世界之旅/魔发精灵：唱游大世界(港)/魔发精灵2：世界巡演/魔发精灵唱游世界(台)◎片名TrollsWorldTour/Trolls2◎年代2020◎产地美国◎类别动画/歌舞/奇幻/冒险◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2020-04-10(美国)◎IMDb评分6.1/10from7562users◎豆瓣评分6.7/10from2,808users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.83GB◎片长90分钟◎导演沃尔特·道恩WaltDohrn戴维·P·史密斯DavidP.Smith◎编剧乔纳森·阿贝尔JonathanAibel格伦·伯杰GlennBerger玛雅·福布斯MayaForbes华莱士·沃洛达斯基WallaceWolodarskyElizabethTippet托马斯·丹姆ThomasDam◎主演安娜·肯德里克AnnaKendrick贾斯汀·汀布莱克JustinTimberlake蕾切尔·布鲁姆RachelBloom詹姆斯·柯登JamesCorden罗恩·芬奇斯RonFunches凯莉·克拉克森KellyClarkson山姆·洛克威尔SamRockwell詹米·多南JamieDornan乔治·克林顿GeorgeClinton玛丽·布莱姬MaryJ.Blige基南·汤普森KenanThompson昆瑙·内亚KunalNayyar卡洛琳·耶尔特CarolineHjelt艾诺·贾沃AinoJawo弗卢拉·博格FlulaBorg伊丝特尔·迪恩EsterDean奥兹·奥斯朋OzzyOsbourne安东尼·拉莫斯AnthonyRamos卡兰·索尼KaranSoni查琳·易CharlyneYi朴秀荣Joy姜涩琪SeulGi佐伊·丹斯切尔ZooeyDeschanel克里斯托夫·梅兹-普莱瑟ChristopherMintz-Plasse凯文·迈克尔·理查德森KevinMichaelRichardson沃尔特·道恩WaltDohrn戴维·P·史密斯DavidP.Smith达明·乔伊·伦道夫Da'VineJoyRandolph贝琪·索达罗BetsySodaroMarcellaLentz-PopeAnderson.PaakJBalvin◎标签动画|魔发精灵|梦工厂|动画电影|美国|歌舞|2020|美国电影◎简介讲述Poppy和Branch有了一个惊人的发现——除了他们之外，还有其他的魔发精灵世界，各部落的明显差异导致了巨大的冲突。当一种神秘的邪恶力量让所有的精灵世界都面临危险时，Poppy和Branch以及朋友们将踏上一段史诗般的探寻旅程，在长期不和的各精灵族群中创造和谐氛围，让大家团结起来对抗某种厄运。这部片的音乐风格将更加多样化，流行音乐、乡村音乐、嘻哈音乐、硬摇滚、骤停打击乐、电子舞曲等都有。",
@@ -16374,7 +16350,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200831/60416.html",
     date: "2020-08-3123:36:21",
     desc: "◎译名消失的王子/我的王子老爸(台)/被遗忘的王子◎片名LePrinceOubli/TheLostPrince◎年代2020◎产地法国◎类别喜剧/家庭/奇幻◎语言法语◎字幕中英双字幕◎上映日期2020-02-12(法国)◎IMDb评分5.1/10from421users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名消失的王子/我的王子老爸(台)/被遗忘的王子◎片名LePrinceOublié/TheLostPrince◎年代2020◎产地法国◎类别喜剧/家庭/奇幻◎语言法语◎字幕中英双字幕◎上映日期2020-02-12(法国)◎IMDb评分5.1/10from421users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.7GB◎导演米歇尔·阿扎纳维西于斯MichelHazanavicius◎编剧诺亚·德勃雷NoéDebré米歇尔·阿扎纳维西于斯MichelHazanavicius◎主演奥玛·希OmarSy贝热尼丝·贝乔BéréniceBejo弗朗索瓦·达密安FrançoisDamiens◎标签喜剧|奇幻|家庭◎简介米歇尔·阿扎纳维西于斯([艺术家])新片[消失的王子](TheLostPrince，暂译)，由奥玛·希、贝热尼丝·贝乔主演。故事围绕父亲Djibi展开，他告诉7岁女儿索菲亚一个名为“童话世界”的奇幻电影制片厂。他本人扮演白马王子。五年后女儿长大，而Djibi必须要去维持在女儿人生中的英雄形象。",
@@ -16404,7 +16380,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200829/60407.html",
     date: "2020-08-2901:42:49",
     desc: "◎译名曼谷复仇夜◎片名OneNightinBangkok◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-06-16(美国)◎IMDb评分4.4/10from246users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大��1.74GB",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名曼谷复仇夜◎片名OneNightinBangkok◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-06-16(美国)◎IMDb评分4.4/10from246users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.74GB◎片长105分钟◎导演威克·考撒亚南达WychKaosayananda◎编剧威克·考撒亚南达WychKaosayananda◎主演马克·达卡斯考斯MarkDacascosPrinyaIntachai小杉健KaneKosugi萨哈贾克·波斯安吉特SahajakBoonthanakit朱莉·康德拉JulieCondra◎标签犯罪|2020|美国|暴力|动作|人性|泰国|家庭◎简介一个名叫凯（马克·达卡斯科斯）的杀手飞到曼谷，拿了把枪，叫了一辆出租车。他给了一个职业女司机一大笔钱让他当他的通宵司机。但当她意识到凯在每一站都犯下残忍的谋杀案时，就已经来不及离开了。与此同时，一名另类的警探（凯恩·科苏吉）在更多的鲜血被洒出来之前竞相破译这一连串的谋杀案。",
@@ -16434,7 +16410,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200829/60406.html",
     date: "2020-08-2801:05:27",
     desc: "◎译名杀不了的他与死不了的她◎片名殺さない彼と死なない彼女/HeWontKill,SheWontDie◎年代2019◎产地日本◎类别爱情◎语言日语◎上映日期2019-11-15(日本)◎IMDb评分5.7/10from39users◎豆瓣评分7.0/10from2521users◎字幕中文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名杀不了的他与死不了的她◎片名殺さない彼と死なない彼女/HeWon‘tKill,SheWon‘tDie◎年代2019◎产地日本◎类别爱情◎语言日语◎上映日期2019-11-15(日本)◎IMDb评分5.7/10from39users◎豆瓣评分7.0/10from2521users◎字幕中文◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.04GB◎片长123分钟◎导演小林启一KeiichiKobayashi◎编剧小林启一KeiichiKobayashi◎主演间宫祥太朗ShotaroMamiya樱井日奈子HinakoSakurai恒松祐里YuriTsunematsu堀田真由MayuHotta箭内梦菜YumenaYanai优太朗Yutaro金子大地DaichiKaneko中尾畅树NakaoMasaki佐藤玲RyoSato佐津川爱美AimiSatsukawa森口瑶子YôkoMoriguchi◎标签日本|日本电影|漫改|漫画小说真人版|电影|樱井日奈子|间宫祥太朗|2019◎简介影片改编自在推特投稿的四格漫画，漫画单行本发行后很受欢迎，再版了十次，电影版以“杀不掉的他”小坂零和“死不了的她”鹿野娜娜为中心，讲述他们和原著登场的卖萌子、平凡子、八千代等人的故事。总是把「杀了你」挂在嘴边，对任何事都毫无兴趣的高中生小坂（间宫祥太朗饰），有天遇到一个正在埋葬蜜蜂尸体的鹿野（樱井日奈子饰），这个爱将「好想死」当作口头禅，经常割腕自残却又重视昆虫生命的边缘女孩引起了小坂的兴趣，一个遭全班排挤自残女遇上一位对生活毫无兴趣的厌世男，这对充满反差的少男少女将会碰撞出甚么样的火花呢？",
@@ -16464,7 +16440,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200828/60403.html",
     date: "2020-08-2701:03:05",
     desc: "◎译名釜山行2：半岛/半岛/尸杀半岛(港)/尸速列车：感染半岛(台)/釜山行2◎片名Peninsula/TraintoBusan2◎年代2020◎产地韩国◎类别动作/惊悚◎语言韩语,英语,粤语◎字幕中文◎上映日期2020-07-15(韩国)◎IMDb评分5.8/10from3536users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名釜山行2：半岛/半岛/尸杀半岛(港)/尸速列车：感染半岛(台)/釜山行2◎片名Peninsula/TraintoBusan2◎年代2020◎产地韩国◎类别动作/惊悚◎语言韩语,英语,粤语◎字幕中文◎上映日期2020-07-15(韩国)◎IMDb评分5.8/10from3536users◎豆瓣评分5.3/10from32275users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2GB◎片长115分钟◎导演延尚昊Sang-hoYeon◎编剧延尚昊Sang-hoYeon◎主演姜栋元Dong-wonKang李贞贤Jung-hyunLee权海骁Hae-hyoKwon李来ReLee金敏载KimMin-jae具教焕GuKyohwan金度允Do-yoonKim李艺媛Ye-wonLee文宇振Woo-jinMoon◎标签丧尸|灾难|韩国|韩国电影|恐怖|人性|2020|电影◎简介上集列车驶往釜山后，丧尸病毒瞬间全国爆发，4年后的韩国尸毒遍野，被全球孤立，沦为死城。所馀无几的生还者踏上最后一艘难民船，离开被世人遗弃的朝鲜半岛。退伍军人正锡(姜栋元饰)和家人有幸登上难民船，但一上船便发现丧尸潜伏，幸得香港收容，这批韩国人才得以上岸，以「半岛难民」身分在香港重新生活。但正锡受不住金钱诱惑，加入了一个回国窃取巨额美金的行动。他和队友重返韩国，竟然发现仍有一班未受尸毒感染的人在挣扎求存，正锡决定带这班倖存者逃生，他们最后能否成功逃出尸杀半岛？",
@@ -16495,7 +16471,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200828/60402.html",
     date: "2020-08-2723:56:10",
     desc: "◎译名阿涅斯论瓦尔达/听瓦尔达说/艾丽丝说华妲(港)◎片名VardaparAgns/VardabyAgns◎年代2019◎产地法国◎类别纪录片◎语言法语,英语◎字幕中文◎上映日期2019-02-13(柏林电影节)/2019-03-18(法国)◎IMDb评分7.9/10from1514users◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2547712919.jpg",
     link: "",
     summary:
       "◎译名阿涅斯论瓦尔达/听瓦尔达说/艾丽丝说华妲(港)◎片名VardaparAgnès/VardabyAgnès◎年代2019◎产地法国◎类别纪录片◎语言法语,英语◎字幕中文◎上映日期2019-02-13(柏林电影节)/2019-03-18(法国)◎IMDb评分7.9/10from1514users◎豆瓣评分9.3/10from9781users◎文件格式x264+aac◎视频尺寸1800x1080◎文件大小GB◎片长115分钟◎导演阿涅斯·瓦尔达AgnèsVarda◎编剧阿涅斯·瓦尔达AgnèsVarda◎主演阿涅斯·瓦尔达AgnèsVarda◎标签纪录片|阿涅斯·瓦尔达|法国|2019|传记|自传|柏林电影节|SIFF◎简介当不少人以为《脸庞，村庄》（2018）是华妲退休前最后杰作，她连奥斯卡终身成就奖亦袋袋平安，偏偏俏皮一笑，又交出这部活泼生猛的纪录片。由巴黎、洛杉矶到北京，马不停蹄开班分享创作理念，这位九十岁祖师奶奶不言倦，反正花样年华已被唤作「法国新浪潮祖母」，索性成为影坛万年青。本尊娓娓道来启发《短角情事》（38届）的好奇心，《拾穗者与我》（25届）的细腻观察；至今不辍光影实验，不吝将艺术触觉传承。是为一生回顾展？言之尚早！◎获奖情况第40届伦敦影评人协会奖(2020)年度纪录片(提名)第6届豆瓣电影年度榜单(2019)评分最高的纪录片(提名)",
@@ -16524,7 +16500,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200826/60401.html",
     date: "2020-08-2623:57:17",
     desc: "◎译名艾娃/伊芙/头号杀姬Ava(港)/追杀艾娃(台)◎片名Ava/Eve◎年代2020◎产地美国◎类别动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-07-02(匈牙利)/2020-08-25(加拿大)/2020-09-25(美国)◎IMDb评分5.3/10from4014user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名艾娃/伊芙/头号杀姬Ava(港)/追杀艾娃(台)◎片名Ava/Eve◎年代2020◎产地美国◎类别动作/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-07-02(匈牙利)/2020-08-25(加拿大)/2020-09-25(美国)◎IMDb评分5.3/10from4014users◎豆瓣评分4.9/10from828users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.61GB◎片长96分钟◎导演泰特·泰勒TateTaylor◎编剧马修·纽顿MatthewNewton◎主演杰西卡·查斯坦JessicaChastain科林·法瑞尔ColinFarrell约翰·马尔科维奇JohnMalkovich吉娜·戴维斯GeenaDavis陈冲JoanChen戴安娜·西尔弗斯DianaSilvers科曼Common艾恩·格拉法德IoanGruffudd杰丝·威克斯勒JessWeixler埃夫卡·科瓦拉西尤斯EfkaKvaraciejus安妮·比萨比亚AnniePisapia克里斯托弗·J·多米格ChristopherJ.Domig◎标签动作|美国|杰西卡·查斯坦|2020|美国电影|电影|科林·法瑞尔|剧情◎简介顶尖杀手艾娃效忠于一个神祕组织，在全球各地执行高价值目标的暗杀行动。然而，一次出了差错的行动，让艾娃身陷生死危机。面对各路杀手铺天盖地的追杀，无路可退的艾娃唯有杀出血路，才有活下去的机会……",
@@ -16554,7 +16530,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200826/60400.html",
     date: "2020-08-2623:55:27",
     desc: "◎译名独一无二的伊万/独一无二的伊凡◎片名TheOneandOnlyIvan◎年代2020◎产地美国◎类别喜剧/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分6.7/10from1916users◎豆瓣评分6.9/10from110users◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名独一无二的伊万/独一无二的伊凡◎片名TheOneandOnlyIvan◎年代2020◎产地美国◎类别喜剧/奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-08-21(美国)◎IMDb评分6.7/10from1916users◎豆瓣评分6.9/10from110users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.58GB◎导演西娅·夏罗克TheaSharrock◎编剧麦克·怀特MikeWhite凯瑟琳·阿普尔盖特KatherineApplegate◎主演山姆·洛克威尔SamRockwell布莱恩·科兰斯顿BryanCranston安吉丽娜·朱莉AngelinaJolie丹尼·德维托DannyDeVito布鲁克琳·普林斯BrooklynnPrince海伦·米伦HelenMirren菲莉帕·苏PhillipaSoo阿丽亚娜·格林布拉特ArianaGreenblatt埃莉诺·松浦EleanorMatsuura拉蒙·罗德里格兹RamonRodriguez奥文·亚瑟OwainArthur本·毕舍普BenBishop戴维娜·西塔拉姆DavinaSitaram杰奎琳·拉姆娜莱恩JacquelineRamnarine杰弗里·克里斯普JeffreyCrisp罗伊·贝克RoyBeck◎标签迪士尼|美国|2020|动画|安吉丽娜朱莉|小说改编|2019|待映◎简介根据同名获纽伯瑞大奖小说改编，KatherineApplegate写作，PatriciaCastelao绘制插图。聚焦一只名叫Ivan的银背大猩猩，他与名叫Stella的大象和名叫Bob的流浪狗生活在一所大型购物中心的笼子里。Ivan对此前的生活毫无记忆，而当小象Ruby到来后，Ivan将负责照料她，他也开始逐渐想起过去的经历，拟定计划要逃脱牢笼，避免Stella遭受管理员的虐待。朱莉将为Stella配音，普林斯为Ruby配音。",
@@ -16584,7 +16560,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200824/60393.html",
     date: "2020-08-2423:42:24",
     desc: "◎译名侠盗/重装救援：全境猎杀(台)◎片名Rogue◎年代2020◎产地英国/南非◎类别动作/战争◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分N/A◎豆瓣评分N/A◎文件格式x264+aac◎视频尺寸1920x1080◎文件大",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名侠盗/重装救援：全境猎杀(台)◎片名Rogue◎年代2020◎产地英国/南非◎类别动作/战争◎语言英语◎字幕中英双字幕◎上映日期2020-08-28(美国)◎IMDb评分N/A◎豆瓣评分N/A◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.76GB◎导演迈克尔·巴塞特MichaelJ.Bassett◎编剧迈克尔·巴塞特MichaelJ.Bassett◎主演梅根·福克斯MeganFox杰西卡·萨顿JessicaSutton菲利普·文切斯特PhilipWinchester李-安妮·莱本伯格Lee-AnneLiebenberg布兰登·奥雷BrandonAuret格雷格·克列克GregKriek亚当·迪康AdamDeacon塔梅尔·伯贾克TamerBurjaq肯尼思·霍KennethFok◎简介讲述梅根饰演角色带领的一支雇佣兵，原本要去非洲某地营救人质，但不幸中了埋伏。在逃亡过程中，雇佣兵小队不仅要防人类的子弹，还要避开狮子的攻击。",
@@ -16614,7 +16590,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200824/60392.html",
     date: "2020-08-2423:39:43",
     desc: "◎译名宅男腐女恋爱真难/宅男腐女恋爱真难真人版/阿宅的恋爱太难/阿宅的恋爱真难◎片名ヲタクに恋は難しい/Wotakoi:LoveIsHardforOtaku◎年代2020◎产地日本◎类别喜剧/爱情/歌舞◎语言日语◎字幕中文◎上映日期2020-02-07(日",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名宅男腐女恋爱真难/宅男腐女恋爱真难真人版/阿宅的恋爱太难/阿宅的恋爱真难◎片名ヲタクに恋は難しい/Wotakoi:LoveIsHardforOtaku◎年代2020◎产地日本◎类别喜剧/爱情/歌舞◎语言日语◎字幕中文◎上映日期2020-02-07(日本)◎IMDb评分5.3/10from15users◎豆瓣评分5.4/10from127users◎文件格式x264+aac◎视频尺寸1920x1040◎文件大小1.89GB◎片长114分钟◎导演福田雄一YûichiFukuda◎编剧福田雄一YûichiFukuda◎主演高畑充希MitsukiTakahata山崎贤人KentoYamazaki菜菜绪Nanao斋藤工TakumiSaitô贺来贤人KentoKaku室毅TsuyoshiMuro佐藤二朗JirôSatô今田美樱MioImada若月佑美YumiWakatsuki内田真礼MaayaUchida◎标签山崎贤人|漫改|日本|山﨑賢人|高畑充希|日本电影|贺来贤人|日影◎简介热爱动漫的桃濑成海（高畑充希饰），转职成功后在公司与儿时玩伴二藤宏嵩（山崎贤人饰）再会。外表俊俏工作能力超高的宏嵩其实是个游戏宅。对于害怕自己宅属性被揭穿的成海，他提出了「那麽跟宅宅交往应该会非常舒适吧？」的建议，进而开始交往…在充实的宅宅情侣生活中，忍耐、妥协、互相扶持……",
@@ -16645,7 +16621,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200823/60390.html",
     date: "2020-08-2323:42:03",
     desc: "◎译名LordofShanghai◎片名上海王◎年代2016◎产地中国大陆◎类别剧情/动作/爱情◎语言普通话/英语/上海话◎字幕中英双字幕◎上映日期2016-06-19(上海电影节)/2017-02-17(中国大陆)◎IMDb评分7.0/10from251users◎豆瓣评分4.",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "magnet:?xt=urn:btih:a1346298b8091d96d7c67c91ce1d47cba17a62d0&amp;dn=%e9%98%b3%e5%85%89%e7%94%b5%e5%bd%b1www.ygdy8.com.%e4%b8%8a%e6%b5%b7%e7%8e%8b2.HD.2160p.%e5%9b%bd%e8%af%ad%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97.mkv&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce",
     summary:
       "◎译名LordofShanghai◎片名上海王◎年代2016◎产地中国大陆◎类别剧情/动作/爱情◎语言普通话/英语/上海话◎字幕中英双字幕◎上映日期2016-06-19(上海电影节)/2017-02-17(中国大陆)◎IMDb评分7.0/10from251users◎豆瓣评分4.9/10from6865users◎文件格式x265+aac◎视频尺寸3840x1600◎文件大小2.59GB◎片长111分钟◎导演胡雪桦SherwoodHu◎编剧胡雪桦SherwoodHu虹影YingHong庞贝BeiPang◎主演胡军JunHu余男NanYu凤小岳RhydianVaughan秦昊HaoQin李梦MengLi刘佩琦PeiqiLiu曹可凡KefanCao蒲巴甲PurbaRgyal多布杰Duobujie乔翰·厄布JohannUrb何赛飞SaifeiHe徐冬冬DongdongXu白灵LingBai◎标签上海|剧情|中国大陆|动作|时代|2016|爱情|内地◎简介电影讲述了20世纪初上海滩十里洋场、黑帮势力的角逐纷争。纷杂乱世中，奇女子筱月桂（余男饰）与三代上海王之间充满传奇色彩的爱恨情仇。在妓院做丫头的乡下女孩小月桂（李梦饰），“个高、胸大、没裹脚”，让老板新黛玉（白灵饰）很不满意，却深得洪门老大常力雄（胡军饰）欢心，成为一代上海王的女人。常力雄在与同盟会代表黄佩玉（秦昊饰）接触过程中被暗杀，小月桂孤助无援，产女后流落乡下。历经数年艰辛，小月桂成立滩簧班子，重返大上海，在第二代上海王黄佩玉帮助下，成为“申曲名伶”筱月桂（余男饰）。功成名就的筱月桂从没忘记要寻找杀死常力雄，也就是她女儿父亲的凶手。当她发现自己爱上黄佩玉时，也证实了“洪门内奸的真正身份”。她与常爷的前跟班余其扬（凤小岳饰）合谋除去内奸，助余其扬成为洪门第一个银行家，新的“上海王”。◎译名LordofShanghai◎片名上海王2/上海王Ⅱ◎年代2020◎产地中国大陆◎类别剧情/动作/爱情◎语言普通话/英语/上海话◎字幕中英双字幕◎上映日期2017-08-22(中国大陆)◎文件格式x265+aac◎视频尺寸3840x1608◎文件大小2.48GB◎片长120分钟◎导演胡雪桦SherwoodHu◎编剧胡雪桦SherwoodHu虹影HongYing庞贝BeiPang◎主演胡军JunHu余男NanYu凤小岳RhydianVaughan郭采洁AmberKuo秦昊HaoQin曹可凡KefanCao多布杰Duobujie段博文BowenDuan◎简介功成名就的筱月桂（余男饰）从没忘记要寻找杀死常力雄（胡军饰），也就是她女儿父亲的凶手。当她发现自己爱上黄佩玉时，也证实了“洪门内奸的真正身份”……她与常爷的前跟班余其扬合谋除去内奸，助余其扬成为洪门第一个银行家，新的“上海王”。时过多年，筱月桂女儿常荔荔（郭采洁饰）从美国学成归来，迷上电影，在母亲等人的帮助下，成为轰动一时的大明星。一次意外，筱月桂撞破女儿与余其扬（凤小岳饰）的关系……三个人的命运也自此改变。",
@@ -16675,7 +16651,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200822/60383.html",
     date: "2020-08-2100:36:41",
     desc: "◎译名捕鸟者/捕鸟人◎片名TheBirdCatcher/TheBirdCatcher◎年代2017◎产地挪威◎类别剧情/惊悚/战争◎语言英语◎字幕中英双字幕◎上映日期2019-03-29(新泽西电影节)◎IMDb评分6.4/10from1058users◎文件格式x264+aac◎视",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名捕鸟者/捕鸟人◎片名TheBirdCatcher/TheBirdCatcher◎年代2017◎产地挪威◎类别剧情/惊悚/战争◎语言英语◎字幕中英双字幕◎上映日期2019-03-29(新泽西电影节)◎IMDb评分6.4/10from1058users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.67GB◎片长100分钟◎导演RossClarke◎编剧TrondMortenKristensen◎主演Sarah-SofieBoussnina奥古斯特·迪赫AugustDiehl劳拉·布林LauraBirnArthurHakalahti◎简介1942年的挪威，以斯帖（Sarah-SofieBoussnina），一名14岁的犹太女孩在她的小镇被恐怖统治时，迫使她的父母把她藏在前往瑞典的卡车上，以此保住女孩的性命安全。以斯帖的卡车却遭到纳粹袭击，她逃到森林裡遇到了一个与她同龄的男孩阿塞尔（ArthurHakalahti）。阿塞尔喜欢上她也将她隐藏在他家的谷仓里。为了不让纳粹发现，她伪装成一个男孩与阿塞尔一起逃离纳粹佔领的领土到瑞典，希望父母还在等她。",
@@ -16705,7 +16681,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200820/60381.html",
     date: "2020-08-2023:56:27",
     desc: "◎译名FemaleVillageDoctor◎片名女村医◎年代2020◎产地中国大陆◎类别剧情/悬疑/惊悚/犯罪◎语言普通话◎字幕中文◎上映日期2020-08-03(中国大陆)◎文件格式x264+aac◎视频尺寸1920x816◎文件大��1.38GB◎片长65分钟◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名FemaleVillageDoctor◎片名女村医◎年代2020◎产地中国大陆◎类别剧情/悬疑/惊悚/犯罪◎语言普通话◎字幕中文◎上映日期2020-08-03(中国大陆)◎文件格式x264+aac◎视频尺寸1920x816◎文件大小1.38GB◎片长65分钟◎导演潘海波◎编剧苏语◎主演杨澍◎标签悬疑|2020◎简介个偏隅小镇，清早突发车祸司机逃跑，留下狼狈不堪现场。与此同时，年轻的实习医生刘文雯在老蔡的引领下初次进入了小镇。当晚突发意外，老蔡被打晕。治安队队长周飞和刘文雯一同调查。事件第二天，周飞与刘文雯在一间林中小屋找到了怀疑对象——孤僻怪异的独居男子赵勉。周飞在追逃的过程中不慎摔伤了自己，赵勉也向深山逃去。事后当却震惊地发现赵勉自杀于房梁上。线索断了。事件的背后是什么阴谋，初来乍到的刘文雯能否解开这一谜团，故事正在继续。",
@@ -16734,7 +16710,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200820/60380.html",
     date: "2020-08-2023:53:05",
     desc: "◎译名◎片名十三猎杀◎年代2020◎产地中国大陆◎类别动作◎语言普通话◎字幕中文◎上映日期2020-08-02(中国大陆)◎文件格式x265+aac◎视频尺寸1920x800◎文件大��2.41GB◎片长93分钟◎导演李斌◎主演谷尚蔚ShangweiGu汤",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名◎片名十三猎杀◎年代2020◎产地中国大陆◎类别动作◎语言普通话◎字幕中文◎上映日期2020-08-02(中国大陆)◎文件格式x265+aac◎视频尺寸1920x800◎文件大小2.41GB◎片长93分钟◎导演李斌◎主演谷尚蔚ShangweiGu汤嬿YanTang涩谷天马TenmaShibuya◎简介高浪为了保护战友叶无双，只身回到老家猎户村。在村子的围猎宴上，高浪发现叶无双即将临盆，不便即刻转移。抓捕叶无双的敌军突然出现。敌军杀死无辜村民并掠走叶无双，高浪凭借谙熟猎户在丛林里的捕猎技巧，与敌军小队在丛林里展开了一场生死对决……",
@@ -16763,7 +16739,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200820/60376.html",
     date: "2020-08-1901:06:01",
     desc: "◎译名MonsterRun/Mr.Monster◎片名怪物先生◎年代2020◎产地中国香港,中国大陆◎类别动作/奇幻/冒险◎语言粤语/普通话◎字幕中文◎上映日期2020-08-18(中国大陆)◎文件格式x264+aac◎视频尺寸1920x804◎文件大��2.28GB◎片",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名MonsterRun/Mr.Monster◎片名怪物先生◎年代2020◎产地中国香港,中国大陆◎类别动作/奇幻/冒险◎语言粤语/普通话◎字幕中文◎上映日期2020-08-18(中国大陆)◎文件格式x264+aac◎视频尺寸1920x804◎文件大小2.28GB◎片长104分钟◎导演黄智亨HenriWongChi-Hang◎编剧黄智亨HenriWongChi-Hang范文文WenwenFan王亚鹤YaheWang章笛沙DishaZhang张卓鹏ZhuopengZhang◎主演余文乐ShawnYue春夏JessieLi惠英红KaraWaiYingHung涂们Tumen乔杉ShanQiao王雨甜YutianWang杨迪DiYang王真儿Zhen'erWang高叶YeGao傅铂涵BohanFu◎标签奇幻|春夏|惠英红|余文乐|香港电影|香港|香港電影|华语电影◎简介有些奇怪的事情一直存在，你以为是巧合，或编个理由让它合理，其实，是因为你们不想承认……季末（春夏饰）从小就因为能看见“怪物”而被视作异类，直到有一天她在工作的超市再次看到“怪物”并神奇的邂逅了“怪物猎人”——猛哥（余文乐饰），她才发现原来世界上真的有“怪物”存在，两个年轻人由此卷入了一场新的风波。",
@@ -16794,7 +16770,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200820/60375.html",
     date: "2020-08-1901:03:37",
     desc: "◎译名TheEnigmaOfArrival◎片名抵达之谜/野蛮生长◎年代2020◎产地中国大陆◎类别剧情/爱情◎语言普通话◎字幕中文◎上映日期2018-10-05(釜山电影节)/2020-07-31(中国大陆)◎IMDb评分5.4/10from16users◎豆瓣评分5.0/10from36",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名TheEnigmaOfArrival◎片名抵达之谜/野蛮生长◎年代2020◎产地中国大陆◎类别剧情/爱情◎语言普通话◎字幕中文◎上映日期2018-10-05(釜山电影节)/2020-07-31(中国大陆)◎IMDb评分5.4/10from16users◎豆瓣评分5.0/10from36,471users◎文件格式x264+aac◎视频尺寸3840x1640◎文件大小2GB◎片长114分钟◎导演宋文WenSong◎编剧陶日成RichengTao宋文WenSong李宗雷ZongleiLi杨丹DanYang段炼LianDuan◎主演李现XianLi董博睿BoruiDong顾璇XuanGu林晓凡XiaofanLin刘韦伯WeiboLiu李宗雷ZongleiLi张绮烟QiyanZhang◎标签李现|青春|成长|中国电影|悬疑|电影|爱情|华语电影◎简介上世纪90年代长江边的小城里，反骨叛逆的男孩赵小龙（李现饰）遇上心爱女孩冬冬（顾璇饰）及其好友小梅（张绮烟饰）后，随着初心萌动，与几位好友：方圆（董博睿饰）、大四（林晓凡饰）、三皮（刘韦伯饰）、武义（李宗雷饰）走过肆意张扬的青春时光。这段青春最终因为冬冬的失踪戛然而止，十几年后，当兄弟们都面目模糊的走向中年时，只有小龙还固执地要为下落不明的冬冬讨个说法。聚会上，步入中年的四人回忆往昔，小龙却突然逼大四说出冬冬“失踪”的真相，被尘封的“真相”，令他们永远无法抵达自己的内心……",
@@ -16825,7 +16801,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200819/60374.html",
     date: "2020-08-1823:57:35",
     desc: "◎译名最燃的拳头/地下拳◎片名Unleashed◎年代2020◎产地中国香港◎类别剧情/动作◎语言粤语/普通话◎字幕中文◎上映日期2020-04-18(中国大陆)◎文件格式x264+aac◎视频尺寸1920x1040◎文件大��1.48GB◎片长80分钟◎导演郭家",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名最燃的拳头/地下拳◎片名Unleashed◎年代2020◎产地中国香港◎类别剧情/动作◎语言粤语/普通话◎字幕中文◎上映日期2020-04-18(中国大陆)◎文件格式x264+aac◎视频尺寸1920x1040◎文件大小1.48GB◎片长80分钟◎导演郭家禧/郭逸材◎编剧郭家禧/郭逸材◎主演孙振峰卢惠光KenLo郑子平王敏奕VenusWong李灿森SamLee赵永洪RaymondChiu李健宏KevinLee杨柳青WiyonaYeung灰熊KumerSo◎简介香港拳王阿杰为了保住师傅的拳馆，愿意为50万出场费，勇战泰拳神话仇立，不料腿部重伤，甚至留下了心理阴影。师傅为了帮助阿杰，牺牲自己挑战仇立，触动阿杰终于克服恐惧，与仇立再次正面较量。这不只是一场输赢的比拼，更是战胜自己的证明。",
@@ -16855,7 +16831,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200818/60373.html",
     date: "2020-08-1823:54:10",
     desc: "◎译名如何培养一个女孩/青春期少女的养成方法◎片名HowtoBuildaGirl◎年代2019◎产地英国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-09-07(多伦多电影节)/2020-05-08(英国)◎IMDb评分5.8/10from1659users◎豆瓣评分6.",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名如何培养一个女孩/青春期少女的养成方法◎片名HowtoBuildaGirl◎年代2019◎产地英国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-09-07(多伦多电影节)/2020-05-08(英国)◎IMDb评分5.8/10from1659users◎豆瓣评分6.5/10from91users◎文件格式x264+aac◎视频尺寸1920x1040◎文件大小1.73GB◎片长102分钟◎导演科奇·吉尔佐CokyGiedroyc◎编剧凯特琳·莫兰CaitlinMoran约翰·尼文JohnNiven◎主演比妮·费尔德斯坦BeanieFeldstein阿尔菲·艾伦AlfieAllen艾玛·汤普森EmmaThompson帕迪·康斯戴恩PaddyConsidine克里斯·奥多德ChrisO'Dowd露茜·彭奇LucyPunch贾米拉·贾米尔JameelaJamil莎朗·豪根SharonHorgan弗兰克·迪兰FrankDillane爱德华·布卢梅尔EdwardBluemel莎拉·索蕾玛尼SarahSolemani苏·帕金斯SuePerkins乔安娜·斯坎伦JoannaScanlan塔格·墨菲TadhgMurphy劳利·基纳斯顿LaurieKynaston露丝·霍洛克斯RuthHorrocks鲍比·斯科菲尔德BobbySchofield阿琳泽·科纳ArinzéKene维克托里娅·菲斯ViktorijaFaith保罗·布莱克维尔PaulBlackwell齐吉·希思ZiggyHeath阿什克·阿赫塔尔AsheqAkhtar贾格·帕特尔JagPatel◎标签英国|女性|英国电影|2019|艾玛·汤普森|剧情|弗兰克·迪兰|文学作品改编◎简介1990年代的北英格兰小镇，一个少女想当音乐记者，而她朴素害羞的风格跟乐队、演出格格不入。但某天，她摇身一变成为“朵丽·王尔德第二”，以一个彩色头发、华丽张扬的新锐写手形象打进了那个圈子。但新生活也带给了她五味杂陈的新感悟……",
@@ -16885,7 +16861,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200818/60372.html",
     date: "2020-08-1823:48:31",
     desc: "◎译名TheRealIronMonkey◎片名真假铁马骝◎年代2019◎产地中国大陆/中国香港◎类别剧情/动作◎语言粤语/普通话◎字幕中文◎上映日期2019-07-08(中国大陆)◎文件格式x264+aac◎视频尺寸1920x1080◎文件大��1.49GB◎片长87分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名TheRealIronMonkey◎片名真假铁马骝◎年代2019◎产地中国大陆/中国香港◎类别剧情/动作◎语言粤语/普通话◎字幕中文◎上映日期2019-07-08(中国大陆)◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.49GB◎片长87分钟◎导演叶永健KenYipWing-Kin◎编剧许建军JianjunXu/楼十八SepBuatLau◎主演敖嘉年KaninNgo何佩珉MandyHo陈观泰KuanTaiChen莫美林MeilinMok林子善LamTseSin周强KeungChow谷峰FengKu张文杰ManKitCheung◎标签香港电影|动作|大陆|2019|香港|陈观泰|谷峰|录像鸡◎简介上海精武会会长霍东阁年事已高，需要找接班人。只有两个人合资格。一是现任上海精武会的执事，精武会创会会长霍元甲大弟子孔慈的儿子孔鹏；另一人选就是广东精武会分会的主持人郭天。为保万无一失，霍东阁修书欲请出当年侠盗“铁马骝”帮忙运送名册，铁马骝以自己年事已高，改荐其孙新一代铁面大侠铁忠帮忙护送名单由广东送到上海，期间遇上不同人马，巧取豪夺，激战连场，最后一场大混战，郭天发觉其中一个对手，身手很是熟悉，激战中发现他应该是“铁马骝”。震南三人来到铁马骝住处查问究竟！铁马骝大为奇怪，这二十年，他从未离开家乡半步，如何加害郭天？原来铁马骝有一个双胞胎弟弟“铜马骝”，同拜于“战猴拳”门下，结果一个成为侠盗，一个却成为大盗……",
@@ -16915,7 +16891,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200817/60369.html",
     date: "2020-08-1723:39:33",
     desc: "◎译名寄生异形/人造卫星/卫星◎片名Спутник/Satellite/Sputnik◎年代2020◎产地俄罗斯◎类别科幻/恐怖◎语言俄语◎字幕中英双字幕◎上映日期2020-04-15(翠贝卡电影节)/2020-04-23(俄罗斯)◎IMDb评分6.2/10from2274users◎豆瓣",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名寄生异形/人造卫星/卫星◎片名Спутник/Satellite/Sputnik◎年代2020◎产地俄罗斯◎类别科幻/恐怖◎语言俄语◎字幕中英双字幕◎上映日期2020-04-15(翠贝卡电影节)/2020-04-23(俄罗斯)◎IMDb评分6.2/10from2274users◎豆瓣评分5.8/10from2,544users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.89GB◎片长105分钟◎导演EgorAbramenko◎编剧奥列格·马洛维奇克OlegMalovichkoAndreiZolotarev◎主演奥莎娜·阿金什那OksanaAkinshina....TatyanaKlimova费奥多尔·邦达尔丘克FedorBondarchuk....ColonelSemiradov彼得·费奥多罗夫PyotrFyodorov....KonstantinVeshnyakov安东·瓦西利耶夫AntonVasilev....YanRigel阿列克谢·杰米多夫AlekseyDemidov....KirillAverchenkoAnnaNazarova....NurseAleksandrMarushev....ConvictRubenAlbrechtZander....ConvictSeryjVitaliyaKornienko....ChildinOrphanageVasiliyZotov....Biologist◎标签科幻|俄罗斯|惊悚|外星人|恐怖|2020|电影|欧洲电影◎简介苏联，1983年。苏联宇航员兼英雄康斯坦丁·维什尼亚科夫（KonstantinVeshnyakov）将一个外星生物带入了自己的身体。在一个封闭的城市神经生理学家塔蒂扬娜·克里莫娃（TatyanaKlimova）的秘密实验室中，她试图从宇航员中解救宇航员时，发现她对患者的感觉远不止是专业兴趣",
@@ -16945,7 +16921,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200817/60368.html",
     date: "2020-08-1723:36:10",
     desc: "◎译名烈火之前◎片名BeforetheFire/TheGreatSilence◎年代2020◎产地美国◎类别剧情/动作/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-03-07(美国)◎IMDb评分4/10from154users◎文件格式x264+aac◎视频尺寸1920x1080◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名烈火之前◎片名BeforetheFire/TheGreatSilence◎年代2020◎产地美国◎类别剧情/动作/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-03-07(美国)◎IMDb评分4/10from154users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.51GB◎导演CharlieBuhler◎编剧詹娜·林·亚当斯JennaLyngAdams◎主演詹娜·林·亚当斯JennaLyngAdams杰克逊·戴维斯JacksonDavis瑞恩·维吉兰特RyanVigilantCharlesHubbellDakotaMorrissiey蒂姆·德里斯科尔TimDriscollM·J·卡密M.J.Karmi丽莎·古德曼LisaGoodmanJohnTagueCharlieBuhlerAndrewMarksmanMartinMica◎标签悬疑|2020|美国|温情|性奴，反转|Apocalyptical◎简介WhenaglobalpandemicforcesaTVactresstoescapetoherruralhometown,anintruderfromherpastprovesasdangerousastheencroachingvirus.当全球大流行迫使一名电视女演员逃离她的农村故乡时，入侵她的过去被证明与入侵病毒一样危险。",
@@ -16975,7 +16951,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200815/60363.html",
     date: "2020-08-1522:52:10",
     desc: "◎译名超能计划/超能计画(台)◎片名ProjectPower/Power◎年代2020◎产地美国◎类别科幻/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-08-14(美国)◎IMDb评分7.1/10from17users◎豆瓣评分5.7/10from255users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名超能计划/超能计画(台)◎片名ProjectPower/Power◎年代2020◎产地美国◎类别科幻/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-08-14(美国)◎IMDb评分7.1/10from17users◎豆瓣评分5.7/10from255users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.88GB◎片长111分钟◎导演亨利·朱斯特HenryJoost阿里尔·舒曼ArielSchulman◎编剧马特森·汤姆林MattsonTomlin◎主演约瑟夫·高登-莱维特JosephGordon-Levitt杰米·福克斯JamieFoxx罗德里戈·桑托罗RodrigoSantoro机关枪凯利MachineGunKelly艾米·兰德克AmyLandecker考特尼·万斯CourtneyB.Vance泰特·弗莱彻TaitFletcher约书亚·萨达索YoshuaSudarso阿伦·马尔多纳多AllenMaldonado多米尼克·菲什巴克DominiqueFishback吉姆·克洛克JimKlock可亚娜·西蒙妮·辛普森KyannaSimoneSimpson卢克·霍克斯LukeHawx托尼·查普曼·斯蒂尔ToneyChapmanSteele彼得·詹梅斯PeterJaymesJr.贾斯汀·贾木什JustinCarmouche戈登·德克海默GordonDexheimerCaseyNeistatAzharKhanJosephPoliquinAndreneWard-Hammond◎标签科幻|Netflix|美国|2020|惊悚|美国电影|电影|杰米·福克斯◎简介在新奥尔良的街道上，关于神秘新药丸的消息开始传播开来，这种药丸可以解锁每位使用者独特的超能力。但问题是：在服用之前，没人知道用药后会发生什么。一些人会进化出防弹皮肤、隐形能力和超强力量，也有很多人会表现出更致命的反应。但是，当药丸使城市内的犯罪升级到危险水平时，当地警察（约瑟夫·高登-莱维特饰）与一名少女小贩（多米尼克·菲什巴克饰）和誓报私仇的退伍士兵（杰米·福克斯饰）联手以硬碰硬，他们冒着服用药丸的风险，以追踪并制止制造出该药丸的团队。",
@@ -17005,7 +16981,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200815/60362.html",
     date: "2020-08-1522:50:50",
     desc: "◎译名奇袭地道战◎片名奇袭地道战◎年代2020◎产地中国大陆◎类别剧情/战争◎语言普通话◎字幕中文◎上映日期2020-08-07(中国大陆)◎豆瓣评分7.1/10from1,050users◎文件格式x264+aac◎视频尺寸3840x1624◎文件大��1.66GB◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名奇袭·地道战◎片名奇袭地道战◎年代2020◎产地中国大陆◎类别剧情/战争◎语言普通话◎字幕中文◎上映日期2020-08-07(中国大陆)◎豆瓣评分7.1/10from1,050users◎文件格式x264+aac◎视频尺寸3840x1624◎文件大小1.66GB◎片长88分钟◎导演项秋良QiuliangXiang项河生HeshengXiang◎编剧马怀昌HuaichangMa项秋良QiuliangXiang项河生HeshengXiang李嫄YuanLi◎主演刘林城LinchengLiu邵芸YunShao刘亚津YajinLiu雪村CunXue◎标签抗战|战争|中国|热血催泪|感动|电影|网络电影|人性◎简介抗日战争时期，日寇对冀中平原进行“大扫荡”，进步青年叶成从北平学成归来加入了村里的地道建设，面对不解和质疑，在党员马政委的领导下，叶成用所学知识带领村民升级完善地道，一次次巧妙化解日军的袭击。狡猾的日军将领采用孤立策略，扫除了叶成周边的地道村。岌岌可危之下，叶成主动出击，利用周边地形将地道连成网络摧毁了敌军的后方炮楼，对日军进行反包围，大获全胜。",
@@ -17021,8 +16997,7 @@ const MOVIELIST = [
     release: "2020-08-07(中国大陆)",
     time: "88",
     director: "项秋良QiuliangXiang项河生HeshengXiang",
-    writers:
-      "马怀昌HuaichangMa项秋良QiuliangXiang项河生HeshengXiang李嫄YuanLi",
+    writers: "马怀昌HuaichangMa项秋良QiuliangXiang项河生HeshengXiang李嫄YuanLi",
     actor: "",
     starring:
       "刘林城 Lincheng Liu　邵芸 Yun Shao　刘亚津 Yajin Liu　雪村 Cun Xue",
@@ -17036,7 +17011,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200814/60360.html",
     date: "2020-08-1300:34:23",
     desc: "◎译名列夫朗道：娜塔莎◎片名DAU.Natasha/Дау.Наташа◎年代2020◎产地德国,乌克兰,英国,俄罗斯◎类别剧情◎语言俄语,乌克兰语,英语◎字幕中英双字幕◎上映日期2020-02-26(柏林电影节)/2020-04-16(俄罗斯)◎IMDb评分6.4/10from6",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名列夫·朗道：娜塔莎◎片名DAU.Natasha/Дау.Наташа◎年代2020◎产地德国,乌克兰,英国,俄罗斯◎类别剧情◎语言俄语,乌克兰语,英语◎字幕中英双字幕◎上映日期2020-02-26(柏林电影节)/2020-04-16(俄罗斯)◎IMDb评分6.4/10from629users◎豆瓣评分6.3/10from6,920users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.29GB◎片长137分钟◎导演叶卡特琳娜·奥特尔JekaterinaOertel伊利亚·赫尔扎诺夫斯基IlyaKhrzhanovsky◎编剧伊利亚·赫尔扎诺夫斯基IlyaKhrzhanovskyKoraLandau-Drobantseva◎主演纳塔利娅·别列日纳娅NataliaBerezhnayaOlgaShkabarnyaVladimirAzhippoAlexeiBlinovAnatoliySidko吕克·比热LucBigéAlexandrBozhikValeryAndreevRaisaVoloshchuk◎标签实验|俄罗斯|柏林电影节|2020|政治|剧情|德国|伊利亚·赫尔扎诺夫斯基◎简介1950年代，娜塔莎在苏联一家秘密的研究所内经营食堂，这里汇集了研究所的员工、科学家和外国访客。娜塔莎的世界很小，她白天在食堂干活，晚上和年轻同事奥利亚一起喝酒，倾诉对浪漫的渴求和对未来的幻想。在一次聚会之夜，娜塔莎与来访的法国科学家卢克·比格变得亲密起来。第二天，当克格勃的弗拉基米尔·阿奇波将军对她进行讯问时，她的生活发生了戏剧性的转变。◎获奖情况第70届柏林国际电影节(2020)金熊奖(提名)伊利亚·赫尔扎诺夫斯基银熊奖杰出艺术成就奖于尔根·俞格斯",
@@ -17067,7 +17042,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200814/60359.html",
     date: "2020-08-1300:27:30",
     desc: "◎译名武动乾坤：涅槃神石◎片名武动乾坤◎年代2020◎产地中国大陆◎类别动作/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-07(中国大陆)◎豆瓣评分4.8/10from745users◎文件格式x264+aac◎视频尺寸3840x1632◎文件大??.39GB",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名武动乾坤：涅槃神石◎片名武动乾坤◎年代2020◎产地中国大陆◎类别动作/奇幻◎语言普通话◎字幕中文◎上映日期2020-08-07(中国大陆)◎豆瓣评分4.8/10from745users◎文件格式x264+aac◎视频尺寸3840x1632◎文件大小2.39GB◎片长113分钟◎导演霍穗强SuiqiangHuo◎编剧天蚕土豆HuLi/岳子坤◎主演王珞嘉LuojiaWang李觅尔Marina张亚奇YaqiZhang黎真安Zhen'anLi昆仑程涛张集骏周卓于鹏OK◎标签武动乾坤|特效牛逼|玄幻武侠|良心|玄幻|电影|高质|是我要的玄幻武侠啊◎简介英雄林动不满恶霸雷氏父子欺辱，于是为了宗族自由勇闯青阳镇狩猎大会。他在机缘巧合下获得神秘祖符，于是一夜之间成为武林高手。护妹狂魔化身龙拳少年扫除恶霸的同时，也因祖符秘密的泄漏而被各方势力暗中盯上，一场权谋同自由的较量火热对撞。",
@@ -17097,7 +17072,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200811/60355.html",
     date: "2020-08-1123:06:43",
     desc: "◎译名等待野蛮人◎片名WaitingfortheBarbarians◎年代2019◎产地意大利/美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2019-09-06(威尼斯电影节)/2020-08-07(美国)◎IMDb评分5.9/10from1338users◎豆瓣评分6.2/10from225",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名等待野蛮人◎片名WaitingfortheBarbarians◎年代2019◎产地意大利/美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2019-09-06(威尼斯电影节)/2020-08-07(美国)◎IMDb评分5.9/10from1338users◎豆瓣评分6.2/10from225users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.97GB◎片长112分钟◎导演西罗·格拉CiroGuerra◎编剧J·M·库切J.M.Coetzee◎主演约翰尼·德普JohnnyDepp罗伯特·帕丁森RobertPattinson马克·里朗斯MarkRylance格列塔·斯卡奇GretaScacchi大卫·丹席克DavidDencik萨姆·里德SamReid哈利·米尔林HarryMelling比尔·米尔纳BillMilner大卫·摩尔斯特DavidMoorst约瑟夫·朗JosephLong威尔·柯班WilCobanGanaBayarsaikhanGursedDalkhsurenTserendagvaPurevdorjClemSo◎标签约翰尼·德普|JohnnyDepp|小说改编|美国|剧情|2019|美国电影|库切◎简介根据约翰·马克斯韦尔·库切的同名小说改编，这位诺贝尔文学奖得主将自己的作品改编为剧本。故事的主人公是一位大英帝国海外殖民地的法官，他开始怀疑自己对于帝国的忠诚。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)西罗·格拉",
@@ -17127,7 +17102,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200811/60354.html",
     date: "2020-08-1123:05:26",
     desc: "◎译名美国泡菜/美国腌黄瓜◎片名AnAmericanPickle◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-08-06(美国)◎IMDb评分5.8/10from3503users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大��1.47G",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名美国泡菜/美国腌黄瓜◎片名AnAmericanPickle◎年代2020◎产地美国◎类别喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-08-06(美国)◎IMDb评分5.8/10from3503users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.47GB◎导演布兰登·特罗斯特BrandonTrost◎编剧西蒙·里奇SimonRich◎主演塞斯·罗根SethRogen莎拉·斯努克SarahSnook玛雅·厄斯金MayaErskine乔玛·塔科内JormaTaccone西恩·瓦兰SeanWhalen乔安娜·阿德勒JoannaAdler杰弗里·丹尼尔·菲利普斯JeffreyDanielPhillips杰弗里·坎特尔GeoffreyCantor戴维·马特DavidMattey凯文·奥罗克KevinO'Rourke艾略特·格拉泽EliotGlazer乔恩·多纳休JonDonahue查尔斯·罗杰斯CharlesRogers亚历山大·陈AlexandreChen埃夫卡·科瓦拉西尤斯EfkaKvaraciejus约瑟夫·坎农JosephCannon◎标签喜剧|2020|美国|塞斯·罗根|美国｜Movie|电影|莎拉·斯努克|布鲁克林◎简介由常与罗根合作的摄影师BrandonTrost执导，改编自刊登于2013年《纽约客》的中篇小说《SellOut》，原作者SimonRich写剧本。罗根一人分饰两角，之一是1920年代移民到美国的劳工HerschelGreenbaum，他不慎跌进了一缸泡菜，被腌了一百年，保持了完美的形态。百年后的如今，Greenbaum在纽约布鲁克林醒来，身体没有丝毫苍老。他去寻找自己现在的家人，却发现只有曾孙BenGreenbaum(也是罗根出演)尚存。Ben是个性格温和的程序猿，Herschel完全无法理解他。",
@@ -17157,7 +17132,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200810/60349.html",
     date: "2020-08-1023:50:33",
     desc: "◎译名蜂鸟/我们与爱的距离(台)◎片名Beol-sae/HouseofHummingbird◎年代2018◎产地韩国◎类别剧情◎语言韩语◎字幕中文◎上映日期2018-10-06(釜山电影节)/2019-08-29(韩国)◎IMDb评分7.4/10from851users◎豆瓣评分7.9/10from20,464",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名蜂鸟/我们与爱的距离(台)◎片名Beol-sae/HouseofHummingbird◎年代2018◎产地韩国◎类别剧情◎语言韩语◎字幕中文◎上映日期2018-10-06(釜山电影节)/2019-08-29(韩国)◎IMDb评分7.4/10from851users◎豆瓣评分7.9/10from20,464users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.31GB◎片长139分钟◎导演金宝拉BoraKim◎编剧金宝拉BoraKim◎主演朴智厚Ji-huPark金玺碧Sae-byukKim郑仁基In-giJeong李胜妍Seung-yeonLee朴秀妍Soo-yeonPark薛惠茵Hye-inSeol◎标签韩国|青春|成长|韩国电影|剧情|2018|釜山电影节|柏林电影节◎简介圣水大桥坍塌的1994年，中学生恩熙和父母、姐姐、哥哥一起生活。全家在各自的问题上争吵，此时的恩熙寻觅未至的爱情，像岛一样漂浮。恩熙的生活里，唯一能给予理解的她出现了。◎获奖情况第69届柏林国际电影节(2019)泰迪熊奖最佳电影(提名)金宝拉新生代青年单元最佳影片(提名)金宝拉新生代青年单元评审团大奖金宝拉第40届韩国电影青龙奖(2019)最佳影片(提名)金宝拉最佳女配角(提名)金玺碧最佳新人导演(提名)金宝拉最佳新人女演员(提名)朴持厚最佳剧本第56届百想艺术大赏(2020)电影类最佳影片(提名)电影类最佳导演金宝拉电影类最佳女配角金玺碧电影类最佳新人女演员(提名)朴持厚电影类最佳新人导演(提名)金宝拉电影类最佳编剧(提名)金宝拉第56届韩国电影大钟奖(2020)最佳影片(提名)最佳导演(提名)金宝拉最佳女配角(提名)金玺碧最佳新人导演金宝拉最佳新人女演员(提名)朴持厚最佳剧本(提名)金宝拉最佳摄影(提名)最佳音乐(提名)第23届釜山国际电影节(2018)新浪潮奖(提名)金宝拉KNN观众选择奖第21届台北电影节(2019)国际新导演竞赛评审团特别奖金宝拉国际新导演竞赛最佳影片(提名)金宝拉第6届豆瓣电影年度榜单(2019)评分最高的爱情片(提名)",
@@ -17187,7 +17162,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200810/60348.html",
     date: "2020-08-1023:49:20",
     desc: "◎译名侵入者/女儿/恶回家(港)/诡妹(台)◎片名Daughter/Intruder◎年代2020◎产地韩国◎类别悬疑/惊悚◎语言韩语◎字幕中文◎上映日期2020-06-04(韩国)◎IMDb评分6.2/10from303users◎豆瓣评分6.5/10from18232users◎文件格式x264+",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名侵入者/女儿/恶·回家(港)/诡妹(台)◎片名Daughter/Intruder◎年代2020◎产地韩国◎类别悬疑/惊悚◎语言韩语◎字幕中文◎上映日期2020-06-04(韩国)◎IMDb评分6.2/10from303users◎豆瓣评分6.5/10from18232users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.7GB◎片长102分钟◎导演宋元平Won-pyungSohn◎编剧宋元平Won-pyungSohn◎主演宋智孝Ji-hyoSong金武烈Moo-yeolKim艺秀晶YeSoo-jung许俊硕Jun-seokHeo李海云Hae-woonLee崔英佑Yeong-wooChoi李济延LeeJe-yeon崔尚熏ChoiSangHun苏熙静SoHee-jung张宋允Sung-yoonJang徐贤宇SeoHyeon-woo◎标签悬疑|韩国|惊悚|邪教|2020|犯罪|宗教|恐怖◎简介讲述失踪25年的妹妹“有真”重返家中后家人逐渐出现了变化，对此感到异常的哥哥“书振”追查妹妹隐藏秘密时发现令人惊讶事件的推理悬疑故事。",
@@ -17217,7 +17192,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200809/60344.html",
     date: "2020-08-0922:02:00",
     desc: "◎译名秘密花园◎片名TheSecretGarden◎年代2020◎产地英国/法国◎类别剧情/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-08-07(美国)◎IMDb评分5.3/10from251users◎豆瓣评分6.5/10from77users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名秘密花园◎片名TheSecretGarden◎年代2020◎产地英国/法国◎类别剧情/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-08-07(美国)◎IMDb评分5.3/10from251users◎豆瓣评分6.5/10from77users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.66GB◎片长99分钟◎导演马克·穆登MarcMunden◎编剧杰克·索恩JackThorne弗朗西丝·霍奇森·伯内特FrancesHodgsonBurnett◎主演迪克西·艾格瑞克斯DixieEgerickx科林·费尔斯ColinFirth朱丽·沃特斯JulieWalters伊登·黑赫斯特EdanHayhurst梅芙·德莫迪MaeveDermody杰玛·鲍威尔JemmaPowell保罗·G·雷蒙德PaulG.Raymond阿米尔·威尔森AmirWilsonIsisDavisSoniaGoswamiPaulDean-KellyAnneLaceyAlbertGiannitelliJacksonKaiChloeStannageTommyGeneSurridge◎标签奇幻|英国|小说改编|童话|2020|ColinFirth|儿童|电影◎简介小女孩玛丽父母双亡，她生活在姨夫阴暗神秘的大房子里。随后，玛丽闯进了禁闭已久的花园，与迪肯、柯林等人找到了快乐的源泉。充满魔力的旅程揭开，快乐、爱心，改变了孩子们的人生。",
@@ -17233,8 +17208,7 @@ const MOVIELIST = [
     release: "2020-08-07(美国)",
     time: "99",
     director: "马克·穆登MarcMunden",
-    writers:
-      "杰克·索恩JackThorne弗朗西丝·霍奇森·伯内特FrancesHodgsonBurnett",
+    writers: "杰克·索恩JackThorne弗朗西丝·霍奇森·伯内特FrancesHodgsonBurnett",
     actor: "",
     starring:
       "迪克西·艾格瑞克斯 Dixie Egerickx　科林·费尔斯 Colin Firth　朱丽·沃特斯 Julie Walters　伊登·黑赫斯特 Edan Hayhurst　梅芙·德莫迪 Maeve Dermody　杰玛·鲍威尔 Jemma Powell　保罗·G·雷蒙德 Paul G. Raymond　阿米尔·威尔森 Amir Wilson　Isis Davis　Sonia Goswami　Paul Dean-Kelly　Anne Lacey　Albert Giannitelli　Jackson Kai　Chloe Stannage　Tommy Gene Surridge",
@@ -17248,7 +17222,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200809/60343.html",
     date: "2020-08-0921:33:03",
     desc: "◎译名放射性物质/以光之名/居礼夫人：一代科研传奇(港)/居礼夫人：放射永恒(台)/放射性◎片名Radioactive◎年代2019◎产地英国,匈牙利◎类别剧情/传记◎语言英语◎字幕中英双字幕◎上映日期2019-09-14(多伦多电影节)/2020-03-20(英国)◎IM",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名放射性物质/以光之名/居礼夫人：一代科研传奇(港)/居礼夫人：放射永恒(台)/放射性◎片名Radioactive◎年代2019◎产地英国,匈牙利◎类别剧情/传记◎语言英语◎字幕中英双字幕◎上映日期2019-09-14(多伦多电影节)/2020-03-20(英国)◎IMDb评分6.1/10from3442users◎豆瓣评分6.6/10from1,315users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.82GB◎片长109分钟◎导演玛嘉·莎塔琵MarjaneSatrapi◎编剧杰克·索恩JackThorne/LaurenRedniss◎主演裴淳华RosamundPike萨姆·赖利SamRiley安雅·泰勒-乔伊AnyaTaylor-Joy阿奈林·巴纳德AneurinBarnard珊·布鲁克SianBrooke凯瑟琳·帕金森KatherineParkinson西蒙·拉塞尔·比尔SimonRussellBeale蒂姆·伍德沃德TimWoodward乔纳森·阿里斯JonathanAris弗兰西斯卡·托朗西斯科FranciskaTöröcsik克里·约翰逊CoreyJohnson爱德华·戴维斯EdwardDavis迪米特里·格里特萨斯DemetriGoritsas乔治娜·里奇GeorginaRich理查德·皮泼RichardPepple印迪卡·沃森IndicaWatson迈克尔·古尔德MichaelGould◎标签传记|女性|剧情|英国|裴淳华|2019|美国|电影◎简介基于LaurenRedniss所著小说《Marie&PierreCurie:ATaleofLoveandFallout》，聚焦玛丽·居里和皮埃尔·居里夫妻对科学的探索和两人之间的关系。",
@@ -17279,7 +17253,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200809/60341.html",
     date: "2020-08-0800:41:21",
     desc: "◎译名特殊演员/特约经纪公司(台)/茄哩啡事务所(港)◎片名スペシャルアクターズ/SpecialActors◎年代2019◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2019-10-18(日本)◎IMDb评分6.6/10from109users◎豆瓣评分7.3/10from114us",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名特殊演员/特约经纪公司(台)/茄哩啡事务所(港)◎片名スペシャルアクターズ/SpecialActors◎年代2019◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2019-10-18(日本)◎IMDb评分6.6/10from109users◎豆瓣评分7.3/10from114users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小GB◎片长110分钟◎导演上田慎一郎Shin'ichirôUeda◎编剧上田慎一郎Shin'ichirôUeda◎主演大澤数人河野宏紀富士たくや北浦爱AyuKitaura上田耀介清瀬やえこ仁後亜由美淡梨三月達也櫻井麻七◎标签日本|上田慎一郎|2019|日本电影|喜剧|电影|日本電影|2010s◎简介想当演员的和人是一位连房租都缴不出的鲁蛇宅男，只会沉浸在超能英雄电影《救难超人》录像带逃避现实。有一天，多年不见的弟弟，拉他加入「特约演员经纪公司」。那是一家除了电影和戏剧演出外，还会让演员帮助客户完成各项情境演出任务，也就是「用演技帮助他人」的经纪公司。某天，公司接到一项超级任务，需要演员去帮忙把旅馆从「邪教组织」的手中救出来。「特演」的演员拟出各种企划，练习唬人的演技，准备要对付企图鲸吞旅馆的邪恶集团。不过和人有个没有跟公司报告的秘密，那就是他他「一紧张就会昏倒」；而不巧的是，和人被任命为这次任务的最关键人物，「一直倒地后」，究竟他还会使出什么绝招出？",
@@ -17309,7 +17283,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200808/60339.html",
     date: "2020-08-0700:48:30",
     desc: "◎译名孤立/抽尸剥茧(台)◎片名Abgeschnitten/CutOff◎年代2018◎产地德国◎类别悬疑/惊悚/犯罪◎语言德语◎字幕中英双字幕◎上映日期2018-10-11(德国)◎IMDb评分6.6/10from3132users◎豆瓣评分6.8/10from549users◎文件格式x26",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名孤立/抽尸剥茧(台)◎片名Abgeschnitten/CutOff◎年代2018◎产地德国◎类别悬疑/惊悚/犯罪◎语言德语◎字幕中英双字幕◎上映日期2018-10-11(德国)◎IMDb评分6.6/10from3132users◎豆瓣评分6.8/10from549users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.2GB◎片长132分钟◎导演克里斯蒂安·阿瓦特ChristianAlvart◎编剧克里斯蒂安·阿瓦特ChristianAlvart/SebastianFitzek/MichaelTsokos◎主演莫里兹·布雷多MoritzBleibtreu贾斯娜·弗里茨·鲍尔JasnaFritziBauer拉斯·艾丁格LarsEidinger法赫里·亚迪姆FahriYardim克里斯蒂安·库钦布奇ChristianKuchenbuch尼尔斯-布鲁诺·施密特Niels-BrunoSchmidt本·默肖BenMünchow简·比洛JanBülowJanaKlinge西尔克·戈尔茨SilkeGeertzChristopherKohn亚历山大·雅辛AlexanderYassinEnnoHesseDirkNockerStephanieAmarellBarbaraPrakopenkaJoyMariaBaiUrsJuckerGeorgVeitlKlaraHöfels◎标签犯罪|悬疑|惊悚|德国|解剖|德國|恐怖|2016◎简介法医保罗自以为是的正义让他女儿惨遭绑架，他唯一的希望是困在无人岛上的漫画家琳达，她必须尽速代他执行一连串解剖且找到隐藏线索，才得以拯救保罗的女儿并揪出凶手。",
@@ -17325,8 +17299,7 @@ const MOVIELIST = [
     release: "2018-10-11(德国)",
     time: "132",
     director: "克里斯蒂安·阿瓦特ChristianAlvart",
-    writers:
-      "克里斯蒂安·阿瓦特ChristianAlvart/SebastianFitzek/MichaelTsokos",
+    writers: "克里斯蒂安·阿瓦特ChristianAlvart/SebastianFitzek/MichaelTsokos",
     actor: "",
     starring:
       "莫里兹·布雷多 Moritz Bleibtreu　贾斯娜·弗里茨·鲍尔 Jasna Fritzi Bauer　拉斯·艾丁格 Lars Eidinger　法赫里·亚迪姆 Fahri Yardim　克里斯蒂安·库钦布奇 Christian Kuchenbuch　尼尔斯-布鲁诺·施密特 Niels-Bruno Schmidt　本·默肖 Ben Münchow　简·比洛 Jan Bülow　Jana Klinge　西尔克·戈尔茨 Silke Geertz　Christopher Kohn　亚历山大·雅辛 Alexander Yassin　Enno Hesse　Dirk Nocker　Stephanie Amarell　Barbara Prakopenka　Joy Maria Bai　Urs Jucker　Georg Veitl　Klara Höfels",
@@ -17340,7 +17313,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200808/60338.html",
     date: "2020-08-0700:14:18",
     desc: "◎译名在里乔的阳光下◎片名SottoilsolediRiccione/UndertheRiccioneSun◎年代2020◎产地意大利◎类别喜剧/爱情◎语言意大利语◎字幕中文◎上映日期2020-07-01(意大利)◎IMDb评分5.6/10from361users◎豆瓣评分6.1/10from108us",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名在里乔的阳光下◎片名SottoilsolediRiccione/UndertheRiccioneSun◎年代2020◎产地意大利◎类别喜剧/爱情◎语言意大利语◎字幕中文◎上映日期2020-07-01(意大利)◎IMDb评分5.6/10from361users◎豆瓣评分6.1/10from108users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.67GB◎片长101分钟◎导演Younuts◎编剧CaterinaSalvadori恩里科·万齐纳EnricoVanzinaCiroZecca◎主演伊沙贝拉·法雷利IsabellaFerrari洛伦佐·祖佐洛LorenzoZurzolo路德维卡·马蒂诺LudovicaMartinoCristianoCaccamo卢卡·沃德LucaWardSaulNanni安德里亚·龙卡多AndreaRoncatoFotinìPelusoDavideCalgaroClaudiaTrancheseMatteoOscarGiuggioli◎简介在里乔内的海滩度假时，一群少男少女成为朋友，他们相互帮助处理恋爱关系和夏季暗恋。",
@@ -17370,7 +17343,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200804/60325.html",
     date: "2020-08-0419:32:28",
     desc: "◎译名寅次郎的故事：欢迎归来/寅次郎的故事：欢迎归来，寅桑/寅次郎的故事：欢迎归来，寅次郎/寅次郎的故事：欢迎归来，阿寅/男人之苦/男人之苦寅次郎返嚟啦！(港)◎片名男はつらいよお帰り寅さん/Tora-san,WelcomeBack!/Tora-san,WishYouWereHere◎年",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名寅次郎的故事：欢迎归来/寅次郎的故事：欢迎归来，寅桑/寅次郎的故事：欢迎归来，寅次郎/寅次郎的故事：欢迎归来，阿寅/男人之苦/男人之苦–寅次郎返嚟啦！(港)◎片名男はつらいよお帰り寅さん/Tora-san,WelcomeBack!/Tora-san,WishYouWereHere◎年代2019◎产地日本◎类别剧情/喜剧◎语言日语◎字幕中文◎上映日期2019-10-28(东京电影节)/2019-12-27(日本)◎IMDb评分6.5/10from100users◎豆瓣评分8.5/10from144users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.92GB◎片长116分钟◎导演山田洋次YôjiYamada◎编剧朝原雄三YûzôAsahara山田洋次YôjiYamada◎主演渥美清KiyoshiAtsumi倍赏千惠子ChiekoBaishô吉冈秀隆HidetakaYoshioka后藤久美子KumikoGoto前田吟GinMaeda池胁千鹤ChizuruIkewaki夏木真理MariNatsuki浅丘琉璃子RurikoAsaoka美保纯JunMiho佐藤蛾次郎GajiroSatohTetsurôDegawa滨田麻里MariHamada桥爪功IsaoHashizumeTamaheiHayashiya北山雅康MasayasuKitayama小林稔侍NenjiKobayashi松野太纪TaikiMatsuno樱田日和HiyoriSakurada笹野高史TakashiSasano竹山隆范TakanoriTakeyamaSôtarôTanaka立川志らくShirakuTatekawa富田望生MiuTomita◎标签山田洋次|日本|寅次郎的故事|日本电影|2019|渥美清|喜剧|日影◎简介该片是系列第50部作品，由新拍摄的部分与旧作名场面组合而成，主演是已经去世的渥美清，倍赏千惠子、前田吟、吉冈秀隆等共演。",
@@ -17401,7 +17374,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200803/60323.html",
     date: "2020-08-0323:49:08",
     desc: "◎译名抓住救命稻草的野兽们/垂死挣扎的野兽们/抓住稻草的野兽/笼子里的野兽(港)◎片名BeastsClawingatStraws/BeastsThatClingtotheStraw◎年代2020◎产地韩国◎类别惊悚/犯罪◎语言韩语◎字幕中文◎上映日期2020-02-21(韩国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名抓住救命稻草的野兽们/垂死挣扎的野兽们/抓住稻草的野兽/笼子里的野兽(港)◎片名BeastsClawingatStraws/BeastsThatClingtotheStraw◎年代2020◎产地韩国◎类别惊悚/犯罪◎语言韩语◎字幕中文◎上映日期2020-02-21(韩国)◎IMDb评分7.1/10from837users◎豆瓣评分6.9/10from11,020users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.81GB◎片长108分钟◎导演金容勋Yong-hoonKim◎编剧金容勋Yong-hoonKim/曾根圭介◎主演全度妍Do-yeonJeon郑雨盛Woo-sungJung裴晟祐Sung-WooBae尹汝贞Yeo-jeongYoon郑满植Man-shikJeong陈庆JinGyeong申贤彬Hyun-binShin郑家蓝Ga-ramJung◎标签犯罪|韩国|悬疑|韩国电影|全度妍|剧情|2020|郑雨盛◎简介因失踪的恋人而负债累累的泰荣（郑雨盛饰）、辛苦打工却只能勉强维持生计的一家之长忠万（裴成宇饰）、想要洗白过去而觊觎他人所有的妍希（全度妍饰），以及高利贷放贷者朴社长（郑满植饰）、因欠债而家庭破碎的美兰（申贤彬饰）、非法滞留者镇泰（郑家蓝饰）、一心为家人而活的英善（陈庆饰）、失忆的顺子（尹汝贞饰），所有身处困境的这些人，都将一个钱袋视为自己人生的最后机会，从而引发了一连串始料未及的事件。◎获奖情况第49届鹿特丹国际电影节(2020)老虎奖特别荣誉金容勋老虎奖(提名)金容勋",
@@ -17432,7 +17405,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200803/60307.html",
     date: "2020-08-0200:48:43",
     desc: "◎译名想哭的我戴上了猫的面具/想哭的我戴上了猫/无限◎片名泣きたい私は猫をかぶる/AWhiskerAway◎年代2020◎产地日本◎类别动画/奇幻◎语言日语◎字幕中文◎上映日期2020-06-18(日本/中国大陆网络)◎IMDb评分6.8/10from2778users◎豆",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名想哭的我戴上了猫的面具/想哭的我戴上了猫/无限◎片名泣きたい私は猫をかぶる/AWhiskerAway◎年代2020◎产地日本◎类别动画/奇幻◎语言日语◎字幕中文◎上映日期2020-06-18(日本/中国大陆网络)◎IMDb评分6.8/10from2778users◎豆瓣评分6.5/10from13,853users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.55GB◎片长104分钟◎导演佐藤顺一JunichiSato柴山智隆ShibayamaTomotaka◎编剧冈田麿里MariOkada◎主演志田未来MiraiShida花江夏树NatsukiHanae山寺宏一KôichiYamadera小木博明HiroakiOgi寿美菜子MinakoKotobuki小野贤章KenshoOno浪川大辅DaisukeNamikawa千叶进步SusumuChiba川澄绫子AyakoKawasumi大原沙耶香SayakaOhara◎标签日本动画电影|动漫|日本动画|二次元|日本|爱情|动画|2020◎简介绰号“无限”的少女美代（志田未来配音）从不掩饰对少年日之出（花江夏树配音）的好感，她在一次祭典上获得了可以变成猫的面具，并以此来接近日之出。随着交流的深入，美代越来越陷入作为猫与日之出接触的状态，并最终无法变回人类，而此时，日之出也发现了自己对于美代的感情，他发现真相后，展开了帮助美代从猫变回人类的冒险……",
@@ -17462,7 +17435,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200801/60303.html",
     date: "2020-08-0123:43:23",
     desc: "◎译名天呐，太棒了/哦耶，哦/是的，上帝，是的◎片名Yes,God,Yes◎年代2019◎产地美国◎类别剧情/青春/喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-03-08(西南偏南电影节)/2020-07-24(美国)◎IMDb评分5.8/10from1064users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名天呐，太棒了/哦耶，哦/是的，上帝，是的◎片名Yes,God,Yes◎年代2019◎产地美国◎类别剧情/青春/喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-03-08(西南偏南电影节)/2020-07-24(美国)◎IMDb评分5.8/10from1064users◎文件格式x264+aac◎视频尺寸1920x1036◎文件大小1.16GB◎片长78分钟◎导演KarenMaine◎编剧KarenMaine◎主演娜塔莉·戴尔NataliaDyer沃尔夫冈·诺沃格拉茨WolfgangNovogratz苏珊·布莱克威尔SusanBlackwell艾莉莎·博AlishaBoe唐娜·琳·钱普林DonnaLynneChamplin弗兰切丝卡·雷阿莱FrancescaReale蒂莫西·西蒙斯TimothySimonsChristianAdamMylesEvansGavrielleAnneFontanillaZacharyForsytheGabriellaGarciaRileyHoughPaigeHullettTre'lenJohnstonMattLewis◎标签青春|美国|喜剧|剧情|成长|2019|电影|美国电影◎简介故事发生在21世纪初，因为网络聊天的兴起，一个天主教学校的少女发现自己的性意识萌动，一方面要她要努力抑制自己的欲望怕被上帝惩罚，另一方面有些东西是控制不住的。",
@@ -17492,7 +17465,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200731/60302.html",
     date: "2020-07-3120:20:58",
     desc: "◎译名#活着/独行◎片名#Alive/#Saraitda/Alone◎年代2020◎产地韩国◎类别动作/惊悚/灾难◎语言韩语◎字幕中文◎上映日期2020-06-24(韩国)◎IMDb评分6.4/10from72users◎豆瓣评分5.8/10from23,795users◎文件格式x264+aac◎视频",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名#活着/独行◎片名#Alive/#Saraitda/Alone◎年代2020◎产地韩国◎类别动作/惊悚/灾难◎语言韩语◎字幕中文◎上映日期2020-06-24(韩国)◎IMDb评分6.4/10from72users◎豆瓣评分5.8/10from23,795users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.64GB◎片长98分钟◎导演赵一亨IlCho◎编剧赵一亨IlCho马特·奈勒MattNaylor◎主演刘亚仁Ah-inYoo朴信惠Shin-hyePark李铉旭Hyun-wookLee全裴修Bae-sooJeon吴惠媛Hye-wonOh李彩京Chae-kyungLee◎标签丧尸|灾难|韩国|韩国电影|刘亚仁|朴信惠|2020|剧情◎简介讲述突然被不明病毒感染，并失控扩散的城市中，被孤立的幸存者身上发生的故事。刘亚仁将在片中饰演因与世隔绝而幸存的游戏玩家俊宇一角，朴信惠饰演直面极端情况，寻找新的生存方式的幸存者宥彬一角。",
@@ -17522,7 +17495,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200731/60301.html",
     date: "2020-07-3120:16:45",
     desc: "◎译名亲吻亭2/亲亲小站2(港/台)/恋与接吻亭2/接吻亭2◎片名TheKissingBooth2◎年代2020◎产地英国,美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-07-24(美国)◎IMDb评分6.1/10from7198users◎豆瓣评分6.1/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名亲吻亭2/亲亲小站2(港/台)/恋与接吻亭2/接吻亭2◎片名TheKissingBooth2◎年代2020◎产地英国,美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-07-24(美国)◎IMDb评分6.1/10from7198users◎豆瓣评分6.1/10from1,000users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.21GB◎片长130分钟◎导演文斯·马塞洛VinceMarcello◎编剧文斯·马塞洛VinceMarcello杰伊·阿诺德JaySArnold贝丝·里克斯BethReekles◎主演乔伊·金JoeyKing乔尔·考特尼JoelCourtney雅各布·艾洛蒂JacobElordi莫利·林沃德MollyRingwald泰勒·扎卡·佩雷斯TaylorZakharPerez麦茜·理查森·塞勒斯MaisieRichardson-Sellers梅根·杨MeganneYoung史蒂芬·詹宁斯StephenJennings卡森·怀特CarsonWhite比安卡·博斯BiancaBosch卡米拉·沃尔夫森CamillaWolfson赞迪勒·伊赞迪·马达利瓦Zandile-IzandiMadliwa贾德·克罗克JuddKrok埃文·亨斯特EvanHengst约书亚·丹尼尔·伊迪JoshuaDanielEady弗朗西斯·肖托·道格拉斯FrancesSholto-Douglas莫尔纳·维瑟MorneVisserD·大卫·莫林D.DavidMorin凯文·奥托KevinOtto瓦尔德马尔·舒尔茨WaldemarSchultz凯·卢克·布鲁默KaiLukeBrummer◎标签青春|爱情|喜剧|NETFLIX|2020|美国|校园|成长◎简介艾儿·埃文斯（乔伊·金饰）刚刚和改过自新的坏男孩男友诺亚·弗林（雅各布·艾洛蒂饰）度过了她人生中最浪漫的一个夏天。但现在诺亚要去哈佛了，艾儿要回到高中开始自己的高三生活。她不得不进行一段异地恋，和她最好的朋友李（乔尔·考特尼饰）一起进入她梦寐以求的大学，而且她与英俊、有魅力的新同学马尔科（泰勒·佩雷斯饰）的亲密友谊也带来了一系列麻烦。当诺亚与一名看似完美的大学女孩（麦茜·理查森·塞勒斯饰）走得很近，艾儿不得不认清自己对他的信任程度，认清自己内心真正喜欢的人。",
@@ -17553,7 +17526,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200730/60297.html",
     date: "2020-07-3015:05:16",
     desc: "2020年惊悚动作《谍海危情》BD中英双字幕◎译名谍海危情/谎言的遗产◎片名LegacyofLies◎年代2020◎产地荷兰/英国/波兰/乌克兰/美国◎类别剧情/惊悚/犯罪/动作◎语言英语/乌克兰语/俄语◎字幕中英双字幕◎上映日期2020-07-28(美国)◎IMDb评",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "2020年惊悚动作《谍海危情》BD中英双字幕◎译名谍海危情/谎言的遗产◎片名LegacyofLies◎年代2020◎产地荷兰/英国/波兰/乌克兰/美国◎类别剧情/惊悚/犯罪/动作◎语言英语/乌克兰语/俄语◎字幕中英双字幕◎上映日期2020-07-28(美国)◎IMDb评分5.1/10from111users◎豆瓣评分5.9/10from223users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.68GB◎片长101分钟◎导演亚德里安·鲍尔AdBol◎编剧亚德里安·鲍尔AdBol◎主演斯科特·阿金斯ScottAdkins....MartinBaxter霍纳·妮芙茜HonorKneafsey....LisaAndreaVasiliou....SuzanneYuliiaSobol....Sacha安娜·芭特科薇奇AnnaButkevych....TatyanaTetianaNosenko....OlgaMattMitler....MarkRamleyVictorSolé....MaximMartinMcDougall....TrevorSamiKarim....HeadBouncerTomAshley....CIATechLeonSua....EdwardsSamanthaBruce....Amy(Skatergirl)MarcoRobinson....Burns◎标签斯科特阿金斯|谍战|动作|爽片|战术射击|2020◎简介阿金斯扮演一名前MI6情报局特工。已经退休的他发现自己在某一天中因不明原因又被卷入危机四伏的间谍网络中，而策划着惊天阴谋的秘密情报机构也在想方设法抹除他的存在。",
@@ -17583,7 +17556,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200730/60296.html",
     date: "2020-07-3015:02:23",
     desc: "2019年动作《热血街区电影版：极恶王》BD日语中字◎译名热血街区电影版：极恶王/热血街区电影版：鬼邪高vs凤仙◎片名HiGHLOWTHEWORST/HighLow:TheWorst◎年代2019◎产地日本◎类别剧情/动作◎语言日语◎字幕中文◎上映日期2019-10-04(日",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2338058302.jpg",
     link: "",
     summary:
       '2019年动作《热血街区电影版：极恶王》BD日语中字◎译名热血街区电影版：极恶王/热血街区电影版：鬼邪高vs凤仙◎片名HiGH&LOWTHEWORST/High&Low:TheWorst◎年代2019◎产地日本◎类别剧情/动作◎语言日语◎字幕中文◎上映日期2019-10-04(日本)◎IMDb评分8.9/10from70users◎豆瓣评分7.6/10from329users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.08GB◎片长124分钟◎导演久保茂昭ShigeakiKubo/大内贵仁◎编剧高桥洋HiroshiTakahashi◎主演川村一马KazumaKawamura前田公辉GôkiMaeda吉野北人HokutoYoshino佐藤流司RyujiSato神尾枫珠KamioFūju福山康平KôheiFukuhara龙Ryu铃木昂秀SuzukiTakahideうえきやサトシ中岛健NakajimaKen志尊淳JunShison盐野瑛久AkihisaShiono葵揚小柳心荒井敦史AtsushiArai坂口涼太郎RyotaroSakaguchi白洲迅JinShirasu中务裕太NakatsukaYuta小森隼KomoriHayato富田望生MiuTomita矢野圣人MasatoYano山田裕贵YûkiYamada铃木贵之TakayukiSuzuki一之濑亘WataruIchinose清原翔ShôKiyohara青木健KenAoki陈内将ShôJinnai市川知宏TomohiroIchikawa落合扶树MotokiOchiai箭内梦菜YumenaYanai佐藤大树TaikiSato佐藤宽太KantaSato塚本高史TakashiTsukamoto小泽仁志HitoshiOzawa◎标签热血街区|热血|日本电影|电影|动作|日本|山田裕贵|志尊淳◎简介SWORD地区的"O"，通称"漆黑的凶恶高中"鬼邪高校。那里分为定时制和全日制，定时制的番长·村山良树(山田裕贵饰)成为支撑着鬼邪高校的头。转学进入鬼邪高校的全日制新生，花冈枫士雄(川村壱马饰)，为了有朝一日能向村山挑战，下定决心夺取全日制的天下。全日制由实力上处于领先地位的轰（前田公辉饰）和芝（龙饰）、辻（铃木昂秀饰）轰一派、统领两年级的中越（神尾枫珠饰）和一年之隔的中冈（中岛健饰）率领的中冈一派、以残暴的战斗方式闻名的泰志（佐藤流司饰）、清史）率领的泰·清一派、和枫士雄曾经住在同一个地区的司（吉野北人）和其手下的果酱男（福山康平）统领的司一派等新一世代各个派迎来了争夺霸权的一大战国时代。在SWORD地区的邻镇·户亚留市，除了干部以外全员光头的最强军团，凤仙学园的势力在逐渐增强。在过去被誉为最强凤仙，以头目·上田佐智雄（志尊淳饰）为首，小田島有剑（盐野瑛久饰），泽村正次（葵扬饰），仁川英明（小柳心饰），志田健三（荒井敦史饰）的四个人组成的凤仙四大天王，干部沙巴干（坂口涼太郎饰）们，集齐了最强的阵容。这个时候，凤仙的学生突然遭到自称鬼邪高的人的袭击，同时鬼邪高的学生也遭到了自称凤仙的人的袭击。以同伴被袭击这一原因为契机，两校互相敌对，杀气腾腾。以枫士雄为首的个性派汇聚一堂，拥有压倒性力量的鬼邪高校，以佐智雄为首组织化的凤仙学园，在黄昏的河滩上相互碰撞的顶峰之间，决战拉开帷幕。',
@@ -17613,7 +17586,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200729/60290.html",
     date: "2020-07-2823:55:54",
     desc: "◎译名你好世界◎片名HELLOWORLD/ハローワールド◎年代2019◎产地日本◎类别剧情/爱情/科幻/动画◎语言日语◎字幕中文◎上映日期2019-09-20(日本)/2020(中国大陆)◎IMDb评分6.8/10from758users◎豆瓣评分7.4/10from8,166users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名你好世界◎片名HELLOWORLD/ハロー・ワールド◎年代2019◎产地日本◎类别剧情/爱情/科幻/动画◎语言日语◎字幕中文◎上映日期2019-09-20(日本)/2020(中国大陆)◎IMDb评分6.8/10from758users◎豆瓣评分7.4/10from8,166users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.62GB◎片长97分钟◎导演伊藤智彦TomohikoIto◎编剧野崎窗MadoNozaki◎主演北村匠海TakumiKitamura松坂桃李TôriMatsuzaka滨边美波MinamiHamabe子安武人TakehitoKoyasu寿美菜子MinakoKotobuki福原遥HarukaFukuhara钉宫理惠RieKugimiya◎标签动漫|日本动画|爱情|日本|动画|日本电影|科幻|剧场版◎简介在京都居住的内向男高中生直实（北村匠海配音）的面前，突然出现从10年后穿越而来26岁的自己（松坂桃李配音）。未来的直实告诉他，自己不久便会与琉璃（滨边美波配音）相爱，可是之后烟花大会时她却会因为一场事故意外离世。为了拯救爱人，16岁的直实卷入了这场现实与虚拟的记忆世界，经历了一系列超乎想象的事情。即使世界毁灭，我也想再见你一面。",
@@ -17643,7 +17616,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200728/60287.html",
     date: "2020-07-2700:35:01",
     desc: "◎译名租房惊魂/致命窥弑(台)/租赁◎片名TheRental◎年代2020◎产地美国◎类别惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-07-24(美国)◎IMDb评分5.8/10from1745users◎豆瓣评分5.2/10from222users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名租房惊魂/致命窥弑(台)/租赁◎片名TheRental◎年代2020◎产地美国◎类别惊悚/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-07-24(美国)◎IMDb评分5.8/10from1745users◎豆瓣评分5.2/10from222users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.47GB◎片长88分钟◎导演戴夫·弗兰科DaveFranco◎编剧戴夫·弗兰科DaveFranco乔·斯万博格JoeSwanberg/MikeDemski◎主演丹·史蒂文斯DanStevens爱丽森·布里AlisonBrie希拉·凡德SheilaVand杰瑞米·艾伦·怀特JeremyAllenWhite托比·哈斯TobyHussConnieWellmanChunk◎标签惊悚|美国|恐怖|2020|美国电影|戴夫·弗兰科|丹·史蒂文斯|DaveFranco◎简介两对夫妇搬入租来的度假屋中，诡异的事情却接连发生。",
@@ -17672,7 +17645,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200727/60286.html",
     date: "2020-07-2611:36:31",
     desc: "◎译名DoubleWorld◎片名征途◎年代2020◎产地中国大陆◎类别动作/奇幻/冒险◎语言普通话◎字幕中文◎上映日期2020-07-24(中国大陆)◎IMDb评分6.4/10from126users◎豆瓣评分5.6/10from7,654users◎文件格式x264+aac◎视频尺",
-    img: "",
+    img: "https://img2.doubanio.com/view/photo/l_ratio_poster/public/p2613925251.jpg",
     link: "",
     summary:
       "◎译名DoubleWorld◎片名征途◎年代2020◎产地中国大陆◎类别动作/奇幻/冒险◎语言普通话◎字幕中文◎上映日期2020-07-24(中国大陆)◎IMDb评分6.4/10from126users◎豆瓣评分5.6/10from7,654users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.03GB◎导演陈德森TeddyChan◎编剧刘奋斗FendouLiu文宁NingWen◎主演刘宪华HenryLau何润东PeterHo林辰涵ChenhanLin蒋璐霞LuxiaJiang罗仲谦ChungHimLaw胡明MingHu许明虎TigerXu郑浩南MarkCheng施诗ShiShi张宁江NingjiangZhang王延龙YanlongWang杜晓帆李熙瑜XiyuLi李熙蕾XileiLi◎标签Henry刘宪华|特效|刘宪华|游戏改编|华语电影|陈德森|大片|中国电影◎简介故事发生在虚构的中原大陆。十国之中，南赵国与北燕国比邻而居。为了防御日益强大的北燕，南赵举办比武大会，选拔将才。消息传到偏僻的清源村，村民东一龙想成为家族的举旗人，代表清源村家族出赛，村民们却质疑他的资格，经过一番努力，一龙终于踏上了与武士楚魂的征途……◎获奖情况第39届香港电影金像奖(2020)最佳动作设计(提名)董玮最佳视觉效果(提名)李帅/魏明/徐建",
@@ -17702,7 +17675,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200727/60285.html",
     date: "2020-07-2600:56:58",
     desc: "◎译名战争幽灵/战争中的鬼故事(台)◎片名GhostsofWar◎年代2020◎产地英国◎类别惊悚/恐怖/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-17(英国)◎IMDb评分5.3/10from750users◎豆瓣评分6.5/10from1,504users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名战争幽灵/战争中的鬼故事(台)◎片名GhostsofWar◎年代2020◎产地英国◎类别惊悚/恐怖/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-17(英国)◎IMDb评分5.3/10from750users◎豆瓣评分6.5/10from1,504users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.58GB◎片长95分钟◎导演埃里克·布雷斯EricBress◎编剧埃里克·布雷斯EricBress◎主演布伦顿·思韦茨BrentonThwaites西奥·罗西TheoRossi凯尔·加尔纳KyleGallner斯盖拉·阿斯丁SkylarAstin阿兰·里奇森AlanRitchson莱拉·班基LailaBanki内森·库珀NathanCooper丽贝卡·弗林·怀特RebeccaFlinn-White卡洛延·赫里斯托夫KaloyanHristov亚历山大·贝兰·凯什卡AlexanderBehrangKeshtkarShannonMcKain亚尼察·米哈伊洛娃YanitsaMihailova马修·瑞斯MatthewReese肖恩·托布ShaunToub比利·赞恩BillyZane◎标签恐怖|惊悚|科幻|灵异|2020|超自然|战争|美国◎简介故事以二战末期为背景，讲述五人美军小队奉命守护一座法国古堡。不料城堡除了残余的敌军，一股超自然的邪恶力量也正在蓄势待发。小队众人也面临着比战场上更加残酷的威胁。",
@@ -17732,7 +17705,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200726/60284.html",
     date: "2020-07-2600:53:26",
     desc: "◎译名正直的候选人/政客诚实中(台)/诚实选举妈(港)◎片名HonestCandidate◎年代2020◎产地韩国◎类别喜剧◎语言韩语◎字幕中文◎上映日期2020-02-12(韩国)◎IMDb评分6.3/10from147users◎豆瓣评分7.4/10from8,005users◎文件格式x2",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       '◎译名正直的候选人/政客诚实中(台)/诚实选举妈(港)◎片名HonestCandidate◎年代2020◎产地韩国◎类别喜剧◎语言韩语◎字幕中文◎上映日期2020-02-12(韩国)◎IMDb评分6.3/10from147users◎豆瓣评分7.4/10from8,005users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.74GB◎片长104分钟◎导演张幼珍Yu-jeongJang◎主演罗美兰Mi-ranRa金武烈Moo-yeolKim罗文姬Mun-heeNa尹敬浩Kyung-hoYoon宋永彰Young-changSong温宙完Ju-wanOn赵汉哲Han-chulJo孙钟学Jong-HakSon赵秀香Soo-hyangCho张东柱Dong-jooJang◎标签喜剧|韩国|罗美兰|豹子女士|韩国电影|罗文姬|政治|2020◎简介电影《正直的候选人》是一部讲述最容易说谎的3选国会议员"朱尚淑"(罗美兰饰)在选举前夕的某一天早晨突然无法说谎，而引发的左冲右突的喜剧。2019年凭借《我身体里的那个家伙》和《女警》的票房成为"喜剧不败演员"的罗美兰，通过《正直的候选人》变身在某一天突然成为了世界上最正直的政治家"朱相淑"回归。预计演员罗美兰将以特有的喜剧演技再次给观众带来真实的欢笑。',
@@ -17762,7 +17735,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200726/60283.html",
     date: "2020-07-2500:36:36",
     desc: "◎片名南方车站的聚会/野鹅塘/野鹅湖◎译名TheWildGooseLake◎年代2019◎产地中国大陆,法国◎类别剧情/犯罪◎语言武汉方言◎字幕中文◎上映日期2019-05-18(戛纳电影节)/2019-12-06(中国大陆)◎IMDb评分6.9/10from1,851users◎豆瓣评分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎片名南方车站的聚会/野鹅塘/野鹅湖◎译名TheWildGooseLake◎年代2019◎产地中国大陆,法国◎类别剧情/犯罪◎语言武汉方言◎字幕中文◎上映日期2019-05-18(戛纳电影节)/2019-12-06(中国大陆)◎IMDb评分6.9/10from1,851users◎豆瓣评分7.4/10from201,756users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.84GB◎片长113分钟◎导演刁亦男Yi'nanDiao◎编剧刁亦男Yi'nanDiao◎主演胡歌GeHu桂纶镁LunmeiGwei廖凡FanLiao万茜QianWan奇道DaoQi黄觉JueHuang曾美慧孜MeihuiziZeng张奕聪YicongZhang陈永忠YongzhongChen李志鹏刘畅常嘉豪常嘉壮陈子杰邱文洋WenyangQiu汤青松付小仙XiaoxianFu◎标签胡歌|犯罪|桂纶镁|刁亦男|值得一看|中国大陆|廖凡|2019◎简介南方某城市，重案队长刘队（廖凡饰）重金悬赏在逃罪犯周泽农（胡歌饰）。陪泳女刘爱爱（桂纶镁饰）、周泽农曾经的好友华华（奇道饰）、五年未见的妻子杨淑俊（万茜饰），各色人等各怀心事，相继被卷入这场罪与罚的追击旋涡。冒险与爱情，人性与救赎，这场特别的“聚会”该如何收场？善恶有道一念之间。中国导演刁亦男曾凭借前作《白日焰火》获第64届柏林国际电影节最佳影片金熊奖，凭本片入围第72届戛纳国际电影节主竞赛单元。◎获奖情况第72届戛纳电影节(2019)主竞赛单元金棕榈奖(提名)刁亦男",
@@ -17787,42 +17760,12 @@ const MOVIELIST = [
       "南方某城市，重案队长刘队（廖凡饰）重金悬赏在逃罪犯周泽农（胡歌饰）。陪泳女刘爱爱（桂纶镁饰）、周泽农曾经的好友华华（奇道饰）、五年未见的妻子杨淑俊（万茜饰），各色人等各怀心事，相继被卷入这场罪与罚的追击旋涡。冒险与爱情，人性与救赎，这场特别的“聚会”该如何收场？善恶有道一念之间。中国导演刁亦男曾凭借前作《白日焰火》获第64届柏林国际电影节最佳影片金熊奖，凭本片入围第72届戛纳国际电影节主竞赛单元。◎获奖情况第72届戛纳电影节(2019)主竞赛单元金棕榈奖(提名)刁亦男",
   },
   {
-    id: "2020072560282",
-    title: "2020年奇幻动作《征途》HD国语中英双字",
-    url: "https://www.dydytt.net/html/gndy/dyzz/20200725/60282.html",
-    date: "2020-07-2423:58:41",
-    desc: "◎译名DoubleWorld◎片名征途◎年代2020◎产地中国大陆◎类别动作/奇幻/冒险◎语言普通话◎字幕中英双字幕◎上映日期2020-07-24(中国大陆网络)◎IMDb评分8.8/10from5users◎文件格式x265+aac◎视频尺寸3840x1600◎文件大??.",
-    img: "",
-    link: "",
-    summary:
-      "◎译名DoubleWorld◎片名征途◎年代2020◎产地中国大陆◎类别动作/奇幻/冒险◎语言普通话◎字幕中英双字幕◎上映日期2020-07-24(中国大陆网络)◎IMDb评分8.8/10from5users◎文件格式x265+aac◎视频尺寸3840x1600◎文件大小3.52GB◎导演陈德森TeddyChan◎编剧刘奋斗FendouLiu文宁NingWen◎主演刘宪华HenryLau何润东PeterHo林辰涵ChenhanLin蒋璐霞LuxiaJiang罗仲谦ChungHimLaw胡明MingHu许明虎TigerXu郑浩南MarkCheng施诗ShiShi张宁江NingjiangZhang王延龙YanlongWang杜晓帆李熙瑜XiyuLi李熙蕾XileiLi◎标签Henry刘宪华|特效|刘宪华|游戏改编|华语电影|陈德森|大片|中国电影◎简介故事发生在虚构的中原大陆。十国之中，南赵国与北燕国比邻而居。为了防御日益强大的北燕，南赵举办比武大会，选拔将才。消息传到偏僻的清源村，村民东一龙想成为家族的举旗人，代表清源村家族出赛，村民们却质疑他的资格，经过一番努力，一龙终于踏上了与武士楚魂的征途……◎获奖情况第39届香港电影金像奖(2020)最佳动作设计(提名)董玮最佳视觉效果(提名)李帅/魏明/徐建",
-    imdb: "8.8",
-    douban: "",
-    category: "动作/奇幻/冒险",
-    translation: "DoubleWorld",
-    name: "征途",
-    year: "2020",
-    areas: "中国大陆",
-    language: "普通话",
-    caption: "中英双字幕",
-    release: "2020-07-24(中国大陆网络)",
-    time: "",
-    director: "陈德森TeddyChan",
-    writers: "刘奋斗FendouLiu文宁NingWen",
-    actor: "",
-    starring:
-      "刘宪华 Henry Lau　何润东 Peter Ho　林辰涵 Chenhan Lin　蒋璐霞 Luxia Jiang　罗仲谦 Chung Him Law　胡明 Ming Hu　许明虎 Tiger Xu　郑浩南 Mark Cheng　施诗 Shi Shi　张宁江 Ningjiang Zhang　王延龙 Yanlong Wang　杜晓帆　李熙瑜 Xiyu Li　李熙蕾 Xilei Li",
-    tag: "Henry刘宪华|特效|刘宪华|游戏改编|华语电影|陈德森|大片|中国电影",
-    introduction:
-      "故事发生在虚构的中原大陆。十国之中，南赵国与北燕国比邻而居。为了防御日益强大的北燕，南赵举办比武大会，选拔将才。消息传到偏僻的清源村，村民东一龙想成为家族的举旗人，代表清源村家族出赛，村民们却质疑他的资格，经过一番努力，一龙终于踏上了与武士楚魂的征途……◎获奖情况第39届香港电影金像奖(2020)最佳动作设计(提名)董玮最佳视觉效果(提名)李帅/魏明/徐建",
-  },
-  {
     id: "2020072460281",
     title: "2020年《狄仁杰探案之天煞孤鸾》HD国语中字",
     url: "https://www.dydytt.net/html/gndy/dyzz/20200724/60281.html",
     date: "2020-07-2423:56:07",
     desc: "◎片名狄仁杰探案之天煞孤鸾◎年代2020◎产地中国大陆◎类别动作/悬疑/奇幻◎语言普通话◎字幕中文◎上映日期2020-07-19(中国大陆)◎文件格式x265+aac◎视频尺寸1920x816◎文件大��2.15GB◎片长85分钟◎导演蓝志伟FrancisNamCh",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎片名狄仁杰探案之天煞孤鸾◎年代2020◎产地中国大陆◎类别动作/悬疑/奇幻◎语言普通话◎字幕中文◎上映日期2020-07-19(中国大陆)◎文件格式x265+aac◎视频尺寸1920x816◎文件大小2.15GB◎片长85分钟◎导演蓝志伟FrancisNamChi-Wai◎编剧虢爽ShuangGuo◎主演杜奕衡JohnDo赵芮菡RuihanZhao舒杨YangShu赵文卓ManCheukChiu◎标签悬疑|网络大电影|动作|推理|中国大陆|武侠|2020|奇幻◎简介影片讲述了一个离奇的“弑夫”案，大婚当日，新娘婚房内连杀四人后大喊着“不是我”冲出房间，接着举刀剖腹自尽。作案过程都被宾客们看在眼里，但他们却不约而同地将矛头指向了一个身形柔弱的少女，直指她才是幕后真凶。就连少女本人也自愿认罪伏法，透露自己是“天煞孤星”，专克亲近之人。无辜看客林间丧命、关键人物狱中惨死、神秘村庄尸野遍地，但凡和事情有一点关系的人，似乎都逃不开死亡的悲剧。一次次被切断的线索，仿佛预示着狄仁杰身处巨大险局之中，他会相信“灾星”一说吗？他能否走出迷局，揭开真相？随着调查深入，染血的惊世阴谋渐渐浮出水面……",
@@ -17852,7 +17795,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200724/60279.html",
     date: "2020-07-2301:00:59",
     desc: "◎译名棕榈泉◎片名PalmSprings◎年代2020◎产地美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-01-26(圣丹斯电影节)/2020-07-10(美国)◎IMDb评分7.5/10from22053users◎豆瓣评分6.6/10from2,506users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名棕榈泉◎片名PalmSprings◎年代2020◎产地美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-01-26(圣丹斯电影节)/2020-07-10(美国)◎IMDb评分7.5/10from22053users◎豆瓣评分6.6/10from2,506users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.49GB◎片长90分钟◎导演马克斯·巴尔巴科夫MaxBarbakow◎编剧安迪·塞拉AndySiara/马克斯·巴尔巴科夫MaxBarbakow◎主演安迪·萨姆伯格AndySamberg克里斯汀·米利欧缇CristinMilioti卡米拉·门德斯CamilaMendes泰勒·霍奇林TylerHoechlinJ·K·西蒙斯J.K.Simmons杰奎琳·奥拉德丝JacquelineObradors彼得·盖勒PeterGallagher戴尔·迪奇DaleDickey梅瑞迪斯·海格纳MeredithHagner琼·斯奎布JuneSquibb吴育刚ChrisPang莉莉·博塞尔LilliBirdsell康纳·欧麦利ConnerO'malley马克·库布尔MarkKubr汤加伊·基里萨TongayiChirisa大卫·哈奇森DavidHutchisonDavidReedErinFlannery◎标签喜剧|爱情|美国|2020|美国电影|电影|婚礼|圣丹斯◎简介讲述Sarah（CristinMilioti饰）在一场婚礼上认识Nyles（AndySamberg饰）后，晚上两人约会时女主因故而被吸入一个传送门，醒来后Sarah发现一直被困在婚礼当天。",
@@ -17882,7 +17825,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200723/60276.html",
     date: "2020-07-2200:39:36",
     desc: "◎译名跟随节拍跳起来/舞感青春(台)/节拍人生(港)◎片名FeeltheBeat◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-06-19(美国)◎IMDb评分6.3/10from4796users◎豆瓣评分6.4/10from270users◎文件格式x2",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名跟随节拍跳起来/舞感青春(台)/节拍人生(港)◎片名FeeltheBeat◎年代2020◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2020-06-19(美国)◎IMDb评分6.3/10from4796users◎豆瓣评分6.4/10from270users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.89GB◎片长107分钟◎导演艾丽莎·唐恩ElissaDown◎编剧MichaelArmbruster/古桑ShawnKu◎主演恩里克·克兰东尼EnricoColantoni索菲亚·卡尔森SofiaCarsonDennisAndres玛丽莎·贾里特·威诺克MarissaJaretWinokur沃尔夫冈·诺沃格拉茨WolfgangNovogratz乔安娜·科隆JohannaColón雷克斯·李RexLee唐娜·琳·钱普林DonnaLynneChamplin莉娅·朱厄特LidyaJewett希洛·尼尔森ShilohNelson马西娅·贝内特MarciaBennettDrewDavisBrandonKyleGoodmanAnikoKaszasShayleeMansfield◎标签歌舞|美国|Netflix|喜剧|2020|青春|温情|励志◎简介当才华横溢、以自我为中心的舞蹈演员艾珀耳（索菲亚·卡尔森）被驱逐出百老汇后，她不情愿地搬回了威斯康辛州的家乡小镇，与父亲（恩里克·克兰东尼饰）一起生活。艾珀耳竭尽全力避开她所在社区的每一个人，包括她的初恋尼克（沃尔夫冈·诺沃格拉茨饰），她不情愿地接受以前的舞蹈老师（唐娜·琳内·钱普林饰）的聘请，培训镇上一群问题颇多的年轻舞者。艾珀耳起初以为自己找到了回到百老汇的路，但现在她收获更多。《跟随节拍跳起来》是一封写给小镇的情书，是一部关于追逐梦想的温馨喜剧。",
@@ -17912,7 +17855,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200723/60275.html",
     date: "2020-07-2200:24:12",
     desc: "◎译名Rebuilding/SummerDetective◎片名平原上的夏洛克◎年代2019◎产地中国大陆◎类别剧情/喜剧/悬疑◎语言普通话◎字幕中文◎上映日期2019-07-22(FIRST青年影展)/2019-11-29(中国大陆)◎IMDb评分6.8/10from228users◎豆瓣评分7.",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名Rebuilding/SummerDetective◎片名平原上的夏洛克◎年代2019◎产地中国大陆◎类别剧情/喜剧/悬疑◎语言普通话◎字幕中文◎上映日期2019-07-22(FIRST青年影展)/2019-11-29(中国大陆)◎IMDb评分6.8/10from228users◎豆瓣评分7.9/10from97,766users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.57GB◎片长98分钟◎导演徐磊LeiXu◎编剧徐磊LeiXu◎主演徐朝英ChaoyingXu张占义宿树河◎标签农村|小人物|喜剧|剧情|中国|FIRST青年电影展|2019|中国大陆◎简介超英翻盖新房，占义、树河前来帮忙，没想到树河却因意外车祸入院，司机肇事逃逸，超英和占义化身“平原侦探”，踏上了一段令人啼笑皆非的荒诞追凶之旅。◎获奖情况第13届FIRST青年电影展(2019)竞赛最佳剧情长片(提名)徐磊竞赛最佳电影文本第6届豆瓣电影年度榜单(2019)评分最高的喜剧片(提名)",
@@ -17941,7 +17884,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200722/60274.html",
     date: "2020-07-2110:12:00",
     desc: "◎译名只有野兽/谜夜拼图(台)◎片名Seuleslesbtes/OnlytheAnimals◎年代2019◎产地法国,德国◎类别悬疑/惊悚/犯罪◎语言法语◎字幕中文◎上映日期2019-08-28(威尼斯电影节)◎IMDb评分7/10from744users◎豆瓣评分7.3/10from3,980",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名只有野兽/谜夜拼图(台)◎片名Seuleslesbêtes/OnlytheAnimals◎年代2019◎产地法国,德国◎类别悬疑/惊悚/犯罪◎语言法语◎字幕中文◎上映日期2019-08-28(威尼斯电影节)◎IMDb评分7/10from744users◎豆瓣评分7.3/10from3,980users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小GB◎片长116分钟◎导演多米尼克·摩尔DominikMoll◎编剧吉勒·马尚GillesMarchand多米尼克·摩尔DominikMollColinNiel◎主演德尼·梅诺谢DenisMénochet瓦莱丽亚·布鲁尼·泰德斯基ValeriaBruniTedeschi达米安·勃纳尔DamienBonnard劳尔·卡拉米LaureCalamy巴斯蒂安·布永BastienBouillonNadiaTereszkiewicz◎标签悬疑|法国|惊悚|剧情|法国电影|骗局|2019|东京电影节◎简介一场暴风雪覆盖了通往法国偏远小镇的道路，一台空车停在路边，车主却不知去向。当地警方来到了小镇农场主人米歇尔的家中问话，米歇尔却显不耐；女主人艾莉丝一面对失踪事件感到好奇，但同时她更挂念着她的保险客户约瑟夫。年轻貌美的服务生玛莉咏在餐厅邂逅了谜一般的伊芙琳，两人很快陷入热恋。虽然年龄差距和身份地位都阻挡她们在一起，但玛莉咏靠着伊芙琳留下的只字片语，花了好几天徒步走到伊芙琳的家门前。然而等待她的却不再是床上满口爱意的那个人。看似意外的小镇事故却如蝴蝶效应般影响着来自不同地方的人们，一个不宁静的夜晚意外串接起所有人心里最深层的秘密。◎获奖情况第76届威尼斯电影节(2019)欧洲电影联盟奖威尼斯日最佳影片(提名)多米尼克·摩尔第45届法国凯撒电影奖(2020)最佳女配角(提名)劳尔·卡拉米最佳改编剧本(提名)多米尼克·摩尔/吉勒·马尚第32届东京国际电影节(2019)主竞赛单元最佳影片(提名)多米尼克·摩尔主竞赛单元最佳女演员娜迪亚·特列什科维奇主竞赛单元观众奖多米尼克·摩尔",
@@ -17971,7 +17914,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200721/60271.html",
     date: "2020-07-2023:11:31",
     desc: "◎译名无声的抵抗/抵抗/无声救援(台)/无声的反抗◎片名Resistance◎年代2020◎产地法国,美国,德国,英国◎类别剧情/传记/历史/战争◎语言英语◎字幕中英双字幕◎上映日期2020-03-27(美国)◎IMDb评分6.1/10from1837users◎豆瓣评分6.7",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名无声的抵抗/抵抗/无声救援(台)/无声的反抗◎片名Resistance◎年代2020◎产地法国,美国,德国,英国◎类别剧情/传记/历史/战争◎语言英语◎字幕中英双字幕◎上映日期2020-03-27(美国)◎IMDb评分6.1/10from1837users◎豆瓣评分6.7/10from1,236users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2GB◎片长121分钟◎导演乔纳森·加库波维兹JonathanJakubowicz◎编剧乔纳森·加库波维兹JonathanJakubowicz◎主演杰西·艾森伯格JesseEisenberg艾德·哈里斯EdHarris克蕾曼丝·波西ClémencePoésy马提亚斯·施维赫夫MatthiasSchweighöfer埃德加·拉米雷兹ÉdgarRamírez费利克斯·莫阿蒂FélixMoati盖佐·罗赫里格GézaRöhrig卡尔·马克维斯KarlMarkovics维卡·克里克斯VicaKerekes贝拉·拉姆齐BellaRamsey艾丽西娅·冯·里特贝格AliciavonRittberg阿尔恩特·施韦林·索瑞ArndtSchwering-SohnreyPhilipLenkowskyAurélieBancilhonKarinaBeutheOrr◎标签二战|传记|战争|历史|杰西·艾森伯格|法国|2020|美国◎简介海莉·贝内特、马提亚斯·施维赫夫商谈加盟杰西·艾森伯格主演二战题材新片《抵抗》(Resistance)，聚焦传奇法国哑剧艺术家马塞尔·马索。《顽石之拳》导演JonathanJakubowicz执导并编写剧本，讲述马索的人生经历，以及在二战时期参与法国抵抗运动的故事。贝内特饰演艾玛，一位抵抗运动的斗争者，她在鼓舞马索与她一起拯救成千上万的孩子，并带领他们走出法国前往瑞士的过程中扮演了至关重要的角色。施维赫夫饰演臭名昭著的党卫军指挥官KlausBarbie，他被阿道夫·希特勒亲自指派去破坏抵抗运动，对马索和他的同伴们带到安全区域的孤儿们保有特别的憎恨。Marcel的长子BaptisteMarceau将担任执行制片人，熙颐影业购得中国发行权，秋季开拍。MarcelMarceau父亲来自斯特拉斯堡，是位犹太屠夫，在奥斯威辛集中营被杀害，因此他学习哑剧来求生，并帮助犹太孤儿们。Marceau最出名的角色是白脸小丑“毕普先生”，他的专业表演生涯长达60多年，于2007年逝世，享年84岁。",
@@ -18001,7 +17944,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200720/60269.html",
     date: "2020-07-1900:00:43",
     desc: "◎译名赌博默示录3/开司3：终极游戏/赌博默示录：FinalGame/赌博默示录：最终游戏/赌博默示录3：终极游戏◎片名カイジファイナルゲーム/カイジFinalGame◎年代2020◎产地日本◎类别剧情/悬疑◎语言日语◎字幕中文◎上映日期2020-01-10(日本)",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名赌博默示录3/开司3：终极游戏/赌博默示录：FinalGame/赌博默示录：最终游戏/赌博默示录3：终极游戏◎片名カイジファイナルゲーム/カイジFinalGame◎年代2020◎产地日本◎类别剧情/悬疑◎语言日语◎字幕中文◎上映日期2020-01-10(日本)◎IMDb评分3.7/10from82users◎豆瓣评分5.6/10from660users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.13GB◎片长128分钟◎导演佐藤东弥TôyaSatô◎编剧福本伸行NobuyukiFukumoto德永友一YuichiTokunaga◎主演藤原龙也TatsuyaFujiwara福士苍汰SôtaFukushi关水渚NagisaSekimizu新田真剑佑MackenyuArata吉田钢太郎KôtarôYoshida◎标签藤原龙也|日本|日本电影|真人漫改|悬疑|赌博|犯罪|烧脑◎简介由藤原龙也主演的《赌博默示录》真人电影将推出新篇《赌博默示录FinalGame》，2020年1月10日在日本上映，此次为原作者福本伸行带来的完全原创剧情。2020年，在东京奥运结束后，日本的景气突急速低迷，变成贫穷的弱者能轻易被击垮的社会。被派遣公司当成傻子，领微薄的薪水过着堕落生活的伊藤开司（藤原龙也饰），某天再次遇见了成为帝爱集团社长的大槻太郎，大槻告诉开司在某位有钱长者所举办的活动中，能够一获千金的机会…",
@@ -18032,7 +17975,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200718/60261.html",
     date: "2020-07-1701:28:17",
     desc: "◎译名不可抗拒/无法抗拒◎片名Irresistible◎年代2020◎产地美国◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-06-26(美国)◎IMDb评分6.2/10from3965users◎豆瓣评分7.3/10from285users◎文件格式x264+aac◎视频尺",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名不可抗拒/无法抗拒◎片名Irresistible◎年代2020◎产地美国◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2020-06-26(美国)◎IMDb评分6.2/10from3965users◎豆瓣评分7.3/10from285users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.91GB◎导演乔恩·斯图尔特JonStewart◎编剧乔恩·斯图尔特JonStewart◎主演史蒂夫·卡瑞尔SteveCarell罗丝·伯恩RoseByrne麦肯兹·戴维斯MackenzieDavis娜塔莎·雷昂NatashaLyonne克里斯·库珀ChrisCooper托弗·戈瑞斯TopherGrace黛博拉·梅辛DebraMessing威尔·萨索WillSasso布伦特·塞克斯顿BrentSexton伊芙·戈登EveGordon艾伦·艾森伯格AlanAisenberg杰森·戴维斯JasonDavisC·J·威尔逊C.J.Wilson查尔斯·格林CharlesGreen威廉·托卡斯基WilliamTokarsky帕蒂·舍尔哈斯PattiSchellhaasSteveBarnes皮特·布里斯PeteBurris埃莫·欧文斯AmorOwensRickYudtSashaMorfawAnnieCookJasonVendryes蕾丝·拉雷比LaceLarrabee罗伯特·廷斯利RobertTinsleyJenNikolaisenAndreaFrankle◎标签美国|喜剧|政治|2020|美国电影|乔恩·斯图尔特|SteveCarell|2020s◎简介故事讲述了一位老练的民主党战略家(卡瑞尔饰)在威斯康星州的一座右翼小镇，帮助一位退休的老将竞选市长。",
@@ -18062,7 +18005,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200718/60260.html",
     date: "2020-07-1700:25:29",
     desc: "◎译名宏观世界◎片名Cosmos◎年代2019◎产地英国◎类别科幻/悬疑/冒险◎语言英语◎字幕中英双字幕◎上映日期2019-11-07(英国)◎IMDb评分5.8/10from2509users◎豆瓣评分6.5/10from228users◎文件格式x264+aac◎视频尺寸1920",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名宏观世界◎片名Cosmos◎年代2019◎产地英国◎类别科幻/悬疑/冒险◎语言英语◎字幕中英双字幕◎上映日期2019-11-07(英国)◎IMDb评分5.8/10from2509users◎豆瓣评分6.5/10from228users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.14GB◎片长128分钟◎导演艾略特·威弗ElliotWeaver赞德·威弗ZanderWeaver◎编剧艾略特·威弗ElliotWeaver赞德·威弗ZanderWeaver◎主演ArjunSinghPanam约书亚·福特JoshuaFordTomEngland本·瓦尔迪BenVardyMikeColettaMarcBaylisSimonWorthington◎标签科幻|英国|独立|2019|悬疑|电影|星际|震撼人心◎简介只有他们能侦听到的太空的神秘声音？他们到底发现了什么？三位天文学家意外地截获了他们认为是来自遥远的外星文明的信号，但事实比他们任何人想象的都要不可思议。",
@@ -18092,7 +18035,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200716/60259.html",
     date: "2020-07-1623:30:54",
     desc: "◎译名机器生活◎片名LifeLike/LoveThyKeepers◎年代2019◎产地美国◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2019-05-14(美国)◎IMDb评分5.4/10from1270users◎豆瓣评分6.0/10from959users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名机器生活◎片名LifeLike/LoveThyKeepers◎年代2019◎产地美国◎类别科幻◎语言英语◎字幕中英双字幕◎上映日期2019-05-14(美国)◎IMDb评分5.4/10from1270users◎豆瓣评分6.0/10from959users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.58GB◎片长95分钟◎导演乔什·加诺维茨JoshJanowicz◎编剧乔什·加诺维茨JoshJanowicz◎主演艾狄森·蒂姆林AddisonTimlin詹姆斯·达西JamesD'Arcy史蒂文·斯崔特StevenStrait德鲁·凡·阿克尔DrewVanAcker马克·法姆吉列蒂MarkFamiglietti里桑·瓦伦丁LisannValentin埃朗·米歇尔·蒙汉EllenMichelleMonohan希拉里·巴拉福德HilaryBarraford尼古拉斯·巴迪NicholasBaroudi◎标签科幻|美国|同性|伦理|2019|主仆|剧情|人性◎简介一对理想主义的年轻夫妇获得了一个逼真得令人惊叹的机器人，机器人的帮助使他们无忧无虑，但随着他们日渐亲近，他们对人性的感知将会改变。",
@@ -18122,7 +18065,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200715/60253.html",
     date: "2020-07-1401:40:07",
     desc: "◎译名遗落家庭/家灵(台)◎片名Relic◎年代2020◎产地澳大利亚,美国◎类别剧情/恐怖/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-07-10(美国)◎IMDb评分6.1/10from2103users◎豆瓣评分5.4/10from842user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名遗落家庭/家灵(台)◎片名Relic◎年代2020◎产地澳大利亚,美国◎类别剧情/恐怖/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-07-10(美国)◎IMDb评分6.1/10from2103users◎豆瓣评分5.4/10from842users◎视频尺寸1920x1080◎文件大小1.49GB◎片长89分钟◎导演娜塔丽·艾瑞卡·詹姆斯NatalieErikaJames◎编剧娜塔丽·艾瑞卡·詹姆斯NatalieErikaJames克里斯蒂安·怀特ChristianWhite◎主演艾米莉·莫迪默EmilyMortimer贝拉·希思科特BellaHeathcote罗宾·奈文RobynNevinChrisBuntonSteveRodgersCatherineGlavicicJeremyStanfordChristinaO'NeillJohnBrowningRobinNorthover◎标签恐怖|惊悚|恐怖片|2020|美国|剧情|澳大利亚电影|美国电影◎简介影片由娜塔莉·埃里卡·詹姆斯执导故事讲述女儿，母亲和祖母被痴呆症困扰，这是一种消耗其家庭住房的表现。独居老人艾德娜失踪了，她的女儿凯伊和孙女小珊在接获警方通报后，急忙从墨尔本赶回乡间的祖厝。警方和当地居民组织了搜索队在树林裡展开搜寻，不料，艾德娜却突然自行返家，原以为只是阿兹海默症病况加剧，艾德娜完全记不起这些天到底去了哪裡或是经历过什麽事。平安返家的艾德娜却好像变了一个人，她的行径越来越古怪，甚至变得危险，不仅艾德娜感觉到屋裡有股神秘的力量在操控著她，就连凯伊和孙女小珊也逐渐迷失，这个「家」变得越来越暴戾……",
@@ -18153,7 +18096,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200715/60252.html",
     date: "2020-07-1421:30:22",
     desc: "◎译名谎话连篇2/嘘八百京町ロワイヤル/噓八百：京都篇◎片名嘘八百京町ロワイヤル◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-01-31(日本)◎IMDb评分4.9/10from15users◎豆瓣评分6.7/10from107users◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名谎话连篇2/嘘八百京町ロワイヤル/噓八百：京都篇◎片名嘘八百京町ロワイヤル◎年代2020◎产地日本◎类别喜剧◎语言日语◎字幕中文◎上映日期2020-01-31(日本)◎IMDb评分4.9/10from15users◎豆瓣评分6.7/10from107users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.99GB◎片长106分钟◎导演武正晴MasaharuTake◎编剧足立绅ShinAdachi◎主演中井贵一KiichiNakai佐佐木藏之介KuranosukeSasaki广末凉子RyokoHirosue友近森川葵山田裕貴坂田利夫前野朋哉木下邦家塚地武雅◎标签日本|广末凉子|中井贵一|喜剧|佐佐木藏之介|电影|日本电影|日影◎简介导演武正晴X编剧足立绅话题电影<嘘八百>将推出续集。故事依然围绕着古物商人和陶器家展开，故事主舞台从堺转到了京都，中井贵一继续搭档佐佐木藏之介，广末凉子参演。橘志野（广末凉子饰）想透过骨董商古董商小池则夫（中井贵一饰），找回因失智母亲被其他古董商诈骗遗失的16世纪茶碗「端欠」。小池则夫看着这位可怜貌美的女子，决定找来陶艺家好友野田佐辅（佐佐木藏之介饰）仿制茶碗并送给她。没想到，橘志野竟向两人发出邀约，请他们一起加入诈骗计划！？",
@@ -18183,7 +18126,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200713/60251.html",
     date: "2020-07-1321:28:20",
     desc: "◎译名第一头牛◎片名FirstCow◎年代2019◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2019-08-30(特柳赖德电影节)/2020-07-10(美国)◎IMDb评分7.1/10from536users◎豆瓣评分7.9/10from171users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名第一头牛◎片名FirstCow◎年代2019◎产地美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2019-08-30(特柳赖德电影节)/2020-07-10(美国)◎IMDb评分7.1/10from536users◎豆瓣评分7.9/10from171users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.28GB◎片长121分钟◎导演凯莉·雷查德KellyReichardt◎编剧乔纳森·雷蒙德JonathanRaymond凯莉·雷查德KellyReichardt◎主演约翰·马加罗JohnMagaro奥瑞恩·李OrionLee雷内·奥博诺伊斯ReneAuberjonois托比·琼斯TobyJones艾文·布莱纳EwenBremner斯科特·谢泼德ScottShepherd加利·法梅尔GaryFarmer莉莉·格莱斯顿LilyGladstone阿莉雅·肖卡特AliaShawkatJohnKeating戴兰·史密斯DylanSmithManuelRodriguez克雷顿·尼姆罗ClaytonNemrowJaredKasowski杰布·贝里耶JebBerrier托德·罗宾森ToddRobinson特德·鲁尼TedRooney◎标签美国|西部|凯莉·雷查德|2019|剧情|美国电影|西部片|KellyReichardt◎简介故事改编自乔纳森·雷蒙德的小说《半条命》，雷蒙德和导演雷查德共同改编，设定在1920s的俄勒冈，一个西方厨子Cookie(约翰·马加罗饰演)来到荒蛮的西部碰运气，遇到了同样前来寻找机会的中国移民KingLu(奥瑞恩·李饰演)，两人一见如故，并借着一头奶牛合伙做起了生意。◎获奖情况第70届柏林国际电影节(2020)金熊奖(提名)凯莉·雷查德",
@@ -18213,7 +18156,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200713/60248.html",
     date: "2020-07-1200:09:32",
     desc: "◎译名永生守卫/不死军团(港/台)/老卫兵◎片名TheOldGuard◎年代2020◎产地美国◎类别动作/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分6.7/10from14,143users◎豆瓣评分6.3/10from2,192users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名永生守卫/不死军团(港/台)/老卫兵◎片名TheOldGuard◎年代2020◎产地美国◎类别动作/奇幻◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分6.7/10from14,143users◎豆瓣评分6.3/10from2,192users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.35GB◎片长118分钟◎导演吉娜·普林斯-拜斯伍德GinaPrince-Bythewood◎编剧莱昂德罗·费尔南德斯LeandroFernandez格雷格·鲁卡GregRucka◎主演查理兹·塞隆CharlizeTheron琪琪·莱恩KiKiLayne切瓦特·埃加福ChiwetelEjiofor马提亚斯·修奈尔MatthiasSchoenaerts哈利·米尔林HarryMelling马尔万·肯扎里MarwanKenzari娜塔莎·卡拉姆NatachaKaram安娜玛丽亚·玛琳卡AnamariaMarinca吴青芸ThanhVanNgo乔伊·安沙JoeyAnsah卢卡·马里内利LucaMarinelliObieMatthew亚当·柯林斯AdamCollins通恰伊·古奈什TuncayGunes拉塞尔·巴洛格RussellBalogh豪尔赫·莱昂·马丁内斯JorgeLeonMartinez马汀·麦格MartynMayger吉尔·阿齐斯JilleAzis◎标签查理兹·塞隆|动作|Netflix|美国|奇幻|2020|漫改|美国电影◎简介一个名叫安迪（查理兹·塞隆饰）的战士领导了一个关系紧密的秘密雇佣兵团体，他们具有神秘的不死之身，为了保护凡人世界而战斗了几个世纪。但团队在受雇执行紧急任务时突然暴露了他们不寻常的能力，他们要依靠安迪和新加入的士兵奈尔（琪琪·莱恩饰），帮助团队消除那些不择手段要复制他们的能力并从中获利的人所带来的威胁。",
@@ -18243,7 +18186,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200713/60247.html",
     date: "2020-07-1200:07:09",
     desc: "◎译名前哨/72小时前哨救援(台)/前哨基地◎片名TheOutpost◎年代2020◎产地保加利亚,美国◎类别剧情/历史/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分6.6/10from2647users◎豆瓣评分6.9/10from1,379user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名前哨/72小时前哨救援(台)/前哨基地◎片名TheOutpost◎年代2020◎产地保加利亚,美国◎类别剧情/历史/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分6.6/10from2647users◎豆瓣评分6.9/10from1,379users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.05GB◎片长123分钟◎导演罗德·拉里RodLurie◎编剧埃瑞克·约翰逊EricJohnson保罗·塔马西PaulTamasy杰克·塔伯JakeTapper◎主演斯科特·伊斯特伍德ScottEastwood奥兰多·布鲁姆OrlandoBloom卡赖伯·兰德里·琼斯CalebLandryJones雅各布·西皮奥JacobScipio杰克·凯西JackKesy米洛·吉布森MiloGibson阿历克斯·阿诺AlexanderArnold塞莱娜·辛顿CelinaSinden泰勒·约翰·史密斯TaylorJohnSmith科里·哈德里克CoryHardrict巴比·洛克伍德BobbyLockwood威尔·阿滕伯勒WillAttenborough法希姆·法兹利FahimFazli詹姆斯·贾格尔JamesJagger科瓦米·帕特森KwamePatterson阿尔菲·斯图尔特AlfieStewart◎标签战争|阿富汗战争|真实事件改编|美国|美国电影|2020|电影|剧情◎简介斯科特·伊斯特伍德、卡赖伯·兰德里·琼斯、奥兰多·布鲁姆将主演MillenniumMedia打造的阿富汗战争题材影片[前哨](TheOutpost，暂译)。罗德·拉里执导影片，影片则根据CNN记者JakeTapper著作改编。影片故事将围绕53名美国士兵的真实故事展开，这些士兵与阿富汗东北部约400名敌方武装分子拉开持久的作战。他们所建造的前哨基地位于巴基斯坦边境仅14英里处的三处陡峭山脉底部。基地则面临塔利班恐怖分子的袭击。而驻扎在那里的士兵则面临着巨大威胁。片中斯科特·伊斯特伍德扮演克林特·罗马沙军士，卡赖伯·兰德里·琼斯扮演专业军士TyMichaelCarter，布鲁姆扮演的BenjaminD.Keating在阿富汗战争中不幸丧生。该片预计将在今年8月展开拍摄，影片也将在戛纳电影节寻找买家。",
@@ -18259,8 +18202,7 @@ const MOVIELIST = [
     release: "2020-07-03(美国)",
     time: "123",
     director: "罗德·拉里RodLurie",
-    writers:
-      "埃瑞克·约翰逊EricJohnson保罗·塔马西PaulTamasy杰克·塔伯JakeTapper",
+    writers: "埃瑞克·约翰逊EricJohnson保罗·塔马西PaulTamasy杰克·塔伯JakeTapper",
     actor: "",
     starring:
       "斯科特·伊斯特伍德 Scott Eastwood　奥兰多·布鲁姆 Orlando Bloom　卡赖伯·兰德里·琼斯 Caleb Landry Jones　雅各布·西皮奥 Jacob Scipio　杰克·凯西 Jack Kesy　米洛·吉布森 Milo Gibson　阿历克斯·阿诺 Alexander Arnold　塞莱娜·辛顿 Celina Sinden　泰勒·约翰·史密斯 Taylor John Smith　科里·哈德里克 Cory Hardrict　巴比·洛克伍德 Bobby Lockwood　威尔·阿滕伯勒 Will Attenborough　法希姆·法兹利 Fahim Fazli　詹姆斯·贾格尔 James Jagger　科瓦米·帕特森 Kwame Patterson　阿尔菲·斯图尔特 Alfie Stewart",
@@ -18274,7 +18216,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200711/60241.html",
     date: "2020-07-1114:52:56",
     desc: "◎译名灰猎犬号/怒海战舰(台)/灰狗/雷霆战舰：猎犬号(港)◎片名Greyhound◎年代2020◎产地美国◎类别剧情/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分7.5/10from583users◎豆瓣评分8.3/10from1,177users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名灰猎犬号/怒海战舰(台)/灰狗/雷霆战舰：猎犬号(港)◎片名Greyhound◎年代2020◎产地美国◎类别剧情/战争◎语言英语◎字幕中英双字幕◎上映日期2020-07-10(美国)◎IMDb评分7.5/10from583users◎豆瓣评分8.3/10from1,177users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.71GB◎片长91分钟◎导演阿龙·施奈德AaronSchneider◎编剧汤姆·汉克斯TomHanksC·S·福里斯特C.S.Forester◎主演汤姆·汉克斯TomHanks伊丽莎白·苏ElisabethShue斯蒂芬·格拉汉姆StephenGraham曼努埃尔·加西亚-鲁尔福ManuelGarcia-Rulfo卡尔·格洛斯曼KarlGlusman马克西米利安·奥辛斯基MaximilianOsinski李·诺里斯LeeNorris汤姆·布里特尼TomBrittney罗布·摩根RobMorgan格雷森·拉塞尔GraysonRussell戴文·德鲁伊DevinDruid戴夫·戴维斯DaveDavis迈克尔·本茨MichaelBenz马修·祖克MatthewZuk大卫·马尔登那多DavidMaldonado伊恩·詹姆斯·科里特IanJamesCorlett杰夫·阿德勒JeffAdlerB·马丁·威廉姆斯B.MartinWilliams凯莱布·J·塔格德CalebJ.Thaggard迈克尔·卡罗洛MichaelCarolloCraigTate◎标签二战|战争|海战|美国|Tom·Hanks|2020|美国电影◎简介影片讲述二战初期，由37支盟军船只组成的护航舰队在欧内斯特·克劳斯（汤姆·汉克斯饰）舰长率领的一艘美国驱逐舰指挥下，穿越险恶的北大西洋，同时还要与德国U型潜艇狼群的周旋。",
@@ -18304,7 +18246,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200711/60240.html",
     date: "2020-07-1114:51:10",
     desc: "◎译名史酷比狗/史酷比大电影◎片名Scooby-Doo/S.C.O.O.B◎年代2020◎产地美国◎类别喜剧/动画/悬疑/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-05-15(美国)◎IMDb评分5.7/10from10,655users◎豆瓣评分5.2/10from403user",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名史酷比狗/史酷比大电影◎片名Scooby-Doo/S.C.O.O.B◎年代2020◎产地美国◎类别喜剧/动画/悬疑/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-05-15(美国)◎IMDb评分5.7/10from10,655users◎豆瓣评分5.2/10from403users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.56GB◎导演托尼·塞沃恩TonyCervone◎编剧凯莉·弗莱蒙·克雷格KellyFremonCraig马特·利伯曼MattLieberman◎主演马克·沃尔伯格MarkWahlberg扎克·埃夫隆ZacEfron阿曼达·塞弗里德AmandaSeyfried麦肯娜·格瑞丝MckennaGrace詹森·艾萨克JasonIsaacs吉娜·罗德里格兹GinaRodriguez威尔·福特WillForte科雷西·克莱门斯KierseyClemons弗兰克·维尔克FrankWelker郑肯KenJeong伊恩·阿米蒂奇IainArmitage崔西·摩根TracyMorgan阿丽亚娜·格林布拉特ArianaGreenblatt皮尔斯·加格农PierceGagnon◎标签动画|美国|喜剧|2020|华纳|电影|经典|悬疑◎简介《史酷比狗》是史酷比狗的第一部大银幕动画冒险长片，讲述了史酷比不为人知的起源故事，以及神秘公司史上最精彩的惊世秘案。《史酷比狗》演绎了史酷比与其一生挚友夏奇的初次相遇，以及他们如何与少年侦探弗雷德、维尔玛和达芙妮一起组建了世界著名的神秘公司。如今，神秘公司已经解决了数百起谜案、进行了无数次冒险，但史酷比和他的同伴们发现，他们正面临有史以来最惊险、最具挑战性的神秘案件：一个将“幽灵狗”塞伯勒斯释放回世上的阴谋。当他们拼命努力想要阻止这一全球性大灾难之时，他们也发现了史酷比的秘密身世，以及他超乎想象的神秘命运。",
@@ -18334,7 +18276,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200711/60239.html",
     date: "2020-07-1101:07:38",
     desc: "◎译名莫斯科陷落2/末日异战(台)◎片名Вторжение/Invasion/Vtorzheniye/Притяжение2◎年代2020◎产地俄罗斯◎类别科幻/灾难◎语言俄语◎字幕中文◎上映日期2020-01-01(俄罗斯)◎IMDb评分5.5/10from1636users◎豆瓣评分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名莫斯科陷落2/末日异战(台)◎片名Вторжение/Invasion/Vtorzheniye/Притяжение2◎年代2020◎产地俄罗斯◎类别科幻/灾难◎语言俄语◎字幕中文◎上映日期2020-01-01(俄罗斯)◎IMDb评分5.5/10from1636users◎豆瓣评分5.7/10from1,503users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.22GB◎片长129分钟◎导演费奥多尔·邦达尔丘克FyodorBondarchuk◎编剧奥列格·马洛维奇克OlegMalovichko安德烈·佐洛塔廖夫AndreyZolotarev◎主演伊琳娜·斯达申鲍姆IrinaStarshenbaum林奈·穆罕默托夫RinalMukhametov亚历山大·佩特罗夫AlexanderPetrov尤利斯·鲍里索夫YuriyBorisov谢尔盖·加尔马什SergeyGarmash欧列格·缅希科夫OlegMenshikov◎标签科幻|俄罗斯|灾难|科幻片|莫斯科陷落2入侵|俄罗斯电影|2020|莫斯科◎简介自从一艘外星飞船在莫斯科切尔塔诺夫坠落以来已经过去了3年，普通女孩朱莉娅在接触到外星技术之后，成为国防部秘密实验室的研究对象。在研究过程中，朱莉娅表现出不同寻常的能力。隐藏在其中的力量不仅吸引了人类的注意，而且对宇宙的规模构成了威胁。",
@@ -18350,8 +18292,7 @@ const MOVIELIST = [
     release: "2020-01-01(俄罗斯)",
     time: "129",
     director: "费奥多尔·邦达尔丘克FyodorBondarchuk",
-    writers:
-      "奥列格·马洛维奇克OlegMalovichko安德烈·佐洛塔廖夫AndreyZolotarev",
+    writers: "奥列格·马洛维奇克OlegMalovichko安德烈·佐洛塔廖夫AndreyZolotarev",
     actor: "",
     starring:
       "伊琳娜·斯达申鲍姆 Irina Starshenbaum　林奈·穆罕默托夫 Rinal Mukhametov　亚历山大·佩特罗夫 Alexander Petrov　尤利斯·鲍里索夫 Yuriy Borisov　谢尔盖·加尔马什 Sergey Garmash　欧列格·缅希科夫 Oleg Menshikov",
@@ -18365,7 +18306,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200710/60235.html",
     date: "2020-07-0901:22:05",
     desc: "◎译名汉密尔顿/汉密尔顿音乐剧◎片名Hamilton◎年代2020◎产地美国◎类别歌舞/历史◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分9.0/10from16,339users◎豆瓣评分9.6/10from17,981users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2612429822.jpg",
     link: "",
     summary:
       "◎译名汉密尔顿/汉密尔顿音乐剧◎片名Hamilton◎年代2020◎产地美国◎类别歌舞/历史◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分9.0/10from16,339users◎豆瓣评分9.6/10from17,981users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.67GB◎片长160分钟◎导演托马斯·凯尔ThomasKail◎编剧林-曼努尔·米兰达Lin-ManuelMiranda罗恩·切尔诺夫RonChernow◎主演林-曼努尔·米兰达Lin-ManuelMiranda小莱斯利·奥多姆LeslieOdomJr.戴维德·迪格斯DaveedDiggs芮妮·戈兹贝里ReneeGoldsberry菲莉帕·苏PhillipaSoo乔纳森·格罗夫JonathanGroff克里斯·杰克逊ChrisJackson雅斯曼·塞斯·琼斯JasmineCephasJones奥基里特·奥诺多瓦OkierieteOnaodowan安东尼·拉莫斯AnthonyRamos卡利·贝蒂奥尔CarleighBettiol阿丽亚娜·德博斯ArianaDeBose霍普·伊斯特布鲁克HopeEasterbrook西德尼·詹姆斯·哈考特SydneyJamesHarcourt萨莎·赫金斯SashaHutchings伊弗雷姆·赛克斯EphraimSykes◎标签音乐剧|百老汇|美国|音乐|2020|历史|舞台剧|歌舞◎简介Lin-ManuelMiranda打造的经典百老汇音乐剧《汉密尔顿》在纽约理查德·罗杰斯剧场官录原卡现场",
@@ -18395,7 +18336,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200709/60231.html",
     date: "2020-07-0801:23:45",
     desc: "◎译名自杀房间2：仇恨者/仇恨之网(港)/仇恨网络/仇恨网路(台)◎片名Salasamobjcw.Hejter/SuicideRoom:TheHater◎年代2020◎产地波兰◎类别剧情/动画/惊悚◎语言波兰语◎字幕中英双字幕◎上映日期2020-03-06(波兰)◎IMDb评分7.0/10fr",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名自杀房间2：仇恨者/仇恨之网(港)/仇恨网络/仇恨网路(台)◎片名Salasamobójców.Hejter/SuicideRoom:TheHater◎年代2020◎产地波兰◎类别剧情/动画/惊悚◎语言波兰语◎字幕中英双字幕◎上映日期2020-03-06(波兰)◎IMDb评分7.0/10from906users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.25GB◎片长129分钟◎导演扬·科马萨JanKomasa◎编剧马特兹·帕斯维克兹MateuszPacewicz◎主演达努塔·斯腾卡DanutaStenka亚采克·科曼JacekKoman阿伽塔·库莱沙AgataKulesza马赛杰·斯图尔MaciejStuhr皮奥特·赛尔沃斯PiotrCyrwus马特兹·帕斯维克兹MateuszPacewicz茱莉亚·维尼瓦-纳基维奇JuliaWieniawa-Narkiewicz维斯瓦夫·科马萨WieslawKomasaMaciejMusialowskiVanessaAleksanderAdamGradowskiPiotrBiedronJedrzejWieleckiJanHrynkiewiczMartynikaKosnicaWiktoriaFilusIgaKrefftVietAnhDoSebastianSzalajKatarzynaBargielowskaNataliaJesionowskaAleksandraGórskaMichalJarmickiChrystallFriedemann◎标签剧情|波兰电影|波兰|惊悚|2020|自殺|成長|電影◎简介在一个有过共产主义历史的欧式社会中，文化精英和被剥夺选举权的年轻人都看到黑暗力量席卷欧洲。然后，有些人会从不可避免的冲突和随之而来的混乱中受益，例如失意的法律系学生托梅克（马切伊·穆夏洛夫斯基饰），他竭力要引起童年时代的朋友佳比（凡妮莎·亚历山大饰）的注意，获得她的进步家庭的尊重。为了给佳比留下深刻印象，托梅克在一家名声在外但罔顾道德的公关公司工作。他奉命在社交媒体上进行策划，很快发现自己擅长这种肮脏的政治游戏。但他的所作所为是要付出人性代价的。随着托梅克越陷越深，他的人性慢慢丧失，亦不知要如何收拾残局。",
@@ -18425,7 +18366,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200708/60228.html",
     date: "2020-07-0710:55:25",
     desc: "◎译名玩命三姐妹/拼命三姐妹/无理取闹/爱你爱到闹死你(港)/狂姝末路/狂姝陌路(台)◎片名Desperados◎年代2020◎产地美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分5.1/10from516users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名玩命三姐妹/拼命三姐妹/无理取闹/爱你爱到闹死你(港)/狂姝末路/狂姝陌路(台)◎片名Desperados◎年代2020◎产地美国◎类别喜剧/爱情◎语言英语◎字幕中英双字幕◎上映日期2020-07-03(美国)◎IMDb评分5.1/10from516users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.77GB◎导演劳伦·帕尔米贾诺LaurenPalmigiano◎编剧EllenRapoport◎主演纳西姆·帕杜雷德NasimPedrad海瑟·格拉汉姆HeatherGraham罗比·阿美尔RobbieAmell安娜·坎普AnnaCamp拉蒙尼·莫里斯LamorneMorris莎拉·伯恩斯SarahBurns杰西卡·查芬JessicaChaffinIzzyDiaz莫·加夫尼MoGaffneyBryanSafi乔治·巴兹尔GeorgeBasilAllanMcLeodNiccoleThurman薇薇安·叶ViviAnnYeeScottRodgers◎标签2020|美国|喜剧|Netflix|美国电影|电影|纳西姆·帕杜雷德|海瑟·格拉汉姆◎简介故事讲述一名惊慌失措的年轻女子和她的两名挚友千里迢迢飞到墨西哥，想要删掉当初在盛怒之下传给新男友的一封电邮。谁知她在抵达后竟巧遇前男友，他也因此被卷入这场疯狂计划！",
@@ -18456,7 +18397,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200708/60227.html",
     date: "2020-07-0702:26:14",
     desc: "◎译名狼嚎/潜航核战(港)/潜舰追缉(台)/狼之歌◎片名LeChantduloup/TheSongoftheWolf/TheWolf'sCall◎年代2019◎产地法国◎类别战争/科幻/灾难◎语言法语◎字幕中文◎上映日期2019-02-20(法国)◎IMDb评分6.9/10from11,396users◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名狼嚎/潜航核战(港)/潜舰追缉(台)/狼之歌◎片名LeChantduloup/TheSongoftheWolf/TheWolf'sCall◎年代2019◎产地法国◎类别战争/科幻/灾难◎语言法语◎字幕中文◎上映日期2019-02-20(法国)◎IMDb评分6.9/10from11,396users◎豆瓣评分7.2/10from6,788users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.92GB◎片长116分钟◎导演阿贝尔·安扎克AbelLanzac◎编剧阿贝尔·安扎克AbelLanzac◎主演弗朗索瓦·西维尔FrançoisCivil奥玛·希OmarSy马修·卡索维茨MathieuKassovitz勒达·卡代布RedaKateb葆拉·贝尔PaulaBeer亚力克西斯·马沙利克Alexis·Michalik让-伊夫·贝特鲁Jean-YvesBerteloot达米安·勃纳尔DamienBonnard◎标签战争|潜艇|法国|军事|2019|灾难|剧情|科幻◎简介一个年轻人有一种罕见的礼物，可以识别他听到的每一个声音。在一艘法国核潜艇上，一切都依赖于他，金耳朵。看上去绝对可靠，他犯了一个错误，让船员处于死亡的危险之中。他希望重新获得同志的信任，但他的追求会让他们陷入更加戏剧化的境地。在核威慑和错误信息的世界中，他们发现自己被困在一个无法控制的装备中。◎获奖情况第45届法国凯撒电影奖(2020)最佳处女作(提名)AntoninBaudry最佳音效最佳布景(提名)",
@@ -18486,7 +18427,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200705/60217.html",
     date: "2020-07-0523:33:51",
     desc: "◎译名侧颜/侧脸/失踪女孩(港)◎片名よこがお/AGirlMissing◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-07-26(日本)◎豆瓣评分7.0/10from925users◎文件格式x264+aac◎视频尺寸1794x1080◎文件大��1.92",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名侧颜/侧脸/失踪女孩(港)◎片名よこがお/AGirlMissing◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-07-26(日本)◎豆瓣评分7.0/10from925users◎文件格式x264+aac◎视频尺寸1794x1080◎文件大小1.92GB◎片长111分钟◎导演深田晃司KojiFukada◎编剧深田晃司KojiFukada◎主演筒井真理子MarikoTsutsui市川实日子MikakoIchikawa池松壮亮SosukeIkematsu須藤蓮小川未祐MiyuOgawa吹越满MitsuruFukikoshi◎标签日本|深田晃司|2019|日本电影|剧情|池松壮亮|市川实日子|筒井真理子◎简介深受身边人信赖的护士市子，在大石家为老人大石塔子提供临终看护服务时，无端卷入大石家女儿沙纪的失踪事件。在扭曲的真相与意外的背叛下，市子的幸福世界瞬间崩塌，顿失工作与婚姻。为了报复，市子化身Lisa，并刻意接近发型师和道，究竟在市子的心底隐藏了怎样的复仇计划？◎获奖情况第72届洛迦诺国际电影节(2019)金豹奖(提名)深田晃司",
@@ -18516,7 +18457,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200705/60216.html",
     date: "2020-07-0523:30:09",
     desc: "◎译名异界/昏迷◎片名Кома/Koma/TheComa◎年代2020◎产地俄罗斯◎类别科幻◎语言俄语◎字幕中文◎上映日期2020-01-30(俄罗斯)◎IMDb评分6.5/10from2173users◎豆瓣评分6.3/10from13,741users◎文件格式x264+aac◎视频尺寸1",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名异界/昏迷◎片名Кома/Koma/TheComa◎年代2020◎产地俄罗斯◎类别科幻◎语言俄语◎字幕中文◎上映日期2020-01-30(俄罗斯)◎IMDb评分6.5/10from2173users◎豆瓣评分6.3/10from13,741users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.84GB◎片长111分钟◎导演尼基塔·阿格诺夫NikitaArgunov◎编剧尼基塔·阿格诺夫NikitaArgunov提莫非·邓肯TimofeiDekin阿莱克西·克莱福科维奇AlekseyGravitskiy◎主演林奈·穆罕默托夫RinalMukhametov柳波芙·阿克肖诺娃LyubovAksyonova安东·庞布施尼AntonPampushnyy米洛斯·比柯维奇MilosBikovic康斯坦丁·拉夫罗年科KonstantinLavronenko阿列克谢·谢列布里亚科夫AlekseySerebryakov维伦·巴比切夫VilenBabichevPolinaKuzminskaya◎标签科幻|俄罗斯|科幻片|科幻奇幻|俄罗斯电影|悬疑|惊悚|2019◎简介在一场巨大而神秘的事故之后，一位年轻有才华的建筑师在一个与现实世界相似的奇异世界里苏醒，这个世界建立在这里人民的记忆之上，而这些人则处于深度昏迷之中。由于这些人的记忆力参差不齐、混乱、不稳定，导致奇怪的记忆和回忆——城市、冰川、河流可以共存在一个房间里，所有的物理定律都可以被打破，建筑师必须找到他们昏迷的具体规律，才能找到通往现实世界的出口。就在他与命运抗争的同时遇到了真爱，而经历此次昏迷之后，他发现自己不得不重新认识这个世界……",
@@ -18547,7 +18488,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200705/60215.html",
     date: "2020-07-0523:27:46",
     desc: "◎译名LongTimeNoSee,Wuhan◎片名好久不见，武汉◎年代2020◎产地日本,中国大陆◎类别纪录片◎语言汉语普通话,日语◎字幕中文◎上映日期2020-06-26(中国大陆)◎豆瓣评分8.3/10from7,872users◎文件格式x264+aac◎视频尺寸1920x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名LongTimeNoSee,Wuhan◎片名好久不见，武汉◎年代2020◎产地日本,中国大陆◎类别纪录片◎语言汉语普通话,日语◎字幕中文◎上映日期2020-06-26(中国大陆)◎豆瓣评分8.3/10from7,872users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.21GB◎片长61分钟◎导演竹内亮TakeuchiRyo◎标签纪录片|武汉|竹内亮|2020|Covid-19|日本|中国|中国大陆◎简介“武汉太危险，最好你不要去”“是不是现在还有很多隐瞒的感染者？”我的日本朋友对武汉有很多偏见。我是作为住在中国的外国人，作为纪录片的导演，特别想去拍武汉，想给全世界介绍真实的武汉。于是我在微博上募集了可以接受我们拍摄的武汉人，然后一百多个人报名了，最后我们选择了十个人的故事。希望通过这部作品让更多的人了解现在的武汉。——摘自导演微博",
@@ -18576,7 +18517,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200704/60200.html",
     date: "2020-07-0302:06:21",
     desc: "◎译名气候变化：事实真相◎片名ClimateChange:TheFacts◎年代2019◎产地英国◎类别纪录片◎语言英语◎上映日期2019-04-18(英国)◎IMDb评分7.7/10from432users◎豆瓣评分7.9/10from211users◎字幕中英双字幕◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名气候变化：事实真相◎片名ClimateChange:TheFacts◎年代2019◎产地英国◎类别纪录片◎语言英语◎上映日期2019-04-18(英国)◎IMDb评分7.7/10from432users◎豆瓣评分7.9/10from211users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小GB◎片长60分钟◎导演塞雷娜·戴维斯SerenaDavies◎编剧塞雷娜·戴维斯SerenaDavies◎主演戴维·阿滕伯勒DavidAttenboroughGretaThunbergMichaelE.MannSunitaNarainJamesHansenMarkMaslinNaomiOreskesCatherineMitchellColettePichonBattlePeterStottTimLentonRichardLazarusRichardBlackRebeccaKollerBergurSigfússon◎标签纪录片|BBC|英国|环境|气候|2019|自然|Documentary◎简介SirDavidAttenboroughistopresentandnarrateanewlandmarkfilm,ClimateChange:TheFactsforBBCOne.Thedocumentarywillprovideanurgentlookatthescienceofclimatechangeandthepotentialsolutionstothisglobalthreat,combiningfootagethatrevealsthealreadydevastatingimpactofclimatechangeonourplanetwithinterviewsfromsomeoftheworld’sleadingclimatescientists.Afteroneofthehottestyearsonrecord,climatologistsandmeteorologistsexplaintheeffectsofclimatechangeonboththehumanpopulationandthenaturalworld.Scientists,includingDrJamesHansen,DrMichaelMannandProfessorCatherineMitchellwillforensicallyunpackthesciencebehindtheextremeweatherconditionsofrecentyears,whichhaveseenunprecedentedstormsandcatastrophicwildfires;aswellasdetailinghowtheacceleratingrateatwhichtheworld’siceismeltingiscausingsealevelrises,andhowdeforestationisexacerbatingtheproblemofglobalwarmingbyaddingtoCO2intheatmosphere.Thefilmwilldeliveranunflinchingexplorationofwhatdangerouslevelsofclimatechangecouldmeanforhumanpopulations,whatislikelytohappenifglobalwarmingexceeds1.5degreesandifmajorreductionsinCO2emissionsarenotmadeinthenextdecade.Thedocumentarylookstooatpotentialsolutions,exploringtheinnovations,technologyandactionstheworld'sgovernmentsandindustriesaretakingtopreventfurtherwarmingandshowcasingindividualswhoarecreatingchangeatgrassrootslevels.Inthefilm,SirDavidAttenboroughsays:\"Inthe20yearssinceIfirststartedtalkingabouttheimpactofclimatechangeonourworld,conditionshavechangedfarfasterthanIeverimagined.Itmaysoundfrighteningbutthescientificevidenceisthatifwehavenottakendramaticactionwithinthenextdecadewecouldfaceirreversibledamagetothenaturalworldandthecollapseofoursocieties.We'rerunningoutoftimebutthere'sstillhope…Ibelievethatifwebetterunderstandthethreatweface,themorelikelyitisthatwecanavoidsuchacatastrophicfuture.”",
@@ -18606,7 +18547,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200703/60195.html",
     date: "2020-07-0202:35:41",
     desc: "◎译名找到你了/我看见你了/搞鬼(台)◎片名ISeeYou◎年代2019◎产地美国◎类别剧情/恐怖/犯罪/惊悚◎语言英语◎字幕中英双字幕◎上映日期2019-12-06(美国)◎IMDb评分6.8/10from15532users◎豆瓣评分6.6/10from5,612users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名找到你了/我看见你了/搞鬼(台)◎片名ISeeYou◎年代2019◎产地美国◎类别剧情/恐怖/犯罪/惊悚◎语言英语◎字幕中英双字幕◎上映日期2019-12-06(美国)◎IMDb评分6.8/10from15532users◎豆瓣评分6.6/10from5,612users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.62GB◎片长96分钟◎导演亚当·兰道AdamRandall◎编剧德文·格拉耶DevonGraye◎主演海伦·亨特HelenHunt乔恩·坦尼JonTenney犹大·刘易斯JudahLewis欧文·泰格OwenTeague莉碧·巴勒尔LibeBarer妮可·福斯特NicoleForester埃里卡·亚历山大ErikaAlexander阿利森·金AllisonKing山姆·特拉梅尔SamTrammellBrooksRoseberryAdamKern◎标签悬疑|惊悚|犯罪|美国|恐怖|恐怖/惊悚|2019|美国电影◎简介一位儿童诱拐调查员忍受着妻子出轨的痛苦，妻子也因内疚逐渐变得情绪失常。邪恶之力渐渐入侵他们的家庭，两人的儿子也因此陷入了致命危险当中……",
@@ -18636,7 +18577,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200703/60194.html",
     date: "2020-07-0202:33:21",
     desc: "◎译名追猎◎片名RunwiththeHunted◎年代2019◎产地美国◎类别剧情/犯罪◎语言英语◎字幕中英双字幕◎上映日期2019-10-03(伍德斯托克电影节)/2020-06-26(美国)◎IMDb评分5/10from181users◎文件格式x264+aac◎视频尺寸1920x108",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名追猎◎片名RunwiththeHunted◎年代2019◎产地美国◎类别剧情/犯罪◎语言英语◎字幕中英双字幕◎上映日期2019-10-03(伍德斯托克电影节)/2020-06-26(美国)◎IMDb评分5/10from181users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.54GB◎片长93分钟◎导演JohnSwab◎编剧JohnSwab◎主演迈克尔·皮特MichaelPitt朗·普尔曼RonPerlman威廉·弗西斯WilliamForsythe小马克·布恩MarkBooneJunior德丽·海明威DreeHemingway凯莱·罗杰斯KylieRogers布拉德·卡特BradCarter蕾妮·威利特RenéeWillett达里尔·考克斯DarrylCoxSlaineGoreAbramsSamQuartinMykleMcCoslinMathewGreer◎标签犯罪|剧情|迈克尔·皮特|美国电影|美国|朗·普尔曼|2019|2020◎简介故事讲述一个小男孩为了救他最好的朋友，犯下了一桩谋杀案，他被迫离开家乡，离开了她。15年后，他忘记了自己的过去，转而加入了当地的一个帮派。当他最好的朋友搬到城市，做起了私人侦探的工作后，她偶然发现他的失踪报告，并决定去寻找那个救了她一命的男孩。",
@@ -18666,7 +18607,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200630/60183.html",
     date: "2020-06-3023:10:12",
     desc: "◎译名无限接近/外太空神秘信号/外星人绑架◎片名Proximity◎年代2020◎产地美国◎类别剧情/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-05-15(美国)◎IMDb评分4.5/10from913users◎豆瓣评分4.4/10from159users◎文件格式x264+",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名无限接近/外太空神秘信号/外星人绑架◎片名Proximity◎年代2020◎产地美国◎类别剧情/科幻◎语言英语◎字幕中英双字幕◎上映日期2020-05-15(美国)◎IMDb评分4.5/10from913users◎豆瓣评分4.4/10from159users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.95GB◎片长119分钟◎导演EricDemeusy◎编剧EricDemeusy/JasonMitcheltree◎主演RyanMassonHighdeeKuanChristianPrenticeShawJonesDonScribnerChristopherMurraySarahNavratilKylieContrearyPamelaHolt杰夫·戴维斯JeffDavis达林·库珀DarinCooperJeremyLawson丹·华纳DanWarnerJordanTortorelloAnthonyBradfordBlaineGrayJosephButtler马克·利文古德MarcLivingood◎简介伊萨克是一位为美国宇航局工作的年轻科学家，他通过工作中的一颗卫星意外地接收到来自太空的神秘信号，从而解决了日常生活中的困难。当他开始调查坠机地点时，他的整个世界都颠倒了——他被外星人绑架了。他发现他的相机就在他旁边，意识到他把整件事都录下来了。现在唯一的问题是当他试图告诉他最亲近的人，他们不相信他。",
@@ -18696,7 +18637,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200630/60182.html",
     date: "2020-06-3023:03:12",
     desc: "◎译名一夜/那一夜：母亲是杀人犯(港)/那一夜(台)◎片名ひとよ/OverNight◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-10-30(东京电影节)/2019-11-08(日本)◎IMDb评分4.8/10from88users◎豆瓣评分7.3/10from18",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名一夜/那一夜：母亲是杀人犯(港)/那一夜(台)◎片名ひとよ/OverNight◎年代2019◎产地日本◎类别剧情◎语言日语◎字幕中文◎上映日期2019-10-30(东京电影节)/2019-11-08(日本)◎IMDb评分4.8/10from88users◎豆瓣评分7.3/10from180users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.05GB◎片长123分钟◎导演白石和弥KazuyaShiraishi◎编剧高桥泉IzumiTakahashi◎主演佐藤健TakeruSatô铃木亮平RyoheiSuzuki松冈茉优MayuMatsuoka田中裕子YûkoTanaka◎标签日本|佐藤健|日本电影|2019|松冈茉优|家庭|松岡茉優|剧情◎简介十五年前，稻村家的母亲（田中裕子饰）为了三个子女的幸福将来，狠心杀死总是借酒施暴的一家之主，那一夜，一家人的命运从此被改变，兄妹三人从此走上截然不同的人生。次男雄二（佐藤健饰），事件之后远赴东京，一心追逐记者梦，却也只能在杂志社打工勉强糊口。从小就因为口吃而不擅与人沟通的长子大树（铃木亮平饰），目前与妻子分居、争夺女儿的监护权中。因为被粘贴「杀人犯女儿」的标签，不得不放弃成为美发师的梦想，而在酒吧打工的妹妹园子（松冈茉优饰）。十五年后，母亲刑满依约回到老家，想要修补彼此崩坏的关系，当年的事件内幕却在此时登上八卦杂志…家人的羁绊到底有多深，足以克服一连串的谎言与背叛吗？",
@@ -18726,7 +18667,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200629/60177.html",
     date: "2020-06-2801:18:42",
     desc: "◎译名乳牙/谢谢你爱过我(台)◎片名Babyteeth◎年代2019◎产地澳大利亚◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-09-04(威尼斯电影节)/2020-06-19(美国)◎IMDb评分6.9/10from1557users◎豆瓣评分7.1/10from1,255us",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名乳牙/谢谢你爱过我(台)◎片名Babyteeth◎年代2019◎产地澳大利亚◎类别剧情/喜剧◎语言英语◎字幕中英双字幕◎上映日期2019-09-04(威尼斯电影节)/2020-06-19(美国)◎IMDb评分6.9/10from1557users◎豆瓣评分7.1/10from1,255users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.96GB◎片长120分钟◎导演香农·墨菲ShannonMurphy◎编剧丽塔·卡内贾斯RitaKalnejais◎主演本·门德尔森BenMendelsohn伊莱扎·斯坎伦ElizaScanlen埃茜·戴维斯EssieDavis米歇尔·洛特斯MichelleLotters托比·华莱士TobyWallaceSoraWakaki蕾妮·比尔ReneeBilling扎克·格里奇ZackGrech乔治娜·西梅斯GeorginaSymes艾米丽·巴克雷EmilyBarclay尤金·吉尔福德EugeneGilfedderEdwardLau查尔斯·格朗斯CharlesGrounds杰克·雅布斯利JackYabsley安德里亚·德梅特里亚德斯AndreaDemetriades贾斯汀·史密斯JustinSmith◎标签澳大利亚|青春|家庭|剧情|2019|喜剧|爱情|文艺◎简介一对夫妻发现重病的青春期女儿米拉爱上了一个毒贩，二人的关系成为了夫妻俩的噩梦。而濒临死亡的米拉却对生活产生了新的渴望，传统的道德观念也被抛到脑后。米拉向她身边的每个人展示了如何一无所有地生活。这对一个家庭来说，原本可能是一场灾难，但最终却让他们在生活的混乱中找到了平静。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)香农·墨菲马塞洛·马斯托依安尼奖（新锐演员奖）托比·华莱士第3届平遥国际电影展(2019)首映单元最受欢迎影片香农·墨菲",
@@ -18756,7 +18697,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200629/60176.html",
     date: "2020-06-2801:13:23",
     desc: "◎译名午夜0时的吻/KissMeattheStrokeofMidnight◎片名午前0時、キスしに来てよ◎年代2019◎产地日本◎类别爱情◎语言日语◎字幕中文◎上映日期2019-12-06(日本)◎IMDb评分5.8/10from18users◎豆瓣评分5.3/10from6,007users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名午夜0时的吻/KissMeattheStrokeofMidnight◎片名午前0時、キスしに来てよ◎年代2019◎产地日本◎类别爱情◎语言日语◎字幕中文◎上映日期2019-12-06(日本)◎IMDb评分5.8/10from18users◎豆瓣评分5.3/10from6,007users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.87GB◎片长115分钟◎导演新城毅彦TakehikoShinjo◎编剧大北遥HarukaOkita/RinMikimoto◎主演片寄凉太KatayoseRyota桥本环奈KannaHashimoto真荣田乡敦GoudonMaeda八木亚里纱ArisaYagi冈崎纱绘SaeOkazaki铃木胜大KatsuhikoSuzuki酒井若菜WakanaSakai远藤宪一Ken'ichiEndôTakumaUsaRihitoNodaAlissaYagi◎标签桥本环奈|片寄凉太|少女心|片寄涼太|爱情|日本电影|日本|漫画改编◎简介该片讲述了普通女高中生日奈奈认识了来学校拍摄电影的男明星绫濑枫，两人发展出一段“灰姑娘”式的爱情的故事。",
@@ -18786,7 +18727,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200627/60173.html",
     date: "2020-06-2800:04:21",
     desc: "◎译名蜜蜂与远雷◎片名蜜蜂と遠雷/ListentotheUniverse◎年代2019◎产地日本◎类别剧情/音乐◎语言日语◎字幕中文◎上映日期2019-10-04(日本)◎IMDb评分6.1/10from137users◎豆瓣评分6.6/10from2,003users◎文件格式x264+aac",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.1",
@@ -18813,7 +18754,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200627/60172.html",
     date: "2020-06-2601:53:39",
     desc: "◎译名极限逃生/出口/逃出口◎片名EXIT◎年代2019◎产地韩国◎类别喜剧/动作/灾难◎语言韩语◎字幕中文◎上映日期2019-07-31(韩国)◎IMDb评分7.2/10from325users◎豆瓣评分8.2/10from1223users◎文件格式x264+aac◎视频尺寸1280",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名极限逃生/出口/逃出口◎片名EXIT◎年代2019◎产地韩国◎类别喜剧/动作/灾难◎语言韩语◎字幕中文◎上映日期2019-07-31(韩国)◎IMDb评分7.2/10from325users◎豆瓣评分8.2/10from1223users◎文件格式x264+aac◎视频尺寸1280x1080◎文件大小1.79GB◎片长103分钟◎导演李尚根Sang-geunLee◎编剧李尚根Sang-geunLee◎主演林允儿Yoona....Eui-Joo(asLimYoon-Ah)曹政奭....Yong-Nam高斗心Du-shimKo....Hyun-Ok(asKohDoo-Shim)朴仁焕In-hwanPark....Jang-Soo(asParkIn-Hwan)金智英Ji-yeongKim....Jung-Hyun裴侑蓝BaeYoo-ram....Yong-MinHyo-eunHwang....SecondoldersisterMin-sungJung....Firstbrother-in-lawKi-YoungKang....ManagerKooByoung-SoonKim....ThirduncleJong-guKim....Seconduncle(asJong-GooKim)Kang-HoonKim....Ji-Ho(Juvenile)Bong-ryeonLee....ThirdoldersisterDong-hwiLee....Rivercop1◎标签林允儿|韩国|韩国电影|喜剧|灾难片|灾难电影|2019|曹正奭◎简介青年无业游民龙南(曹政奭饰)在母亲七十大寿宴会上偶遇大学时期社团学妹仪珠(林允儿饰)并和她和一起逃出被来源不明的有毒气体覆盖的都市的故事……",
@@ -18843,7 +18784,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200626/60168.html",
     date: "2020-06-2500:19:29",
     desc: "◎译名雪莉◎片名Shirley◎年代2020◎产地美国◎类别剧情/惊悚/传记◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-06-05(美国)◎IMDb评分6.1/10from2541users◎豆瓣评分6.5/10from772users◎文件格式x26",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名雪莉◎片名Shirley◎年代2020◎产地美国◎类别剧情/惊悚/传记◎语言英语◎字幕中英双字幕◎上映日期2020-01-25(圣丹斯电影节)/2020-06-05(美国)◎IMDb评分6.1/10from2541users◎豆瓣评分6.5/10from772users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.77GB◎片长107分钟◎导演约瑟芬·戴克JosephineDecker◎编剧SarahGubbins/SusanScarfMerrell◎主演伊丽莎白·莫斯ElisabethMoss罗根·勒曼LoganLerman迈克尔·斯图巴MichaelStuhlbarg奥黛莎·杨OdessaYoung史蒂夫·维诺维奇SteveVinovich瑞恩·史帕恩RyanSpahn阿德莱林德·霍伦AdelindHoranMollyFaheyThomasRacekEmilyDeckerAvaLangfordEdwardO'BlenisAllenMcCulloughLexaHayesTonyManna罗丝玛丽·霍华德RosemaryHoward◎标签惊悚|美国|2020|伊丽莎白·莫斯|剧情|美国电影|电影|改编◎简介影片改编自苏珊·斯卡夫·梅瑞尔小说，背景设置在上世纪60年代，讲述了一对年轻夫妇(勒曼、杨饰)搬去与美国哥特惊悚小说家雪莉·杰克逊(莫斯饰)及其丈夫(斯图巴饰)同住，他们因此卷入一场心理惊悚事件，而这也为杰克逊的下一部小说提供了素材。◎获奖情况第70届柏林国际电影节(2020)遇见单元最佳影片(提名)约瑟芬·戴克泰迪熊奖(提名)约瑟芬·戴克",
@@ -18873,7 +18814,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200624/60164.html",
     date: "2020-06-2302:00:33",
     desc: "◎译名成为：米歇尔奥巴马自传/成为这样的我：米歇尔奥巴马/成为这样的我：蜜雪儿欧巴马(台)/成为这样的我(港)◎片名Becoming◎年代2020◎产地美国◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-05-06(美国)◎IMDb评分6.7/10from401",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名成为：米歇尔·奥巴马自传/成为这样的我：米歇尔·奥巴马/成为这样的我：蜜雪儿·欧巴马(台)/成为这样的我(港)◎片名Becoming◎年代2020◎产地美国◎类别纪录片◎语言英语◎字幕中英双字幕◎上映日期2020-05-06(美国)◎IMDb评分6.7/10from4015users◎豆瓣评分7.5/10from1,331users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.48GB◎片长89分钟◎导演NadiaHallgren◎主演巴拉克·奥巴马BarackObama米歇尔·奥巴马MichelleObama◎标签纪录片|美国|女性|第一夫人|2020|Documentary|社会◎简介《成为：米歇尔·奥巴马自传》带领观众近距离观察前第一夫人米歇尔·奥巴马在巨大变动期间的生活。该纪录片不仅记录了米歇尔的个人生活，也记录了这个她与丈夫在白宫期间为其付出了八年多心血的国家。这部电影带领观众走进幕后，对她的生活进行了罕见而近距离的观察：米歇尔开始了一场途经34个城市的旅程，这场旅行凸显了社区在弥合分歧方面的力量，以及在我们开诚布公地分享自己的故事时人与人心相连的精神。",
@@ -18903,7 +18844,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200622/60161.html",
     date: "2020-06-2223:46:45",
     desc: "◎译名黄蜂网络/蜂起云涌(台)◎片名WaspNetwork◎年代2019◎产地法国,西班牙,比利时,巴西◎类别惊悚◎语言英语,西班牙语◎片长127分钟◎上映日期2019-09-01(威尼斯电影节)/2020-06-19(美国)◎IMDb评分5.5/10from1281users◎豆瓣评分5.3",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名黄蜂网络/蜂起云涌(台)◎片名WaspNetwork◎年代2019◎产地法国,西班牙,比利时,巴西◎类别惊悚◎语言英语,西班牙语◎片长127分钟◎上映日期2019-09-01(威尼斯电影节)/2020-06-19(美国)◎IMDb评分5.5/10from1281users◎豆瓣评分5.3/10from162users◎字幕中英双字幕◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.22GB◎导演奥利维耶·阿萨亚斯OlivierAssayas◎编剧奥利维耶·阿萨亚斯OlivierAssayas◎主演安娜·德·阿玛斯AnadeArmas佩内洛普·克鲁兹PenélopeCruz亚德里亚·霍纳AdriaArjona埃德加·拉米雷兹ÉdgarRamírez瓦格纳·马拉WagnerMoura盖尔·加西亚·贝纳尔GaelGarcíaBernalMichaelVitovichSteveHowardStephenW.Tenner莱昂纳多·斯巴拉格利亚LeonardoSbaraglia◎标签2019|奥利维耶·阿萨亚斯|法国|剧情|佩内洛普·克鲁兹|惊悚|盖尔·加西亚·贝纳尔|安娜·德·阿玛斯◎简介20世纪90年代初期，古巴飞行员瑞尼·贡萨雷斯（埃德加·拉米雷兹饰）叛逃到美国并开始了全新的自由生活，将他的妻子（佩内洛普·克鲁兹饰）和年幼的女儿留在了共产主义的祖国。但瑞尼并不只是一个简单的美国奋斗者新贵。他加入了南佛罗里达州的“黄蜂网络”。这个组织由一群古巴流放者组成，秘密特工曼努埃尔·韦拉蒙特斯（别名杰拉尔多·埃尔南德斯，盖尔·加西亚·贝纳尔饰演）领导。他成为亲卡斯特罗间谍圈的成员，负责监视和渗透古巴裔美国恐怖组织，这些组织企图攻击古巴这个社会主义共和国。《黄蜂网络》根据“古巴五人组”（包括贡萨雷斯在内的情报官，于1998年9月在佛罗里达州被捕，随后因从事间谍活动和其他非法活动而被定罪）的真实故事改编，这是一部扣人心弦、风格独特的政治惊悚片，暗含多重深意，汇集了一群古巴国民和古巴裔美国流亡者，他们卷入了一场复杂而微妙的意识形态之争和忠诚与背叛的挣扎之中。该影片改编自费尔南德·莫莱斯所著书籍《TheLastSoldiersoftheColdWar》，编剧兼导演奥利维耶·阿萨亚斯（《卡洛斯》《私人采购员》）带领强大的演员阵容（包括佩内洛普·克鲁兹、埃德加·拉米雷兹、盖尔·加西亚·贝纳尔、安娜·德·阿玛斯、莱昂纳多·斯巴拉格利亚和瓦格纳·马拉），在跨越这两个邻国的“镜厅”展开了一场爆炸性的紧急间谍游戏，两国长达数十年的对峙给现在带来了深刻的影响。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)奥利维耶·阿萨亚斯",
@@ -18933,7 +18874,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200622/60160.html",
     date: "2020-06-2223:40:14",
     desc: "◎译名你本应离开/不该在此/你本该离开◎片名YouShouldHaveLeft◎年代2020◎产地美国◎类别悬疑/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-06-18(美国)◎IMDb评分5.3/10from1787users◎豆瓣评分5.1/10from191users◎文件格",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名你本应离开/不该在此/你本该离开◎片名YouShouldHaveLeft◎年代2020◎产地美国◎类别悬疑/恐怖◎语言英语◎字幕中英双字幕◎上映日期2020-06-18(美国)◎IMDb评分5.3/10from1787users◎豆瓣评分5.1/10from191users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.62GB◎片长93分钟◎导演大卫·凯普DavidKoepp◎编剧大卫·凯普DavidKoepp丹尼尔·凯尔曼DanielKehlmann◎主演阿曼达·塞弗里德AmandaSeyfried凯文·贝肯KevinBaconColinBlumenauEliPowersAveryTiiuEssexLowriAnnRichardsJoshuaCJackson◎标签恐怖|惊悚|悬疑|美国|2020|美国电影|阿曼达·塞弗里德|凯文·贝肯◎简介影片改编自同名小说，讲述一个电影编剧(贝肯饰)带着老婆(塞弗里德饰)、孩子在阿尔卑斯山附近潜心创作，但一些离奇事件却不断发生。",
@@ -18963,7 +18904,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200621/60159.html",
     date: "2020-06-2118:18:03",
     desc: "◎译名讨债人2◎片名TheDebtCollector2/DebtCollectors◎年代2020◎产地美国◎类别动作◎语言英语◎字幕中英双字幕◎上映日期2020-05-29(德国)◎IMDb评分5.6/10from662users◎豆瓣评分5.0/10from79users◎文件格式x264+aac◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名讨债人2◎片名TheDebtCollector2/DebtCollectors◎年代2020◎产地美国◎类别动作◎语言英语◎字幕中英双字幕◎上映日期2020-05-29(德国)◎IMDb评分5.6/10from662users◎豆瓣评分5.0/10from79users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.62GB◎导演杰西·约翰逊JesseV.Johnson◎编剧杰西·约翰逊JesseV.Johnson/斯图·斯莫尔StuSmall◎主演斯科特·阿金斯ScottAdkins路易·曼迪勒LouisMandylor弗拉基米尔库利奇VladimirKulich黄美玲MaylingNgDemitraSealy马里亚诺·门多萨MarianoMendozaCatherineBlackCueteYeskaJosefCannonSkiCarrDashaGermanRScottHoffmanMikeMaolucciCharityCollinsJermaineJacox◎标签动作|犯罪|斯科特·阿金斯|2020|美国|票圈|路易·曼迪勒◎简介杰西·约翰逊的故事不仅延续了前作这对儿倒霉讨债组合的故事，还为他们的事业之路上设置了更多更猛的新障碍。什么小混混，大女人，黑社会大佬……想要账、讨债，过程和结果都相当不容易。除了费口舌费轮胎之外，就是仍旧很费拳头和老腰，一路讨债一路打来，拳头、腿脚、棍棒甚至冲锋枪都得用上……但越来越“干一行爱一行”的弗兰奇，和始终放荡不羁的苏，似乎更享受这样生活节奏。",
@@ -18993,7 +18934,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200621/60153.html",
     date: "2020-06-2109:41:56",
     desc: "◎译名黑暗正义联盟：天启星战争◎片名JusticeLeagueDark:ApokolipsWar◎年代2020◎产地美国◎类别动画◎语言英语◎字幕中英双字幕◎上映日期2020-05-05(美国)◎IMDb评分7.8/10from10,314users◎豆瓣评分7.1/10from8,197users◎文",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名黑暗正义联盟：天启星战争◎片名JusticeLeagueDark:ApokolipsWar◎年代2020◎产地美国◎类别动画◎语言英语◎字幕中英双字幕◎上映日期2020-05-05(美国)◎IMDb评分7.8/10from10,314users◎豆瓣评分7.1/10from8,197users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.5GB◎片长90分钟◎导演马特·皮特斯MattPeters克里斯蒂娜·索塔ChristinaSotta◎编剧厄尼·阿特巴克ErnieAltbacker麦格里德·斯科特MairghreadScott◎主演托尼·托德TonyTodd丽贝卡·罗梅恩RebeccaRomijn罗莎里奥·道森RosarioDawson雷恩·威尔森RainnWilson卡米拉·卢丁顿CamillaLuddington泰莎·法米加TaissaFarmiga杰瑞·奥康奈尔JerryO'Connell谢默·摩尔ShemarMoore克里斯托弗·戈勒姆ChristopherGorham马特·瑞安MattRyan杰森·奥玛拉JasonO'Mara连姆·麦肯泰尔LiamMcIntyre约翰·迪·马吉欧JohnDiMaggio海登·瓦尔希HyndenWalch罗杰·R.克劳斯RogerR.Cross雷·蔡斯RayChase斯图尔特·艾伦StuartAllan萨奇·阿莱西奥SachieAlessio◎标签DC|动画|超级英雄|美国|正义联盟|DC动漫|科幻|漫画改编◎简介正义联盟集结地球上所有超级英雄一起对抗强大的反派达克赛德。",
@@ -19014,8 +18955,7 @@ const MOVIELIST = [
     starring:
       "托尼·托德 Tony Todd　丽贝卡·罗梅恩 Rebecca Romijn　罗莎里奥·道森 Rosario Dawson　雷恩·威尔森 Rainn Wilson　卡米拉·卢丁顿 Camilla Luddington　泰莎·法米加 Taissa Farmiga　杰瑞·奥康奈尔 Jerry O'Connell　谢默·摩尔 Shemar Moore　克里斯托弗·戈勒姆 Christopher Gorham　马特·瑞安 Matt Ryan　杰森·奥玛拉 Jason O'Mara　连姆·麦肯泰尔 Liam McIntyre　约翰·迪·马吉欧 John Di Maggio　海登·瓦尔希 Hynden Walch　罗杰·R.克劳斯 Roger R. Cross　雷·蔡斯 Ray Chase　斯图尔特·艾伦 Stuart Allan　萨奇·阿莱西奥 Sachie Alessio",
     tag: "DC|动画|超级英雄|美国|正义联盟|DC动漫|科幻|漫画改编",
-    introduction:
-      "正义联盟集结地球上所有超级英雄一起对抗强大的反派达克赛德。",
+    introduction: "正义联盟集结地球上所有超级英雄一起对抗强大的反派达克赛德。",
   },
   {
     id: "2020062060151",
@@ -19023,7 +18963,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200620/60151.html",
     date: "2020-06-1901:36:01",
     desc: "◎译名再次，春天/明天我要拯救昨天的你(台)◎片名Spring,Again◎年代2019◎产地韩国◎类别剧情/奇幻◎语言韩语◎字幕中文◎上映日期2019-04-17(韩国)◎豆瓣评分6.2/10from281users◎文件格式x264+aac◎视频尺寸1920x1080◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名再次，春天/明天我要拯救昨天的你(台)◎片名Spring,Again◎年代2019◎产地韩国◎类别剧情/奇幻◎语言韩语◎字幕中文◎上映日期2019-04-17(韩国)◎豆瓣评分6.2/10from281users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.8GB◎片长104分钟◎导演郑用柱Yong-jooJung◎主演李清娥Cheong-aLee洪宗玄Jong-hyunHong朴庆惠Gyeong-hyePark◎标签韩国|穿越|韩国电影|李清娥|2019|剧情|奇幻|洪宗玄◎简介一觉醒来却发现时间回到了昨天，我的时间开始一天天倒流了！因为一场事故，恩祖（李清娥饰）失去了人生唯一的幸福——女儿，陷入绝望的她对自己的人生做出了重大的决定，可当她再次睁开眼睛时时间却回到了昨天。开始时光倒流的恩祖一点点改变着自己不幸的昨天，可不停倒流的时间也让自己心生不安。就在这一天，她遇到了手握这场时间之旅关键的男人浩民（洪宗玄饰）…她是否能够让时间倒转，迎来崭新的明天？",
@@ -19053,7 +18993,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200619/60149.html",
     date: "2020-06-1901:55:51",
     desc: "◎译名大卫科波菲尔的个人史/狄更斯之块肉余生记(台)◎片名ThePersonalHistoryofDavidCopperfield/DavidCopperfield◎年代2019◎产地英国,美国◎类别剧情◎语言英语◎字幕中英双字幕◎上映日期2019-09-05(多伦多电影节)/2020-01-10(英国",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "原来磁力连错误，已更新。",
     imdb: "6.4",
@@ -19082,7 +19022,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200616/60143.html",
     date: "2020-06-1600:31:34",
     desc: "◎译名阿特米斯的奇幻历险◎片名ArtemisFowl◎年代2020◎产地美国◎类别奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分4/10from6514users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大��1.7GB◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名阿特米斯的奇幻历险◎片名ArtemisFowl◎年代2020◎产地美国◎类别奇幻/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分4/10from6514users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.7GB◎导演肯尼思·布拉纳KennethBranagh◎编剧康诺·麦克菲森ConorMcPherson哈密斯·麦克尔HamishMcColl约恩·柯尔弗EoinColfer迈克尔·戈登伯格MichaelGoldenbergAdamKline◎主演科林·法瑞尔ColinFarrell费迪亚·肖FerdiaShaw罗拉·麦克唐纳LaraMcDonnell乔什·加德JoshGad侬索·阿诺斯NonsoAnozie朱迪·丹奇JudiDench约书亚·麦圭尔JoshuaMcGuire尼基什·帕特尔NikeshPatel阿德里安·斯卡伯勒AdrianScarborough米兰达·莱森MirandaRaison周洪HongChau泰勒·詹姆斯TaylorJames吉米·维JimmyVee西蒙妮·柯比SimoneKirby露丝·霍洛克斯RuthHorrocks彼得·佩德罗PeterPedrero哈利·莱斯特·史密斯HarryListerSmith劳伦斯·金兰LaurenceKinlan阿图尔·夏尔马AtulSharma杰克·戴维斯JakeDaviesBaoTieu康纳·麦克尼尔ConorMacNeill让-保罗·李Jean-PaulLy萨莉·梅瑟姆SallyMessham丹尼尔·厄根DanielEghan埃莉诺·德·罗汉EleanordeRohan汉娜·弗林HannahFlynn菲尼安·达夫·列侬FinianDuffLennon伯纳多·桑托斯BernardoSantos爱德华·刘易斯·弗伦奇EdwardLewisFrench尼克·欧文福特NickOwenford安东尼奥·曼奇诺AntonioMancino弗兰·塔格FranTarg马特·杰瑟普MattJessup斯嘉丽·格兰特ScarlettGrantDianaAlexandraPocolGerardHoranTamaraSmart◎标签奇幻|迪士尼|冒险|美国|小说改编|电影|美国电影|2020◎简介改编自爱尔兰作家欧因·科弗的经典奇幻小说，讲述12岁的法尔犯罪帝国继承人阿特米斯·法尔二世为了寻找失踪的父亲，与精灵族展开了力量与诡计的斗争。",
@@ -19113,7 +19053,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200615/60142.html",
     date: "2020-06-1523:56:25",
     desc: "◎译名被涂污的鸟◎片名Nabarvenpte/ThePaintedBird◎年代2019◎产地捷克/斯洛伐克/乌克兰◎类别剧情/战争◎语言捷克语/德语/俄语/拉丁语◎字幕中文◎上映日期2019-09-03(威尼斯电影节)/2019-09-12(捷克)◎IMDb评分7.3/10from1691users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名被涂污的鸟◎片名Nabarvenéptáče/ThePaintedBird◎年代2019◎产地捷克/斯洛伐克/乌克兰◎类别剧情/战争◎语言捷克语/德语/俄语/拉丁语◎字幕中文◎上映日期2019-09-03(威尼斯电影节)/2019-09-12(捷克)◎IMDb评分7.3/10from1691users◎豆瓣评分8.1/10from3839users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.3GB◎片长169分钟◎导演瓦茨拉夫·马尔豪尔VáclavMarhoul◎编剧耶日·科辛斯基JerzyKosinski瓦茨拉夫·马尔豪尔VáclavMarhoul◎主演斯特兰·斯卡斯加德StellanSkarsgård哈威·凯特尔HarveyKeitel巴里·佩珀BarryPepper朱利安·山德斯JulianSands乌多·基尔UdoKier阿列克谢·克拉夫琴科AlekseyKravchenko提姆·卡尔克霍夫TimKalkhofJitkaCvancarováAntonínMasekPetrVanekPavelKrízDenisaPfauserováPetrKotlarIrenaMáchová莱赫·德布里克LechDyblikPetrStachRadimFialaMilanSimácek◎标签战争|捷克|黑白|2019|捷克电影|剧情|小说改编|斯特兰·斯卡斯加德◎简介影片以一个小男孩的视角描写了东欧“二战”期间的悲惨景象。小男孩的父母把他送到乡下避难，但与他失去了联系。男孩开始在各个村庄之间流浪。因为他的黑头发、黑眼睛，村民认为他是吉卜赛人，会给村子带来不祥，以各种方式折磨他。他曾被埋在土里，只有脑袋露在外面，乌鸦将他啄得伤痕累累。他目睹人们在暴力、堕落和无知的牢固链环中彼此吞噬。当他躺在铁轨上，让火车从自己身上呼啸而过，他体会到的只有饱受凌辱却依然幸存的快乐。影片在黑白光影下呈现出绝美的视觉质感，一出战争浮生录在魔幻的视角下就此展开。该片改编自作家杰西·科辛斯基撰写的同名处女作，原著围绕一个无名小男孩在东欧农村躲避战火的经历展开，故事从社会、历史等不同角度，反思与理解边缘人物的荒诞行为。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)瓦茨拉夫·马尔豪尔第24届金卫星奖(2020)电影部门最佳外语片(提名)",
@@ -19143,7 +19083,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200615/60141.html",
     date: "2020-06-1523:55:04",
     desc: "◎译名蜂蜜之地/大地蜜语(台)/流蜜大地之诗(港)◎片名Меденазема/Honeyland◎年代2019◎产地北马其顿◎类别剧情/纪录片◎语言土耳其语/马其顿语/塞尔维亚克罗地亚语◎字幕中文◎上映日期2019-01-28(圣丹斯电影节)/2019",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2580920249.jpg",
     link: "",
     summary:
       "◎译名蜂蜜之地/大地蜜语(台)/流蜜大地之诗(港)◎片名Меденаземја/Honeyland◎年代2019◎产地北马其顿◎类别剧情/纪录片◎语言土耳其语/马其顿语/塞尔维亚克罗地亚语◎字幕中文◎上映日期2019-01-28(圣丹斯电影节)/2019-08-29(北马其顿)◎IMDb评分8.0/10from10,858users◎豆瓣评分8.9/10from12,452users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.61GB◎片长87分钟◎导演塔玛拉·科特夫斯卡TamaraKotevska卢博·斯特法诺夫LjubomirStefanov◎主演哈蒂兹·穆拉托娃HatidzeMuratova纳齐夫·穆拉托娃NazifeMuratova侯赛因·萨姆HusseinSam柳特维·萨姆LjutvieSam◎标签纪录片|自然|北马其顿|2019|女性|人性|生活|人生◎简介鲜黄衣袂点缀马其顿偏乡的荒芜，与悬崖上野生蜂蜜琼浆的金黄相辉映。喀迪丝是欧洲大地最后一位女采蜂人，与抱病半盲母亲相依为命，依附野蜂为生，坚守「取一半、留一半」黄金定律。游牧民族一家突然欺至，打破宁静生活的不止是七个孩子与一众牲畜的喧闹，还有疯狂掏尽蜂蜜的贪婪，以及破坏生态环境的肆无忌惮。历时三年静观人与蜂和谐共处的隐世生活，以自然曦光与幽微烛照辉映大地，美得教人肃然起敬。获辛丹斯电影节世界纪录片评审团大奖。◎获奖情况第92届奥斯卡金像奖(2020)最佳国际影片(提名)最佳纪录长片(提名)第32届欧洲电影奖(2019)最佳纪录片(提名)第35届圣丹斯电影节(2019)评审团大奖世界电影单元纪录片塔玛拉·科特夫斯卡/卢博·斯特法诺夫第72届美国导演工会奖(2020)最佳纪录片导演(提名)塔玛拉·科特夫斯卡/卢博·斯特法诺夫第31届美国制片人工会奖(2020)最佳纪录片制片人奖(提名)第85届纽约影评人协会奖(2019)最佳纪录片第35届美国独立精神奖(2020)最佳纪录片(提名)第24届金卫星奖(2020)电影部门最佳纪录片(提名)第54届美国国家影评人协会奖(2020)最佳纪录片第40届波士顿影评人协会奖(2019)最佳纪录片第32届芝加哥影评人协会奖(2019)最佳纪录片(提名)第43届香港国际电影节(2019)纪录片竞赛火鸟大奖(提名)第23届美国在线影评人协会奖(2020)最佳纪录片(提名)",
@@ -19158,8 +19098,7 @@ const MOVIELIST = [
     caption: "中文",
     release: "2019-01-28(圣丹斯电影节)/2019-08-29(北马其顿)",
     time: "87",
-    director:
-      "塔玛拉·科特夫斯卡TamaraKotevska卢博·斯特法诺夫LjubomirStefanov",
+    director: "塔玛拉·科特夫斯卡TamaraKotevska卢博·斯特法诺夫LjubomirStefanov",
     writers: "",
     actor: "",
     starring:
@@ -19174,7 +19113,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200615/60140.html",
     date: "2020-06-1523:53:27",
     desc: "◎译名黑钱/黑计划/黑計畫(台)黑计划◎片名BlackMoney◎年代2019◎产地韩国◎类别剧情/犯罪◎语言韩语◎字幕中文◎上映日期2019-11-13(韩国)◎IMDb评分6.1/10from156users◎豆瓣评分6.7/10from2,714users◎文件格式x264+aac◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名黑钱/黑计划/黑計畫(台)黑计划◎片名BlackMoney◎年代2019◎产地韩国◎类别剧情/犯罪◎语言韩语◎字幕中文◎上映日期2019-11-13(韩国)◎IMDb评分6.1/10from156users◎豆瓣评分6.7/10from2,714users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.89GB◎片长113分钟◎导演郑智泳Ji-yeongJeong◎编剧韩贤根Hyeon-geunHan◎主演赵震雄ChoJin-woong李荷妮Ha-nuiLee李璟荣Kyeong-yeongLee姜信日Shin-ilKang崔德门Dok-munChoi赵汉哲Han-chulJo许成泰Seong-taeHeo尹振永Jin-youngYoon李星民Sung-minLee文成根SeungGeunMoon柳承秀Seung-suRyu◎标签韩国|犯罪|真实事件改编|政治|2019|剧情|社会现象|黑钱◎简介电影讲述了为了调查就会肆无忌惮的“老粗”检察官梁敏赫（赵震雄饰）因自己负责调查的嫌疑人自杀而陷入困境，为了洗清罪名而揭露事件内幕的过程中，与巨大的金融腐败实体相遇后发生的故事。◎获奖情况第56届百想艺术大赏(2020)电影类最佳导演(提名)郑智泳第56届韩国电影大钟奖(2020)最佳导演(提名)郑智泳",
@@ -19204,7 +19143,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200615/60139.html",
     date: "2020-06-1523:43:54",
     desc: "◎译名卡拉什尼科夫◎片名Калашников/AK-47/Kalashnikov◎年代2020◎产地俄罗斯◎类别传记/战争◎语言俄语◎字幕中文◎上映日期2020-02-21(俄罗斯)◎IMDb评分6.3/10from604users◎豆瓣评分7.1/10from2,998users◎文件格式",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名卡拉什尼科夫◎片名Калашников/AK-47/Kalashnikov◎年代2020◎产地俄罗斯◎类别传记/战争◎语言俄语◎字幕中文◎上映日期2020-02-21(俄罗斯)◎IMDb评分6.3/10from604users◎豆瓣评分7.1/10from2,998users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.85GB◎片长110分钟◎导演康斯坦丁·布罗斯洛夫KonstantinBuslov◎编剧谢尔盖·波德罗夫SergeyBodrovAlekseyBorodachyovSergeiGorbunovAnatoliyUsov◎主演尤里·鲍里索夫YuriyBorisov奥尔佳·勒曼OlgaLerman阿尔图尔·斯莫利亚尼诺夫ArturSmolyaninov谢尔盖·加扎罗夫SergeyGazarov◎标签AK47|卡拉什尼科夫|传记|俄罗斯|苏联|战争|二战|2020◎简介第二次世界大战如火如荼，德国进攻苏联的一场战役中，年轻的普通士兵米哈伊尔·卡拉什尼科夫中弹受伤，住进了野战医院的他，无法在回到前线战场，然而，这位爱国者并没有善罢甘休，虽然他不能手握武器重返战场，却让战场上的战士们都用起了一把以他名字命名的突击步枪——AK47",
@@ -19235,7 +19174,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200614/60135.html",
     date: "2020-06-1423:52:03",
     desc: "◎译名FirstLove◎片名初恋◎年代2019◎产地日本◎类别剧情/爱情/犯罪◎语言日语◎字幕中文◎上映日期2019-05-15(戛纳电影节)/2020-02-28(日本)◎IMDb评分6.9/10from3543users◎豆瓣评分6.9/10from2,381users◎文件格式x264+",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名FirstLove◎片名初恋◎年代2019◎产地日本◎类别剧情/爱情/犯罪◎语言日语◎字幕中文◎上映日期2019-05-15(戛纳电影节)/2020-02-28(日本)◎IMDb评分6.9/10from3543users◎豆瓣评分6.9/10from2,381users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.8GB◎片长108分钟◎导演三池崇史TakashiMiike◎编剧中村雅NakamuraMiyabi◎主演洼田正孝MasatakaKubota大森南朋NaoOmori染谷将太ShôtaSometani小西樱子SakurakoKonishi贝基Becky村上淳JunMurakami盐见三省SanseiShiomi内野圣阳MasaakiUchino三浦贵大TakahiroMiura◎标签三池崇史|日本|犯罪|日本电影|2019|爱情|染谷将太|窪田正孝◎简介本片设定在东京的一晚，一名时运耗尽的拳击名手利奥(洼田正孝饰)遇到了他的初恋莫妮卡(小西樱子饰)。莫妮卡是一名吸毒的应召女郎，但她依旧很天真。莫妮卡不知不觉陷入毒品走私计划之中，两人在这晚被腐败的警察、黑帮、利奥的对手以及三合会派来的女杀手追杀。◎获奖情况第72届戛纳电影节(2019)导演双周单元(提名)三池崇史",
@@ -19265,7 +19204,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200614/60132.html",
     date: "2020-06-1300:39:23",
     desc: "◎译名誓血五人组/五滴血◎片名Da5Bloods◎年代2020◎产地美国◎类别剧情/战争◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分6.9/10from1980users◎豆瓣评分6.5/10from155users◎文件格式x264+aac◎视频尺寸",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名誓血五人组/五滴血◎片名Da5Bloods◎年代2020◎产地美国◎类别剧情/战争◎语言英语◎字幕中英双字幕◎上映日期2020-06-12(美国)◎IMDb评分6.9/10from1980users◎豆瓣评分6.5/10from155users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.64GB◎片长155分钟◎导演斯派克·李SpikeLee◎编剧丹尼·比尔森DannyBilson保罗·德米奥PaulDeMeo凯文·威尔默特KevinWillmott斯派克·李SpikeLee◎主演查德维克·博斯曼ChadwickBoseman让·雷诺JeanReno德尔罗伊·林多DelroyLindo乔纳森·梅杰斯JonathanMajors克拉克·彼得斯ClarkePeters小伊塞亚·维特洛克IsiahWhitlockJr.保罗·沃尔特·豪泽PaulWalterHauser诺姆·刘易斯NormLewis梅兰尼·蒂埃里MélanieThierry加斯帕·帕科农JasperPääkkönen吴青芸ThanhVanNgo阮明智JohnnyNguyen亚历山大·威特斯AlexanderWinters德文·鲁默DevinRumerRickShusterMavKangAndreyKasushkin◎标签斯派克·李|Netflix|战争|2020|美国|犯罪|美国电影|剧情◎简介荣获奥斯卡金像奖的斯派克·李为我们带来了全新作品，这个故事讲述了四个非裔美国退伍军人返回越南的故事。他们前去寻找死去的队长（查德维克·博斯曼饰演）的遗体和埋藏的宝藏。在对抗人与自然的力量的同时，我们的英雄们还要面对越南战争中的残暴行径所带来的持久破坏。",
@@ -19296,7 +19235,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200614/60131.html",
     date: "2020-06-1300:32:34",
     desc: "◎译名浩瀚的夜晚◎片名TheVastofNight◎年代2019◎产地美国◎类别科幻/悬疑/惊悚/奇幻◎语言英语◎字幕中英双字幕◎上映日期2019-01-26(斯兰丹斯电影节)/2020-05-29(美国)◎IMDb评分6.7/10from4981users◎豆瓣评分5.9/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名浩瀚的夜晚◎片名TheVastofNight◎年代2019◎产地美国◎类别科幻/悬疑/惊悚/奇幻◎语言英语◎字幕中英双字幕◎上映日期2019-01-26(斯兰丹斯电影节)/2020-05-29(美国)◎IMDb评分6.7/10from4981users◎豆瓣评分5.9/10from256users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小GB◎片长89分钟◎导演AndrewPatterson◎编剧JamesMontague/CraigW.Sanger◎主演谢拉·麦克康米克SierraMcCormickJakeHorowitz盖尔·克罗纳奥尔GailCronauer布鲁斯·戴维斯BruceDavisCheyenneBartonGregoryPeytonMallorieRodak莫莉·密里根MollieMilliganIngridFeaseBrandonStewartKirkGriffithNikaSageMcKennaBrettBrock帕姆·多尔蒂PamDoughertyLynnBlackburn理查德·杰克森RichardJackson利比·维拉利LibbyVillari◎标签科幻|惊悚|美國電影|美国电影|美国|悬疑|奇幻|ufo◎简介故事发生在20世纪50年代的新墨西哥州，一个年轻的总机操作员和电台DJ发现了一个奇怪的频率，这个频率可能会永远改变他们的生活、他们的小镇和整个地球。《夜之无极》落入了《暮光之城》的兔子洞，通过掉落的电话、调幅无线电信号、被遗忘在图书馆里的秘密磁带卷、交换机、交叉的补线和一个匿名电话，他小心翼翼地将一个寻寻式的寻人故事编织在一起。《夜之无极》通过令人困惑的全程跟踪镜头、快速的对话和完美的时代术语，将观众带入一个远离外界的时代和小镇。它的神秘只呈现给那些好奇和有足够耐心去倾听的人。◎获奖情况第35届美国独立精神奖(2020)最佳处女作剧本(提名)JamesMontague/CraigW.Sanger",
@@ -19326,7 +19265,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200613/60130.html",
     date: "2020-06-1201:51:22",
     desc: "◎译名我控诉/德雷福斯冤案/控诉◎片名J'accuse/AnOfficerandaSpy/TheDreyfusAffair◎年代2019◎产地法国/意大利◎类别剧情/惊悚/历史◎语言法语◎字幕中英双字幕◎上映日期2019-08-30(威尼斯电影节)/2019-11-13(法国)◎",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名我控诉/德雷福斯冤案/控诉◎片名J'accuse/AnOfficerandaSpy/TheDreyfusAffair◎年代2019◎产地法国/意大利◎类别剧情/惊悚/历史◎语言法语◎字幕中英双字幕◎上映日期2019-08-30(威尼斯电影节)/2019-11-13(法国)◎IMDb评分7.3/10from3894users◎豆瓣评分7.4/10from8408users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小2.19GB◎片长126分钟◎导演罗曼·波兰斯基RomanPolanski◎编剧罗曼·波兰斯基RomanPolanski罗伯特·哈里斯RobertHarris◎主演让·杜雅尔丹JeanDujardin路易·加瑞尔LouisGarrel艾玛纽尔·塞尼耶EmmanuelleSeigner格莱高利·嘉德波瓦GrégoryGadebois马修·阿马立克MathieuAmalric达米安·勃纳尔DamienBonnard梅尔维尔·珀波MelvilPoupaud德尼·波达利德斯DenisPodalydès文森特·格拉斯VincentGrass弗拉迪米尔·约尔丹诺夫WladimirYordanoff迪迪埃·桑德尔DidierSandre埃尔韦·皮埃尔HervéPierre艾瑞克·拉夫EricRufMichèleClémentPierreLéonLuneau◎标签罗曼·波兰斯基|法国|历史|2019|波兰斯基|法国电影|德雷福斯事件|RomanPolanski◎简介影片改编自法国历史上的著名冤案“德莱弗斯案件”。1894年，法国犹太裔上尉阿尔弗雷德·德莱弗斯(加瑞尔饰)被错判为德国间谍，被判处叛国罪。◎获奖情况第76届威尼斯电影节(2019)主竞赛单元金狮奖(提名)罗曼·波兰斯基评委会大奖罗曼·波兰斯基费比西奖（国际影评人联盟奖）最佳影片罗曼·波兰斯基第32届欧洲电影奖(2019)最佳影片(提名)最佳导演(提名)罗曼·波兰斯基最佳男主角(提名)让·杜雅尔丹最佳编剧(提名)罗曼·波兰斯基/罗伯特·哈里斯最佳摄影(提名)第45届法国凯撒电影奖(2020)最佳影片(提名)最佳导演罗曼·波兰斯基最佳男主角(提名)让·杜雅尔丹最佳男配角(提名)路易·加瑞尔/格莱高利·嘉德波瓦最佳改编剧本罗曼·波兰斯基/罗伯特·哈里斯最佳摄影(提名)最佳剪辑(提名)最佳原创音乐(提名)最佳音效(提名)最佳服装最佳布景(提名)第65届意大利大卫奖(2020)最佳外语片(提名)",
@@ -19386,7 +19325,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200612/60128.html",
     date: "2020-06-1101:05:54",
     desc: "◎译名卫星/人造卫星/寄生异形◎片名Спутник/Satellite/Sputnik◎年代2020◎产地俄罗斯◎类别科幻/恐怖◎语言俄语◎字幕中文◎上映日期2020-04-23(俄罗斯)◎IMDb评分6/10from804users◎豆瓣评分6.0/10from870users◎文件格式x",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名卫星/人造卫星/寄生异形◎片名Спутник/Satellite/Sputnik◎年代2020◎产地俄罗斯◎类别科幻/恐怖◎语言俄语◎字幕中文◎上映日期2020-04-23(俄罗斯)◎IMDb评分6/10from804users◎豆瓣评分6.0/10from870users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.89GB◎片长105分钟◎导演EgorAbramenko◎编剧奥列格·马洛维奇克OlegMalovichko/AndreiZolotarev◎主演奥莎娜·阿金什那OksanaAkinshina费奥多尔·邦达尔丘克FyodorBondarchuk彼得·费奥多罗夫PyotrFyodorov安东·瓦西利耶夫AntonVasilev◎标签科幻|俄罗斯|恐怖|惊悚|外星人|2020|电影|欧洲电影◎简介苏联，1983年。苏联宇航员兼英雄康斯坦丁·维什尼亚科夫（KonstantinVeshnyakov）将一个外星生物带入了自己的身体。在一个封闭的城市神经生理学家塔蒂扬娜·克里莫娃（TatyanaKlimova）的秘密实验室中，她试图从宇航员中解救宇航员时，发现她对患者的感觉远不止是专业兴趣……",
@@ -19416,7 +19355,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200612/60127.html",
     date: "2020-06-1101:02:42",
     desc: "◎译名行骗天下JP：运势篇/信用诈欺师JP：运势篇/行骗天下：运势篇◎片名コンフィデンスマンJP邉菥�/TheConfidenceManJP◎年代2019◎产地日本◎类别剧情/喜剧/悬疑◎语言日语◎字幕中文◎上映日期2019-05-18(日本)◎IMDb评分7.5/10from21",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名行骗天下JP：运势篇/信用诈欺师JP：运势篇/行骗天下：运势篇◎片名コンフィデンスマンJP邉菥�/TheConfidenceManJP◎年代2019◎产地日本◎类别剧情/喜剧/悬疑◎语言日语◎字幕中文◎上映日期2019-05-18(日本)◎IMDb评分7.5/10from210users◎豆瓣评分8.3/10from33,473users◎字幕中文◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.73GB◎片长105分钟◎导演田中亮RyôTanaka◎编剧古泽良太RyotaKosawa◎主演长泽雅美MasamiNagasawa东出昌大MasahiroHigashide小日向文世FumiyoKohinata小手伸也ShinyaKote织田梨沙LisaOda北村一辉KazukiKitamura广末凉子RyokoHirosue中山美穗MihoNakayama◎标签日本|喜剧|搞笑|2019|悬疑|犯罪|剧情|SP◎简介达子（长泽雅美）是一个ConfidenceMan，即信用欺诈师。她可以凭借自己的天才头脑和出类拔萃集中力在短时间内掌握各种艰涩难懂的专业知识。她长期居住在高档酒店的豪华套房，虽然天赋异禀却有着纯真马虎的一面。达子的搭档是小朋友（东出昌大），一个总是被她耍的团团转的性格谨慎的老好人，他总盼望着早日金盆洗手，光明磊落地生活。另一位搭档是拥有超一流变装技术，把自己与生俱来的好气质运用于骗术的理查德（小日向文世）。他们以纵横于各个行业，以花花世界作为他们的舞台，用各种异想天开的计划从利欲熏心的人们手中骗取钱财，是一部大快人心的喜剧。达子（长泽雅美饰）锁定的新目标投资客阿久津（北村一辉饰），实际上他却是一名高利贷者并从事违法赌博，小朋友（东出昌大饰）和理查德（小日向文世饰）都劝达子不要碰他，但达子就是不听…理查德在海边小镇冲浪时，认识了中华料理店女老板韮山波子（広末凉子饰），得知波子欠有5000万圆债务、儿子又高中中辍离家出走后，理查德对波子动了心，想要帮助她…小朋友在遗物整理公司认识社长渡辺若叶（中山美穂饰），他平常整理遗物时陪伴着家属的样子打动小朋友的心，于是把她当作母亲般景仰，但背地里她却偷偷将一些高价遗物私自上网拍卖…",
@@ -19446,7 +19385,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200609/60121.html",
     date: "2020-06-0923:50:00",
     desc: "◎译名我不好惹/贝基：战斗女孩◎片名Becky◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-06-05(美国)◎IMDb评分5.7/10from1140users◎豆瓣评分5.2/10from158users◎文件格式x264+aac◎视频尺",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary:
       "◎译名我不好惹/贝基：战斗女孩◎片名Becky◎年代2020◎产地美国◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2020-06-05(美国)◎IMDb评分5.7/10from1140users◎豆瓣评分5.2/10from158users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大小1.65GB◎片长100分钟◎导演乔纳森·米洛特JonathanMilott加里·穆利昂CaryMurnion◎编剧NickMorris/LaneSkye/RuckusSkye◎主演露露·威尔逊LuluWilson乔尔·麦克哈尔JoelMcHale凯文·詹姆斯KevinJames阿曼达·布鲁盖尔AmandaBrugel罗伯特·梅耶RobertMaillet瑞安·麦克唐纳德RyanMcDonald盖奇·格雷厄姆·阿布斯诺特GageGraham-Arbuthnot约翰·D·希克曼JohnD.HickmanChandraMichaelsJamesMcDougallIsaiahRockcliffeMikeDaraAndrewSiwikCharlesBoylandMarkusRadan◎标签犯罪|2020|美国|惊悚|血腥|复仇|动作|美国电影◎简介13岁小女孩反杀恶人。全家来到林中小屋想改善家庭关系，被逃狱囚犯上门找麻烦。而坏人虽残忍，却被女孩Becky教训……",
@@ -19476,7 +19415,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200608/60105.html",
     date: "2020-06-0820:27:43",
     desc: "◎译名狙击精英：绝路反击/双狙人：刺客末日/双狙人8/死亡小姐/狙击手：刺客末日/狙击手8/狙击精英5◎片名Sniper：Assassin'sEnd/LadyDeath/Sniper8◎年代2020◎产地美国◎类别动作◎语言英语◎字幕中英双字幕◎上映日期2020-06-16(美国)◎豆瓣",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "",
@@ -19503,7 +19442,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200608/60104.html",
     date: "2020-06-0820:24:12",
     desc: "◎译名亡命徒◎片名TheQuarry◎年代2020◎产地美国◎类别悬疑/惊悚/犯罪◎语言英语◎字幕中英双字幕◎上映日期2020-04-17(美国)◎IMDb评分5.1/10from783users◎豆瓣评分5.1/10from62users◎文件格式x264+aac◎视频尺寸1920x1080◎文件大",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5.1",
@@ -19530,7 +19469,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200606/60101.html",
     date: "2020-06-0623:33:08",
     desc: "◎译名美国最后一宗罪案/美国犯罪的最后日子/美国犯罪的末日◎片名TheLastDaysofAmericanCrime◎年代2020◎产地美国◎类别动作/惊悚/犯罪/冒险◎语言英语◎字幕中英双字幕◎上映日期2020-06-05(美国)◎IMDb评分6.4/10from8users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.4",
@@ -19545,8 +19484,7 @@ const MOVIELIST = [
     release: "2020-06-05(美国)",
     time: "148",
     director: "奥利维尔·米加顿OlivierMegaton",
-    writers:
-      "卡尔·盖杜谢克KarlGajdusek瑞克·雷蒙德RickRemender/GregTocchini",
+    writers: "卡尔·盖杜谢克KarlGajdusek瑞克·雷蒙德RickRemender/GregTocchini",
     actor: "",
     starring:
       "埃德加·拉米雷兹 Édgar Ramírez　安娜·布雷维斯特 Anna Brewster　迈克尔·皮特 Michael Pitt　沙尔托·科普雷 Sharlto Copley　英格·贝克曼 Inge Beckmann　肖恩·卡梅伦·迈克尔 Sean Cameron Michael　塔梅尔·伯贾克 Tamer Burjaq　罗伯特·霍布斯 Robert Hobbs　丹尼尔·福克斯 Daniel Fox　克莱顿·博伊德 Clayton Boyd　詹姆斯·理查德·马歇尔 James Richard Marshall",
@@ -19559,7 +19497,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200606/60100.html",
     date: "2020-06-0623:29:38",
     desc: "◎译名乐园/罪乐园(台)◎片名楽園/Paradise/Rakuen/ThePromisedLand/Utopia◎年代2019◎产地日本◎类别悬疑◎语言日语◎字幕中文◎上映日期2019-10-07(釜山电影节)/2019-10-18(日本)◎IMDb评分4.8/10from46users◎豆瓣评分5.5/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "4.8",
@@ -19587,7 +19525,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200604/60092.html",
     date: "2020-06-0421:48:37",
     desc: "◎译名天气之子◎片名天気の子/ChildofWeather/WeatherChild/Weather'sChild/WeatheringWithYou◎年代2019◎产地日本◎类别爱情/动画/奇幻◎语言日语◎字幕中文◎上映日期2019-07-19(日本)/2019-11-01(中国大陆)◎IMDb评分7.6/10from",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.6",
@@ -19615,7 +19553,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200603/60085.html",
     date: "2020-06-0318:02:40",
     desc: "◎译名请寻找我/复仇母亲(港/台)/找到我/来找我/请来找我◎片名BringMeHome◎年代2019◎产地韩国◎类别惊悚/犯罪◎语言韩语◎字幕中文◎上映日期2019-09-05(多伦多电影节)/2019-11-27(韩国)◎IMDb评分6.5/10from193users◎豆瓣评分6",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.5",
@@ -19643,7 +19581,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200602/60082.html",
     date: "2020-06-0223:25:02",
     desc: "◎译名红鞋子和七个小矮人/红鞋公主与七矮人(台)/魔镜肥缘(港)◎片名RedShoesthe7Dwarfs/RedShoesandtheSevenDwarfs◎年代2019◎产地韩国◎类别喜剧/爱情/动画/奇幻◎语言英语/国语/粤语◎字幕中英双字幕◎上映日期2019-07-25(韩",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.3",
@@ -19671,7 +19609,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200601/60080.html",
     date: "2020-06-0118:49:36",
     desc: "◎译名前哨基地/停电/黑暗战域(台)◎片名Аванпост/Avanpost/TheBlackout◎年代2019◎产地俄罗斯◎类别动作/科幻/惊悚◎语言俄语◎字幕中英双字幕◎上映日期2019-03-15(影探电影节)/2019-11-21(俄罗斯)◎IMDb评分6.0/10from155",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.0",
@@ -19699,7 +19637,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200531/60078.html",
     date: "2020-05-3121:32:09",
     desc: "◎译名若能与你共乘海浪之上/乘浪之约(台)/你和我，如果被海浪吞没/浪尖上的约定(港)/若与你共乘海浪之上/若能与你乘风破浪/若能与你共乘波浪/若能和你共乘波浪◎片名きみと、波にのれたら/IfRidingaWave,withYou/RideYourWave◎年代2019◎产地日本",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.8",
@@ -19728,7 +19666,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200531/60077.html",
     date: "2020-05-3121:27:46",
     desc: "◎译名AI崩坏/全境失控(台)◎片名AI崩壊◎年代2020◎产地日本◎类别剧情/科幻◎语言日语◎字幕中文◎上映日期2020-01-31(日本)◎IMDb评分5.5/10from38users◎豆瓣评分5.7/10from188users◎文件格式x264+aac◎视频尺寸1920x1080",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5.5",
@@ -19756,7 +19694,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200530/60068.html",
     date: "2020-05-3010:39:07",
     desc: "火云邪神之修罗面具",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "",
@@ -19783,7 +19721,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200523/60055.html",
     date: "2020-05-2302:05:09",
     desc: "◎译名MonkeyKing◎片名孙悟空大战盘丝洞◎年代2020◎产地中国大陆◎类别喜剧/动作/奇幻/冒险◎语言普通话/粤语◎字幕中文◎上映日期2020-05-22(中国大陆)◎文件格式x264+aac◎视频尺寸1920x822◎文件大��1.42GB◎片长85分",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "",
@@ -19811,7 +19749,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200523/60054.html",
     date: "2020-05-2211:58:24",
     desc: "◎译名好人难寻/好女难寻/好女难找/打着灯笼找良家◎片名AGoodWomanIsHardtoFind◎年代2019◎产地英国,比利时◎类别动作/惊悚◎语言英语◎字幕中英双字幕◎上映日期2019-07-21(加拿大奇幻电影节)/2019-10-25(英国)◎IMDb评分6.2/10f",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6.2",
@@ -19839,7 +19777,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200523/60053.html",
     date: "2020-05-2201:27:55",
     desc: "◎译名终曲/礼物◎片名Coda/TheGift◎年代2019◎产地加拿大◎类别剧情/音乐◎语言英语,法语,德语◎字幕中英双字幕◎上映日期2019-11-22(印度国际电影节)/2020-02-01(美国)◎IMDb评分5.4/10from365users◎豆瓣评分6.8/10from133use",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5.4",
@@ -19867,7 +19805,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200519/60045.html",
     date: "2020-05-1802:28:26",
     desc: "◎译名乜代宗师/TheGrandGrandmaster◎片名乜代宗師◎年代2020◎产地中国香港◎类别剧情/喜剧◎语言粤语/国语◎字幕中文◎上映日期2020-01-23(中国香港)◎IMDb评分5/10from55users◎豆瓣评分4.9/10from338users◎文件格式x264+aa",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "5",
@@ -19895,7 +19833,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200519/60044.html",
     date: "2020-05-1801:00:12",
     desc: "◎译名长沙里：被遗忘的英雄们/幸存者(港)/长沙里9.15/长沙里之战：被遗忘的英雄(台)◎片名BattleofJangsari/TheBattleofJangsa-ri9.15◎年代2019◎产地韩国◎类别战争◎语言韩语,英语◎字幕中文◎上映日期2019-09-25(韩国)◎IMDb评分6/1",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "6",
@@ -19924,7 +19862,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200518/60043.html",
     date: "2020-07-2010:54:45",
     desc: "◎译名巴克劳/夜鹰/杀戮荒村(台)◎片名Bacurau◎年代2019◎产地巴西,法国◎类别剧情/惊悚◎语言葡萄牙语,英语◎字幕中英双字幕◎上映日期2019-05-15(戛纳电影节)/2019-08-29(巴西)◎IMDb评分7.6/10from12,726users◎豆瓣评分7.0/10fr",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.6",
@@ -19954,7 +19892,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200518/60042.html",
     date: "2020-05-1701:20:07",
     desc: "◎译名给我翅膀/迷雁返家路(台)◎片名Donne-moidesailes/SpreadYourWings◎年代2019◎产地法国◎类别冒险/剧情◎语言法语◎字幕中文◎上映日期2019-10-09(法国)◎IMDb评分7.2/10from718users◎豆瓣评分8.6/10from3,724users◎文件",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "7.2",
@@ -19983,7 +19921,7 @@ const MOVIELIST = [
     url: "https://www.dydytt.net/html/gndy/dyzz/20200517/60037.html",
     date: "2020-05-1601:15:52",
     desc: "◎译名每况愈下/不可抗力/婚姻大崩坏(台)/美版游客◎片名Downhill/ForceMajeure◎年代2020◎产地美国◎类别剧情/家庭◎语言英语◎字幕中英双字幕◎上映日期2020-01-26(圣丹斯电影节)/2020-02-14(美国)◎IMDb评分4.8/10from4,018users",
-    img: "",
+    img: "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p.jpg",
     link: "",
     summary: "",
     imdb: "4.8",
@@ -20005,6 +19943,6 @@ const MOVIELIST = [
       "茱莉亚·路易斯-德瑞弗斯 Julia Louis-Dreyfus　威尔·法瑞尔 Will Ferrell　米兰达·奥图 Miranda Otto　佐伊·晁 Zoë Chao　扎克·伍兹 Zach Woods　朱利安·格雷 Julian Grey　克里斯托弗·海维尤 Kristofer Hivju　阿蒙·雅各布·福特 Ammon Jacob Ford　吉欧里奥·贝鲁蒂 Giulio Berruti　埃莱娜·卡多纳 Hélène Cardona",
     tag: "美国|家庭|2020|剧情|翻拍|改编|女性",
     introduction: "",
-  }
-]
+  },
+];
 export default MOVIELIST;

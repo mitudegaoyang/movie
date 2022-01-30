@@ -53,19 +53,41 @@
       </template>
       <template #bodyCell="{ text, column, record }">
         <span v-if="searchText && searchedColumn === column.dataIndex">
-          <template
-            v-for="(fragment, i) in text
-              .toString()
-              .split(new RegExp(`(?<=${searchText})|(?=${searchText})`, 'i'))"
-          >
-            <mark
-              v-if="fragment.toLowerCase() === searchText.toLowerCase()"
-              :key="i"
-              class="highlight"
+          <template v-if="column.key !== 'title'">
+            <template
+              v-for="(fragment, i) in text
+                .toString()
+                .split(new RegExp(`(?<=${searchText})|(?=${searchText})`, 'i'))"
             >
-              {{ fragment }}
-            </mark>
-            <template v-else>{{ fragment }}</template>
+              <mark
+                v-if="fragment.toLowerCase() === searchText.toLowerCase()"
+                :key="i"
+                class="highlight"
+              >
+                {{ fragment }}
+              </mark>
+              <template v-else>{{ fragment }}</template>
+            </template>
+          </template>
+          <template v-else>
+            <a href="javascript:;" @click="goDetail(record)">
+              <template
+                v-for="(fragment, i) in text
+                  .toString()
+                  .split(
+                    new RegExp(`(?<=${searchText})|(?=${searchText})`, 'i')
+                  )"
+              >
+                <mark
+                  v-if="fragment.toLowerCase() === searchText.toLowerCase()"
+                  :key="i"
+                  class="highlight"
+                >
+                  {{ fragment }}
+                </mark>
+                <template v-else>{{ fragment }}</template>
+              </template>
+            </a>
           </template>
         </span>
         <template v-else-if="column.key === 'title'">
@@ -310,7 +332,8 @@ export default defineComponent({
 
     const goDetail = (record: any) => {
       store.commit("SET_DATA", record);
-      router.push({ name: "Detail", params: record });
+      window.open("/detail/" + record.id);
+      // router.push({ name: "Detail", params: record });
     };
 
     return {
