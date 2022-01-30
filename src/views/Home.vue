@@ -332,8 +332,8 @@ export default defineComponent({
 
     const goDetail = (record: any) => {
       store.commit("SET_DATA", record);
-      window.open("/detail/" + record.id);
-      // router.push({ name: "Detail", params: record });
+      // window.open("/detail/" + record.id);
+      router.push({ name: "Detail", params: record });
     };
 
     return {
