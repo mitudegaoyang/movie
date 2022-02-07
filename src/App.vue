@@ -1,10 +1,25 @@
 <template>
-  <div id="nav">
+  <!-- <div id="nav">
     <router-link to="/">首页</router-link>
-  </div>
+  </div> -->
   <router-view />
 </template>
 
+<script lang="ts">
+import { defineComponent } from "vue";
+import { useRouter } from "vue-router";
+
+export default defineComponent({
+  name: "Detail",
+  components: {},
+  setup() {
+    const router = useRouter();
+    const path = router.currentRoute.value.path;
+    console.log(path);
+    return { path };
+  },
+});
+</script>
 <style lang="less">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -13,7 +28,6 @@
   text-align: center;
   color: #2c3e50;
   background-color: #eef1f4;
-  padding-bottom: 30px;
   min-height: 100vh;
 }
 
