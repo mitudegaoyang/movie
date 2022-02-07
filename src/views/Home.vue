@@ -1,10 +1,6 @@
 <template>
   <div class="home">
-    <a-table
-      :columns="columns"
-      :data-source="data"
-      :scroll="{ x: 1300, y: 1000 }"
-    >
+    <a-table :columns="columns" :data-source="data" :scroll="{ x: 1300 }">
       <template #headerCell="{ column }">
         <template v-if="column.key === 'name'">
           <span style="color: #1890ff">姓名</span>
@@ -54,46 +50,44 @@
       <template #bodyCell="{ text, column, record }">
         <span v-if="searchText && searchedColumn === column.dataIndex">
           <template v-if="column.key !== 'title'">
-            <template
-              v-for="(fragment, i) in text
-                .toString()
-                .split(new RegExp(`(?<=${searchText})|(?=${searchText})`, 'i'))"
+            <!-- {{ text.toString().split(searchText)[0] }}
+            <mark class="highlight">
+              {{ searchText }}
+            </mark>
+            {{ text.toString().split(searchText)[1] }} -->
+            <span
+              v-for="(fragment, i) in formatTagName(text, searchText)"
+              :key="i"
             >
-              <mark
-                v-if="fragment.toLowerCase() === searchText.toLowerCase()"
-                :key="i"
-                class="highlight"
-              >
+              <span v-if="searchText === fragment" class="highlight">
                 {{ fragment }}
-              </mark>
+              </span>
               <template v-else>{{ fragment }}</template>
-            </template>
+            </span>
           </template>
           <template v-else>
             <a href="javascript:;" @click="goDetail(record)">
-              <template
-                v-for="(fragment, i) in text
-                  .toString()
-                  .split(
-                    new RegExp(`(?<=${searchText})|(?=${searchText})`, 'i')
-                  )"
+              <!-- {{ text.toString().split(searchText)[0] }}
+              <mark class="highlight">
+                {{ searchText }}
+              </mark>
+              {{ text.toString().split(searchText)[1] }} -->
+              <span
+                v-for="(fragment, i) in formatTagName(text, searchText)"
+                :key="i"
               >
-                <mark
-                  v-if="fragment.toLowerCase() === searchText.toLowerCase()"
-                  :key="i"
-                  class="highlight"
-                >
+                <span v-if="searchText === fragment" class="highlight">
                   {{ fragment }}
-                </mark>
+                </span>
                 <template v-else>{{ fragment }}</template>
-              </template>
+              </span>
             </a>
           </template>
         </span>
         <template v-else-if="column.key === 'title'">
-          <a href="javascript:;" @click="goDetail(record)">{{
-            record.title
-          }}</a>
+          <a href="javascript:;" @click="goDetail(record)">
+            {{ record.title }}
+          </a>
         </template>
         <template v-else-if="column.key === 'img'">
           <a-image
@@ -104,7 +98,9 @@
           />
         </template>
         <template v-else-if="column.key !== 'action'">
-          <span>{{ text ? text : "-" }}</span>
+          <span>
+            {{ text ? text : "-" }}
+          </span>
         </template>
         <template v-if="column.key === 'action'">
           <!-- <a-divider type="vertical" /> -->
@@ -332,8 +328,19 @@ export default defineComponent({
 
     const goDetail = (record: any) => {
       store.commit("SET_DATA", record);
-      // window.open("/detail/" + record.id);
-      router.push({ name: "Detail", params: record });
+      window.open("/detail/" + record.id);
+      // router.push({ name: "Detail", params: record });
+    };
+
+    /**
+     * @description 处理行业领域数据
+     * @param { string }  text 行业领域标签名
+     * @param { string }  search 关键词
+     * @returns { array }
+     */
+    const formatTagName = (text: string, search: string) => {
+      let re = new RegExp("(" + search + ")", "g");
+      return text.split(re).filter((item) => item);
     };
 
     return {
@@ -343,8 +350,14 @@ export default defineComponent({
       handleReset,
       searchInput,
       goDetail,
+      formatTagName,
       ...toRefs(state),
     };
   },
 });
 </script>
+<style lang="less" scoped>
+.highlight {
+  color: #f79433;
+}
+</style>
