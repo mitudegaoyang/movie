@@ -10,6 +10,7 @@
           :data-source="data"
           :scroll="{ x: 1300 }"
           :pagination="{ position: ['bottomCenter'] }"
+          row-key="id"
         >
           <template #headerCell="{ column }">
             <template v-if="column.key === 'name'">
