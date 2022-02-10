@@ -9,7 +9,7 @@
           :columns="columns"
           :data-source="data"
           :scroll="{ x: 1300 }"
-          :pagination="{ position: ['bottomCenter'] }"
+          :pagination="pagination"
           row-key="id"
         >
           <template #headerCell="{ column }">
@@ -384,6 +384,14 @@ export default defineComponent({
       },
     ];
 
+    const pagination = {
+      defaultPageSize: 25,
+      showSizeChanger: true,
+      pageSizeOptions: ["25", "50", "75", "100"],
+      showTotal: (total: number) => `总数${total}`,
+      position: ["bottomCenter"],
+    };
+
     const handleSearch = (
       selectedKeys: string,
       confirm: any,
@@ -420,6 +428,7 @@ export default defineComponent({
       zhCN,
       data,
       columns,
+      pagination,
       handleSearch,
       handleReset,
       searchInput,

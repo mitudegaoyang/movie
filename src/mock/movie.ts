@@ -1,7 +1,7 @@
 import top800 from "./20220207-movie.json";
-import num200208 from "./20220209-200-208-movie.json";
+import num200217 from "./20220210-200-217-movie.json";
 import format from "./format-movie.json";
-const MOVIELIST = top800.concat(num200208);
+const MOVIELIST = top800.concat(num200217);
 
 format.forEach((elem: any) => {
   if (elem.id) {
