@@ -1,7 +1,12 @@
-import top800 from "./20220207-movie.json";
-import num200217 from "./20220210-200-217-movie.json";
+import num1_35 from "./1-35-movie-20220207.json";
+import num190_199 from "./190-199-movie-20220211.json";
+import num200_217 from "./200-217-movie-20220210.json";
+import num218_242 from "./218-242-movie-20220211.json";
 import format from "./format-movie.json";
-const MOVIELIST = top800.concat(num200217);
+const MOVIELIST = num1_35
+  .concat(num190_199)
+  .concat(num200_217)
+  .concat(num218_242);
 
 format.forEach((elem: any) => {
   if (elem.id) {
