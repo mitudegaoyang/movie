@@ -386,6 +386,7 @@ export default defineComponent({
 
     const pagination = {
       defaultPageSize: 25,
+      showQuickJumper: true,
       showSizeChanger: true,
       pageSizeOptions: ["25", "50", "75", "100"],
       showTotal: (total: number) => `总数${total}`,
