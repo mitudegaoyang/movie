@@ -12,19 +12,21 @@ import num170_189 from "./170-189-movie.json";
 import num190_217 from "./190-217-movie.json";
 import num218_242 from "./218-242-movie.json";
 import format from "./format-movie.json";
-const MOVIELIST = num1_16
-  .concat(num17_35)
-  .concat(num36_43)
-  .concat(num44_56)
-  .concat(num57_69)
-  .concat(num70_89)
-  .concat(num90_109)
-  .concat(num110_129)
-  .concat(num130_149)
-  .concat(num150_169)
-  .concat(num170_189)
-  .concat(num190_217)
-  .concat(num218_242);
+const MOVIELIST = [
+  ...num1_16,
+  ...num17_35,
+  ...num36_43,
+  ...num44_56,
+  ...num57_69,
+  ...num70_89,
+  ...num90_109,
+  ...num110_129,
+  ...num130_149,
+  ...num150_169,
+  ...num170_189,
+  ...num190_217,
+  ...num218_242
+]
 
 format.forEach((elem: any) => {
   if (elem.id) {
