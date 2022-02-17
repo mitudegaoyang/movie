@@ -25,8 +25,8 @@ const MOVIELIST = [
   ...num150_169,
   ...num170_189,
   ...num190_217,
-  ...num218_242
-]
+  ...num218_242,
+];
 
 format.forEach((elem: any) => {
   if (elem.id) {
