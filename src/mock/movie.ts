@@ -11,7 +11,7 @@ import num150_169 from "./150-169-movie.json";
 import num170_189 from "./170-189-movie.json";
 import num190_217 from "./190-217-movie.json";
 import num218_242 from "./218-242-movie.json";
-import format from "./format-movie.json";
+// import format from "./format-movie.json";
 const MOVIELIST = [
   ...num1_16,
   ...num17_35,
@@ -28,12 +28,15 @@ const MOVIELIST = [
   ...num218_242,
 ];
 
-format.forEach((elem: any) => {
-  if (elem.id) {
-    const movieItem = MOVIELIST.find((item: any) => {
-      return item.id === elem.id;
-    });
-    movieItem.img = elem.img;
-  }
-});
+/**
+ * 补充数据
+ * **/
+// format.forEach((elem: any) => {
+//   if (elem.id) {
+//     const movieItem = MOVIELIST.find((item: any) => {
+//       return item.id === elem.id;
+//     });
+//     movieItem.img = elem.img;
+//   }
+// });
 export default MOVIELIST;
