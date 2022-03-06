@@ -11,6 +11,8 @@ import num150_169 from "./150-169-movie.json";
 import num170_189 from "./170-189-movie.json";
 import num190_217 from "./190-217-movie.json";
 import num218_242 from "./218-242-movie.json";
+import other1_40 from "./other/1-40.json";
+import top from "./top/1-517.json";
 // import format from "./format-movie.json";
 const MOVIELIST = [
   ...num1_16,
@@ -26,6 +28,8 @@ const MOVIELIST = [
   ...num170_189,
   ...num190_217,
   ...num218_242,
+  ...other1_40,
+  ...top,
 ];
 
 /**
