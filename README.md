@@ -45,6 +45,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [ ] 添加标记功能
 - [ ] 图片懒加载
 - [ ] 补充图片动态添加
+- [x] 详情title动态变更
 - [x] 展示数据详情
 - [x] 展示数据列表
 - [x] 添加过滤
@@ -77,3 +78,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 参考资料
 
 - [单页应用在 gh-pages 动态路由刷新后 404 解决方案](https://segmentfault.com/a/1190000012951274)
+- [vue单页面标题设置 title](https://blog.csdn.net/gqzydh/article/details/81539253)

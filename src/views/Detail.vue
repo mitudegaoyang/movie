@@ -2,7 +2,7 @@
   <div class="nav">
     <router-link to="/">首页</router-link>
   </div>
-  <div class="detail">
+  <div v-wechat-title="detail.title + '-电影小站'" class="detail">
     <div class="info-container">
       <div class="mainpic">
         <a-image
