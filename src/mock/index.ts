@@ -1,5 +1,5 @@
-const movieListJson = require("./movie.json");
-const { result } = require("../utils");
+// const movieListJson = require("./movie.json");
+// const { result } = require("../utils");
 
 // module.exports = [
 //   {
