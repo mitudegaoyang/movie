@@ -173,6 +173,16 @@ export default defineComponent({
 
     const searchInput = ref();
 
+    type TableDataType = {
+      imdb: number;
+      imdb_user: number;
+      douban: number;
+      douban_user: number;
+      time: number;
+      year: number;
+      date: string;
+    };
+
     const columns = [
       {
         title: "海报",
@@ -212,7 +222,7 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.imdb - b.imdb,
+          compare: (a: TableDataType, b: TableDataType) => a.imdb - b.imdb,
           multiple: 3,
         },
       },
@@ -235,7 +245,8 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.imdb_user - b.imdb_user,
+          compare: (a: TableDataType, b: TableDataType) =>
+            a.imdb_user - b.imdb_user,
           multiple: 3,
         },
       },
@@ -255,7 +266,7 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.douban - b.douban,
+          compare: (a: TableDataType, b: TableDataType) => a.douban - b.douban,
           multiple: 3,
         },
       },
@@ -278,7 +289,8 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.douban_user - b.douban_user,
+          compare: (a: TableDataType, b: TableDataType) =>
+            a.douban_user - b.douban_user,
           multiple: 3,
         },
       },
@@ -298,7 +310,7 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.time - b.time,
+          compare: (a: TableDataType, b: TableDataType) => a.time - b.time,
           multiple: 3,
         },
       },
@@ -337,7 +349,7 @@ export default defineComponent({
           }
         },
         sorter: {
-          compare: (a: any, b: any) => a.year - b.year,
+          compare: (a: TableDataType, b: TableDataType) => a.year - b.year,
           multiple: 3,
         },
       },
@@ -375,6 +387,15 @@ export default defineComponent({
             }, 100);
           }
         },
+      },
+      {
+        title: "发布时间",
+        dataIndex: "date",
+        key: "date",
+        width: 180,
+        defaultSortOrder: "descend",
+        sorter: (a: TableDataType, b: TableDataType) =>
+          Date.parse(a.date) - Date.parse(b.date),
       },
       {
         title: "操作",
