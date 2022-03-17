@@ -1,0 +1,30 @@
+{
+  "id": "3251549",
+  "name": "movie",
+  "font_family": "iconfont",
+  "css_prefix_text": "movie-icon-",
+  "description": "电影小站",
+  "glyphs": [
+    {
+      "icon_id": "11569560",
+      "name": "收藏",
+      "font_class": "collect",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11569564",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "28275880",
+      "name": "链接",
+      "font_class": "link",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

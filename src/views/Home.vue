@@ -130,14 +130,21 @@
               <!-- <br /> -->
               <!-- <a-button type="link" @click="goDetail(record)">查看详情</a-button> -->
               <!-- <a-divider type="vertical" /> -->
-              <div style="margin-bottom: 10px">
-                <a-button type="primary">
-                  <a :href="`${record.link}`" target="_blank">下载链接</a>
-                </a-button>
-              </div>
-              <a-button>
-                <a :href="`${record.url}`" target="_blank">原始链接</a>
-              </a-button>
+              <a :href="`${record.link}`" title="下载链接" target="_blank">
+                <span class="iconfont movie-icon-download"></span>
+              </a>
+              <a :href="`${record.url}`" title="原始链接" target="_blank">
+                <span class="iconfont movie-icon-link"></span>
+              </a>
+              <a @click="collect(record.id)" title="收藏" target="_blank">
+                <span
+                  :class="[
+                    'iconfont',
+                    'movie-icon-collect',
+                    { collect: this.collectHistory.indexOf(record.id) > -1 },
+                  ]"
+                ></span>
+              </a>
             </template>
           </template>
         </a-table>
@@ -147,13 +154,14 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, reactive, ref, toRefs } from "vue";
+import { defineComponent, reactive, toRefs } from "vue";
 // import { useRouter } from "vue-router";
 import { useStore } from "vuex";
 import { SearchOutlined } from "@ant-design/icons-vue";
 import zhCN from "ant-design-vue/es/locale/zh_CN";
+import { searchInput, TFDATA } from "./config/tfConfig";
 
-import data from "../mock/movie";
+import data from "@/mock/movie";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
 
 export default defineComponent({
@@ -169,241 +177,12 @@ export default defineComponent({
     const state = reactive({
       searchText: "",
       searchedColumn: "",
+      collectHistory:
+        localStorage.getItem("collectHistory")?.trim().split(",") || [],
     });
 
-    const searchInput = ref();
-
-    type TableDataType = {
-      imdb: number;
-      imdb_user: number;
-      douban: number;
-      douban_user: number;
-      time: number;
-      year: number;
-      date: string;
-    };
-
-    const columns = [
-      {
-        title: "海报",
-        dataIndex: "img",
-        key: "img",
-        width: 100,
-      },
-      {
-        title: "标题",
-        dataIndex: "title",
-        key: "title",
-        width: 400,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.title.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-      },
-      {
-        title: "IMDb",
-        dataIndex: "imdb",
-        key: "imdb",
-        width: 100,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.imdb.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) => a.imdb - b.imdb,
-          multiple: 3,
-        },
-      },
-      {
-        title: "IMDb人数",
-        dataIndex: "imdb_user",
-        key: "imdb_user",
-        width: 130,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.imdb_user
-            .toString()
-            .toLowerCase()
-            .includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) =>
-            a.imdb_user - b.imdb_user,
-          multiple: 3,
-        },
-      },
-      {
-        title: "豆瓣",
-        dataIndex: "douban",
-        key: "douban",
-        width: 100,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.douban.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) => a.douban - b.douban,
-          multiple: 3,
-        },
-      },
-      {
-        title: "豆瓣人数",
-        dataIndex: "douban_user",
-        key: "douban_user",
-        width: 120,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.douban_user
-            .toString()
-            .toLowerCase()
-            .includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) =>
-            a.douban_user - b.douban_user,
-          multiple: 3,
-        },
-      },
-      {
-        title: "片长",
-        dataIndex: "time",
-        key: "time",
-        width: 100,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.time.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) => a.time - b.time,
-          multiple: 3,
-        },
-      },
-      {
-        title: "类型",
-        dataIndex: "category",
-        key: "category",
-        width: 200,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.category
-            .toString()
-            .toLowerCase()
-            .includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-      },
-      {
-        title: "年份",
-        dataIndex: "year",
-        key: "year",
-        width: 100,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.year.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-        sorter: {
-          compare: (a: TableDataType, b: TableDataType) => a.year - b.year,
-          multiple: 3,
-        },
-      },
-      {
-        title: "产地",
-        dataIndex: "areas",
-        key: "areas",
-        width: 200,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.areas.toString().toLowerCase().includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-      },
-      {
-        title: "语言",
-        dataIndex: "language",
-        key: "language",
-        width: 150,
-        customFilterDropdown: true,
-        onFilter: (value: string, record: any) =>
-          record.language
-            .toString()
-            .toLowerCase()
-            .includes(value.toLowerCase()),
-        onFilterDropdownVisibleChange: (visible: any) => {
-          if (visible) {
-            setTimeout(() => {
-              searchInput.value.focus();
-            }, 100);
-          }
-        },
-      },
-      {
-        title: "发布时间",
-        dataIndex: "date",
-        key: "date",
-        width: 180,
-        defaultSortOrder: "descend",
-        sorter: (a: TableDataType, b: TableDataType) =>
-          Date.parse(a.date) - Date.parse(b.date),
-      },
-      {
-        title: "操作",
-        key: "action",
-        fixed: "right",
-        width: 150,
-      },
-    ];
+    // 数据
+    const columns = TFDATA;
 
     const pagination = {
       defaultPageSize: 25,
@@ -435,6 +214,27 @@ export default defineComponent({
       // router.push({ name: "Detail", params: record });
     };
 
+    const collect = (id: string) => {
+      let num = state.collectHistory.indexOf(id);
+      if (num > -1) {
+        state.collectHistory.splice(num, 1);
+      } else {
+        state.collectHistory = [...new Set([...state.collectHistory, ...[id]])];
+      }
+      if (state.collectHistory.length > 0) {
+        localStorage.setItem(
+          "collectHistory",
+          state.collectHistory
+            .filter(function (s) {
+              return s && s.trim();
+            })
+            .toString()
+        );
+      } else {
+        localStorage.removeItem("collectHistory");
+      }
+    };
+
     /**
      * @description 处理行业领域数据
      * @param { string }  text 行业领域标签名
@@ -456,6 +256,7 @@ export default defineComponent({
       searchInput,
       goDetail,
       formatTagName,
+      collect,
       ...toRefs(state),
     };
   },
@@ -484,6 +285,17 @@ export default defineComponent({
     position: relative;
     top: -55px;
     padding: 0 70px;
+    .iconfont {
+      font-size: 18px;
+      transition: all 0.3s linear;
+      margin-right: 10px;
+    }
+    .iconfont:hover {
+      color: #fed307;
+    }
+    .collect {
+      color: #fed307;
+    }
   }
 }
 </style>
