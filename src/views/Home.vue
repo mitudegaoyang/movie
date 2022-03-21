@@ -105,20 +105,14 @@
               </a>
             </template>
             <template v-else-if="column.key === 'img'">
-              <a-image
-                v-if="record.img"
-                :width="50"
-                :src="record.img"
-                :alt="record.title"
-                fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
-              />
-              <a-image
-                v-else
-                :width="50"
-                :src="record.img2"
-                :alt="record.title"
-                fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
-              />
+              <div class="img-container">
+                <a-image
+                  :width="50"
+                  :src="record.img"
+                  :alt="record.title"
+                  fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
+                />
+              </div>
             </template>
             <template v-else-if="column.key !== 'action'">
               <span>
@@ -295,6 +289,9 @@ export default defineComponent({
     }
     .collect {
       color: #fed307;
+    }
+    .img-container {
+      min-height: 75px;
     }
   }
 }
