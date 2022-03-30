@@ -6,16 +6,8 @@
     <div class="info-container">
       <div class="mainpic">
         <a-image
-          v-if="detail.img"
           :width="320"
           :src="detail.img"
-          :alt="detail.title"
-          fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
-        />
-        <a-image
-          v-else
-          :width="320"
-          :src="detail.img2"
           :alt="detail.title"
           fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
         />
