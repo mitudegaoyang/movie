@@ -229,13 +229,13 @@ const TFDATA = [
     },
   },
   {
-    title: "发布时间",
-    dataIndex: "date",
-    key: "date",
+    title: "id",
+    dataIndex: "id",
+    key: "id",
     width: 180,
     defaultSortOrder: "descend",
     sorter: (a: TableDataType, b: TableDataType): number =>
-      Date.parse(a.date) - Date.parse(b.date),
+      Date.parse(a.id) - Date.parse(b.id),
   },
   {
     title: "操作",

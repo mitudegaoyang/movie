@@ -15,6 +15,7 @@ import other1_40 from "./other/1-40.json";
 import other41_80 from "./other/41-80.json";
 import other81_120 from "./other/81-120.json";
 import other121_160 from "./other/121-160.json";
+import other161_180 from "./other/161-180.json";
 // import top from "./top/1-517.json";
 // import format from "./format-movie.json";
 const MOVIELIST = [
@@ -35,6 +36,7 @@ const MOVIELIST = [
   ...other41_80,
   ...other81_120,
   ...other121_160,
+  ...other161_180,
 ];
 
 /**
