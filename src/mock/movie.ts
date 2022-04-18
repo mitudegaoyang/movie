@@ -11,11 +11,13 @@ import num150_169 from "./new/150-169-movie.json";
 import num170_189 from "./new/170-189-movie.json";
 import num190_217 from "./new/190-217-movie.json";
 import num218_242 from "./new/218-242-movie.json";
-import other1_40 from "./other/1-40.json";
-import other41_80 from "./other/41-80.json";
-import other81_120 from "./other/81-120.json";
-import other121_160 from "./other/121-160.json";
-import other161_180 from "./other/161-180.json";
+import other7k from "./other/new-7k.json";
+import other6k from "./other/6k.json";
+import other5k from "./other/5k.json";
+import other4k from "./other/4k.json";
+import other3k from "./other/3k.json";
+import other2k from "./other/2k.json";
+import other1k from "./other/1k.json";
 // import top from "./top/1-517.json";
 // import format from "./format-movie.json";
 const MOVIELIST = [
@@ -32,11 +34,13 @@ const MOVIELIST = [
   ...num170_189,
   ...num190_217,
   ...num218_242,
-  ...other1_40,
-  ...other41_80,
-  ...other81_120,
-  ...other121_160,
-  ...other161_180,
+  ...other7k,
+  ...other6k,
+  ...other5k,
+  ...other4k,
+  ...other3k,
+  ...other2k,
+  ...other1k,
 ];
 
 /**
