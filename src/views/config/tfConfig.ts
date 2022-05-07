@@ -2,7 +2,7 @@ import { ref } from "vue";
 const searchInput = ref();
 
 type TableDataType = {
-  id: string;
+  id: number;
   title: string;
   url: string;
   date: string;
@@ -35,12 +35,14 @@ const TFDATA = [
     title: "海报",
     dataIndex: "img",
     key: "img",
+    fixed: "left",
     width: 100,
   },
   {
     title: "标题",
     dataIndex: "title",
     key: "title",
+    fixed: "left",
     width: 400,
     customFilterDropdown: true,
     onFilter: (value: string, record: TableDataType): boolean => {
@@ -233,9 +235,11 @@ const TFDATA = [
     dataIndex: "id",
     key: "id",
     width: 180,
-    defaultSortOrder: "descend",
-    sorter: (a: TableDataType, b: TableDataType): number =>
-      Date.parse(a.id) - Date.parse(b.id),
+    // defaultSortOrder: "descend",
+    sorter: {
+      compare: (a: TableDataType, b: TableDataType): number => a.id - b.id,
+      multiple: 3,
+    },
   },
   {
     title: "操作",
