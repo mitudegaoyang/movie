@@ -42,9 +42,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 功能
 
-- [ ] 添加标记功能
-- [ ] 图片懒加载
 - [ ] 补充图片动态添加
+- [x] 添加标记功能
+- [x] 图片懒加载
 - [x] 详情title动态变更
 - [x] 展示数据详情
 - [x] 展示数据列表
