@@ -13,42 +13,48 @@
         />
       </div>
       <div class="info">
-        <p v-show="detail.title" class="info-item title">{{ detail.title }}</p>
+        <p
+          v-show="detail.title"
+          v-text="detail.title"
+          class="info-item title"
+        ></p>
         <p v-show="detail.date" class="info-item date">
-          发布时间 {{ $dayjs(detail.date).format("YYYY-MM-DD HH:mm:ss") }}
+          {{ dict.date }}
+          {{ $dayjs(detail.date).format("YYYY-MM-DD HH:mm:ss") }}
         </p>
         <p v-show="detail.translation" class="info-item translation">
-          译名 {{ detail.translation }}
+          {{ dict.translation }} {{ detail.translation }}
         </p>
         <p v-show="detail.name" class="info-item name">
-          片名 {{ detail.name }}
+          {{ dict.name }} {{ detail.name }}
         </p>
         <p v-show="detail.year" class="info-item year">
-          年代 {{ detail.year }}
+          {{ dict.year }} {{ detail.year }}
         </p>
         <p v-show="detail.areas" class="info-item areas">
-          产地 {{ detail.areas }}
+          {{ dict.areas }} {{ detail.areas }}
         </p>
         <p v-show="detail.category" class="info-item category">
-          类别 {{ detail.category }}
+          {{ dict.category }} {{ detail.category }}
         </p>
         <p v-show="detail.language" class="info-item language">
-          语言 {{ detail.language }}
+          {{ dict.language }} {{ detail.language }}
         </p>
         <p v-show="detail.caption" class="info-item caption">
-          字幕 {{ detail.caption }}
+          {{ dict.caption }} {{ detail.caption }}
         </p>
         <p v-show="detail.release" class="info-item release">
-          上映日期 {{ detail.release }}
+          {{ dict.release }} {{ detail.release }}
         </p>
         <p v-show="detail.imdb" class="info-item imdb">
-          IMDb评分 {{ detail.imdb }}/10 from {{ detail.imdb_user }} users
+          {{ dict.imdb }} {{ detail.imdb }}/10 from {{ detail.imdb_user }} users
         </p>
         <p v-show="detail.douban" class="info-item douban">
-          豆瓣评分 {{ detail.douban }}/10 from {{ detail.douban_user }} users
+          {{ dict.douban }} {{ detail.douban }}/10 from
+          {{ detail.douban_user }} users
         </p>
         <p v-show="detail.time" class="info-item time">
-          片长 {{ detail.time }}分钟
+          {{ dict.time }} {{ detail.time }}分钟
         </p>
       </div>
       <div class="btn">
@@ -63,20 +69,22 @@
     <div class="info-container">
       <div class="info">
         <p v-show="detail.director" class="info-item director">
-          导演 {{ detail.director }}
+          {{ dict.director }} {{ detail.director }}
         </p>
         <p v-show="detail.writers" class="info-item writers">
-          编剧 {{ detail.writers }}
+          {{ dict.writers }} {{ detail.writers }}
         </p>
         <p v-show="detail.actor" class="info-item actor">
-          演员 {{ detail.actor }}
+          {{ dict.actor }} {{ detail.actor }}
         </p>
         <p v-show="detail.starring" class="info-item starring">
-          演员 {{ detail.starring }}
+          {{ dict.starring }} {{ detail.starring }}
         </p>
-        <p v-show="detail.tag" class="info-item tag">标签 {{ detail.tag }}</p>
+        <p v-show="detail.tag" class="info-item tag">
+          {{ dict.tag }} {{ detail.tag }}
+        </p>
         <p v-show="detail.introduction" class="info-item introduction">
-          简介 {{ detail.introduction }}
+          {{ dict.introduction }} {{ detail.introduction }}
         </p>
       </div>
     </div>
@@ -85,7 +93,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent, reactive } from "vue";
 import { useRouter } from "vue-router";
 import { useStore } from "vuex";
 // import { getMovieDetails } from "@/api/detail";
@@ -102,6 +110,27 @@ export default defineComponent({
     let detail = data.find((n: any) => n.id === id);
     store.commit("SET_DATA", detail);
 
+    const dict = reactive({
+      date: "发布时间",
+      translation: "译名",
+      name: "片名",
+      year: "年代",
+      areas: "产地",
+      category: "类别",
+      language: "语言",
+      caption: "字幕",
+      release: "上映日期",
+      imdb: "IMDb评分",
+      douban: "豆瓣评分",
+      time: "片长",
+      director: "导演",
+      writers: "编剧",
+      actor: "演员",
+      starring: "演员",
+      tag: "标签",
+      introduction: "简介",
+    });
+
     // const getDetail = async () => {
     //   const { data } = await getMovieDetails(id);
 
@@ -113,6 +142,7 @@ export default defineComponent({
     return {
       data,
       detail,
+      dict,
     };
   },
 });

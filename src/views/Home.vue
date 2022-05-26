@@ -3,7 +3,7 @@
     <div class="banner">
       <div class="logo"></div>
     </div>
-    <div class="table">
+    <div v-wechat-title="'电影小站'" class="table">
       <a-config-provider :locale="zhCN">
         <a-table
           :columns="columns"
@@ -230,8 +230,8 @@ export default defineComponent({
     };
 
     /**
-     * @description 处理行业领域数据
-     * @param { string }  text 行业领域标签名
+     * @description 处理搜索高亮
+     * @param { string }  text 字段内容
      * @param { string }  search 关键词
      * @returns { array }
      */
