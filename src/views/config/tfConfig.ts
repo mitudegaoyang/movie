@@ -60,6 +60,26 @@ const TFDATA = [
     },
   },
   {
+    title: "年份",
+    dataIndex: "year",
+    key: "year",
+    width: 100,
+    customFilterDropdown: true,
+    onFilter: (value: string, record: TableDataType): boolean =>
+      record.year.toString().toLowerCase().includes(value.toLowerCase()),
+    onFilterDropdownVisibleChange: (visible: boolean): void => {
+      if (visible) {
+        setTimeout(() => {
+          searchInput.value.focus();
+        }, 100);
+      }
+    },
+    sorter: {
+      compare: (a: TableDataType, b: TableDataType): number => a.year - b.year,
+      multiple: 3,
+    },
+  },
+  {
     title: "IMDb",
     dataIndex: "imdb",
     key: "imdb",
@@ -176,26 +196,6 @@ const TFDATA = [
           searchInput.value.focus();
         }, 100);
       }
-    },
-  },
-  {
-    title: "年份",
-    dataIndex: "year",
-    key: "year",
-    width: 100,
-    customFilterDropdown: true,
-    onFilter: (value: string, record: TableDataType): boolean =>
-      record.year.toString().toLowerCase().includes(value.toLowerCase()),
-    onFilterDropdownVisibleChange: (visible: boolean): void => {
-      if (visible) {
-        setTimeout(() => {
-          searchInput.value.focus();
-        }, 100);
-      }
-    },
-    sorter: {
-      compare: (a: TableDataType, b: TableDataType): number => a.year - b.year,
-      multiple: 3,
     },
   },
   {
