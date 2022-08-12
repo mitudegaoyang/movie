@@ -154,6 +154,7 @@ import { useStore } from "vuex";
 import { SearchOutlined } from "@ant-design/icons-vue";
 import zhCN from "ant-design-vue/es/locale/zh_CN";
 import { searchInput, TFDATA } from "./config/tfConfig";
+import axios from "axios";
 
 import data from "@/mock/movie";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
@@ -167,6 +168,10 @@ export default defineComponent({
   setup() {
     // const router = useRouter();
     const store = useStore();
+
+    axios.get("/data/7k.json").then((res) => {
+      console.log(res);
+    });
 
     const state = reactive({
       searchText: "",
