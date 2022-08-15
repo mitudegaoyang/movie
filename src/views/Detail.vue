@@ -96,8 +96,26 @@
 import { defineComponent, reactive } from "vue";
 import { useRouter } from "vue-router";
 import { useStore } from "vuex";
+import axios from "axios";
 // import { getMovieDetails } from "@/api/detail";
-import datas from "../mock/movie";
+// import datas from "../mock/movie";
+
+const movieList = [
+  "new/1k",
+  "new/2k",
+  "new/3k",
+  "new/4k",
+  "new/5k",
+  "new/6k",
+  "new/7k",
+  "other/1k",
+  "other/2k",
+  "other/3k",
+  "other/4k",
+  "other/5k",
+  "other/6k",
+  "other/7k",
+];
 
 export default defineComponent({
   name: "Detail",
@@ -106,8 +124,48 @@ export default defineComponent({
     const router = useRouter();
     const store = useStore();
     const id = router.currentRoute.value.params.id;
-    const data = datas;
-    let detail = data.find((n: any) => n.id === id);
+    const str = localStorage.getItem(id.toString()) || "";
+    let detail: any = reactive({});
+    const getList = () => {
+      movieList.map((movieItem: any) => {
+        axios.get(`/data/${movieItem}.json`).then((res) => {
+          let { data } = res;
+          data.map((item: any) => {
+            if (item.id === id) {
+              detail.img = item.img;
+              detail.date = item.date;
+              detail.translation = item.translation;
+              detail.name = item.name;
+              detail.year = item.year;
+              detail.areas = item.areas;
+              detail.category = item.category;
+              detail.language = item.language;
+              detail.caption = item.caption;
+              detail.release = item.release;
+              detail.imdb = item.imdb;
+              detail.douban = item.douban;
+              detail.time = item.time;
+              detail.director = item.director;
+              detail.writers = item.writers;
+              detail.actor = item.actor;
+              detail.starring = item.starring;
+              detail.tag = item.tag;
+              detail.introduction = item.introduction;
+              localStorage.setItem(id.toString(), JSON.stringify(detail));
+              return;
+            }
+          });
+        });
+      });
+      // detail = dataSource.find((n: any) => n.id === id);
+    };
+
+    const data = [{}];
+    if (str) {
+      detail = JSON.parse(str);
+    } else {
+      getList();
+    }
     store.commit("SET_DATA", detail);
 
     const dict = reactive({
@@ -140,7 +198,6 @@ export default defineComponent({
     // };
 
     return {
-      data,
       detail,
       dict,
     };

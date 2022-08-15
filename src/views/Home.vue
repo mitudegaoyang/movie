@@ -7,7 +7,7 @@
       <a-config-provider :locale="zhCN">
         <a-table
           :columns="columns"
-          :data-source="data"
+          :data-source="dataSource"
           :scroll="{ x: 1300 }"
           :pagination="pagination"
           row-key="id"
@@ -156,8 +156,25 @@ import zhCN from "ant-design-vue/es/locale/zh_CN";
 import { searchInput, TFDATA } from "./config/tfConfig";
 import axios from "axios";
 
-import data from "@/mock/movie";
+// import data from "@/mock/movie";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
+
+const movieList = [
+  "new/1k",
+  "new/2k",
+  "new/3k",
+  "new/4k",
+  "new/5k",
+  "new/6k",
+  "new/7k",
+  "other/1k",
+  "other/2k",
+  "other/3k",
+  "other/4k",
+  "other/5k",
+  "other/6k",
+  "other/7k",
+];
 
 export default defineComponent({
   name: "Home",
@@ -168,10 +185,7 @@ export default defineComponent({
   setup() {
     // const router = useRouter();
     const store = useStore();
-
-    axios.get("/data/7k.json").then((res) => {
-      console.log(res);
-    });
+    let dataSource: any = reactive([]);
 
     const state = reactive({
       searchText: "",
@@ -209,8 +223,20 @@ export default defineComponent({
 
     const goDetail = (record: any) => {
       store.commit("SET_DATA", record);
+      localStorage.setItem(record.id, JSON.stringify(record));
       window.open("/detail/" + record.id);
       // router.push({ name: "Detail", params: record });
+    };
+
+    const getList = () => {
+      movieList.map((movieItem: any) => {
+        axios.get(`/data/${movieItem}.json`).then((res) => {
+          let { data } = res;
+          data.map((item: any) => {
+            dataSource.push(item);
+          });
+        });
+      });
     };
 
     const collect = (id: string) => {
@@ -247,7 +273,7 @@ export default defineComponent({
 
     return {
       zhCN,
-      data,
+      dataSource,
       columns,
       pagination,
       handleSearch,
@@ -256,8 +282,12 @@ export default defineComponent({
       goDetail,
       formatTagName,
       collect,
+      getList,
       ...toRefs(state),
     };
+  },
+  created() {
+    this.getList();
   },
 });
 </script>
