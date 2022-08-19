@@ -7,7 +7,7 @@
       <a-config-provider :locale="zhCN">
         <a-table
           :columns="columns"
-          :data-source="dataSource"
+          :data-source="data.dataSource"
           :scroll="{ x: 1300 }"
           :pagination="pagination"
           row-key="id"
@@ -151,10 +151,12 @@
 import { defineComponent, reactive, toRefs } from "vue";
 // import { useRouter } from "vue-router";
 import { useStore } from "vuex";
+import { message } from "ant-design-vue";
 import { SearchOutlined } from "@ant-design/icons-vue";
 import zhCN from "ant-design-vue/es/locale/zh_CN";
 import { searchInput, TFDATA } from "./config/tfConfig";
 import axios from "axios";
+import _ from "lodash";
 
 // import data from "@/mock/movie";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
@@ -185,7 +187,10 @@ export default defineComponent({
   setup() {
     // const router = useRouter();
     const store = useStore();
-    let dataSource: any = reactive([]);
+    let data: any = reactive({
+      dataSource: [],
+    });
+    let dataSourceAll: any = reactive([]);
 
     const state = reactive({
       searchText: "",
@@ -229,12 +234,18 @@ export default defineComponent({
     };
 
     const getList = () => {
+      let num = 0;
       movieList.map((movieItem: any) => {
         axios.get(`/data/${movieItem}.json`).then((res) => {
-          let { data } = res;
-          data.map((item: any) => {
-            dataSource.push(item);
+          let { data: datas } = res;
+          datas.map((item: any) => {
+            data.dataSource.push(item);
           });
+          num++;
+          if (num === movieList.length) {
+            data.dataSource = _.orderBy(data.dataSource, ["id"], ["desc"]);
+            message.success("请求完毕");
+          }
         });
       });
     };
@@ -273,7 +284,7 @@ export default defineComponent({
 
     return {
       zhCN,
-      dataSource,
+      data,
       columns,
       pagination,
       handleSearch,
