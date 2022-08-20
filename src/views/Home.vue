@@ -162,20 +162,20 @@ import _ from "lodash";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
 
 const movieList = [
-  "new/1k",
-  "new/2k",
-  "new/3k",
-  "new/4k",
-  "new/5k",
-  "new/6k",
   "new/7k",
-  "other/1k",
-  "other/2k",
-  "other/3k",
-  "other/4k",
-  "other/5k",
-  "other/6k",
   "other/7k",
+  "new/6k",
+  "other/6k",
+  "new/5k",
+  "other/5k",
+  "new/4k",
+  "other/4k",
+  "new/3k",
+  "other/3k",
+  "new/2k",
+  "other/2k",
+  "new/1k",
+  "other/1k",
 ];
 
 export default defineComponent({
