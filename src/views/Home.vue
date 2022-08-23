@@ -300,7 +300,8 @@ export default defineComponent({
       margin: 0 auto;
       width: 550px;
       height: 129px;
-      background: url(../assets/banner.png) no-repeat center center;
+      background: url(https://s1.ax1x.com/2022/08/23/vc1llD.png) no-repeat
+        center center;
     }
   }
   .table {
