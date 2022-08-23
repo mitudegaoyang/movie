@@ -14,23 +14,23 @@
 // import other1k from "./other/1k.json";
 // import top from "./top/1-517.json";
 // import format from "./format-movie.json";
-// const MOVIELIST = [
-//   ...new7k,
-//   ...new6k,
-//   ...new5k,
-//   ...new4k,
-//   ...new3k,
-//   ...new2k,
-//   ...new1k,
-//   ...other7k,
-//   ...other6k,
-//   ...other5k,
-//   ...other4k,
-//   ...other3k,
-//   ...other2k,
-//   ...other1k,
-// ];
-// export default MOVIELIST;
+const MOVIELIST = [
+  "new/7k",
+  "other/7k",
+  "new/6k",
+  "other/6k",
+  "new/5k",
+  "other/5k",
+  "new/4k",
+  "other/4k",
+  "new/3k",
+  "other/3k",
+  "new/2k",
+  "other/2k",
+  "new/1k",
+  "other/1k",
+];
+export default MOVIELIST;
 
 /**
  * 补充数据

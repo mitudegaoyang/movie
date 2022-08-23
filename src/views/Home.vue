@@ -157,26 +157,8 @@ import zhCN from "ant-design-vue/es/locale/zh_CN";
 import { searchInput, TFDATA } from "./config/tfConfig";
 import axios from "axios";
 import _ from "lodash";
-
-// import data from "@/mock/movie";
+import movieList from "@/mock/movie";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
-
-const movieList = [
-  "new/7k",
-  "other/7k",
-  "new/6k",
-  "other/6k",
-  "new/5k",
-  "other/5k",
-  "new/4k",
-  "other/4k",
-  "new/3k",
-  "other/3k",
-  "new/2k",
-  "other/2k",
-  "new/1k",
-  "other/1k",
-];
 
 export default defineComponent({
   name: "Home",

@@ -98,24 +98,7 @@ import { useRouter } from "vue-router";
 import { useStore } from "vuex";
 import axios from "axios";
 // import { getMovieDetails } from "@/api/detail";
-// import datas from "../mock/movie";
-
-const movieList = [
-  "new/1k",
-  "new/2k",
-  "new/3k",
-  "new/4k",
-  "new/5k",
-  "new/6k",
-  "new/7k",
-  "other/1k",
-  "other/2k",
-  "other/3k",
-  "other/4k",
-  "other/5k",
-  "other/6k",
-  "other/7k",
-];
+import movieList from "@/mock/movie";
 
 export default defineComponent({
   name: "Detail",
@@ -132,6 +115,12 @@ export default defineComponent({
           let { data } = res;
           data.map((item: any) => {
             if (item.id === id) {
+              detail.id = item.id;
+              detail.title = item.title;
+              detail.url = item.url;
+              detail.desc = item.desc;
+              detail.summary = item.summary;
+              detail.link = item.link;
               detail.img = item.img;
               detail.date = item.date;
               detail.translation = item.translation;
@@ -143,7 +132,9 @@ export default defineComponent({
               detail.caption = item.caption;
               detail.release = item.release;
               detail.imdb = item.imdb;
+              detail.imdb_user = item.imdb_user;
               detail.douban = item.douban;
+              detail.douban_user = item.douban_user;
               detail.time = item.time;
               detail.director = item.director;
               detail.writers = item.writers;
