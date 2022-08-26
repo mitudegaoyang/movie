@@ -14,22 +14,15 @@
 // import other1k from "./other/1k.json";
 // import top from "./top/1-517.json";
 // import format from "./format-movie.json";
-const MOVIELIST = [
-  "new/7k",
-  "other/7k",
-  "new/6k",
-  "other/6k",
-  "new/5k",
-  "other/5k",
-  "new/4k",
-  "other/4k",
-  "new/3k",
-  "other/3k",
-  "new/2k",
-  "other/2k",
-  "new/1k",
-  "other/1k",
-];
+const MOVIELIST: any = [];
+const news = 63;
+for (let i = 0; i < news; i++) {
+  MOVIELIST.unshift(`new/${i + 1}`);
+}
+const other = 63;
+for (let i = 0; i < other; i++) {
+  MOVIELIST.unshift(`other/${i + 1}`);
+}
 export default MOVIELIST;
 
 /**

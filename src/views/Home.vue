@@ -172,7 +172,7 @@ export default defineComponent({
     let data: any = reactive({
       dataSource: [],
     });
-    let dataSourceAll: any = reactive([]);
+    // let dataSourceAll: any = reactive([]);
 
     const state = reactive({
       searchText: "",
