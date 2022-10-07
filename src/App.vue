@@ -15,8 +15,22 @@ export default defineComponent({
   setup() {
     const router = useRouter();
     const path = router.currentRoute.value.path;
-    console.log(path);
-    return { path };
+
+    const isMobile = () => {
+      let flag = navigator.userAgent.match(
+        /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i
+      );
+      return flag;
+    };
+
+    return { path, isMobile };
+  },
+  created() {
+    if (this.isMobile() && location.pathname === "/") {
+      this.$router.replace("/mobile");
+    } else if (!this.isMobile() && location.pathname === "/mobile") {
+      this.$router.replace("/");
+    }
   },
 });
 </script>
