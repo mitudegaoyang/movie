@@ -228,6 +228,7 @@ export default defineComponent({
         color: #333333;
         line-height: 22px;
         margin-bottom: 10px;
+        word-wrap: break-word;
       }
       .info-item.title {
         font-size: 26px;
