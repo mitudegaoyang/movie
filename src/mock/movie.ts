@@ -3,7 +3,7 @@ const other = 16;
 for (let i = 0; i < other; i++) {
   MOVIELIST.unshift(`other/${i + 1}`);
 }
-const news = 16;
+const news = 15;
 for (let i = 0; i < news; i++) {
   MOVIELIST.unshift(`new/${i + 1}`);
 }
