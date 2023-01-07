@@ -47,11 +47,28 @@
           {{ dict.release }} {{ detail.release }}
         </p>
         <p v-show="detail.imdb" class="info-item imdb">
-          {{ dict.imdb }} {{ detail.imdb }}/10 from {{ detail.imdb_user }} users
+          {{ dict.imdb }}
+          <a
+            v-if="detail.imdb_id"
+            href="javascript:;"
+            @click="goInfo(detail, 'imdb')"
+          >
+            {{ detail.imdb }}
+          </a>
+          <span v-else>{{ detail.imdb }}</span>
+          /10 from {{ detail.imdb_user }} users
         </p>
         <p v-show="detail.douban" class="info-item douban">
-          {{ dict.douban }} {{ detail.douban }}/10 from
-          {{ detail.douban_user }} users
+          {{ dict.douban }}
+          <a
+            v-if="detail.douban_id"
+            href="javascript:;"
+            @click="goInfo(detail, 'douban')"
+          >
+            {{ detail.douban }}
+          </a>
+          <span v-else>{{ detail.douban }}</span>
+          /10 from {{ detail.douban_user }} users
         </p>
         <p v-show="detail.time" class="info-item time">
           {{ dict.time }} {{ detail.time }}分钟
@@ -180,6 +197,14 @@ export default defineComponent({
       introduction: "简介",
     });
 
+    const goInfo = (record: any, type: string) => {
+      if (type === "imdb") {
+        window.open("https://www.imdb.com/title/" + record.imdb_id);
+      } else {
+        window.open("https://movie.douban.com/subject/" + record.douban_id);
+      }
+    };
+
     // const getDetail = async () => {
     //   const { data } = await getMovieDetails(id);
 
@@ -191,6 +216,7 @@ export default defineComponent({
     return {
       detail,
       dict,
+      goInfo,
     };
   },
 });

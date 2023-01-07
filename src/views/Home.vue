@@ -64,23 +64,7 @@
           </template>
           <template #bodyCell="{ text, column, record }">
             <span v-if="searchText && searchedColumn === column.dataIndex">
-              <template v-if="column.key !== 'title'">
-                <!-- {{ text.toString().split(searchText)[0] }}
-                  <mark class="highlight">
-                    {{ searchText }}
-                  </mark>
-                  {{ text.toString().split(searchText)[1] }} -->
-                <span
-                  v-for="(fragment, i) in formatTagName(text, searchText)"
-                  :key="i"
-                >
-                  <span v-if="searchText === fragment" class="highlight">
-                    {{ fragment }}
-                  </span>
-                  <template v-else>{{ fragment }}</template>
-                </span>
-              </template>
-              <template v-else>
+              <template v-if="column.key === 'title'">
                 <a href="javascript:;" @click="goDetail(record)">
                   <!-- {{ text.toString().split(searchText)[0] }}
               <mark class="highlight">
@@ -98,6 +82,40 @@
                   </span>
                 </a>
               </template>
+              <template
+                v-else-if="
+                  (column.key === 'imdb' || column.key === 'douban') &&
+                  record[column.key + '_id']
+                "
+              >
+                <a href="javascript:;" @click="goInfo(record, column.key)">
+                  <span
+                    v-for="(fragment, i) in formatTagName(text, searchText)"
+                    :key="i"
+                  >
+                    <span v-if="searchText === fragment" class="highlight">
+                      {{ fragment }}
+                    </span>
+                    <template v-else>{{ fragment }}</template>
+                  </span>
+                </a>
+              </template>
+              <template v-else>
+                <!-- {{ text.toString().split(searchText)[0] }}
+                  <mark class="highlight">
+                    {{ searchText }}
+                  </mark>
+                  {{ text.toString().split(searchText)[1] }} -->
+                <span
+                  v-for="(fragment, i) in formatTagName(text, searchText)"
+                  :key="i"
+                >
+                  <span v-if="searchText === fragment" class="highlight">
+                    {{ fragment }}
+                  </span>
+                  <template v-else>{{ fragment }}</template>
+                </span>
+              </template>
             </span>
             <template v-else-if="column.key === 'title'">
               <a href="javascript:;" @click="goDetail(record)">
@@ -113,6 +131,18 @@
                   fallback="https://s4.ax1x.com/2022/02/17/H5W5QO.png"
                 />
               </div>
+            </template>
+            <template
+              v-else-if="column.key === 'imdb' || column.key === 'douban'"
+            >
+              <a
+                v-if="record[column.key + '_id']"
+                href="javascript:;"
+                @click="goInfo(record, column.key)"
+              >
+                {{ text ? text : "-" }}
+              </a>
+              <span v-else>{{ text ? text : "-" }}</span>
             </template>
             <template v-else-if="column.key !== 'action'">
               <span>
@@ -215,6 +245,14 @@ export default defineComponent({
       // router.push({ name: "Detail", params: record });
     };
 
+    const goInfo = (record: any, type: string) => {
+      if (type === "imdb") {
+        window.open("https://www.imdb.com/title/" + record.imdb_id);
+      } else {
+        window.open("https://movie.douban.com/subject/" + record.douban_id);
+      }
+    };
+
     const getList = () => {
       let num = 0;
       movieList.map((movieItem: any) => {
@@ -273,6 +311,7 @@ export default defineComponent({
       handleReset,
       searchInput,
       goDetail,
+      goInfo,
       formatTagName,
       collect,
       getList,
