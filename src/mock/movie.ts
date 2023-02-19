@@ -1,5 +1,5 @@
 const MOVIELIST: any = [];
-const other = 16;
+const other = 15;
 for (let i = 0; i < other; i++) {
   MOVIELIST.unshift(`other/${i + 1}`);
 }
