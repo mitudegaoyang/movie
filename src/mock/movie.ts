@@ -1,12 +1,13 @@
 const MOVIELIST: any = [];
 const other = 15;
 for (let i = 0; i < other; i++) {
-  MOVIELIST.unshift(`other/${i + 1}`);
+  MOVIELIST.push(`other/${i + 1}`);
 }
 const news = 14;
 for (let i = 0; i < news; i++) {
-  MOVIELIST.unshift(`new/${i + 1}`);
+  MOVIELIST.push(`new/${i + 1}`);
 }
+MOVIELIST.reverse();
 export default MOVIELIST;
 
 /**
