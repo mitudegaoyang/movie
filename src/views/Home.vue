@@ -8,7 +8,7 @@
         <a-table
           :columns="columns"
           :data-source="data.dataSource"
-          :scroll="{ x: 1300 }"
+          :scroll="{ x: 1300, y: 700 }"
           :pagination="pagination"
           row-key="id"
         >
