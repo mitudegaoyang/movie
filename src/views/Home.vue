@@ -35,15 +35,13 @@
                 @change="
                   (e) => setSelectedKeys(e.target.value ? [e.target.value] : [])
                 "
-                @pressEnter="
-                  handleSearch(selectedKeys, confirm, column.dataIndex)
-                "
+                @pressEnter="handleSearch(column, selectedKeys, confirm)"
               />
               <a-button
                 type="primary"
                 size="small"
                 style="width: 90px; margin-right: 8px"
-                @click="handleSearch(selectedKeys, confirm, column.dataIndex)"
+                @click="handleSearch(column, selectedKeys, confirm)"
               >
                 <template #icon><SearchOutlined /></template>
                 搜索
@@ -51,7 +49,7 @@
               <a-button
                 size="small"
                 style="width: 90px"
-                @click="handleReset(clearFilters)"
+                @click="handleReset(column, clearFilters)"
               >
                 重置
               </a-button>
@@ -63,19 +61,25 @@
             />
           </template>
           <template #bodyCell="{ text, column, record }">
-            <span v-if="searchText && searchedColumn === column.dataIndex">
+            <span v-if="column.searchText">
               <template v-if="column.key === 'title'">
                 <a href="javascript:;" @click="goDetail(record)">
                   <!-- {{ text.toString().split(searchText)[0] }}
-              <mark class="highlight">
-                {{ searchText }}
-              </mark>
-              {{ text.toString().split(searchText)[1] }} -->
+                    <mark class="highlight">
+                      {{ searchText }}
+                    </mark>
+                    {{ text.toString().split(searchText)[1] }} -->
                   <span
-                    v-for="(fragment, i) in formatTagName(text, searchText)"
+                    v-for="(fragment, i) in formatTagName(
+                      text,
+                      column.searchText
+                    )"
                     :key="i"
                   >
-                    <span v-if="searchText === fragment" class="highlight">
+                    <span
+                      v-if="column.searchText === fragment"
+                      class="highlight"
+                    >
                       {{ fragment }}
                     </span>
                     <template v-else>{{ fragment }}</template>
@@ -90,10 +94,16 @@
               >
                 <a href="javascript:;" @click="goInfo(record, column.key)">
                   <span
-                    v-for="(fragment, i) in formatTagName(text, searchText)"
+                    v-for="(fragment, i) in formatTagName(
+                      text,
+                      column.searchText
+                    )"
                     :key="i"
                   >
-                    <span v-if="searchText === fragment" class="highlight">
+                    <span
+                      v-if="column.searchText === fragment"
+                      class="highlight"
+                    >
                       {{ fragment }}
                     </span>
                     <template v-else>{{ fragment }}</template>
@@ -107,10 +117,13 @@
                   </mark>
                   {{ text.toString().split(searchText)[1] }} -->
                 <span
-                  v-for="(fragment, i) in formatTagName(text, searchText)"
+                  v-for="(fragment, i) in formatTagName(
+                    text,
+                    column.searchText
+                  )"
                   :key="i"
                 >
-                  <span v-if="searchText === fragment" class="highlight">
+                  <span v-if="column.searchText === fragment" class="highlight">
                     {{ fragment }}
                   </span>
                   <template v-else>{{ fragment }}</template>
@@ -205,8 +218,6 @@ export default defineComponent({
     // let dataSourceAll: any = reactive([]);
 
     const state = reactive({
-      searchText: "",
-      searchedColumn: "",
       collectHistory:
         localStorage.getItem("collectHistory")?.trim().split(",") || [],
     });
@@ -223,19 +234,14 @@ export default defineComponent({
       position: ["bottomCenter"],
     };
 
-    const handleSearch = (
-      selectedKeys: string,
-      confirm: any,
-      dataIndex: string
-    ) => {
+    const handleSearch = (column: any, selectedKeys: string, confirm: any) => {
       confirm();
-      state.searchText = selectedKeys[0];
-      state.searchedColumn = dataIndex;
+      column.searchText = selectedKeys[0];
     };
 
-    const handleReset = (clearFilters: any) => {
+    const handleReset = (column: any, clearFilters: any) => {
       clearFilters();
-      state.searchText = "";
+      column.searchText = "";
     };
 
     const goDetail = (record: any) => {
