@@ -42,6 +42,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 功能
 
+- [ ] 导出/导入收藏数据
 - [ ] 数据统计
 - [ ] 添加数据更新日期字段
 - [ ] 数据更新脚本
