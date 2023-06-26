@@ -1,4 +1,8 @@
 const MOVIELIST: any = [];
+const top = 1;
+for (let i = 0; i < top; i++) {
+  MOVIELIST.push(`top/${i + 1}`);
+}
 const other = 15;
 for (let i = 0; i < other; i++) {
   MOVIELIST.push(`other/${i + 1}`);
