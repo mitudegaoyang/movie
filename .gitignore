@@ -1,7 +1,9 @@
 .DS_Store
 node_modules
 /dist
-/public
+/public/data/new/
+/public/data/other/
+/public/data/top/
 
 /tests/e2e/videos/
 /tests/e2e/screenshots/
