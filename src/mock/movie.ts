@@ -1,16 +1,16 @@
-import newData from "../data/source/all-new.json";
-import otherData from "../data/source/all-other.json";
-import topData from "../data/source/all-top.json";
+import newData from "../data/source/new-info.json";
+import otherData from "../data/source/other-info.json";
+import topData from "../data/source/top-info.json";
 const MOVIELIST: any = [];
-const top = Math.ceil(topData.length / 400);
+const top = topData.fileLength;
 for (let i = 0; i < top; i++) {
   MOVIELIST.push(`top/${i + 1}`);
 }
-const other = Math.ceil(otherData.length / 400);
+const other = otherData.fileLength;
 for (let i = 0; i < other; i++) {
   MOVIELIST.push(`other/${i + 1}`);
 }
-const news = Math.ceil(newData.length / 400);
+const news = newData.fileLength;
 for (let i = 0; i < news; i++) {
   MOVIELIST.push(`new/${i + 1}`);
 }
