@@ -2,7 +2,12 @@
   <div class="nav">
     <router-link to="/mobile">首页</router-link>
   </div>
-  <div v-wechat-title="detail.title + '-电影小站'" class="detail">
+  <div
+    v-wechat-title="
+      `${detail.year}-${detail.title}-${detail.category}-电影小站`
+    "
+    class="detail"
+  >
     <div class="info-container">
       <div class="mainpic">
         <a-image
@@ -93,10 +98,10 @@
 </template>
 
 <script lang="ts">
+import axios from "axios";
 import { defineComponent, reactive } from "vue";
 import { useRouter } from "vue-router";
 import { useStore } from "vuex";
-import axios from "axios";
 // import { getMovieDetails } from "@/api/detail";
 import movieList from "@/mock/movie";
 

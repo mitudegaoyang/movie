@@ -1,6 +1,16 @@
 /* eslint-disable */
-declare module "*.vue" {
+// declare module "*.vue" {
+//   import type { DefineComponent } from "vue";
+//   const component: DefineComponent<{}, {}, any>;
+//   export default component;
+// }
+
+export {};
+
+declare module "vue" {
   import type { DefineComponent } from "vue";
-  const component: DefineComponent<{}, {}, any>;
-  export default component;
+  interface ComponentCustomProperties {
+    component: DefineComponent<{}, {}, any>;
+    $dayjs: typeof dayjs;
+  }
 }

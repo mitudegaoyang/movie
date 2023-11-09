@@ -43,7 +43,7 @@ const TFDATA = [
     dataIndex: "title",
     key: "title",
     fixed: "left",
-    width: 400,
+    width: 250,
     customFilterDropdown: true,
     onFilter: (value: string, record: TableDataType): boolean => {
       return record.title
@@ -249,4 +249,4 @@ const TFDATA = [
   },
 ];
 
-export { searchInput, TFDATA };
+export { TFDATA, searchInput };
