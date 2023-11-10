@@ -61,7 +61,17 @@ const TFDATA = [
     title: "操作",
     key: "action",
     width: 120,
+    filters: [
+      { text: "已收藏", value: true },
+      { text: "未收藏", value: false },
+    ],
+    filterMultiple: false,
+    onFilter: (value: boolean, record: TableDataType) => {
+      const collectHistory =
+        localStorage.getItem("collectHistory")?.trim().split(",") || [];
+      return value === collectHistory.includes(record.id.toString());
+    },
   },
 ];
 
-export { searchInput, TFDATA };
+export { TFDATA, searchInput };

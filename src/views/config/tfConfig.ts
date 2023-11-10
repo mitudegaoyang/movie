@@ -220,6 +220,7 @@ const TFDATA = [
     key: "language",
     width: 150,
     customFilterDropdown: true,
+    customFilterCheckbox: true,
     onFilter: (value: string, record: TableDataType): boolean =>
       record.language.toString().toLowerCase().includes(value.toLowerCase()),
     onFilterDropdownVisibleChange: (visible: boolean): void => {
@@ -246,6 +247,16 @@ const TFDATA = [
     key: "action",
     fixed: "right",
     width: 120,
+    filters: [
+      { text: "已收藏", value: true },
+      { text: "未收藏", value: false },
+    ],
+    filterMultiple: false,
+    onFilter: (value: boolean, record: TableDataType) => {
+      const collectHistory =
+        localStorage.getItem("collectHistory")?.trim().split(",") || [];
+      return value === collectHistory.includes(record.id.toString());
+    },
   },
 ];
 

@@ -32,7 +32,7 @@
                 :value="selectedKeys[0]"
                 style="width: 188px; margin-bottom: 8px; display: block"
                 @change="
-                  (e) => setSelectedKeys(e.target.value ? [e.target.value] : [])
+                  (e:any) => setSelectedKeys(e.target.value ? [e.target.value] : [])
                 "
                 @pressEnter="
                   handleSearch(selectedKeys, confirm, column.dataIndex)
@@ -134,7 +134,7 @@
                   :class="[
                     'iconfont',
                     'movie-icon-collect',
-                    { collect: this.collectHistory.indexOf(record.id) > -1 },
+                    { collect: collectHistory.indexOf(record.id) > -1 },
                   ]"
                 ></span>
               </a>
@@ -149,14 +149,14 @@
 <script lang="ts">
 import { defineComponent, reactive, toRefs } from "vue";
 // import { useRouter } from "vue-router";
-import { useStore } from "vuex";
-import { message } from "ant-design-vue";
+import movieList from "@/mock/movie";
 import { SearchOutlined } from "@ant-design/icons-vue";
+import { message } from "ant-design-vue";
 import zhCN from "ant-design-vue/es/locale/zh_CN";
-import { searchInput, TFDATA } from "./config/mtfConfig";
 import axios from "axios";
 import _ from "lodash";
-import movieList from "@/mock/movie";
+import { useStore } from "vuex";
+import { searchInput, TFDATA } from "./config/mtfConfig";
 // import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
 
 export default defineComponent({
