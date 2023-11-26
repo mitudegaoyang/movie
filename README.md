@@ -50,6 +50,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [ ] 主题切换
 - [ ] 补充图片动态添加
 - [ ] 列表豆瓣 Imdb 人数格式化处理
+- [x] 添加收藏过滤
 - [x] 添加标记功能
 - [x] 图片懒加载
 - [x] 详情 title 动态变更
