@@ -199,6 +199,23 @@ const TFDATA = [
     },
   },
   {
+    title: "导演",
+    dataIndex: "director",
+    key: "director",
+    width: 200,
+    ellipsis: true,
+    customFilterDropdown: true,
+    onFilter: (value: string, record: TableDataType): boolean =>
+      record.director.toString().toLowerCase().includes(value.toLowerCase()),
+    onFilterDropdownVisibleChange: (visible: boolean): void => {
+      if (visible) {
+        setTimeout(() => {
+          searchInput.value.focus();
+        }, 100);
+      }
+    },
+  },
+  {
     title: "产地",
     dataIndex: "areas",
     key: "areas",
@@ -219,8 +236,8 @@ const TFDATA = [
     dataIndex: "language",
     key: "language",
     width: 150,
+    ellipsis: true,
     customFilterDropdown: true,
-    customFilterCheckbox: true,
     onFilter: (value: string, record: TableDataType): boolean =>
       record.language.toString().toLowerCase().includes(value.toLowerCase()),
     onFilterDropdownVisibleChange: (visible: boolean): void => {
