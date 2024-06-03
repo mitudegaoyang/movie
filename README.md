@@ -1,5 +1,9 @@
 # 电影小站
 
+## 环境要求
+
+> node v14
+
 ## Project setup
 
 ```shell
