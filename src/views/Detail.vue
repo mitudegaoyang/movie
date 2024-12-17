@@ -173,7 +173,7 @@ export default defineComponent({
       // detail = dataSource.find((n: any) => n.id === id);
     };
 
-    const data = [{}];
+    // const data = [{}];
     if (str) {
       detail = JSON.parse(str);
     } else {
